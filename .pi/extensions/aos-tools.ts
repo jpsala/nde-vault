@@ -69,10 +69,22 @@ function readRepoFile(cwd: string, path: string): string | undefined {
   return readFileSync(full, "utf8");
 }
 
+function normalizeHeading(text: string): string {
+  return text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+}
+
 function section(content: string | undefined, heading: string, maxChars = 1800): string {
   if (!content) return "";
+  const expected = normalizeHeading(heading);
   const lines = content.split(/\r?\n/);
-  const start = lines.findIndex((line) => line.trim() === `## ${heading}`);
+  const start = lines.findIndex((line) => {
+    const match = line.match(/^##\s+(.+?)\s*$/);
+    return match ? normalizeHeading(match[1]) === expected : false;
+  });
   if (start < 0) return "";
   let end = lines.length;
   for (let i = start + 1; i < lines.length; i += 1) {
@@ -83,6 +95,14 @@ function section(content: string | undefined, heading: string, maxChars = 1800):
   }
   const text = lines.slice(start, end).join("\n").trim();
   return text.length > maxChars ? `${text.slice(0, maxChars)}\n...` : text;
+}
+
+function sectionAny(content: string | undefined, headings: string[], maxChars = 1800): string {
+  for (const heading of headings) {
+    const found = section(content, heading, maxChars);
+    if (found) return found;
+  }
+  return "";
 }
 
 function formatUsage(usage: ContextUsage | undefined): string {
@@ -106,13 +126,17 @@ async function gitSummary(pi: ExtensionAPI): Promise<{ branch: string; dirty: st
 
 function buildDocsSnapshot(cwd: string): string {
   const wm = readRepoFile(cwd, "docs/WORKING_MEMORY.md");
-  const topic = readRepoFile(cwd, "docs/topics/docs-knowledge-system.md");
-  const next = section(wm, "Proximo Paso Probable", 1200);
-  const decisions = section(wm, "Decisiones Recientes", 1400) || section(wm, "Decisiones Vigentes", 1400);
-  const commands = section(wm, "Comandos De Contexto", 1000);
-  const guardarSesion = section(topic, "Guardar Sesion", 1200) || section(topic, "Guardado, Gol Y Sesiones", 1200);
+  const topic = readRepoFile(cwd, "docs/topics/docs-knowledge-system.md")
+    || readRepoFile(cwd, "docs/topics/agentic-os-local.md")
+    || readRepoFile(cwd, "docs/OS_PLAYBOOK.md");
+  const current = sectionAny(wm, ["Estado Actual", "Estado actual"], 1200);
+  const next = sectionAny(wm, ["Proximo Paso Probable", "Próximo paso probable", "Proximo Paso", "Próximo paso"], 1200);
+  const decisions = sectionAny(wm, ["Decisiones Recientes", "Decisiones Vigentes"], 1400);
+  const risks = sectionAny(wm, ["Riesgos", "Riesgos Que No Hay Que Olvidar"], 1000);
+  const commands = sectionAny(wm, ["Comandos De Contexto", "Comandos de contexto"], 1000);
+  const guardarSesion = sectionAny(topic, ["Guardar Sesion", "Guardar sesión", "Guardado, Gol Y Sesiones", "Comandos Pi Locales"], 1200);
 
-  return [next, decisions, commands, guardarSesion].filter(Boolean).join("\n\n");
+  return [current, next, decisions, risks, commands, guardarSesion].filter(Boolean).join("\n\n");
 }
 
 function hasPackageScript(cwd: string, scriptName: string): boolean {
