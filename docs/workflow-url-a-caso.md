@@ -119,19 +119,24 @@ El agente debe revisar `vault/02-conceptos/` y decidir si cada fragmento:
 
 Si aparece un concepto nuevo importante, **no crear la nota conceptual definitiva sin aprobación explícita del usuario**. En su lugar, registrar una propuesta en el caso y/o en `vault/05-preguntas/` con evidencia y motivo.
 
-### 6. Crear documento de revisión de conceptos
+### 6. Crear o actualizar track conceptual conversacional
 
-Antes de crear conceptos definitivos, generar un documento en `vault/05-preguntas/` con:
+Antes de crear conceptos definitivos, crear o actualizar un track retomable en `docs/tracks/`.
 
-- conceptos existentes/semilla a los que el caso podría referenciar;
+El track no es transcript ni formulario. Debe guardar estado durable y conversacional:
+
+- caso/fuente activa;
+- qué transcripciones y archivos ya existen;
+- conceptos existentes/semilla que el caso podría iluminar;
 - conceptos nuevos propuestos;
-- por qué surge cada concepto;
-- evidencia con timestamps de YouTube;
-- links internos a la transcripción en el punto relevante;
-- checkboxes de decisión;
-- espacio para comentarios del usuario.
+- evidencia clave con timestamps y links a `transcript_readable.md`;
+- preguntas conceptuales abiertas;
+- decisiones ya tomadas en conversación;
+- próximos pasos para retomar en otra sesión.
 
-El usuario debe poder revisar ese documento en Obsidian y decidir qué conceptos aprobar, fusionar, observar o descartar.
+La discusión conceptual ocurre por chat. El agente va actualizando el track cuando aparecen decisiones, dudas importantes o cambios de dirección.
+
+Los documentos con checkboxes en `vault/05-preguntas/` pueden existir como artefactos experimentales o auxiliares, pero el flujo principal es conversacional y se retoma desde `docs/tracks/`.
 
 ### 7. Actualizar notas de concepto
 

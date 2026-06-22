@@ -42,10 +42,10 @@ Caso 0001 — 00:07:10 — cuerpo como vehículo
 
 Una hipótesis conceptual detectada en uno o varios fragmentos.
 
-Vive primero en:
+Vive primero en un track conversacional:
 
 ```txt
-vault/05-preguntas/revision-conceptos-caso-XXXX.md
+docs/tracks/conceptos-caso-XXXX-<slug>.md
 ```
 
 ### 3. Concepto aprobado
@@ -60,20 +60,26 @@ vault/02-conceptos/
 
 > Ningún concepto nuevo entra al paradigma definitivo sin revisión humana.
 
+## Conocimiento experto del usuario
+
+El conocimiento acumulado del usuario sobre muchas NDEs/ECMs puede guiar nombres, jerarquías y expectativas de patrones. No debe registrarse como evidencia dentro de una nota conceptual salvo que esté respaldado por casos concretos del vault con citas y timestamps.
+
 ## Tipos de documentos
 
-### Documento de revisión por caso
+### Track conceptual por caso
 
-Uno por video/caso.
+Uno por video/caso cuando el caso requiere conversación conceptual.
 
-Contiene:
+Contiene estado resumido y retomable, no transcript:
 
 - conceptos existentes que podrían recibir evidencia;
 - conceptos nuevos sugeridos;
-- evidencia;
-- timestamps;
-- checkboxes;
-- comentarios del usuario.
+- evidencia clave con timestamps;
+- preguntas y tensiones;
+- decisiones conversacionales;
+- próximos pasos.
+
+El usuario no revisa un formulario: conversa con el agente, y el agente actualiza el track cuando aparece valor durable.
 
 ### Nota de concepto
 
@@ -154,12 +160,13 @@ Mitigación:
 Aplicar este sistema al Caso 0001:
 
 ```txt
-vault/05-preguntas/revision-conceptos-caso-0001.md
+docs/tracks/conceptos-caso-0001-mary-helen-hensley.md
 ```
 
 Objetivo:
 
 - no crear todos los conceptos todavía;
-- revisar nombres y jerarquías;
+- conversar sobre nombres y jerarquías;
 - elegir primeros conceptos raíz;
-- dejar el resto como propuestas/observaciones.
+- dejar el resto como propuestas/observaciones;
+- actualizar el track cuando aparezcan decisiones.

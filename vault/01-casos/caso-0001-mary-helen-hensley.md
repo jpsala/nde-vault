@@ -14,12 +14,11 @@ transcripcion_youtube_raw: "vault/06-fuentes/youtube/6GsWknK5r-8/transcript_yout
 transcripcion_youtube_indexed: "vault/06-fuentes/youtube/6GsWknK5r-8/transcript_youtube_indexed.md"
 transcripcion_groq_raw: "vault/06-fuentes/youtube/6GsWknK5r-8/transcript_groq_raw.md"
 transcripcion_visible: "vault/06-fuentes/youtube/6GsWknK5r-8/transcript_readable.md"
-conceptos_aprobados: []
-conceptos_propuestos:
-  - cuerpo-como-vehiculo
-  - muerte-como-transicion-sin-miedo
-  - experiencia-fuera-del-cuerpo-verificable
+conceptos_aprobados:
   - identidad-mas-alla-del-cuerpo
+  - muerte-como-transicion
+  - percepcion-extracorporal-de-la-realidad-fisica
+conceptos_propuestos:
   - tiempo-no-lineal
   - revision-de-vida-sin-juicio-externo
   - guias-espirituales
@@ -37,8 +36,8 @@ conceptos_propuestos:
 ## Estado editorial
 
 Este caso está procesado como primer flujo experimental.  
-**Los conceptos listados son propuestas, no conceptos aprobados.**  
-No se deben crear notas definitivas en `vault/02-conceptos/` hasta que el usuario apruebe cuáles forman parte del vocabulario inicial del paradigma.
+**Conceptos aprobados:** `identidad-mas-alla-del-cuerpo`, `muerte-como-transicion`, `percepcion-extracorporal-de-la-realidad-fisica`.  
+El resto de conceptos listados son propuestas. No se deben crear notas definitivas en `vault/02-conceptos/` hasta que el usuario apruebe cuáles forman parte del vocabulario inicial del paradigma.
 
 ## Fuente
 
@@ -72,7 +71,7 @@ El testimonio aporta material fuerte para varios ejes del paradigma:
 
 ## Fragmentos relevantes
 
-### Propuesta: [[Cuerpo como vehículo]] / [[Identidad más allá del cuerpo]]
+### Concepto aprobado: [[Identidad más allá del cuerpo]]
 
 > "when you come up and out of the body the last thing you're thinking about is that physical form it's just a vehicle that the you the real you has been using to Traverse this particular lifetime"
 
@@ -86,7 +85,7 @@ Importancia: recuerdo súbito de identidad no corporal.
 
 ---
 
-### Propuesta: [[Muerte como transición sin miedo]]
+### Concepto aprobado: [[../02-conceptos/muerte-como-transicion|Muerte como transición]]
 
 > "you want to run around and tell everybody you can guys it's just like walking through a door there's nothing to be afraid of here"
 
@@ -100,7 +99,7 @@ Importancia: conecta la experiencia con la misión posterior de reducir el miedo
 
 ---
 
-### Propuesta: [[Experiencia fuera del cuerpo verificable]]
+### Concepto aprobado: [[../02-conceptos/percepcion-extracorporal-de-la-realidad-fisica|Percepción extracorporal de la realidad física]]
 
 > "I am literally spectating my own death I watch my head go through the window my neck breaks..."
 
@@ -282,32 +281,33 @@ Importancia: analogía de la vida como juego/experiencia inmersiva, no como real
 Fuente: [00:46:43](https://www.youtube.com/watch?v=6GsWknK5r-8&t=2803)  
 Importancia: integra juego y escuela como metáforas de la realidad terrestre.
 
-## Conceptos propuestos para aprobación
+## Conceptos
 
 Ver también:
 
-- [[../05-preguntas/propuestas-conceptos-caso-0001|Propuestas de conceptos — Caso 0001]]
-- [[../05-preguntas/revision-conceptos-caso-0001|Revisión de conceptos — Caso 0001]]
+- Conceptos aprobados:
+  - [[../02-conceptos/identidad-mas-alla-del-cuerpo|Identidad más allá del cuerpo]]
+  - [[../02-conceptos/muerte-como-transicion|Muerte como transición]]
+  - [[../02-conceptos/percepcion-extracorporal-de-la-realidad-fisica|Percepción extracorporal de la realidad física]]
+- Track conceptual activo: [Conceptos — Caso 0001 — Mary Helen Hensley](../../docs/tracks/conceptos-caso-0001-mary-helen-hensley.md)
 
-1. `cuerpo-como-vehiculo`
-2. `muerte-como-transicion-sin-miedo`
-3. `experiencia-fuera-del-cuerpo-verificable`
-4. `identidad-mas-alla-del-cuerpo`
-5. `tiempo-no-lineal`
-6. `revision-de-vida-sin-juicio-externo`
-7. `guias-espirituales`
-8. `tierra-como-escuela`
-9. `unidad-e-interconexion`
-10. `realidad-como-juego-o-constructo-experiencial`
-11. `comunicacion-telepatica-o-conocimiento-directo`
-12. `sonido-luz-y-frecuencia`
-13. `continuidad-de-vinculos-con-fallecidos`
-14. `todos-son-bienvenidos`
+### Propuestos para aprobación
+
+1. `tiempo-no-lineal`
+2. `revision-de-vida-sin-juicio-externo`
+3. `guias-espirituales`
+4. `tierra-como-escuela`
+5. `unidad-e-interconexion`
+6. `realidad-como-juego-o-constructo-experiencial`
+7. `comunicacion-telepatica-o-conocimiento-directo`
+8. `sonido-luz-y-frecuencia`
+9. `continuidad-de-vinculos-con-fallecidos`
+10. `todos-son-bienvenidos`
 
 ## Preguntas editoriales abiertas
 
-- ¿Conviene separar `cuerpo-como-vehiculo` de `identidad-mas-alla-del-cuerpo`, o unificarlos?
+- ¿Cuándo conviene separar `cuerpo-como-vehiculo` de `identidad-mas-alla-del-cuerpo` como concepto propio?
 - ¿`realidad-como-juego-o-constructo-experiencial` debe ser un subconcepto de un concepto más amplio como `realidad-material-como-constructo`?
 - ¿`todos-son-bienvenidos` debe formularse en lenguaje neutral como `no-condena-final`?
 - ¿Cómo marcar conceptos más especulativos como frecuencias específicas, enfermedad como señal, múltiples timelines?
-- ¿Qué nivel de evidencia asignamos a “verificable” si la corroboración está dentro del relato, pero no tenemos documento externo?
+- ¿Conviene crear más adelante una categoría metodológica separada para grados de fuerza evidencial, incluyendo “verificable según el relato” vs. corroboración externa independiente?

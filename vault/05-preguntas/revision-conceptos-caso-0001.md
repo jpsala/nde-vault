@@ -8,6 +8,8 @@ fuente: "https://www.youtube.com/watch?v=6GsWknK5r-8"
 
 # Revisión de conceptos — Caso 0001
 
+> Estado: artefacto experimental. El flujo principal de revisión conceptual pasó a ser conversacional y se retoma desde [Conceptos — Caso 0001 — Mary Helen Hensley](../../docs/tracks/conceptos-caso-0001-mary-helen-hensley.md). Este documento se conserva por trazabilidad.
+
 Caso: [[01-casos/caso-0001-mary-helen-hensley|Caso 0001 — Dr. Mary Helen Hensley]]  
 Transcripción fuente: [[06-fuentes/youtube/6GsWknK5r-8/transcript_readable|transcript_original]]  
 Propuestas previas: [[05-preguntas/propuestas-conceptos-caso-0001|propuestas-conceptos-caso-0001]]

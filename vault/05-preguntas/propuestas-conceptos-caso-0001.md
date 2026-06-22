@@ -7,6 +7,8 @@ fecha: 2026-06-22
 
 # Propuestas de conceptos — Caso 0001
 
+> Estado: artefacto inicial. El trabajo conceptual vivo se retoma desde [Conceptos — Caso 0001 — Mary Helen Hensley](../../docs/tracks/conceptos-caso-0001-mary-helen-hensley.md). Este documento se conserva por trazabilidad.
+
 Caso: [[../01-casos/caso-0001-mary-helen-hensley|Caso 0001 — Dr. Mary Helen Hensley]]
 
 ## Regla para este archivo

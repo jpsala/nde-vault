@@ -32,8 +32,10 @@ Surge de uno o varios casos, pero todavía no fue aprobado como nota conceptual 
 Lugar típico:
 
 ```txt
-vault/05-preguntas/revision-conceptos-caso-XXXX.md
+docs/tracks/conceptos-caso-XXXX-<slug>.md
 ```
+
+Opcionalmente puede haber artefactos auxiliares en `vault/05-preguntas/`, pero el trabajo vivo se retoma desde tracks.
 
 ### `aprobado`
 
@@ -107,7 +109,7 @@ supersedido_por:
 
 ## Tipos de relación evidencia ↔ concepto
 
-No toda evidencia “apoya” igual. En los documentos de revisión usar estas relaciones:
+No toda evidencia “apoya” igual. En tracks conceptuales y notas de concepto usar estas relaciones:
 
 - `apoya`: el fragmento expresa claramente el concepto.
 - `ejemplifica`: el fragmento muestra un caso concreto del concepto.
@@ -120,13 +122,15 @@ No toda evidencia “apoya” igual. En los documentos de revisión usar estas r
 
 1. Crear caso.
 2. Crear o actualizar transcripción visible.
-3. Generar documento de revisión conceptual.
-4. Separar:
+3. Crear o actualizar track conceptual conversacional en `docs/tracks/`.
+4. Separar en el track:
    - conceptos existentes a referenciar;
    - conceptos nuevos propuestos;
-   - temas en observación.
-5. El usuario revisa checkboxes y comentarios.
-6. El agente aplica decisiones:
+   - temas en observación;
+   - dudas de naming/jerarquía.
+5. Conversar con el usuario sobre los núcleos conceptuales.
+6. Registrar en el track solo valor durable: decisiones, dudas, próximos pasos y evidencia clave.
+7. El agente aplica decisiones explícitas:
    - actualiza evidencia en conceptos aprobados;
    - crea conceptos aprobados;
    - registra fusiones/divisiones/renombres;

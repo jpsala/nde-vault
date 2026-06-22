@@ -25,3 +25,11 @@ Decisión: Para cada video se preservan YouTube raw y Groq raw, pero el usuario 
 Motivo: preservar trazabilidad sin obligar al usuario a leer transcripciones crudas de baja calidad.
 
 Afecta: `docs/transcription-policy.md`, `docs/canonical-transcript-design.md`, fuentes en `vault/06-fuentes/`.
+
+## 2026-06-22 — Revisión conceptual conversacional con tracks
+
+Decisión: Reemplazar el flujo principal de revisión conceptual con checkboxes por una conversación guiada respaldada por tracks activos en `docs/tracks/`.
+
+Motivo: Los conceptos del paradigma son hipótesis vivas; conversarlos permite ajustar nombres, jerarquías y matices mejor que un formulario rígido.
+
+Afecta: `docs/workflow-url-a-caso.md`, `docs/concept-lifecycle.md`, `docs/topics/concept-governance.md`, `docs/tracks/`.
