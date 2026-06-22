@@ -13,6 +13,7 @@ Router liviano de conocimiento. Si un documento no está enlazado acá o desde `
 | modo de trabajo, interfaz futura, automatización | `operating-modes.md` | Cómo trabajar ahora y cuándo automatizar. |
 | comandos/frases útiles | `commands-for-user.md` | Cómo pedir trabajo al agente. |
 | docs, memoria, índice, audit, AOS local | `topics/agentic-os-local.md` | Mantener la capa agentica local sin pisar memoria del proyecto. |
+| Pi, slash commands, `/aos-sync`, `/aos-guardar-sesion`, `/aos-nueva-sesion`, `/aos-gol` | `topics/pi-agentic-os.md`, `OS_PLAYBOOK.md` | Usar el adapter Pi local para aprovechar AOS en conversaciones. |
 | realinear os, adopt/update os, reparar contexto | `topics/agentic-os-operations.md` | Operaciones AOS locales preservando reglas NDE/ECM. |
 
 ## Documentos raíz

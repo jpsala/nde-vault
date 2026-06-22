@@ -22,6 +22,7 @@ Estado vivo corto del proyecto. Mantener liviano.
 - Transcripciones raw y metadata fuente no deben sobrescribirse.
 - AOS fue adoptado localmente el 2026-06-22 como capa mínima/adaptada: core docs, topics/tracks, skills mínimas y scripts de contexto.
 - Repositorio Git público: `https://github.com/jpsala/nde-vault`; se evitó reutilizar `jpsala/nde` porque existía como repo privado con contenido viejo.
+- Adapter Pi `.pi/` agregado por defecto para aprovechar AOS conversacional en repos de JP: `/aos-guardar-sesion`, `/aos-nueva-sesion`, `/aos-sync`, `/aos-gol`, `/aos-orquestar` y `/aos-fanout`.
 
 ## Riesgos
 

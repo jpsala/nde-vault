@@ -2,7 +2,7 @@
 
 Generated cache. Do not edit by hand.
 
-Generated: 2026-06-22T18:01:53.739Z
+Generated: 2026-06-22T18:10:08.868Z
 
 ## Topics
 
@@ -10,6 +10,7 @@ Generated: 2026-06-22T18:01:53.739Z
 - active: [agentic-os-operations](../topics/agentic-os-operations.md) - aos, adopt os, update os, realinear os, auditar sistema agentico, reparar contexto
 - active: [concept-governance](../topics/concept-governance.md) - gobernanza de conceptos, concepto nuevo, conceptos aprobados, fusionar conceptos, dividir conceptos, revision humana
 - active: [nde-vault](../topics/nde-vault.md) - nde, ecm, vault, caso, casos, conceptos, paradigma, obsidian
+- active: [pi-agentic-os](../topics/pi-agentic-os.md) - pi, pi os, slash commands, /aos-sync, /aos-guardar-sesion, /aos-nueva-sesion, /aos-gol, /aos-orquestar
 
 ## Tracks
 
@@ -30,7 +31,9 @@ Generated: 2026-06-22T18:01:53.739Z
 
 ## Pi Resources
 
-- No project Pi resources found.
+- Prompts: aos-adopt-os, aos-align-os-project, aos-cerrar, aos-checkpoint, aos-continuar-sesion, aos-fanout, aos-gol, aos-guardar-sesion, aos-help, aos-init-os, aos-nueva-sesion-con-gol, aos-nueva-sesion, aos-orquestar, aos-perfect-os, aos-realinear, aos-sigamos, aos-siguiente, aos-update-os
+- Extensions: aos-checkpoint-nudge.ts, aos-tools.ts
+- Guidance: [pi-agentic-os](../topics/pi-agentic-os.md)
 
 ## Aliases
 

@@ -59,6 +59,7 @@ Usar frontmatter YAML en notas estructuradas. Preferir slugs estables en minúsc
 - Si se necesita cambiar una sección manual o crear un concepto definitivo, pedir aprobación si la decisión conceptual es fuerte.
 - Mantener docs livianos: decisiones durables van en `docs/DECISIONS.md`, estado vivo en `docs/WORKING_MEMORY.md`, temas recuperables en `docs/topics/`.
 - Para `aos-realinear-os` o auditoría/reparación de contexto, usar `docs/topics/agentic-os-operations.md` y limitarse a la capa agentica salvo confirmación.
+- En Pi, usar los slash locales `/aos-*` para continuidad, sync, status, guardado de sesión, nueva sesión, gol y orquestación; si no aparecen, ejecutar `/reload` y luego `/aos-sync`.
 - Archivos de contexto, notas o drafts preexistentes deben quedar integrados, indexados, archivados con estado claro o consultados antes de borrar.
 
 ## Secciones automáticas
