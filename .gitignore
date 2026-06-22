@@ -23,6 +23,7 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+.claude/
 
 # Generated/transient
 .tmp/
