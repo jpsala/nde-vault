@@ -40,7 +40,9 @@ Este proyecto incluye el adapter Pi porque JP opera sus repos desde Pi y los com
 | `/aos-help` | Ver comandos AOS locales. |
 | `/aos-guardar-sesion` | Persistir valor durable en docs sin transcript. |
 | `/aos-nueva-sesion` | Guardar y abrir una sesion limpia con handoff. |
+| `/aos-continuar-sesion` | Alias legado de `/aos-nueva-sesion`; tambien guarda y abre sesion. |
 | `/aos-nueva-sesion-con-gol` | Guardar, abrir sesion limpia y arrancar con lote chico. |
+| `/aos-continuar-con-gol` / `/aos-siguiente` | Aliases de `/aos-nueva-sesion-con-gol`. |
 | `/aos-sync` | Regenerar index/audit y revisar skills link. |
 | `/aos-status audit` | Ver estado operativo y audit. |
 | `/aos-gol` | Preparar un `/until-done` acotado cuando se quiera loop revisable. |

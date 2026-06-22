@@ -1,6 +1,8 @@
 ---
-description: "Alias legado de aos-nueva-sesion: guardar y preparar handoff compacto"
+description: "Alias legado de aos-nueva-sesion: guardar y abrir nueva sesion"
 ---
-AOS continuar sesion (alias de `aos-nueva-sesion`).
+AOS continuar sesion.
 
-Usa la fuente canonica `docs/topics/docs-knowledge-system.md` y la skill local `aos-nueva-sesion`: primero ejecuta `aos-guardar-sesion`; despues prepara un handoff compacto para una sesion nueva apuntando a docs actualizados. El handoff no es fuente de verdad. No pidas `aos-gol` salvo que el usuario lo haya pedido. Si estas mostrando ayuda, preferi nombrar el comando como `aos-nueva-sesion` para evitar ambiguedad con `aos-sigamos`.
+Fallback de prompt: si estas leyendo este texto, la extension command `/aos-continuar-sesion` no intercepto el comando. Ejecuta `/reload` y vuelve a usar `/aos-continuar-sesion`, o usa `/aos-nueva-sesion`.
+
+La version extension es alias de `/aos-nueva-sesion`: primero ejecuta `aos-guardar-sesion`, despues crea una sesion Pi nueva con handoff desde docs vivos. No arranca con `aos-gol`; para eso usa `/aos-nueva-sesion-con-gol`, `/aos-continuar-con-gol` o `/aos-siguiente`.

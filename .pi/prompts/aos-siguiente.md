@@ -1,6 +1,8 @@
 ---
 description: Alias corto de aos-nueva-sesion-con-gol
 ---
-AOS siguiente (alias de `aos-nueva-sesion-con-gol`).
+AOS siguiente.
 
-Usa la fuente canonica `docs/topics/docs-knowledge-system.md` y la skill local `aos-nueva-sesion-con-gol`: ejecuta `aos-guardar-sesion`, prepara handoff compacto para una sesion nueva y pide explicitamente que la nueva sesion arranque con `aos-gol` para el proximo lote acordado. No sigas trabajando en esta misma sesion como si fuera `aos-sigamos`.
+Fallback de prompt: si estas leyendo este texto, la extension command `/aos-siguiente` no intercepto el comando. Ejecuta `/reload` y vuelve a usar `/aos-siguiente`, o usa `/aos-nueva-sesion-con-gol`.
+
+La version extension es alias de `/aos-nueva-sesion-con-gol`: ejecuta `aos-guardar-sesion`, crea una sesion Pi nueva con handoff desde docs vivos y pide que la nueva sesion arranque con `aos-gol` para el proximo lote acordado.

@@ -409,23 +409,42 @@ export default function osTools(pi: ExtensionAPI) {
     },
   });
 
+  async function saveAndCreateNewSession(args: string, ctx: ExtensionCommandContext) {
+    const goal = args.trim();
+    await runGuardarSesionBeforeContinuation(pi, ctx, goal);
+    await createContinuationSession(pi, ctx, goal, null);
+  }
+
+  async function saveAndCreateNewSessionWithGol(args: string, ctx: ExtensionCommandContext) {
+    const goal = args.trim();
+    await runGuardarSesionBeforeContinuation(pi, ctx, goal);
+    const kickoff = `aos-gol${goal ? ` ${goal}` : ""}`;
+    await createContinuationSession(pi, ctx, goal, kickoff);
+  }
+
   pi.registerCommand("aos-nueva-sesion", {
     description: "Guardar valor durable y crear una nueva sesion Pi con handoff compacto",
-    handler: async (args, ctx) => {
-      const goal = args.trim();
-      await runGuardarSesionBeforeContinuation(pi, ctx, goal);
-      await createContinuationSession(pi, ctx, goal, null);
-    },
+    handler: saveAndCreateNewSession,
+  });
+
+  pi.registerCommand("aos-continuar-sesion", {
+    description: "Alias legado de /aos-nueva-sesion: guardar valor durable y crear una nueva sesion Pi",
+    handler: saveAndCreateNewSession,
   });
 
   pi.registerCommand("aos-nueva-sesion-con-gol", {
     description: "Guardar valor durable, crear una nueva sesion Pi y arrancarla con aos-gol",
-    handler: async (args, ctx) => {
-      const goal = args.trim();
-      await runGuardarSesionBeforeContinuation(pi, ctx, goal);
-      const kickoff = `aos-gol${goal ? ` ${goal}` : ""}`;
-      await createContinuationSession(pi, ctx, goal, kickoff);
-    },
+    handler: saveAndCreateNewSessionWithGol,
+  });
+
+  pi.registerCommand("aos-continuar-con-gol", {
+    description: "Alias legado de /aos-nueva-sesion-con-gol",
+    handler: saveAndCreateNewSessionWithGol,
+  });
+
+  pi.registerCommand("aos-siguiente", {
+    description: "Alias corto de /aos-nueva-sesion-con-gol",
+    handler: saveAndCreateNewSessionWithGol,
   });
 
   pi.on("session_before_compact", async (_event, ctx) => {

@@ -32,7 +32,9 @@ Estos existen porque el repo incluye `.pi/`:
 - `/aos-help`
 - `/aos-guardar-sesion`
 - `/aos-nueva-sesion`
+- `/aos-continuar-sesion` (alias legado de nueva sesión)
 - `/aos-nueva-sesion-con-gol`
+- `/aos-continuar-con-gol` / `/aos-siguiente` (aliases con gol)
 - `/aos-sync`
 - `/aos-status audit`
 - `/aos-compact`
