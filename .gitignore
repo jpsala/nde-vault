@@ -1,0 +1,38 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Agentic OS local backups / adapters
+.agentic-os-backups/
+.agents/skills/
+
+# Local CodeMapper caches
+.codemapper/
+**/.codemapper/
+
+# Node / Python / tooling
+node_modules/
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated/transient
+.tmp/
+tmp/
+logs/
+*.log
+
+# Obsidian local UI state / reinstallable vendor bundles
+vault/.obsidian/workspace*.json
+vault/.obsidian/plugins/*/main.js
+vault/.obsidian/plugins/*/styles.css
+vault/.obsidian/plugins/*/obsidian_askpass.sh
+vault/.trash/

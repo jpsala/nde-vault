@@ -1,0 +1,7 @@
+{
+  "baseline-style@@layout-style": "layout-macos",
+  "baseline-style@@element-style": "input-baseline",
+  "baseline-style@@color-scheme-dark": "default-dark",
+  "primary-theme@@ribbon_styles": "ribbon-default",
+  "primary-theme@@editor-file-header": "file-header-hover"
+}

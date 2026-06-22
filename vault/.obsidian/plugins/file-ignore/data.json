@@ -1,0 +1,11 @@
+{
+  "rules": "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store\nThumbs.db\n.git/\nrepos/\nrepos\n",
+  "ignoredFiles": [],
+  "debug": false,
+  "rulesHistory": [
+    "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store\nThumbs.db\n.git/\nrepos/\nrepos\n",
+    "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store\nThumbs.db\n.git/\nrepos/\n",
+    "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store\nThumbs.db"
+  ],
+  "lastBatch": null
+}

@@ -1,0 +1,11 @@
+{
+  "hidden": false,
+  "hiddenList": [
+    "repos",
+    "legacy-workspace",
+    "PROJECT-GENESIS",
+    "CLAUDE.md",
+    "AGENTS",
+    "scripts"
+  ]
+}

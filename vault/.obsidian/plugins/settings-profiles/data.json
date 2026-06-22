@@ -1,0 +1,19 @@
+{
+  "activeProfile": {
+    "name": "main-min",
+    "modifiedAt": "2026-05-21T12:34:25.078Z"
+  },
+  "profileUpdate": true,
+  "profileUpdateDelay": 800,
+  "uiUpdate": true,
+  "uiUpdateInterval": 1000,
+  "devices": {
+    "d1814e3772662a8249a9b6ea12a23590fbbfcdfc4a6bb608087efc3b7ba8e588": "C:\\Users\\jpsal\\AppData\\Local\\ObsidianPlugins\\Data\\Profiles"
+  },
+  "statusbarInteraction": {
+    "click": "auto",
+    "ctrl_click": "none",
+    "shift_click": "none",
+    "alt_click": "none"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "folder": "operations/daily",
+  "format": "YYYY-MM-DD",
+  "template": "templates/daily.md"
+}

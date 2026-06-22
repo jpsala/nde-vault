@@ -1,0 +1,14 @@
+{
+  "enabled_templates_hotkeys": [],
+  "shell_args": "",
+  "enable_system_commands": false,
+  "user_scripts_folder": "",
+  "syntax_highlighting": true,
+  "startup_templates": [],
+  "syntax_highlighting_mobile": false,
+  "trigger_on_file_creation": true,
+  "template_folder": "templates",
+  "templates_pairs_enabled": false,
+  "templates_pairs": [],
+  "shell_path": ""
+}
