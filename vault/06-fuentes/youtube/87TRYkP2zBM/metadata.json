@@ -1,0 +1,47 @@
+{
+  "source_type": "youtube",
+  "video_id": "87TRYkP2zBM",
+  "url": "https://www.youtube.com/watch?v=87TRYkP2zBM",
+  "original_url": "https://www.youtube.com/watch?v=87TRYkP2zBM&pp=ygUOYW5pdGEgbW9vcmphbmk%3D",
+  "title": "Anita Moorjani's Near-Death Experience While Dying Of Cancer - Author of Dying To Be Me",
+  "channel": "Afterlife TV with Bob Olson",
+  "experiencer": "Anita Moorjani",
+  "language": "en",
+  "published_date_page": "2011-12-07",
+  "transcript_pages_published": "2013-03-22 / 2015-05-26",
+  "duration_seconds_estimated_part1": 2760,
+  "ingested_at": "2026-06-23",
+  "status": "transcrito-desde-afterlifetv",
+  "related_case_id": "caso-0003",
+  "transcript_source": "Afterlife TV public transcript pages (YouTube extraction unavailable locally)",
+  "source_pages": {
+    "afterlifetv_landing": "https://www.afterlifetv.com/2011/12/07/a-fascinating-near-death-experience-during-a-coma-a-powerful-message-that-could-change-your-life/",
+    "afterlifetv_combined_transcript": "https://www.afterlifetv.com/2015/05/26/anita-moorjanis-extraordinary-near-death-experience-2/",
+    "afterlifetv_part1_transcript": "https://www.afterlifetv.com/2013/03/22/a-fascinating-near-death-experience-during-a-coma-a-powerful-message-that-could-change-your-life-pt-1/",
+    "afterlifetv_part2_transcript": "https://www.afterlifetv.com/2013/03/22/a-fascinating-near-death-experience-during-a-coma-a-powerful-message-that-could-change-your-life-pt-2/",
+    "anitamoorjani_my_nde": "https://www.anitamoorjani.com/my-nde",
+    "nderf_original": "https://www.nderf.org/Experiences/1anita_m_nde.html"
+  },
+  "notes": [
+    "User-provided YouTube URL appears to be Part 1; Afterlife TV also provides Part 2 and a combined transcript page.",
+    "No precise YouTube captions/timestamps were available in this environment; transcript is preserved from Afterlife TV public pages.",
+    "This is an additional source for the same Anita Moorjani NDE already represented as caso-0003, not a separate NDE case."
+  ],
+  "video_thumbnail": {
+    "url": "https://i.ytimg.com/vi/87TRYkP2zBM/hqdefault.jpg",
+    "local": "media/video-thumbnail.jpg"
+  },
+  "channel_info": {
+    "name": "Afterlife TV with Bob Olson",
+    "url": "https://www.youtube.com/user/AfterlifeTVChannel",
+    "avatar_local": "media/channel-avatar.jpg",
+    "note": "Canal/autor del video; no confundir con la persona que da testimonio."
+  },
+  "experiencer_profile": {
+    "name": "Anita Moorjani",
+    "url": "https://www.anitamoorjani.com/",
+    "photo_url": "https://batgap.com/wp-content/uploads/2021/05/Anita-Moorjani.jpg",
+    "photo_local": "media/experiencer-photo.jpg",
+    "photo_source": "BATGAP interview profile photo"
+  }
+}

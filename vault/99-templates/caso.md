@@ -4,6 +4,9 @@ id:
 titulo: 
 fuente: youtube
 url: 
+tipo_fuente: youtube
+es_ecm: true
+relacion_norte: []
 video_id: 
 idioma: 
 estado: pendiente
@@ -17,6 +20,9 @@ conceptos: []
 
 - Fuente:
 - URL:
+- Tipo de fuente:
+- Es ECM/NDE:
+- Relación con el norte vivencial:
 - Canal:
 - Duración:
 - Fecha de publicación:

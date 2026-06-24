@@ -7,6 +7,8 @@ categoria:
 conceptos_relacionados: []
 casos_relacionados: 0
 nivel_confianza: pendiente
+importancia_usuario: 0
+temas_prioritarios_usuario: []
 ---
 
 # {{titulo}}

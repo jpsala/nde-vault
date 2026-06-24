@@ -22,8 +22,9 @@ Evitar leer transcripciones largas, `.obsidian/plugins/`, `.tmp/`, secretos o va
 | `DEVELOPMENT.md` | Stack, comandos y persistencia. |
 | `DECISIONS.md` | Decisiones durables. |
 | `OPEN_QUESTIONS.md` | Preguntas abiertas. |
-| `project-os.md` | Diseño operativo original del vault NDE. |
-| `workflow-url-a-caso.md` | Flujo para transformar URL en caso. |
+| `project-os.md` | Diseño operativo original, actualizado para fuentes ECM y no-ECM. |
+| `topics/paradigma-confianza-creatividad.md` | Norte vivencial del proyecto. |
+| `workflow-url-a-caso.md` | Flujo para transformar URL/fuente en caso o unidad de análisis. |
 | `transcription-policy.md` | Política de transcripciones raw/canónica. |
 | `canonical-transcript-design.md` | Diseño de transcripción legible y auditable. |
 | `operating-modes.md` | Modo actual y futuras interfaces. |
@@ -34,5 +35,5 @@ Evitar leer transcripciones largas, `.obsidian/plugins/`, `.tmp/`, secretos o va
 - `docs/topics/`: entradas recuperables por tema.
 - `docs/tracks/`: trabajos vivos retomables.
 - `docs/skills/`: skills locales portables, si se habilitan en un harness compatible.
-- `vault/`: fuente canónica de conocimiento NDE/ECM.
+- `vault/`: fuente canónica de conocimiento sobre confianza/creatividad, con NDE/ECM como fuente privilegiada pero no exclusiva.
 - `scripts/`: automatizaciones locales.

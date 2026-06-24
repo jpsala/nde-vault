@@ -1,0 +1,643 @@
+# YouTube raw transcript — The near-death experience of Jane Thompson
+
+Video: https://www.youtube.com/watch?v=WTESmsletG4
+
+Idioma captions: Inglés (en)
+
+> Raw preservado desde subtítulos de YouTube vía `python -m yt_dlp`. No editar manualmente.
+
+- [00:00:19](https://www.youtube.com/watch?v=WTESmsletG4&t=19s) Prior to my NDE [Near-Death Experience],  I was a real estate agent.
+- [00:00:23](https://www.youtube.com/watch?v=WTESmsletG4&t=23s) I was very focused on work and career.
+- [00:00:27](https://www.youtube.com/watch?v=WTESmsletG4&t=27s) I was happy, I would say.
+- [00:00:29](https://www.youtube.com/watch?v=WTESmsletG4&t=29s) But looking back now, I see that my life was missing something.
+- [00:00:33](https://www.youtube.com/watch?v=WTESmsletG4&t=33s) It was still lonely and a little bit empty.
+- [00:00:36](https://www.youtube.com/watch?v=WTESmsletG4&t=36s) My NDE was on August 22nd, 2009.
+- [00:00:42](https://www.youtube.com/watch?v=WTESmsletG4&t=42s) I was 34 years old.
+- [00:00:44](https://www.youtube.com/watch?v=WTESmsletG4&t=44s) I woke up with a tremendous amount of pain, excruciating pain.
+- [00:00:48](https://www.youtube.com/watch?v=WTESmsletG4&t=48s) I was burning up with a fever of 106 degrees F [41° C],
+- [00:00:53](https://www.youtube.com/watch?v=WTESmsletG4&t=53s) and we didn't know what was going on.
+- [00:00:55](https://www.youtube.com/watch?v=WTESmsletG4&t=55s) A family member took me to the hospital and they were running tests
+- [00:01:00](https://www.youtube.com/watch?v=WTESmsletG4&t=60s) and trying to figure out what was happening.
+- [00:01:03](https://www.youtube.com/watch?v=WTESmsletG4&t=63s) I remember when I was in for my CT scan.
+- [00:01:06](https://www.youtube.com/watch?v=WTESmsletG4&t=66s) They were trying to adjust my I.V..
+- [00:01:09](https://www.youtube.com/watch?v=WTESmsletG4&t=69s) I could feel myself detaching.
+- [00:01:12](https://www.youtube.com/watch?v=WTESmsletG4&t=72s) I could feel myself coming out.
+- [00:01:15](https://www.youtube.com/watch?v=WTESmsletG4&t=75s) I would drift out almost the way
+- [00:01:17](https://www.youtube.com/watch?v=WTESmsletG4&t=77s) you see a balloon start to drift away into the sky.
+- [00:01:21](https://www.youtube.com/watch?v=WTESmsletG4&t=81s) But that pain kept pulling me back in.
+- [00:01:24](https://www.youtube.com/watch?v=WTESmsletG4&t=84s) After my CT scan, they brought me out into an area
+- [00:01:28](https://www.youtube.com/watch?v=WTESmsletG4&t=88s) in the emergency room where we were just waiting for what was next.
+- [00:01:33](https://www.youtube.com/watch?v=WTESmsletG4&t=93s) And that's when everything started happening,
+- [00:01:36](https://www.youtube.com/watch?v=WTESmsletG4&t=96s) when I really started dying, at that point.
+- [00:01:40](https://www.youtube.com/watch?v=WTESmsletG4&t=100s) I started convulsing and I could feel the veins on my head popping out.
+- [00:01:46](https://www.youtube.com/watch?v=WTESmsletG4&t=106s) The pressure in my head and in my body was tremendous.
+- [00:01:50](https://www.youtube.com/watch?v=WTESmsletG4&t=110s) The pain was excruciating.
+- [00:01:52](https://www.youtube.com/watch?v=WTESmsletG4&t=112s) My fever was high, so I was burning up.
+- [00:01:55](https://www.youtube.com/watch?v=WTESmsletG4&t=115s) But I was also freezing cold all at the same time.
+- [00:01:59](https://www.youtube.com/watch?v=WTESmsletG4&t=119s) I remember convulsing with my eyes closed,
+- [00:02:03](https://www.youtube.com/watch?v=WTESmsletG4&t=123s) and I had the thought of, I don't know how much more of this I can take.
+- [00:02:07](https://www.youtube.com/watch?v=WTESmsletG4&t=127s) I don't think I can take any more of this pain.
+- [00:02:10](https://www.youtube.com/watch?v=WTESmsletG4&t=130s) It was at that moment that I completely disconnected
+- [00:02:14](https://www.youtube.com/watch?v=WTESmsletG4&t=134s) from everything that was external and outside of me.
+- [00:02:19](https://www.youtube.com/watch?v=WTESmsletG4&t=139s) The people that were around me, the medical staff,
+- [00:02:21](https://www.youtube.com/watch?v=WTESmsletG4&t=141s) the machines that I was hooked up to at that point – I had no connection to it.
+- [00:02:26](https://www.youtube.com/watch?v=WTESmsletG4&t=146s) I lost the knowing that it was even there and I was still experiencing
+- [00:02:30](https://www.youtube.com/watch?v=WTESmsletG4&t=150s) some of the pain, but not to the same degree as I had been.
+- [00:02:36](https://www.youtube.com/watch?v=WTESmsletG4&t=156s) And I started doing an internal scan of my body.
+- [00:02:40](https://www.youtube.com/watch?v=WTESmsletG4&t=160s) It felt like I was watching a movie.
+- [00:02:42](https://www.youtube.com/watch?v=WTESmsletG4&t=162s) I could see the blood pumping.
+- [00:02:43](https://www.youtube.com/watch?v=WTESmsletG4&t=163s) I could see my cells.
+- [00:02:46](https://www.youtube.com/watch?v=WTESmsletG4&t=166s) I could see my internal organs.
+- [00:02:48](https://www.youtube.com/watch?v=WTESmsletG4&t=168s) And it felt very factual.
+- [00:02:52](https://www.youtube.com/watch?v=WTESmsletG4&t=172s) I didn't really have any emotion attached to it.
+- [00:02:55](https://www.youtube.com/watch?v=WTESmsletG4&t=175s) Then I had that awareness of I'm dying.
+- [00:03:00](https://www.youtube.com/watch?v=WTESmsletG4&t=180s) This is what it feels like.
+- [00:03:02](https://www.youtube.com/watch?v=WTESmsletG4&t=182s) At that moment I popped out of my body.
+- [00:03:07](https://www.youtube.com/watch?v=WTESmsletG4&t=187s) The next thing I knew, I was on the ceiling,
+- [00:03:10](https://www.youtube.com/watch?v=WTESmsletG4&t=190s) looking down at myself and everyone around me.
+- [00:03:15](https://www.youtube.com/watch?v=WTESmsletG4&t=195s) And I could see that there was no life left in my body.
+- [00:03:18](https://www.youtube.com/watch?v=WTESmsletG4&t=198s) I knew that that was me, but
+- [00:03:21](https://www.youtube.com/watch?v=WTESmsletG4&t=201s) I didn't see me there anymore.
+- [00:03:25](https://www.youtube.com/watch?v=WTESmsletG4&t=205s) My soul was no longer a part of that shell of a body
+- [00:03:29](https://www.youtube.com/watch?v=WTESmsletG4&t=209s) that I saw on the hospital gurney.
+- [00:03:32](https://www.youtube.com/watch?v=WTESmsletG4&t=212s) It was very real.
+- [00:03:33](https://www.youtube.com/watch?v=WTESmsletG4&t=213s) I knew that it was happening and I knew that it was happening in that moment.
+- [00:03:40](https://www.youtube.com/watch?v=WTESmsletG4&t=220s) Everyone and everything
+- [00:03:43](https://www.youtube.com/watch?v=WTESmsletG4&t=223s) was very clear and in focus.
+- [00:03:46](https://www.youtube.com/watch?v=WTESmsletG4&t=226s) But it did feel like I was a little bit detached from it.
+- [00:03:51](https://www.youtube.com/watch?v=WTESmsletG4&t=231s) As I was taking all of that in,
+- [00:03:54](https://www.youtube.com/watch?v=WTESmsletG4&t=234s) I started to very gently, very slowly
+- [00:03:58](https://www.youtube.com/watch?v=WTESmsletG4&t=238s) start floating up and backwards.
+- [00:04:01](https://www.youtube.com/watch?v=WTESmsletG4&t=241s) Everything that I was looking at started to become smaller.
+- [00:04:07](https://www.youtube.com/watch?v=WTESmsletG4&t=247s) I felt that I was looking down at the hospital
+- [00:04:11](https://www.youtube.com/watch?v=WTESmsletG4&t=251s) and I saw these little balls of energy buzzing all around.
+- [00:04:17](https://www.youtube.com/watch?v=WTESmsletG4&t=257s) Those were souls that I was seeing,
+- [00:04:19](https://www.youtube.com/watch?v=WTESmsletG4&t=259s) and they were all connected by this
+- [00:04:22](https://www.youtube.com/watch?v=WTESmsletG4&t=262s) very thin, iridescent line,
+- [00:04:26](https://www.youtube.com/watch?v=WTESmsletG4&t=266s) the way that a spider web looks, if you catch it just right in the sunlight.
+- [00:04:30](https://www.youtube.com/watch?v=WTESmsletG4&t=270s) That's what it looks like,
+- [00:04:32](https://www.youtube.com/watch?v=WTESmsletG4&t=272s) which I now realize is oneness and the way that we are all connected.
+- [00:04:38](https://www.youtube.com/watch?v=WTESmsletG4&t=278s) And I remember the way that
+- [00:04:39](https://www.youtube.com/watch?v=WTESmsletG4&t=279s) these souls were buzzing around, didn't make sense to me
+- [00:04:44](https://www.youtube.com/watch?v=WTESmsletG4&t=284s) because I thought, why are they all running around like that?
+- [00:04:49](https://www.youtube.com/watch?v=WTESmsletG4&t=289s) I didn't understand why they were all so busy.
+- [00:04:54](https://www.youtube.com/watch?v=WTESmsletG4&t=294s) And as I continued to float backwards, I was moving a little faster at this point.
+- [00:04:59](https://www.youtube.com/watch?v=WTESmsletG4&t=299s) It was happening very quickly now,
+- [00:05:01](https://www.youtube.com/watch?v=WTESmsletG4&t=301s) where I felt like I was in this void
+- [00:05:05](https://www.youtube.com/watch?v=WTESmsletG4&t=305s) or in outer space.
+- [00:05:08](https://www.youtube.com/watch?v=WTESmsletG4&t=308s) It didn't feel scary, but it was black.
+- [00:05:12](https://www.youtube.com/watch?v=WTESmsletG4&t=312s) Then I immediately felt myself go into the tunnel.
+- [00:05:16](https://www.youtube.com/watch?v=WTESmsletG4&t=316s) It was very black, very dark in the tunnel.
+- [00:05:19](https://www.youtube.com/watch?v=WTESmsletG4&t=319s) I wasn't scared at all.
+- [00:05:22](https://www.youtube.com/watch?v=WTESmsletG4&t=322s) I was moving very fast.
+- [00:05:25](https://www.youtube.com/watch?v=WTESmsletG4&t=325s) It was exciting and it felt exhilarating.
+- [00:05:29](https://www.youtube.com/watch?v=WTESmsletG4&t=329s) The tunnel ride was very quick
+- [00:05:32](https://www.youtube.com/watch?v=WTESmsletG4&t=332s) and I popped right out of the tunnel
+- [00:05:37](https://www.youtube.com/watch?v=WTESmsletG4&t=337s) and I was immediately in the white light.
+- [00:05:40](https://www.youtube.com/watch?v=WTESmsletG4&t=340s) The light was so
+- [00:05:42](https://www.youtube.com/watch?v=WTESmsletG4&t=342s) bright and beautiful and powerful that it took me a minute
+- [00:05:47](https://www.youtube.com/watch?v=WTESmsletG4&t=347s) to adjust and understand what was going on there, too.
+- [00:05:52](https://www.youtube.com/watch?v=WTESmsletG4&t=352s) As soon as I started to settle into it
+- [00:05:55](https://www.youtube.com/watch?v=WTESmsletG4&t=355s) I understood that it was heaven.
+- [00:05:58](https://www.youtube.com/watch?v=WTESmsletG4&t=358s) I started to feel the light more
+- [00:06:02](https://www.youtube.com/watch?v=WTESmsletG4&t=362s) and feel the energy of what that was.
+- [00:06:05](https://www.youtube.com/watch?v=WTESmsletG4&t=365s) I immediately felt this overwhelming
+- [00:06:08](https://www.youtube.com/watch?v=WTESmsletG4&t=368s) sense of unconditional love.
+- [00:06:11](https://www.youtube.com/watch?v=WTESmsletG4&t=371s) Love like I have never felt before,
+- [00:06:15](https://www.youtube.com/watch?v=WTESmsletG4&t=375s) no matter what I had been through in my life, no matter what I had done.
+- [00:06:20](https://www.youtube.com/watch?v=WTESmsletG4&t=380s) It was just complete love for me.
+- [00:06:24](https://www.youtube.com/watch?v=WTESmsletG4&t=384s) I was bathing in it.
+- [00:06:25](https://www.youtube.com/watch?v=WTESmsletG4&t=385s) It was wrapped around me and it made me feel valued,
+- [00:06:30](https://www.youtube.com/watch?v=WTESmsletG4&t=390s) appreciated and accepted.
+- [00:06:34](https://www.youtube.com/watch?v=WTESmsletG4&t=394s) The next thing I felt was an overwhelming sense of peace,
+- [00:06:37](https://www.youtube.com/watch?v=WTESmsletG4&t=397s) that everything was okay and that everything was right.
+- [00:06:41](https://www.youtube.com/watch?v=WTESmsletG4&t=401s) That all is well.
+- [00:06:44](https://www.youtube.com/watch?v=WTESmsletG4&t=404s) I was getting a healing.
+- [00:06:46](https://www.youtube.com/watch?v=WTESmsletG4&t=406s) I started to notice
+- [00:06:49](https://www.youtube.com/watch?v=WTESmsletG4&t=409s) all the areas in my soul or in my energetic space
+- [00:06:52](https://www.youtube.com/watch?v=WTESmsletG4&t=412s) where there were wounds or there were holes.
+- [00:06:57](https://www.youtube.com/watch?v=WTESmsletG4&t=417s) All of those areas were starting to get filled in,
+- [00:07:02](https://www.youtube.com/watch?v=WTESmsletG4&t=422s) and they were getting filled in with love.
+- [00:07:05](https://www.youtube.com/watch?v=WTESmsletG4&t=425s) I was being replenished,
+- [00:07:08](https://www.youtube.com/watch?v=WTESmsletG4&t=428s) and it was the best feeling.
+- [00:07:12](https://www.youtube.com/watch?v=WTESmsletG4&t=432s) It just made me feel like this is who I am.
+- [00:07:16](https://www.youtube.com/watch?v=WTESmsletG4&t=436s) This is who I'm supposed to be.
+- [00:07:18](https://www.youtube.com/watch?v=WTESmsletG4&t=438s) This is what my soul is all about.
+- [00:07:22](https://www.youtube.com/watch?v=WTESmsletG4&t=442s) As that was happening, I was also getting the sense that
+- [00:07:26](https://www.youtube.com/watch?v=WTESmsletG4&t=446s) this white light that was all around me,
+- [00:07:30](https://www.youtube.com/watch?v=WTESmsletG4&t=450s) that was taking such loving care of me –
+- [00:07:33](https://www.youtube.com/watch?v=WTESmsletG4&t=453s) that I am that white light.
+- [00:07:37](https://www.youtube.com/watch?v=WTESmsletG4&t=457s) I'm not separate from it.
+- [00:07:39](https://www.youtube.com/watch?v=WTESmsletG4&t=459s) I just had the illusion that I had always been separate from it.
+- [00:07:42](https://www.youtube.com/watch?v=WTESmsletG4&t=462s) So while I was a part of it,
+- [00:07:45](https://www.youtube.com/watch?v=WTESmsletG4&t=465s) I really sensed that separation being healed as well.
+- [00:07:53](https://www.youtube.com/watch?v=WTESmsletG4&t=473s) I knew that I was dead.
+- [00:07:56](https://www.youtube.com/watch?v=WTESmsletG4&t=476s) I knew that my physical body
+- [00:07:59](https://www.youtube.com/watch?v=WTESmsletG4&t=479s) was no longer working and that I was no longer a part of it.
+- [00:08:03](https://www.youtube.com/watch?v=WTESmsletG4&t=483s) And I was fine with it.
+- [00:08:05](https://www.youtube.com/watch?v=WTESmsletG4&t=485s) It didn't scare me.
+- [00:08:07](https://www.youtube.com/watch?v=WTESmsletG4&t=487s) It just felt like this is how it's meant to be.
+- [00:08:11](https://www.youtube.com/watch?v=WTESmsletG4&t=491s) It almost started feeling like my life
+- [00:08:14](https://www.youtube.com/watch?v=WTESmsletG4&t=494s) was becoming a distant memory.
+- [00:08:17](https://www.youtube.com/watch?v=WTESmsletG4&t=497s) It felt so much like home to be in that light
+- [00:08:22](https://www.youtube.com/watch?v=WTESmsletG4&t=502s) that there was no other place I wanted to be at that point.
+- [00:08:26](https://www.youtube.com/watch?v=WTESmsletG4&t=506s) There's no place that feels as good
+- [00:08:29](https://www.youtube.com/watch?v=WTESmsletG4&t=509s) as that light feels.
+- [00:08:34](https://www.youtube.com/watch?v=WTESmsletG4&t=514s) At that point, I wasn't thinking a lot about the people that I had left behind.
+- [00:08:38](https://www.youtube.com/watch?v=WTESmsletG4&t=518s) I wonder if I had stayed longer,
+- [00:08:42](https://www.youtube.com/watch?v=WTESmsletG4&t=522s) if that would have come into play.
+- [00:08:44](https://www.youtube.com/watch?v=WTESmsletG4&t=524s) At the time of my NDE [Near-Death Experience], I wasn't a mom yet and I'm a mom now.
+- [00:08:49](https://www.youtube.com/watch?v=WTESmsletG4&t=529s) I wonder a lot how that would feel different
+- [00:08:54](https://www.youtube.com/watch?v=WTESmsletG4&t=534s) to have a child that I had left behind.
+- [00:08:59](https://www.youtube.com/watch?v=WTESmsletG4&t=539s) There’s just a sense that everyone's going to be okay.
+- [00:09:04](https://www.youtube.com/watch?v=WTESmsletG4&t=544s) Everything's happening the way that it's supposed to be happening,
+- [00:09:08](https://www.youtube.com/watch?v=WTESmsletG4&t=548s) and we're all taken care of,
+- [00:09:11](https://www.youtube.com/watch?v=WTESmsletG4&t=551s) and that it's all perfect the way that it's happening.
+- [00:09:17](https://www.youtube.com/watch?v=WTESmsletG4&t=557s) Even when I say that now,
+- [00:09:18](https://www.youtube.com/watch?v=WTESmsletG4&t=558s) now that I'm back in a body and I'm back in this physical world,
+- [00:09:23](https://www.youtube.com/watch?v=WTESmsletG4&t=563s) when I say, “I knew all was well,”
+- [00:09:26](https://www.youtube.com/watch?v=WTESmsletG4&t=566s) there's still that part of me that goes, “What?”
+- [00:09:29](https://www.youtube.com/watch?v=WTESmsletG4&t=569s) It doesn't make sense to me as a human being now.
+- [00:09:33](https://www.youtube.com/watch?v=WTESmsletG4&t=573s) But when we're out of our bodies,
+- [00:09:37](https://www.youtube.com/watch?v=WTESmsletG4&t=577s) you have a 360 degree perspective.
+- [00:09:41](https://www.youtube.com/watch?v=WTESmsletG4&t=581s) You're not limited by your body.
+- [00:09:43](https://www.youtube.com/watch?v=WTESmsletG4&t=583s) You're not limited by your brain.
+- [00:09:46](https://www.youtube.com/watch?v=WTESmsletG4&t=586s) You're not limited by your ego because all of that is stripped away.
+- [00:09:50](https://www.youtube.com/watch?v=WTESmsletG4&t=590s) And when you do have that broad 360 degree perspective
+- [00:09:56](https://www.youtube.com/watch?v=WTESmsletG4&t=596s) feeling that “all is well” makes sense.
+- [00:10:01](https://www.youtube.com/watch?v=WTESmsletG4&t=601s) You understand that everything happens for a reason.
+- [00:10:06](https://www.youtube.com/watch?v=WTESmsletG4&t=606s) Everything is happening exactly as it should be.
+- [00:10:11](https://www.youtube.com/watch?v=WTESmsletG4&t=611s) And there's a lot of peace that goes along with that.
+- [00:10:15](https://www.youtube.com/watch?v=WTESmsletG4&t=615s) That need to control
+- [00:10:19](https://www.youtube.com/watch?v=WTESmsletG4&t=619s) completely disappears.
+- [00:10:21](https://www.youtube.com/watch?v=WTESmsletG4&t=621s) You just allow everything to be what it is.
+- [00:10:26](https://www.youtube.com/watch?v=WTESmsletG4&t=626s) After I was bathing in the light for awhile
+- [00:10:29](https://www.youtube.com/watch?v=WTESmsletG4&t=629s) and really soaking that up and starting to feel really good,
+- [00:10:33](https://www.youtube.com/watch?v=WTESmsletG4&t=633s) I did start to notice what I think
+- [00:10:36](https://www.youtube.com/watch?v=WTESmsletG4&t=636s) were other souls coming in around me.
+- [00:10:40](https://www.youtube.com/watch?v=WTESmsletG4&t=640s) It felt like a crowd coming toward me.
+- [00:10:43](https://www.youtube.com/watch?v=WTESmsletG4&t=643s) It felt like a friendly crowd.
+- [00:10:45](https://www.youtube.com/watch?v=WTESmsletG4&t=645s) I wasn't scared or intimidated, but I didn't have enough time
+- [00:10:50](https://www.youtube.com/watch?v=WTESmsletG4&t=650s) to understand exactly what that was.
+- [00:10:54](https://www.youtube.com/watch?v=WTESmsletG4&t=654s) Because at that moment I heard that inaudible voice
+- [00:11:00](https://www.youtube.com/watch?v=WTESmsletG4&t=660s) say to me, You need to go back.
+- [00:11:04](https://www.youtube.com/watch?v=WTESmsletG4&t=664s) And that's not what I wanted to hear.
+- [00:11:07](https://www.youtube.com/watch?v=WTESmsletG4&t=667s) No, no, no. I don't want to go.
+- [00:11:09](https://www.youtube.com/watch?v=WTESmsletG4&t=669s) Please don't make me go back because it was so beautiful there.
+- [00:11:14](https://www.youtube.com/watch?v=WTESmsletG4&t=674s) Then I heard the voice again.
+- [00:11:16](https://www.youtube.com/watch?v=WTESmsletG4&t=676s) I get emotional about it even now.
+- [00:11:19](https://www.youtube.com/watch?v=WTESmsletG4&t=679s) I heard the voice again.
+- [00:11:21](https://www.youtube.com/watch?v=WTESmsletG4&t=681s) It said, You need to go back.
+- [00:11:23](https://www.youtube.com/watch?v=WTESmsletG4&t=683s) It was loving, but it was a firm voice
+- [00:11:26](https://www.youtube.com/watch?v=WTESmsletG4&t=686s) letting me know that this is not a negotiation.
+- [00:11:29](https://www.youtube.com/watch?v=WTESmsletG4&t=689s) It was time to go back.
+- [00:11:31](https://www.youtube.com/watch?v=WTESmsletG4&t=691s) I persisted with the protesting.
+- [00:11:34](https://www.youtube.com/watch?v=WTESmsletG4&t=694s) I said, No, please don't make me go back.
+- [00:11:37](https://www.youtube.com/watch?v=WTESmsletG4&t=697s) And right at that moment, I felt
+- [00:11:40](https://www.youtube.com/watch?v=WTESmsletG4&t=700s) almost like I was nudged back into the tunnel.
+- [00:11:44](https://www.youtube.com/watch?v=WTESmsletG4&t=704s) I went backwards very fast into the tunnel,
+- [00:11:48](https://www.youtube.com/watch?v=WTESmsletG4&t=708s) very quickly back into my body.
+- [00:11:51](https://www.youtube.com/watch?v=WTESmsletG4&t=711s) I entered my body through the top of my head.
+- [00:11:54](https://www.youtube.com/watch?v=WTESmsletG4&t=714s) It felt like I was being sucked back into my body.
+- [00:11:58](https://www.youtube.com/watch?v=WTESmsletG4&t=718s) I felt the pain returning.
+- [00:12:01](https://www.youtube.com/watch?v=WTESmsletG4&t=721s) But it was very quick.
+- [00:12:02](https://www.youtube.com/watch?v=WTESmsletG4&t=722s) It was just enough for me to know
+- [00:12:06](https://www.youtube.com/watch?v=WTESmsletG4&t=726s) I'm back in, I'm back in this world.
+- [00:12:08](https://www.youtube.com/watch?v=WTESmsletG4&t=728s) Then I don't remember anything for several hours after that.
+- [00:12:13](https://www.youtube.com/watch?v=WTESmsletG4&t=733s) When I woke up in pre-op [before surgery],
+- [00:12:16](https://www.youtube.com/watch?v=WTESmsletG4&t=736s) this was on a weekend and it was very late at night.
+- [00:12:19](https://www.youtube.com/watch?v=WTESmsletG4&t=739s) I think it was at about nine or 10 p.m..
+- [00:12:22](https://www.youtube.com/watch?v=WTESmsletG4&t=742s) That part of the hospital was very empty.
+- [00:12:25](https://www.youtube.com/watch?v=WTESmsletG4&t=745s) I knew that I had died.
+- [00:12:28](https://www.youtube.com/watch?v=WTESmsletG4&t=748s) I knew that I had gone into this beautiful
+- [00:12:33](https://www.youtube.com/watch?v=WTESmsletG4&t=753s) white light that loved me.
+- [00:12:36](https://www.youtube.com/watch?v=WTESmsletG4&t=756s) But when I opened my eyes I was receiving last rites,
+- [00:12:40](https://www.youtube.com/watch?v=WTESmsletG4&t=760s) and I thought, This is odd.
+- [00:12:44](https://www.youtube.com/watch?v=WTESmsletG4&t=764s) It didn't make sense to me, and I was also trying to understand
+- [00:12:48](https://www.youtube.com/watch?v=WTESmsletG4&t=768s) what was going on around me.
+- [00:12:50](https://www.youtube.com/watch?v=WTESmsletG4&t=770s) I was trying to figure out what the physical world was about
+- [00:12:53](https://www.youtube.com/watch?v=WTESmsletG4&t=773s) because it was almost like I had lost the memory
+- [00:12:56](https://www.youtube.com/watch?v=WTESmsletG4&t=776s) of what these machines were and what all these people were doing.
+- [00:13:01](https://www.youtube.com/watch?v=WTESmsletG4&t=781s) But I wasn't able to communicate verbally at that point.
+- [00:13:05](https://www.youtube.com/watch?v=WTESmsletG4&t=785s) But as I was receiving last rites,
+- [00:13:09](https://www.youtube.com/watch?v=WTESmsletG4&t=789s) I had all these people around me.
+- [00:13:11](https://www.youtube.com/watch?v=WTESmsletG4&t=791s) The way people look at you when they think you're going to die,
+- [00:13:16](https://www.youtube.com/watch?v=WTESmsletG4&t=796s) I've never been looked at like that before in my life.
+- [00:13:20](https://www.youtube.com/watch?v=WTESmsletG4&t=800s) Family members and my doctor,
+- [00:13:23](https://www.youtube.com/watch?v=WTESmsletG4&t=803s) my surgeon, I remember especially the look that they get in their eyes.
+- [00:13:27](https://www.youtube.com/watch?v=WTESmsletG4&t=807s) I've never seen that before and I remember feeling their pain and concern.
+- [00:13:32](https://www.youtube.com/watch?v=WTESmsletG4&t=812s) I wanted to say, What are you guys worried about?
+- [00:13:36](https://www.youtube.com/watch?v=WTESmsletG4&t=816s) If I was supposed to die
+- [00:13:38](https://www.youtube.com/watch?v=WTESmsletG4&t=818s) I would’ve been dead before,
+- [00:13:40](https://www.youtube.com/watch?v=WTESmsletG4&t=820s) I wouldn't have been sent back.
+- [00:13:42](https://www.youtube.com/watch?v=WTESmsletG4&t=822s) But I wasn't able to communicate that at that time.
+- [00:13:46](https://www.youtube.com/watch?v=WTESmsletG4&t=826s) The next morning, when I woke up
+- [00:13:48](https://www.youtube.com/watch?v=WTESmsletG4&t=828s) my fever had been 106 [41°C], but it went down to 94 degrees [34°C],
+- [00:13:53](https://www.youtube.com/watch?v=WTESmsletG4&t=833s) which is very dangerous.
+- [00:13:56](https://www.youtube.com/watch?v=WTESmsletG4&t=836s) The doctor explained to me that I had a kidney stone
+- [00:14:00](https://www.youtube.com/watch?v=WTESmsletG4&t=840s) that had become lodged in my ureter and it was stuck.
+- [00:14:04](https://www.youtube.com/watch?v=WTESmsletG4&t=844s) So everything... all of the toxins that were meant to filter out
+- [00:14:09](https://www.youtube.com/watch?v=WTESmsletG4&t=849s) were going back into my bloodstream.
+- [00:14:12](https://www.youtube.com/watch?v=WTESmsletG4&t=852s) My entire blood supply had become infected
+- [00:14:15](https://www.youtube.com/watch?v=WTESmsletG4&t=855s) and I had gone into septic shock.
+- [00:14:18](https://www.youtube.com/watch?v=WTESmsletG4&t=858s) They were saying the next 24 hours were critical.
+- [00:14:21](https://www.youtube.com/watch?v=WTESmsletG4&t=861s) We needed to watch what was going on with my internal organs
+- [00:14:26](https://www.youtube.com/watch?v=WTESmsletG4&t=866s) and again, I just wanted to say,
+- [00:14:31](https://www.youtube.com/watch?v=WTESmsletG4&t=871s) Everything's fine,
+- [00:14:32](https://www.youtube.com/watch?v=WTESmsletG4&t=872s) I'm going to be fine.
+- [00:14:33](https://www.youtube.com/watch?v=WTESmsletG4&t=873s) I know that, or I wouldn't be back here.
+- [00:14:37](https://www.youtube.com/watch?v=WTESmsletG4&t=877s) I was still very sick, though.
+- [00:14:39](https://www.youtube.com/watch?v=WTESmsletG4&t=879s) I was still having a lot of physical pain and a lot of physical problems.
+- [00:14:43](https://www.youtube.com/watch?v=WTESmsletG4&t=883s) But I was having this dance with myself
+- [00:14:47](https://www.youtube.com/watch?v=WTESmsletG4&t=887s) where I was kind of floating out and then I would float back in.
+- [00:14:52](https://www.youtube.com/watch?v=WTESmsletG4&t=892s) It was almost like I was trying to work my way back into my body fully.
+- [00:14:56](https://www.youtube.com/watch?v=WTESmsletG4&t=896s) And I was uncomfortable with everything around me
+- [00:15:01](https://www.youtube.com/watch?v=WTESmsletG4&t=901s) that was man-made: the machines that I was hooked up to,
+- [00:15:05](https://www.youtube.com/watch?v=WTESmsletG4&t=905s) the supplies that were there in the hospital.
+- [00:15:09](https://www.youtube.com/watch?v=WTESmsletG4&t=909s) The only thing that felt okay to me
+- [00:15:12](https://www.youtube.com/watch?v=WTESmsletG4&t=912s) at that point were the people that were around me.
+- [00:15:15](https://www.youtube.com/watch?v=WTESmsletG4&t=915s) I could identify with other souls.
+- [00:15:19](https://www.youtube.com/watch?v=WTESmsletG4&t=919s) I was very fortunate to have a big window
+- [00:15:23](https://www.youtube.com/watch?v=WTESmsletG4&t=923s) in the hospital room that I was in that had beautiful trees outside of it.
+- [00:15:28](https://www.youtube.com/watch?v=WTESmsletG4&t=928s) I spent a lot of time just staring at those trees
+- [00:15:32](https://www.youtube.com/watch?v=WTESmsletG4&t=932s) because that was what I was truly connecting with,
+- [00:15:37](https://www.youtube.com/watch?v=WTESmsletG4&t=937s) that nature is what felt the most like that white light to me.
+- [00:15:44](https://www.youtube.com/watch?v=WTESmsletG4&t=944s) I was sick for about three months after that.
+- [00:15:48](https://www.youtube.com/watch?v=WTESmsletG4&t=948s) I had surgeries that followed.
+- [00:15:50](https://www.youtube.com/watch?v=WTESmsletG4&t=950s) My adrenal system was really taxed by everything it had been through,
+- [00:15:55](https://www.youtube.com/watch?v=WTESmsletG4&t=955s) and I was experiencing extreme exhaustion because of that.
+- [00:15:59](https://www.youtube.com/watch?v=WTESmsletG4&t=959s) I was also still taking a lot of pain medication,
+- [00:16:03](https://www.youtube.com/watch?v=WTESmsletG4&t=963s) and I had the effects of my NDE.
+- [00:16:06](https://www.youtube.com/watch?v=WTESmsletG4&t=966s) I was recalling what had happened and I knew that it was very real.
+- [00:16:11](https://www.youtube.com/watch?v=WTESmsletG4&t=971s) I tried to talk to a couple of people about it,
+- [00:16:16](https://www.youtube.com/watch?v=WTESmsletG4&t=976s) two people that  I was very close to.
+- [00:16:19](https://www.youtube.com/watch?v=WTESmsletG4&t=979s) And they rejected. They rejected it.
+- [00:16:22](https://www.youtube.com/watch?v=WTESmsletG4&t=982s) I think it's because when your family or someone that loves you,
+- [00:16:27](https://www.youtube.com/watch?v=WTESmsletG4&t=987s) watches you die, that's very traumatic for them.
+- [00:16:31](https://www.youtube.com/watch?v=WTESmsletG4&t=991s) Then they see you recovering and see you starting to feel better.
+- [00:16:36](https://www.youtube.com/watch?v=WTESmsletG4&t=996s) I don't think that they wanted to hear about death
+- [00:16:39](https://www.youtube.com/watch?v=WTESmsletG4&t=999s) and they didn't want to hear  about the white light.
+- [00:16:42](https://www.youtube.com/watch?v=WTESmsletG4&t=1002s) Then I also made the mistake of mentioning it to my surgeon,
+- [00:16:46](https://www.youtube.com/watch?v=WTESmsletG4&t=1006s) and he laughed at me.
+- [00:16:48](https://www.youtube.com/watch?v=WTESmsletG4&t=1008s) So I just kept quiet about it  during that time,
+- [00:16:51](https://www.youtube.com/watch?v=WTESmsletG4&t=1011s) and doubt started to creep in.
+- [00:16:54](https://www.youtube.com/watch?v=WTESmsletG4&t=1014s) I was on heavy duty pain medication
+- [00:16:57](https://www.youtube.com/watch?v=WTESmsletG4&t=1017s) and I thought, Maybe  I'm having these recollections
+- [00:17:02](https://www.youtube.com/watch?v=WTESmsletG4&t=1022s) and these experiences as a result of the pain medication.
+- [00:17:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1026s) Maybe once I'm off the pain pills,
+- [00:17:08](https://www.youtube.com/watch?v=WTESmsletG4&t=1028s) life will just go back to normal again.
+- [00:17:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1032s) But as soon as I was fully recovered,
+- [00:17:15](https://www.youtube.com/watch?v=WTESmsletG4&t=1035s) fully off the pain medication, things became more intense.
+- [00:17:19](https://www.youtube.com/watch?v=WTESmsletG4&t=1039s) The memory of the white light, the memory of everything
+- [00:17:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1043s) that led up to going into the light, became more intense.
+- [00:17:26](https://www.youtube.com/watch?v=WTESmsletG4&t=1046s) What I now realize is pain medication
+- [00:17:31](https://www.youtube.com/watch?v=WTESmsletG4&t=1051s) was clouding everything for me and muting everything for me.
+- [00:17:35](https://www.youtube.com/watch?v=WTESmsletG4&t=1055s) And as soon as I was off of all of that,
+- [00:17:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1058s) things started to become crystal clear.
+- [00:17:41](https://www.youtube.com/watch?v=WTESmsletG4&t=1061s) The memory of what happened, and how extraordinary it was,
+- [00:17:47](https://www.youtube.com/watch?v=WTESmsletG4&t=1067s) really started to sink in.
+- [00:17:57](https://www.youtube.com/watch?v=WTESmsletG4&t=1077s) I started noticing the morning after
+- [00:18:00](https://www.youtube.com/watch?v=WTESmsletG4&t=1080s) my NDE that I had these increased sensitivities.
+- [00:18:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1086s) People that were  coming in and out of my room,
+- [00:18:09](https://www.youtube.com/watch?v=WTESmsletG4&t=1089s) I was picking up on their thoughts.
+- [00:18:11](https://www.youtube.com/watch?v=WTESmsletG4&t=1091s) I knew what they were thinking.
+- [00:18:14](https://www.youtube.com/watch?v=WTESmsletG4&t=1094s) I could feel what they were feeling.
+- [00:18:17](https://www.youtube.com/watch?v=WTESmsletG4&t=1097s) In a way, I didn't know if I was making that up
+- [00:18:21](https://www.youtube.com/watch?v=WTESmsletG4&t=1101s) or if I really was picking up on these thoughts and feelings of other people,
+- [00:18:27](https://www.youtube.com/watch?v=WTESmsletG4&t=1107s) if I really was an empath.
+- [00:18:29](https://www.youtube.com/watch?v=WTESmsletG4&t=1109s) I would have conversations  with other people
+- [00:18:33](https://www.youtube.com/watch?v=WTESmsletG4&t=1113s) and I would say something to them and they would just look at me.
+- [00:18:37](https://www.youtube.com/watch?v=WTESmsletG4&t=1117s) They’d go, How do you know that?
+- [00:18:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1118s) I started realizing the experience that I was having
+- [00:18:43](https://www.youtube.com/watch?v=WTESmsletG4&t=1123s) was different than what the people around me were having.
+- [00:18:47](https://www.youtube.com/watch?v=WTESmsletG4&t=1127s) But I was picking up on thoughts that were accurate
+- [00:18:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1130s) because they didn't know how
+- [00:18:52](https://www.youtube.com/watch?v=WTESmsletG4&t=1132s) I knew that that was what was going on with them.
+- [00:18:56](https://www.youtube.com/watch?v=WTESmsletG4&t=1136s) And that was a lot, a lot to navigate.
+- [00:19:00](https://www.youtube.com/watch?v=WTESmsletG4&t=1140s) The hardest part was, and still is,
+- [00:19:03](https://www.youtube.com/watch?v=WTESmsletG4&t=1143s) feeling what everybody else feels, because it can be
+- [00:19:07](https://www.youtube.com/watch?v=WTESmsletG4&t=1147s) very overwhelming at times.
+- [00:19:11](https://www.youtube.com/watch?v=WTESmsletG4&t=1151s) I was having a harder time
+- [00:19:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1152s) going out, leaving the house.
+- [00:19:15](https://www.youtube.com/watch?v=WTESmsletG4&t=1155s) It was too chaotic there, energetically, for me.
+- [00:19:20](https://www.youtube.com/watch?v=WTESmsletG4&t=1160s) I was becoming so overwhelmed
+- [00:19:22](https://www.youtube.com/watch?v=WTESmsletG4&t=1162s) by everything that was going on around me
+- [00:19:26](https://www.youtube.com/watch?v=WTESmsletG4&t=1166s) and I had no idea how to manage the loudness of the world.
+- [00:19:31](https://www.youtube.com/watch?v=WTESmsletG4&t=1171s) Everything felt so loud and amplified to me
+- [00:19:34](https://www.youtube.com/watch?v=WTESmsletG4&t=1174s) that I started staying home more and more.
+- [00:19:37](https://www.youtube.com/watch?v=WTESmsletG4&t=1177s) I only left for work, and that was when I absolutely had to.
+- [00:19:43](https://www.youtube.com/watch?v=WTESmsletG4&t=1183s) But I was only 34 at that time
+- [00:19:45](https://www.youtube.com/watch?v=WTESmsletG4&t=1185s) and I knew that I had a lot of years
+- [00:19:49](https://www.youtube.com/watch?v=WTESmsletG4&t=1189s) ahead of me and I knew that I couldn't spend that time at home.
+- [00:19:53](https://www.youtube.com/watch?v=WTESmsletG4&t=1193s) I had to figure out how to be a part of the world again.
+- [00:19:59](https://www.youtube.com/watch?v=WTESmsletG4&t=1199s) I lost a lot of relationships after my near-death experience.
+- [00:20:04](https://www.youtube.com/watch?v=WTESmsletG4&t=1204s) I was a completely different person
+- [00:20:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1206s) after that happened, and they didn't know who I was.
+- [00:20:10](https://www.youtube.com/watch?v=WTESmsletG4&t=1210s) I didn't know who I was, at first.
+- [00:20:14](https://www.youtube.com/watch?v=WTESmsletG4&t=1214s) And so, when you become a completely different person,
+- [00:20:18](https://www.youtube.com/watch?v=WTESmsletG4&t=1218s) it's really hard to relate to people.
+- [00:20:22](https://www.youtube.com/watch?v=WTESmsletG4&t=1222s) Relationships start to change.
+- [00:20:24](https://www.youtube.com/watch?v=WTESmsletG4&t=1224s) I had this really big extraordinary thing that happened to me
+- [00:20:29](https://www.youtube.com/watch?v=WTESmsletG4&t=1229s) and I realized that I couldn't talk to the people that were in my life.
+- [00:20:35](https://www.youtube.com/watch?v=WTESmsletG4&t=1235s) And that's very sad. That hurt.
+- [00:20:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1238s) We all drifted apart,
+- [00:20:40](https://www.youtube.com/watch?v=WTESmsletG4&t=1240s) friends, family members.
+- [00:20:43](https://www.youtube.com/watch?v=WTESmsletG4&t=1243s) It was very difficult, very complicated.
+- [00:20:48](https://www.youtube.com/watch?v=WTESmsletG4&t=1248s) I needed to make a career change at that point.
+- [00:20:52](https://www.youtube.com/watch?v=WTESmsletG4&t=1252s) Selling real estate,
+- [00:20:53](https://www.youtube.com/watch?v=WTESmsletG4&t=1253s) I see the significance in it, helping people find a home
+- [00:20:56](https://www.youtube.com/watch?v=WTESmsletG4&t=1256s) to raise their families in.
+- [00:20:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1258s) But the business world, I couldn't stomach the business world anymore.
+- [00:21:04](https://www.youtube.com/watch?v=WTESmsletG4&t=1264s) It was a little too harsh for me.
+- [00:21:08](https://www.youtube.com/watch?v=WTESmsletG4&t=1268s) I was no longer competitive at all.
+- [00:21:11](https://www.youtube.com/watch?v=WTESmsletG4&t=1271s) I went from being a competitive personality
+- [00:21:14](https://www.youtube.com/watch?v=WTESmsletG4&t=1274s) to someone who just wanted  to collaborate and to love,
+- [00:21:19](https://www.youtube.com/watch?v=WTESmsletG4&t=1279s) and there's not a lot of space for that
+- [00:21:22](https://www.youtube.com/watch?v=WTESmsletG4&t=1282s) in the business world.
+- [00:21:25](https://www.youtube.com/watch?v=WTESmsletG4&t=1285s) I knew I needed to make a career change.
+- [00:21:27](https://www.youtube.com/watch?v=WTESmsletG4&t=1287s) I didn't know what it would be.
+- [00:21:29](https://www.youtube.com/watch?v=WTESmsletG4&t=1289s) So I did some hospice work
+- [00:21:32](https://www.youtube.com/watch?v=WTESmsletG4&t=1292s) as I was in the middle of moving into healing work.
+- [00:21:36](https://www.youtube.com/watch?v=WTESmsletG4&t=1296s) And hospice, that was a great training ground for me
+- [00:21:41](https://www.youtube.com/watch?v=WTESmsletG4&t=1301s) and it was also a great way for me
+- [00:21:44](https://www.youtube.com/watch?v=WTESmsletG4&t=1304s) to get back into that white light.
+- [00:21:47](https://www.youtube.com/watch?v=WTESmsletG4&t=1307s) Because when I was working with patients
+- [00:21:51](https://www.youtube.com/watch?v=WTESmsletG4&t=1311s) that were especially pre-active
+- [00:21:54](https://www.youtube.com/watch?v=WTESmsletG4&t=1314s) or actively getting ready to transition out of their bodies,
+- [00:21:59](https://www.youtube.com/watch?v=WTESmsletG4&t=1319s) that white light is all around them, and light beings,
+- [00:22:04](https://www.youtube.com/watch?v=WTESmsletG4&t=1324s) and that presence of love, is so much a part
+- [00:22:08](https://www.youtube.com/watch?v=WTESmsletG4&t=1328s) of what they're experiencing.
+- [00:22:11](https://www.youtube.com/watch?v=WTESmsletG4&t=1331s) They all had different religious beliefs
+- [00:22:14](https://www.youtube.com/watch?v=WTESmsletG4&t=1334s) and they were all different ages with different backgrounds.
+- [00:22:19](https://www.youtube.com/watch?v=WTESmsletG4&t=1339s) It's not uncommon for people
+- [00:22:21](https://www.youtube.com/watch?v=WTESmsletG4&t=1341s) to have that fear of letting go of their bodies.
+- [00:22:25](https://www.youtube.com/watch?v=WTESmsletG4&t=1345s) They all have various reasons for that.
+- [00:22:27](https://www.youtube.com/watch?v=WTESmsletG4&t=1347s) Sometimes they're very attached to the physical world.
+- [00:22:30](https://www.youtube.com/watch?v=WTESmsletG4&t=1350s) Sometimes they may be worried about some of the ways that they lived
+- [00:22:34](https://www.youtube.com/watch?v=WTESmsletG4&t=1354s) their lives, and so they have fear of what could be next for them.
+- [00:22:40](https://www.youtube.com/watch?v=WTESmsletG4&t=1360s) But, no matter what,
+- [00:22:42](https://www.youtube.com/watch?v=WTESmsletG4&t=1362s) as soon as they’re 24 hours out from passing, they're all peaceful.
+- [00:22:48](https://www.youtube.com/watch?v=WTESmsletG4&t=1368s) They're all beginning their transition at that point,
+- [00:22:53](https://www.youtube.com/watch?v=WTESmsletG4&t=1373s) and they're feeling that love.
+- [00:22:55](https://www.youtube.com/watch?v=WTESmsletG4&t=1375s) They're in process at that time and the peace really sets in.
+- [00:23:01](https://www.youtube.com/watch?v=WTESmsletG4&t=1381s) I remember I worked at an inpatient hospice facility
+- [00:23:05](https://www.youtube.com/watch?v=WTESmsletG4&t=1385s) and I would always go at night on the weekdays because it was very quiet then
+- [00:23:10](https://www.youtube.com/watch?v=WTESmsletG4&t=1390s) and that's when I liked to go into work the most.
+- [00:23:13](https://www.youtube.com/watch?v=WTESmsletG4&t=1393s) But there was one morning,  I think it was a Sunday morning,
+- [00:23:18](https://www.youtube.com/watch?v=WTESmsletG4&t=1398s) where I got a call from the director and she said,
+- [00:23:21](https://www.youtube.com/watch?v=WTESmsletG4&t=1401s) Jane, is there any way  that you can come in?
+- [00:23:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1403s) We've got a gentleman here who hasn't had
+- [00:23:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1408s) a single family member or friend come to visit him.
+- [00:23:32](https://www.youtube.com/watch?v=WTESmsletG4&t=1412s) He's been alone this whole time and we feel sorry for him.
+- [00:23:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1418s) Can you just come and sit with him and hold some space for him?
+- [00:23:41](https://www.youtube.com/watch?v=WTESmsletG4&t=1421s) She said, He's not conscious, but I know that he'll feel you there.
+- [00:23:46](https://www.youtube.com/watch?v=WTESmsletG4&t=1426s) I remember when I walked in the room, I could feel that peace
+- [00:23:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1430s) I could feel that love, I could feel that presence there for him.
+- [00:23:53](https://www.youtube.com/watch?v=WTESmsletG4&t=1433s) We knew that he would probably pass probably by the end of that day.
+- [00:23:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1438s) We knew it was very soon.
+- [00:24:01](https://www.youtube.com/watch?v=WTESmsletG4&t=1441s) When I walked into the room and I felt that presence,
+- [00:24:04](https://www.youtube.com/watch?v=WTESmsletG4&t=1444s) I felt like I needed to stand back
+- [00:24:08](https://www.youtube.com/watch?v=WTESmsletG4&t=1448s) because what I was feeling and sensing around him,
+- [00:24:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1452s) I felt that if I moved in too closely
+- [00:24:16](https://www.youtube.com/watch?v=WTESmsletG4&t=1456s) that I would almost be  interfering with this
+- [00:24:20](https://www.youtube.com/watch?v=WTESmsletG4&t=1460s) beautiful experience that this man was having.
+- [00:24:24](https://www.youtube.com/watch?v=WTESmsletG4&t=1464s) He didn't feel alone.
+- [00:24:25](https://www.youtube.com/watch?v=WTESmsletG4&t=1465s) He could feel all of the love
+- [00:24:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1468s) around him.
+- [00:24:30](https://www.youtube.com/watch?v=WTESmsletG4&t=1470s) I wasn't needed at that point, and I watched for a little while
+- [00:24:35](https://www.youtube.com/watch?v=WTESmsletG4&t=1475s) and then I felt like it was my time to walk out of the room
+- [00:24:40](https://www.youtube.com/watch?v=WTESmsletG4&t=1480s) and to let his soul have that moment.
+- [00:24:44](https://www.youtube.com/watch?v=WTESmsletG4&t=1484s) Because he didn't have anybody  coming to see him.
+- [00:24:48](https://www.youtube.com/watch?v=WTESmsletG4&t=1488s) So he must have led some type of  a lonely or isolated life.
+- [00:24:52](https://www.youtube.com/watch?v=WTESmsletG4&t=1492s) And there's pain that goes along with that.
+- [00:24:54](https://www.youtube.com/watch?v=WTESmsletG4&t=1494s) But what I saw him experiencing at the end
+- [00:24:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1498s) was that
+- [00:25:01](https://www.youtube.com/watch?v=WTESmsletG4&t=1501s) he was completely loved
+- [00:25:03](https://www.youtube.com/watch?v=WTESmsletG4&t=1503s) and he's completely welcome into that love.
+- [00:25:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1506s) That was one of the most beautiful moments that I experienced
+- [00:25:11](https://www.youtube.com/watch?v=WTESmsletG4&t=1511s) doing hospice work.
+- [00:25:22](https://www.youtube.com/watch?v=WTESmsletG4&t=1522s) I needed to do my own healing work and experience my own healing
+- [00:25:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1528s) before I was able to fully move into this.
+- [00:25:32](https://www.youtube.com/watch?v=WTESmsletG4&t=1532s) I was still dealing so much
+- [00:25:35](https://www.youtube.com/watch?v=WTESmsletG4&t=1535s) from the pain of isolating after my NDE.
+- [00:25:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1538s) And so I learned a lot by going through that experience myself.
+- [00:25:43](https://www.youtube.com/watch?v=WTESmsletG4&t=1543s) I started realizing that I was able
+- [00:25:47](https://www.youtube.com/watch?v=WTESmsletG4&t=1547s) to move energy and that scared me at first.
+- [00:25:51](https://www.youtube.com/watch?v=WTESmsletG4&t=1551s) I didn't know what it meant and I didn't know how to do it.
+- [00:25:54](https://www.youtube.com/watch?v=WTESmsletG4&t=1554s) I didn't know who to talk to about it.
+- [00:25:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1558s) A therapist that I was seeing, I remember her saying to me,
+- [00:26:02](https://www.youtube.com/watch?v=WTESmsletG4&t=1562s) she said, Jane, when you talk, I can feel that white light.
+- [00:26:07](https://www.youtube.com/watch?v=WTESmsletG4&t=1567s) I can feel the qualities of that white light coming out of you.
+- [00:26:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1572s) She said, I bet you one day you're going to be able to fill
+- [00:26:17](https://www.youtube.com/watch?v=WTESmsletG4&t=1577s) a whole room with the energy of that white light.
+- [00:26:22](https://www.youtube.com/watch?v=WTESmsletG4&t=1582s) I was intimidated by that,
+- [00:26:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1583s) but I thought that would be amazing if I could do that.
+- [00:26:27](https://www.youtube.com/watch?v=WTESmsletG4&t=1587s) She said, You need to start practicing.
+- [00:26:29](https://www.youtube.com/watch?v=WTESmsletG4&t=1589s) And I thought, I don't know  what that means, to start practicing.
+- [00:26:33](https://www.youtube.com/watch?v=WTESmsletG4&t=1593s) But I just started playing  around with it and,
+- [00:26:36](https://www.youtube.com/watch?v=WTESmsletG4&t=1596s) you know, filling up a corner with white light,
+- [00:26:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1598s) just channeling, really, but feeling that come through me
+- [00:26:43](https://www.youtube.com/watch?v=WTESmsletG4&t=1603s) and trying to fill up a space energetically with it.
+- [00:26:47](https://www.youtube.com/watch?v=WTESmsletG4&t=1607s) It took a lot of practice and fine tuning,
+- [00:26:52](https://www.youtube.com/watch?v=WTESmsletG4&t=1612s) but once I was able to do that, I started to realize that I could do that
+- [00:26:57](https://www.youtube.com/watch?v=WTESmsletG4&t=1617s) with my own energetic space and with other people's energetic space.
+- [00:27:03](https://www.youtube.com/watch?v=WTESmsletG4&t=1623s) I wanted to be really responsible about it.
+- [00:27:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1626s) So I took classes with healers
+- [00:27:10](https://www.youtube.com/watch?v=WTESmsletG4&t=1630s) that I really trusted, healers that are very ethical.
+- [00:27:14](https://www.youtube.com/watch?v=WTESmsletG4&t=1634s) Reiki was the first thing that I did.
+- [00:27:18](https://www.youtube.com/watch?v=WTESmsletG4&t=1638s) I just learned how to use my body and my nervous system
+- [00:27:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1643s) almost as a map for what other people are experiencing,
+- [00:27:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1648s) then learning how to move out what's not working anymore,
+- [00:27:33](https://www.youtube.com/watch?v=WTESmsletG4&t=1653s) what's low vibration or what's harmful or what is trauma,
+- [00:27:39](https://www.youtube.com/watch?v=WTESmsletG4&t=1659s) how to process that and move it out and then fill it back up with love.
+- [00:27:44](https://www.youtube.com/watch?v=WTESmsletG4&t=1664s) That's what I got during my NDE
+- [00:27:48](https://www.youtube.com/watch?v=WTESmsletG4&t=1668s) and it took me, I would say,
+- [00:27:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1670s) at least a few years of really diligent practice
+- [00:27:55](https://www.youtube.com/watch?v=WTESmsletG4&t=1675s) to start feeling okay with doing that for other people.
+- [00:28:01](https://www.youtube.com/watch?v=WTESmsletG4&t=1681s) So that's how it got started
+- [00:28:03](https://www.youtube.com/watch?v=WTESmsletG4&t=1683s) and then it just evolved in ways
+- [00:28:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1686s) that I couldn't have dreamed up if I had tried.
+- [00:28:11](https://www.youtube.com/watch?v=WTESmsletG4&t=1691s) It was donation-only healing work.
+- [00:28:13](https://www.youtube.com/watch?v=WTESmsletG4&t=1693s) People started telling me, You need to start charging.
+- [00:28:17](https://www.youtube.com/watch?v=WTESmsletG4&t=1697s) I was very resistant to that.
+- [00:28:19](https://www.youtube.com/watch?v=WTESmsletG4&t=1699s) But they were saying that because they were sharing with me
+- [00:28:24](https://www.youtube.com/watch?v=WTESmsletG4&t=1704s) how this energy work was making them feel better.
+- [00:28:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1708s) Maybe they had done years and years of talk therapy.
+- [00:28:33](https://www.youtube.com/watch?v=WTESmsletG4&t=1713s) But this was the missing piece.
+- [00:28:34](https://www.youtube.com/watch?v=WTESmsletG4&t=1714s) This was what was lasting.
+- [00:28:37](https://www.youtube.com/watch?v=WTESmsletG4&t=1717s) The energy healing that I got during my near-death experience,
+- [00:28:42](https://www.youtube.com/watch?v=WTESmsletG4&t=1722s) that was what really worked
+- [00:28:45](https://www.youtube.com/watch?v=WTESmsletG4&t=1725s) and really changed and impacted my life.
+- [00:28:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1730s) The white light has the answers to all of our questions.
+- [00:28:56](https://www.youtube.com/watch?v=WTESmsletG4&t=1736s) Questions that we didn't even know  that we had.
+- [00:28:59](https://www.youtube.com/watch?v=WTESmsletG4&t=1739s) Once I got into that white light,
+- [00:29:01](https://www.youtube.com/watch?v=WTESmsletG4&t=1741s) a lot of the questions that I had didn't even seem to matter anymore.
+- [00:29:06](https://www.youtube.com/watch?v=WTESmsletG4&t=1746s) But the answers were still there.
+- [00:29:08](https://www.youtube.com/watch?v=WTESmsletG4&t=1748s) Everything just made sense.
+- [00:29:10](https://www.youtube.com/watch?v=WTESmsletG4&t=1750s) And all of that love
+- [00:29:13](https://www.youtube.com/watch?v=WTESmsletG4&t=1753s) that is a part of who we are and where we came from.
+- [00:29:17](https://www.youtube.com/watch?v=WTESmsletG4&t=1757s) That's the answer to everything.
+- [00:29:20](https://www.youtube.com/watch?v=WTESmsletG4&t=1760s) Because love
+- [00:29:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1763s) is the best healer that there is.
+- [00:29:27](https://www.youtube.com/watch?v=WTESmsletG4&t=1767s) So any way that we can tap into that white light,
+- [00:29:31](https://www.youtube.com/watch?v=WTESmsletG4&t=1771s) what we're doing is we're tapping into love
+- [00:29:33](https://www.youtube.com/watch?v=WTESmsletG4&t=1773s) and we're tapping into healing and we're tapping into peace.
+- [00:29:38](https://www.youtube.com/watch?v=WTESmsletG4&t=1778s) All of our worries just melt away there.
+- [00:29:42](https://www.youtube.com/watch?v=WTESmsletG4&t=1782s) The intuitive and psychic part
+- [00:29:46](https://www.youtube.com/watch?v=WTESmsletG4&t=1786s) of the healing work that I do, it all goes hand in hand.
+- [00:29:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1790s) I couldn't do the energy work that I do
+- [00:29:54](https://www.youtube.com/watch?v=WTESmsletG4&t=1794s) without having heightened or sharpened intuition.
+- [00:29:59](https://www.youtube.com/watch?v=WTESmsletG4&t=1799s) Because I'm really tapping into the subtleties
+- [00:30:03](https://www.youtube.com/watch?v=WTESmsletG4&t=1803s) of everybody's energetic space and feeling into everyone's
+- [00:30:08](https://www.youtube.com/watch?v=WTESmsletG4&t=1808s) blind spots, seeing there what they don't see,
+- [00:30:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1812s) what is deeply unconscious or subconscious for them.
+- [00:30:16](https://www.youtube.com/watch?v=WTESmsletG4&t=1816s) That's why the intuition is so important in my work.
+- [00:30:21](https://www.youtube.com/watch?v=WTESmsletG4&t=1821s) Intuition has become a very important part of my life too,
+- [00:30:25](https://www.youtube.com/watch?v=WTESmsletG4&t=1825s) because that has helped me
+- [00:30:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1828s) live more from a heart centered space
+- [00:30:30](https://www.youtube.com/watch?v=WTESmsletG4&t=1830s) and drown out the voice of ego that led me astray so many times
+- [00:30:37](https://www.youtube.com/watch?v=WTESmsletG4&t=1837s) and really caused a lot of destruction in my life.
+- [00:30:41](https://www.youtube.com/watch?v=WTESmsletG4&t=1841s) So step one
+- [00:30:44](https://www.youtube.com/watch?v=WTESmsletG4&t=1844s) for tapping into your true self, the wisdom of your true self
+- [00:30:48](https://www.youtube.com/watch?v=WTESmsletG4&t=1848s) and your higher self, or your soul – is to quiet everything else down.
+- [00:30:55](https://www.youtube.com/watch?v=WTESmsletG4&t=1855s) We didn't come into this world with egos.
+- [00:30:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1858s) We came in as our true self, but we had to develop the ego to survive.
+- [00:31:04](https://www.youtube.com/watch?v=WTESmsletG4&t=1864s) Ego is always talking to us.
+- [00:31:07](https://www.youtube.com/watch?v=WTESmsletG4&t=1867s) It's who we think we are.
+- [00:31:09](https://www.youtube.com/watch?v=WTESmsletG4&t=1869s) There are all of these running scripts and unconscious,
+- [00:31:14](https://www.youtube.com/watch?v=WTESmsletG4&t=1874s) subconscious, reels, thoughts, that are going on.
+- [00:31:18](https://www.youtube.com/watch?v=WTESmsletG4&t=1878s) It's mental chatter and a lot of it is on autopilot.
+- [00:31:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1883s) Once you can start listening to that, you'll start to realize
+- [00:31:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1888s) that those messages ego is feeding you aren't helpful.
+- [00:31:34](https://www.youtube.com/watch?v=WTESmsletG4&t=1894s) Ego talks over that intuitive voice.
+- [00:31:39](https://www.youtube.com/watch?v=WTESmsletG4&t=1899s) Learning to name
+- [00:31:41](https://www.youtube.com/watch?v=WTESmsletG4&t=1901s) those thoughts as ego is step one
+- [00:31:44](https://www.youtube.com/watch?v=WTESmsletG4&t=1904s) to getting closer to your true nature and the intuitive voice.
+- [00:31:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1910s) Because once you can  drown out the voice of ego
+- [00:31:53](https://www.youtube.com/watch?v=WTESmsletG4&t=1913s) that subtle and peaceful and loving
+- [00:31:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1918s) intuitive voice gets a chance to be heard.
+- [00:32:02](https://www.youtube.com/watch?v=WTESmsletG4&t=1922s) Any type of quieting practice that you can do.
+- [00:32:07](https://www.youtube.com/watch?v=WTESmsletG4&t=1927s) There are all different forms of meditation.
+- [00:32:10](https://www.youtube.com/watch?v=WTESmsletG4&t=1930s) Mantra meditation, that's what I like to do.
+- [00:32:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1932s) I use the mantra. That's not for everyone.
+- [00:32:15](https://www.youtube.com/watch?v=WTESmsletG4&t=1935s) Some people like to do  meditative prayer.
+- [00:32:18](https://www.youtube.com/watch?v=WTESmsletG4&t=1938s) Breathwork is a form of meditation. Anything that you can do
+- [00:32:23](https://www.youtube.com/watch?v=WTESmsletG4&t=1943s) that's a quieting practice to still your heart, to quiet your mind,
+- [00:32:28](https://www.youtube.com/watch?v=WTESmsletG4&t=1948s) that will bring you so much closer to the light,
+- [00:32:32](https://www.youtube.com/watch?v=WTESmsletG4&t=1952s) so much quicker than anything else that you can do.
+- [00:32:37](https://www.youtube.com/watch?v=WTESmsletG4&t=1957s) It's a little bit every day and it will change
+- [00:32:40](https://www.youtube.com/watch?v=WTESmsletG4&t=1960s) as you change and as you heal and evolve and grow.
+- [00:32:46](https://www.youtube.com/watch?v=WTESmsletG4&t=1966s) Your quieting process will evolve right along with you.
+- [00:32:50](https://www.youtube.com/watch?v=WTESmsletG4&t=1970s) The more you practice getting quiet,
+- [00:32:54](https://www.youtube.com/watch?v=WTESmsletG4&t=1974s) the easier it is to get there each time.
+- [00:32:58](https://www.youtube.com/watch?v=WTESmsletG4&t=1978s) That's when we can notice
+- [00:33:00](https://www.youtube.com/watch?v=WTESmsletG4&t=1980s) the messages, the synchronicities,
+- [00:33:03](https://www.youtube.com/watch?v=WTESmsletG4&t=1983s) and we can get in the flow of
+- [00:33:09](https://www.youtube.com/watch?v=WTESmsletG4&t=1989s) the natural processes of life.
+- [00:33:12](https://www.youtube.com/watch?v=WTESmsletG4&t=1992s) But if our minds are busy and if our bodies are busy,
+- [00:33:17](https://www.youtube.com/watch?v=WTESmsletG4&t=1997s) it's very hard to tap into those subtle
+- [00:33:21](https://www.youtube.com/watch?v=WTESmsletG4&t=2001s) but powerful messages that are always there for us.
+- [00:33:26](https://www.youtube.com/watch?v=WTESmsletG4&t=2006s) That's how we can get closer to that white light here on Earth
+- [00:33:32](https://www.youtube.com/watch?v=WTESmsletG4&t=2012s) and get closer to our true self,
+- [00:33:36](https://www.youtube.com/watch?v=WTESmsletG4&t=2016s) and what we were put here to do.
+- [00:33:44](https://www.youtube.com/watch?v=WTESmsletG4&t=2024s) A lot of times people will ask me, If God
+- [00:33:48](https://www.youtube.com/watch?v=WTESmsletG4&t=2028s) or if the Light is so good and so loving, why is there suffering here?
+- [00:33:54](https://www.youtube.com/watch?v=WTESmsletG4&t=2034s) We won’t fully know the answer to that until we get to the other side fully.
+- [00:34:00](https://www.youtube.com/watch?v=WTESmsletG4&t=2040s) But the one thing that I do know is some of our suffering
+- [00:34:04](https://www.youtube.com/watch?v=WTESmsletG4&t=2044s) we can control by stripping away ego as much as we can,
+- [00:34:10](https://www.youtube.com/watch?v=WTESmsletG4&t=2050s) and getting into that space of love
+- [00:34:13](https://www.youtube.com/watch?v=WTESmsletG4&t=2053s) as often as we can.
+- [00:34:16](https://www.youtube.com/watch?v=WTESmsletG4&t=2056s) Other times, for reasons
+- [00:34:19](https://www.youtube.com/watch?v=WTESmsletG4&t=2059s) that aren't always clear,
+- [00:34:22](https://www.youtube.com/watch?v=WTESmsletG4&t=2062s) there is some suffering that we just have to endure.
+- [00:34:28](https://www.youtube.com/watch?v=WTESmsletG4&t=2068s) It's painful for me
+- [00:34:29](https://www.youtube.com/watch?v=WTESmsletG4&t=2069s) to say that because I don't like  to see people
+- [00:34:32](https://www.youtube.com/watch?v=WTESmsletG4&t=2072s) experiencing devastation and suffering.
+- [00:34:37](https://www.youtube.com/watch?v=WTESmsletG4&t=2077s) So what you can make better, try to do that.
+- [00:34:42](https://www.youtube.com/watch?v=WTESmsletG4&t=2082s) That's when you always pray or you
+- [00:34:45](https://www.youtube.com/watch?v=WTESmsletG4&t=2085s) do whatever you need to do to get through it or help the people that you love get through it
+- [00:34:51](https://www.youtube.com/watch?v=WTESmsletG4&t=2091s) and know that with every breath you take, your life can change.
+- [00:34:56](https://www.youtube.com/watch?v=WTESmsletG4&t=2096s) So when things feel really good now, soak that up and enjoy it.
+- [00:35:02](https://www.youtube.com/watch?v=WTESmsletG4&t=2102s) And when things get hard, know that that can change too.
+- [00:35:06](https://www.youtube.com/watch?v=WTESmsletG4&t=2106s) That's where faith is important.
+- [00:35:09](https://www.youtube.com/watch?v=WTESmsletG4&t=2109s) I do believe that we are ultimately meant
+- [00:35:14](https://www.youtube.com/watch?v=WTESmsletG4&t=2114s) to come here and experience abundance
+- [00:35:19](https://www.youtube.com/watch?v=WTESmsletG4&t=2119s) and joy and love.
+- [00:35:23](https://www.youtube.com/watch?v=WTESmsletG4&t=2123s) It's not a punishment to be here in our bodies and it's okay
+- [00:35:28](https://www.youtube.com/watch?v=WTESmsletG4&t=2128s) to feel happiness and to have fun.
+- [00:35:31](https://www.youtube.com/watch?v=WTESmsletG4&t=2131s) Part of this Earth game that we're all playing, it's not meant to be serious all the time.
+- [00:35:38](https://www.youtube.com/watch?v=WTESmsletG4&t=2138s) So look at the bright side too, when it's there.
+- [00:35:42](https://www.youtube.com/watch?v=WTESmsletG4&t=2142s) Acknowledge everything that's going on, because simultaneously
+- [00:35:47](https://www.youtube.com/watch?v=WTESmsletG4&t=2147s) there's suffering, there's pain
+- [00:35:51](https://www.youtube.com/watch?v=WTESmsletG4&t=2151s) and there's joy and there's love and there is humor.
+- [00:35:55](https://www.youtube.com/watch?v=WTESmsletG4&t=2155s) It's all happening at once.
+- [00:35:57](https://www.youtube.com/watch?v=WTESmsletG4&t=2157s) To see the whole picture as much as we can is part of how we get through it.
+- [00:36:05](https://www.youtube.com/watch?v=WTESmsletG4&t=2165s) Somewhere along the way,  we started thinking
+- [00:36:07](https://www.youtube.com/watch?v=WTESmsletG4&t=2167s) that there is strength or action in being in a fearful state.
+- [00:36:13](https://www.youtube.com/watch?v=WTESmsletG4&t=2173s) But really when we're in fear, we're stuck.
+- [00:36:17](https://www.youtube.com/watch?v=WTESmsletG4&t=2177s) Fear is resistance and fear is glue and there is no flow there.
+- [00:36:23](https://www.youtube.com/watch?v=WTESmsletG4&t=2183s) It's very hard to find solutions when you're in a space of fear.
+- [00:36:29](https://www.youtube.com/watch?v=WTESmsletG4&t=2189s) Thinking that fear gives you power,
+- [00:36:32](https://www.youtube.com/watch?v=WTESmsletG4&t=2192s) or means that you're taking action or paying attention – that's an illusion
+- [00:36:37](https://www.youtube.com/watch?v=WTESmsletG4&t=2197s) because there are very little possibilities in the space
+- [00:36:40](https://www.youtube.com/watch?v=WTESmsletG4&t=2200s) that fear sits.
+- [00:36:43](https://www.youtube.com/watch?v=WTESmsletG4&t=2203s) So I consistently clear my energy. Because I know that if I'm stuck
+- [00:36:49](https://www.youtube.com/watch?v=WTESmsletG4&t=2209s) in a low vibrational space, or if I have something in my nervous system,
+- [00:36:54](https://www.youtube.com/watch?v=WTESmsletG4&t=2214s) or in my emotional space that I need to process, that I'm hanging on to
+- [00:36:58](https://www.youtube.com/watch?v=WTESmsletG4&t=2218s) for whatever reason – I'm constantly working to heal and clear that.
+- [00:37:04](https://www.youtube.com/watch?v=WTESmsletG4&t=2224s) Because that lightens me up enough where I can
+- [00:37:10](https://www.youtube.com/watch?v=WTESmsletG4&t=2230s) more easily focus on the  positive aspects that are going on.
+- [00:37:15](https://www.youtube.com/watch?v=WTESmsletG4&t=2235s) And gratitude.
+- [00:37:18](https://www.youtube.com/watch?v=WTESmsletG4&t=2238s) Gratitude and self-love, and self-gratitude – very important.
+- [00:37:23](https://www.youtube.com/watch?v=WTESmsletG4&t=2243s) Because whatever you're focusing on,
+- [00:37:26](https://www.youtube.com/watch?v=WTESmsletG4&t=2246s) that's what you're going to see. Whatever you're paying attention to,
+- [00:37:30](https://www.youtube.com/watch?v=WTESmsletG4&t=2250s) that's what you're going to see more of.
+- [00:37:34](https://www.youtube.com/watch?v=WTESmsletG4&t=2254s) A gratitude practice  is really important
+- [00:37:37](https://www.youtube.com/watch?v=WTESmsletG4&t=2257s) first thing when you wake up, because you are in a state of mind
+- [00:37:43](https://www.youtube.com/watch?v=WTESmsletG4&t=2263s) where you're going to really absorb whatever's happening.
+- [00:37:47](https://www.youtube.com/watch?v=WTESmsletG4&t=2267s) If the first thing you do is reach for your phone and check your emails
+- [00:37:51](https://www.youtube.com/watch?v=WTESmsletG4&t=2271s) you're probably going to have a chaotic day.
+- [00:37:55](https://www.youtube.com/watch?v=WTESmsletG4&t=2275s) If you, when you wake up in the morning,
+- [00:37:58](https://www.youtube.com/watch?v=WTESmsletG4&t=2278s) can lie in bed and think of five things
+- [00:38:03](https://www.youtube.com/watch?v=WTESmsletG4&t=2283s) that you're grateful for, that sets the tone for the entire day.
+- [00:38:08](https://www.youtube.com/watch?v=WTESmsletG4&t=2288s) I don't know why it's so hard for all of us to get into that practice.
+- [00:38:13](https://www.youtube.com/watch?v=WTESmsletG4&t=2293s) But give it a try, because I have noticed the days that I do that, it's better.
+- [00:38:18](https://www.youtube.com/watch?v=WTESmsletG4&t=2298s) I can see more of the positive and things just start to happen.
+- [00:38:24](https://www.youtube.com/watch?v=WTESmsletG4&t=2304s) Things just start to flow my way better than I could have even tried to create for myself.
+- [00:38:32](https://www.youtube.com/watch?v=WTESmsletG4&t=2312s) That's why gratitude is important.
+- [00:38:35](https://www.youtube.com/watch?v=WTESmsletG4&t=2315s) Self-love is incredibly important, too, because
+- [00:38:40](https://www.youtube.com/watch?v=WTESmsletG4&t=2320s) whatever in your heart is what spills out to others.
+- [00:38:45](https://www.youtube.com/watch?v=WTESmsletG4&t=2325s) If you're telling yourself awful things about yourself
+- [00:38:48](https://www.youtube.com/watch?v=WTESmsletG4&t=2328s) or being critical about yourself, that spills out into the world.
+- [00:38:53](https://www.youtube.com/watch?v=WTESmsletG4&t=2333s) So taking some time to appreciate yourself and
+- [00:38:58](https://www.youtube.com/watch?v=WTESmsletG4&t=2338s) notice the beauty in yourself.
+- [00:39:06](https://www.youtube.com/watch?v=WTESmsletG4&t=2346s) We are in a dark time in the world right now.
+- [00:39:11](https://www.youtube.com/watch?v=WTESmsletG4&t=2351s) It's very challenging.
+- [00:39:13](https://www.youtube.com/watch?v=WTESmsletG4&t=2353s) There are a lot of traumatic events that are taking place
+- [00:39:16](https://www.youtube.com/watch?v=WTESmsletG4&t=2356s) and it feels like we're  going to be stuck in this place
+- [00:39:22](https://www.youtube.com/watch?v=WTESmsletG4&t=2362s) for a long time,
+- [00:39:24](https://www.youtube.com/watch?v=WTESmsletG4&t=2364s) but I don't see it that way.
+- [00:39:26](https://www.youtube.com/watch?v=WTESmsletG4&t=2366s) I see it as we need to go through this chaos
+- [00:39:30](https://www.youtube.com/watch?v=WTESmsletG4&t=2370s) in order to hit that reset button.
+- [00:39:34](https://www.youtube.com/watch?v=WTESmsletG4&t=2374s) I see this as, we're coming out of it.
+- [00:39:38](https://www.youtube.com/watch?v=WTESmsletG4&t=2378s) It's just going to take some time.
+- [00:39:42](https://www.youtube.com/watch?v=WTESmsletG4&t=2382s) The more you can go inward
+- [00:39:45](https://www.youtube.com/watch?v=WTESmsletG4&t=2385s) when you feel those triggers from the outside world,
+- [00:39:49](https://www.youtube.com/watch?v=WTESmsletG4&t=2389s) the more you can heal and get into a space of love
+- [00:39:53](https://www.youtube.com/watch?v=WTESmsletG4&t=2393s) and get into a space of light and that ripples outward.
+- [00:39:58](https://www.youtube.com/watch?v=WTESmsletG4&t=2398s) The way that all of us can make a difference in the world
+- [00:40:03](https://www.youtube.com/watch?v=WTESmsletG4&t=2403s) is just by being yourself, exactly where you are today.
+- [00:40:08](https://www.youtube.com/watch?v=WTESmsletG4&t=2408s) Do your healing work and do everything you can
+- [00:40:10](https://www.youtube.com/watch?v=WTESmsletG4&t=2410s) to get back to your true self.
+- [00:40:14](https://www.youtube.com/watch?v=WTESmsletG4&t=2414s) Where you are today is exactly where you're supposed to be
+- [00:40:18](https://www.youtube.com/watch?v=WTESmsletG4&t=2418s) and you are in your soul purpose, exactly where you're supposed to be today.
+- [00:40:24](https://www.youtube.com/watch?v=WTESmsletG4&t=2424s) I could look back at my life five years ago
+- [00:40:28](https://www.youtube.com/watch?v=WTESmsletG4&t=2428s) or before my NDE, and
+- [00:40:33](https://www.youtube.com/watch?v=WTESmsletG4&t=2433s) although I'm in a much different space now,
+- [00:40:35](https://www.youtube.com/watch?v=WTESmsletG4&t=2435s) I look back and I know I was in my soul purpose then
+- [00:40:39](https://www.youtube.com/watch?v=WTESmsletG4&t=2439s) because I needed to go through that
+- [00:40:42](https://www.youtube.com/watch?v=WTESmsletG4&t=2442s) to get to where I am today.
+- [00:40:45](https://www.youtube.com/watch?v=WTESmsletG4&t=2445s) And so, offering yourself the love and acceptance every day,
+- [00:40:49](https://www.youtube.com/watch?v=WTESmsletG4&t=2449s) honoring where you're at  and continuing to learn,
+- [00:40:54](https://www.youtube.com/watch?v=WTESmsletG4&t=2454s) and continuing to grow,  and continuing to love.
+- [00:40:57](https://www.youtube.com/watch?v=WTESmsletG4&t=2457s) That's how you can make a difference in this world.

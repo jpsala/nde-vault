@@ -1,0 +1,989 @@
+# YouTube raw transcript — The near-death experience of Tricia Barker
+
+Video: https://www.youtube.com/watch?v=2GFT_89YMWE
+
+Idioma captions: Inglés automático (en)
+
+> Raw preservado desde subtítulos automáticos de YouTube vía `python -m yt_dlp`. No editar manualmente.
+
+- [00:00:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=11s) [Music]
+- [00:00:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=20s) when i grew up in
+- [00:00:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=22s) east texas i was an only child in the
+- [00:00:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=24s) country and i grew up extremely poor
+- [00:00:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=27s) we had a house that the roof leaked and
+- [00:00:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=30s) there was black mold on the floor
+- [00:00:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=32s) and i didn't have too many friends over
+- [00:00:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=34s) so there was a certain amount of
+- [00:00:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=36s) embarrassment about growing up in
+- [00:00:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=37s) poverty
+- [00:00:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=39s) so a lot of my drive and ambition
+- [00:00:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=42s) as a young person was to do well in
+- [00:00:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=44s) school get to a good college
+- [00:00:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=47s) and eventually become a lawyer i wanted
+- [00:00:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=49s) to make money and most of my
+- [00:00:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=51s) drive was focused on ambition
+- [00:00:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=55s) so i got into a great university got a
+- [00:00:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=58s) lot of
+- [00:00:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=58s) scholarships but i fell apart
+- [00:01:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=61s) when i was at college there was this
+- [00:01:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=64s) sense of i finally got there
+- [00:01:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=66s) now i'm an adult and yet there was
+- [00:01:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=69s) something
+- [00:01:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=70s) at my core that was missing i was
+- [00:01:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=72s) agnostic
+- [00:01:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=73s) my romantic relationships were not
+- [00:01:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=76s) successful
+- [00:01:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=77s) and there was this moment in college
+- [00:01:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=79s) where
+- [00:01:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=80s) i really just thought this is hopeless
+- [00:01:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=82s) you know my life
+- [00:01:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=83s) is maybe i'm not going to be able to be
+- [00:01:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=86s) as successful as i wanted to be maybe
+- [00:01:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=89s) i'm not going to
+- [00:01:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=90s) make it and maybe i'm just a deeply
+- [00:01:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=92s) damaged person and that was a thought
+- [00:01:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=94s) that i had
+- [00:01:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=96s) so i attempted suicide i took a bunch of
+- [00:01:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=99s) pills
+- [00:01:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=99s) i fell face forward into my mattress and
+- [00:01:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=102s) i ended up vomiting
+- [00:01:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=104s) and waking up 36 hours later and
+- [00:01:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=107s) that was a wake-up call this was a
+- [00:01:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=109s) moment in my life where i thought you
+- [00:01:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=111s) know what
+- [00:01:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=112s) i have to change and so i started
+- [00:01:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=114s) running i went to see a counselor i did
+- [00:01:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=116s) yoga and i
+- [00:01:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=117s) i was kind of on a better track i was
+- [00:02:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=121s) 22 years old and this was leading up to
+- [00:02:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=123s) this big race in austin
+- [00:02:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=126s) but the night before the race i had
+- [00:02:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=129s) all these dreams and in one dream i
+- [00:02:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=132s) heard my
+- [00:02:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=133s) dad screaming watch out trisha and then
+- [00:02:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=136s) i heard
+- [00:02:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=137s) my mother saying oh no i can't believe
+- [00:02:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=139s) this happened and
+- [00:02:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=140s) they seemed like dreams that were
+- [00:02:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=142s) somehow outside of time
+- [00:02:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=143s) and it seemed very strange and i thought
+- [00:02:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=146s) i didn't get good sleep i was really
+- [00:02:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=148s) kind of out of
+- [00:02:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=149s) it and i got in my car to run this race
+- [00:02:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=152s) and
+- [00:02:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=153s) this is where i had the accident and
+- [00:02:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=155s) this is where the story begins
+- [00:02:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=158s) i'll never forget that i passed this
+- [00:02:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=159s) 7-11
+- [00:02:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=161s) and as soon as i went through the first
+- [00:02:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=162s) yellow light i gunned it
+- [00:02:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=165s) and at that moment the next light was
+- [00:02:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=167s) red
+- [00:02:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=168s) i was already in the intersection i
+- [00:02:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=170s) don't understand how the other car was
+- [00:02:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=172s) going as fast as
+- [00:02:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=173s) he was going but he was in a very big
+- [00:02:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=175s) vehicle and we collided almost at a
+- [00:02:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=178s) head-on collision it was a curved
+- [00:02:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=179s) intersection
+- [00:03:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=180s) so we hit one another both going 65
+- [00:03:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=183s) miles an hour i didn't
+- [00:03:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=184s) even have time to put on my break and
+- [00:03:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=188s) wrecks at that speed they said immediate
+- [00:03:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=190s) death there were no airbags there was
+- [00:03:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=192s) nothing
+- [00:03:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=193s) i remember the car just crunching up
+- [00:03:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=196s) around me
+- [00:03:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=197s) and i fell over to one side
+- [00:03:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=200s) when the police finally showed up i
+- [00:03:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=202s) couldn't
+- [00:03:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=203s) move and there was a nurse who finally
+- [00:03:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=205s) came along three cars passed us by and
+- [00:03:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=208s) this nurse stopped and she was holding
+- [00:03:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=210s) my hand
+- [00:03:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=211s) and the man i was in the accident with
+- [00:03:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=213s) he was holding his daughter
+- [00:03:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=215s) and they were bleeding but she kept
+- [00:03:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=218s) telling me that i was
+- [00:03:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=219s) far worse and that my injuries were
+- [00:03:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=222s) pretty bad she didn't know if they were
+- [00:03:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=224s) neck or back but i was gonna be put on a
+- [00:03:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=226s) board and i needed to
+- [00:03:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=228s) stay very still but i didn't have health
+- [00:03:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=231s) insurance
+- [00:03:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=232s) so i overheard once i got to the er
+- [00:03:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=236s) the nurses talking and one surgeon let
+- [00:03:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=239s) my case
+- [00:04:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=240s) go and the nurses were talking about
+- [00:04:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=242s) this that he wasn't gonna come in
+- [00:04:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=244s) because he may not get paid
+- [00:04:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=245s) so i really started to freak out the
+- [00:04:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=248s) nurses kept coming by
+- [00:04:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=249s) and squeezing my foot and i just didn't
+- [00:04:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=251s) feel anything
+- [00:04:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=253s) and so 17 hours with no painkiller
+- [00:04:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=256s) nothing to numb the pain because i had
+- [00:04:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=258s) internal injuries
+- [00:04:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=259s) and the woman who ended up operating on
+- [00:04:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=262s) me had been on duty for 40 hours and so
+- [00:04:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=265s) when she
+- [00:04:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=266s) took my case she was very tired herself
+- [00:04:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=268s) but she decided to
+- [00:04:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=270s) operate anyway and it was going to be a
+- [00:04:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=272s) long surgery they were going to have to
+- [00:04:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=273s) pick a lot of
+- [00:04:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=274s) bone fragments from my spine so i was
+- [00:04:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=277s) wheeled in for surgery
+- [00:04:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=279s) and then i don't know how long into the
+- [00:04:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=281s) surgery but
+- [00:04:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=282s) probably long enough for them to open up
+- [00:04:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=285s) my back
+- [00:04:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=286s) and my hip my spirit form
+- [00:04:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=289s) left my body and i remember getting just
+- [00:04:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=292s) so excited i saw the body on the
+- [00:04:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=296s) operating table i thought
+- [00:04:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=298s) we go on like this spirit form this
+- [00:05:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=301s) part of me continues on after death and
+- [00:05:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=304s) i
+- [00:05:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=304s) knew this immediately it was almost like
+- [00:05:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=307s) i was up in the corner of the room and i
+- [00:05:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=310s) had this
+- [00:05:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=311s) knowing of my spirit form as this mirror
+- [00:05:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=314s) image of my body but it was light it was
+- [00:05:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=316s) composed of light
+- [00:05:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=318s) and i was looking down at the surgeons
+- [00:05:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=320s) working and i remember thinking there's
+- [00:05:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=322s) so much blood why is there so much blood
+- [00:05:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=325s) and the blood seemed to be spilling onto
+- [00:05:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=327s) the sheet and it looked really gruesome
+- [00:05:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=330s) i later found out that the cause of
+- [00:05:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=333s) death was uh
+- [00:05:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=334s) i bled to death and that was basically
+- [00:05:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=336s) you know there were internal injuries
+- [00:05:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=337s) that were spilling over
+- [00:05:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=339s) and so i looked at that but then i
+- [00:05:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=341s) looked up and there were these
+- [00:05:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=343s) light beings now i call them angels
+- [00:05:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=346s) they were just these intelligent beings
+- [00:05:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=349s) and they were unlike anything i'd ever
+- [00:05:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=351s) imagined or thought
+- [00:05:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=353s) i didn't think of angels like this
+- [00:05:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=354s) normally we think of angels with wings
+- [00:05:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=357s) but these were just
+- [00:05:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=358s) they looked like they had shimmery robes
+- [00:06:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=360s) and they weren't male or female
+- [00:06:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=362s) they sent telepathic messages to me they
+- [00:06:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=365s) said you'll be fine
+- [00:06:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=367s) you'll walk you'll run don't worry about
+- [00:06:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=369s) this
+- [00:06:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=370s) we've got this and then they almost
+- [00:06:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=372s) playfully said
+- [00:06:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=374s) watch this and they sent this blast of
+- [00:06:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=376s) energy
+- [00:06:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=377s) through the back of the surgeons into
+- [00:06:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=379s) their hands and it lit up my whole body
+- [00:06:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=381s) so i knew that they were participating
+- [00:06:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=385s) in this healing the neurosurgeons were
+- [00:06:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=388s) great
+- [00:06:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=388s) and talented but i remember thinking
+- [00:06:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=390s) they're so smart and i bet they have no
+- [00:06:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=393s) idea that light beings are working
+- [00:06:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=394s) through them
+- [00:06:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=396s) the experience felt real it didn't feel
+- [00:06:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=399s) like a dream
+- [00:06:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=400s) this felt like an added reality to this
+- [00:06:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=404s) reality so
+- [00:06:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=405s) the way we're looking at everything and
+- [00:06:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=407s) it looks 3d
+- [00:06:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=408s) it felt like i'd opened up 45d 60 you
+- [00:06:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=411s) know whatever
+- [00:06:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=411s) it just felt as if i'd opened to see
+- [00:06:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=415s) what happens beyond the veil these
+- [00:06:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=417s) angels were participating with my
+- [00:06:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=419s) surgeons
+- [00:07:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=421s) but they were just there in another
+- [00:07:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=423s) realm that the human eye can't pick up
+- [00:07:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=425s) on but the spirit can
+- [00:07:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=428s) and then the monitor flatlined and i
+- [00:07:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=431s) remember thinking
+- [00:07:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=432s) i'm really dead now so i don't want to
+- [00:07:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=434s) see this how are they going to revive me
+- [00:07:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=437s) so i left that room and the spirit form
+- [00:07:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=440s) can simply
+- [00:07:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=440s) go through a wall so it's like your
+- [00:07:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=442s) consciousness decides what you want to
+- [00:07:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=444s) do
+- [00:07:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=445s) and i was like i will leave this room
+- [00:07:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=447s) now as they revived me and i saw
+- [00:07:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=450s) my stepdad getting a candy bar out of a
+- [00:07:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=452s) vending machine
+- [00:07:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=454s) and i thought that's funny that he eats
+- [00:07:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=455s) candy bars because he's always bragging
+- [00:07:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=457s) about what a vegan he is in a health nut
+- [00:07:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=459s) and you know all these things and later
+- [00:07:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=462s) i asked my mom if
+- [00:07:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=464s) she saw him get a candy bar and she said
+- [00:07:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=466s) that at that moment her and my dad were
+- [00:07:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=469s) on their knees
+- [00:07:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=469s) praying and they were certain that i
+- [00:07:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=471s) died in surgery and then he came back in
+- [00:07:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=473s) with this candy bar
+- [00:07:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=475s) offered them some of the candy and made
+- [00:07:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=477s) a joke
+- [00:07:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=478s) and i was like well i was dead at that
+- [00:08:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=480s) moment mom
+- [00:08:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=481s) that's the moment that you felt i was
+- [00:08:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=483s) dead and i truly was
+- [00:08:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=486s) but i had no fear and then i flew into
+- [00:08:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=489s) the night sky
+- [00:08:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=490s) and i remember like we all want to fly
+- [00:08:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=493s) if you've ever had a lucid dream
+- [00:08:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=495s) you want to be a bird you want to fly
+- [00:08:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=497s) above
+- [00:08:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=498s) everything and you want to see the world
+- [00:08:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=500s) and that's how i felt i felt as if i was
+- [00:08:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=502s) just floating in this beautiful night
+- [00:08:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=504s) sky
+- [00:08:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=505s) and i began to feel this connection
+- [00:08:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=508s) to everyone i'd ever met sometimes
+- [00:08:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=511s) near-death experiences talk about a
+- [00:08:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=513s) tunnel that they go down but i was in
+- [00:08:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=515s) the night sky
+- [00:08:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=516s) then very quickly i was just in the
+- [00:08:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=518s) stars
+- [00:08:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=519s) and when i was in that place i began to
+- [00:08:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=522s) feel a deeper
+- [00:08:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=523s) sense of peace because i felt this
+- [00:08:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=526s) consciousness
+- [00:08:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=527s) coming toward me that was like the light
+- [00:08:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=529s) of god perhaps
+- [00:08:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=531s) it was a light that was full of
+- [00:08:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=534s) intelligence and peace
+- [00:08:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=536s) and joy these messages started coming
+- [00:08:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=539s) toward me and
+- [00:09:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=540s) the messages are very simple one was
+- [00:09:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=543s) love is all that matters
+- [00:09:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=544s) it's all that we take with us when we go
+- [00:09:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=547s) the other was remind them to go to
+- [00:09:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=549s) nature
+- [00:09:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=551s) and then i started to see little images
+- [00:09:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=553s) of myself playing as a kid in nature
+- [00:09:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=555s) and how happy i was and then i thought
+- [00:09:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=558s) okay
+- [00:09:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=558s) maybe adults get too serious and we need
+- [00:09:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=561s) to go play
+- [00:09:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=562s) in nature more often and then that light
+- [00:09:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=566s) i call it the light of god showed me
+- [00:09:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=568s) more of my life
+- [00:09:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=570s) there were some elements that i didn't
+- [00:09:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=572s) like as much
+- [00:09:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=573s) they weren't the parts that most people
+- [00:09:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=575s) would judge me for
+- [00:09:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=577s) it wasn't the drinking or the partying
+- [00:09:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=579s) it was when i judged people and when i
+- [00:09:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=581s) was rude to someone
+- [00:09:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=583s) that's what god showed me was not right
+- [00:09:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=586s) because i wasn't looking at the heart of
+- [00:09:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=588s) people i wasn't looking at who they were
+- [00:09:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=590s) inside i was judging them based on where
+- [00:09:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=593s) they went to college or what clothes
+- [00:09:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=594s) they wore
+- [00:09:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=595s) or if i deemed them cool enough to be my
+- [00:09:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=598s) friends and
+- [00:09:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=599s) there was this one couple i worked with
+- [00:10:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=601s) who actually prayed for me
+- [00:10:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=603s) they knew that i was depressed and maybe
+- [00:10:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=605s) they knew even that
+- [00:10:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=607s) you know there was something that they
+- [00:10:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=608s) picked up on that
+- [00:10:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=610s) their hearts went out to me so they kept
+- [00:10:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=613s) me in
+- [00:10:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=613s) their prayers maybe they were even
+- [00:10:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=617s) a part of why i didn't die with that
+- [00:10:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=619s) suicide attempt
+- [00:10:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=621s) their love was an observant love but it
+- [00:10:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=624s) was a
+- [00:10:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=625s) love that participated in my life and i
+- [00:10:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=627s) saw oh i missed out on some really good
+- [00:10:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=629s) friendships
+- [00:10:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=630s) because i was superficial and judgmental
+- [00:10:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=634s) and lost in my own pain and darkness
+- [00:10:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=636s) instead of looking
+- [00:10:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=637s) at people around me and i was like i'll
+- [00:10:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=638s) never do that again i'll always look i
+- [00:10:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=640s) promise
+- [00:10:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=641s) into the hearts of people and that was
+- [00:10:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=643s) my big
+- [00:10:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=644s) lesson in the near-death experience
+- [00:10:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=648s) and then everything transitioned into
+- [00:10:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=651s) this beautiful landscape
+- [00:10:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=653s) where there's a quote that i love by
+- [00:10:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=655s) thomas more and it said there is no pain
+- [00:10:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=658s) on earth that heaven can't heal and what
+- [00:11:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=660s) i felt like is everything that was dead
+- [00:11:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=662s) was now alive
+- [00:11:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=663s) so my grandfather showed up and he
+- [00:11:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=666s) looked beautiful
+- [00:11:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=667s) he had died in his 70s but in heaven he
+- [00:11:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=670s) just was glowing with light
+- [00:11:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=672s) and he came towards me he had this look
+- [00:11:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=675s) in his eye
+- [00:11:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=676s) that communicated with telepathy much
+- [00:11:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=678s) like the angels and
+- [00:11:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=680s) we spent some time together
+- [00:11:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=683s) and i saw this light farther away that
+- [00:11:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=686s) kind of looked like a sun
+- [00:11:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=688s) and he very quickly said do you want to
+- [00:11:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=690s) go there and i said yes
+- [00:11:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=692s) and my soul just flew towards this light
+- [00:11:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=696s) and as i got closer to that light
+- [00:11:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=698s) everything
+- [00:11:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=700s) that had been painful in my childhood
+- [00:11:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=702s) the poverty
+- [00:11:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=703s) the neglect the emotional abuse all of
+- [00:11:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=706s) that seemed to wash away
+- [00:11:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=708s) that wasn't your fault you're loved
+- [00:11:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=710s) you're perfect you're fine
+- [00:11:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=712s) you're a child of god you are loved
+- [00:11:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=715s) completely
+- [00:11:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=717s) earlier in the near death experience i
+- [00:11:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=719s) had heard be like a little child
+- [00:12:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=721s) and at that moment i felt like a little
+- [00:12:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=723s) child i felt like
+- [00:12:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=724s) i was loved deeply by god
+- [00:12:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=727s) nothing could harm me i felt completely
+- [00:12:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=730s) free
+- [00:12:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=732s) and i didn't want to leave that realm
+- [00:12:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=734s) because you can't imagine that love
+- [00:12:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=736s) it's so intense and we don't feel
+- [00:12:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=739s) anything like it here we feel
+- [00:12:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=741s) glimpses of it here loving a child
+- [00:12:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=745s) loving your parents
+- [00:12:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=746s) loving you know your spouse it's all
+- [00:12:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=748s) just
+- [00:12:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=749s) a brie it's it's not the same this is
+- [00:12:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=751s) complete
+- [00:12:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=752s) and those are just pieces is the only
+- [00:12:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=755s) way i can describe it
+- [00:12:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=756s) and that love just boom through me i
+- [00:12:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=759s) felt people's prayers trying to pull me
+- [00:12:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=761s) back
+- [00:12:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=762s) so people always ask what if you pray
+- [00:12:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=764s) for someone and they die
+- [00:12:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=765s) they still hear it it's like my soul
+- [00:12:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=767s) heard that i was
+- [00:12:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=769s) in surgery and they were trying to get
+- [00:12:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=770s) me to stay
+- [00:12:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=772s) and i remember thinking that's sweet but
+- [00:12:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=774s) i'm really fine i'm
+- [00:12:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=776s) safe i'm i'm taken care of and the
+- [00:12:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=778s) closer i got to god
+- [00:13:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=780s) the more i thought i don't want to go
+- [00:13:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=782s) back this is not for me
+- [00:13:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=783s) i want to stay here because i've never
+- [00:13:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=785s) felt this good
+- [00:13:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=786s) there is nothing to compare to this i
+- [00:13:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=788s) want to get closer and closer to this
+- [00:13:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=791s) all-knowing love but at some point
+- [00:13:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=794s) i was stopped it was like there was a
+- [00:13:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=796s) barrier and
+- [00:13:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=800s) i felt this booming voice and people
+- [00:13:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=802s) always say well is a voice
+- [00:13:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=803s) masculine or feminine it was booming
+- [00:13:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=806s) that's all i know
+- [00:13:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=807s) you know it just kind of rattled inside
+- [00:13:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=810s) of me as if um
+- [00:13:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=811s) the voice was talking through me and the
+- [00:13:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=814s) voice said
+- [00:13:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=815s) look down and then suddenly i saw like a
+- [00:13:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=819s) place on earth and there was this
+- [00:13:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=821s) river i saw it as a metaphor this was
+- [00:13:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=824s) the river of life
+- [00:13:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=825s) and i was also given a message that i
+- [00:13:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=827s) was gonna teach and that mission
+- [00:13:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=829s) has been incredibly powerful god was
+- [00:13:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=832s) right
+- [00:13:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=833s) i actually teach at a college called
+- [00:13:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=835s) trinity river
+- [00:13:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=836s) and i out of many of the classrooms you
+- [00:13:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=839s) look out the windows
+- [00:14:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=840s) and there's a river i take my students
+- [00:14:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=842s) to go meditate
+- [00:14:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=844s) down by the river so
+- [00:14:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=847s) from what i felt in my near-death
+- [00:14:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=848s) experience i was given
+- [00:14:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=850s) a life mission to teach and to remind
+- [00:14:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=852s) students to turn on their lights
+- [00:14:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=854s) when i was in that realm this seemed
+- [00:14:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=857s) like a metaphor
+- [00:14:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=858s) like very easy to do you just come down
+- [00:14:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=861s) to
+- [00:14:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=862s) earth you teach and you remind people to
+- [00:14:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=864s) be their best self
+- [00:14:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=866s) and to be open to light and whatever
+- [00:14:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=870s) you want to describe light as since i'm
+- [00:14:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=873s) an english professor i try very hard
+- [00:14:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=875s) to describe what i saw with words but
+- [00:14:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=878s) how can you describe
+- [00:14:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=879s) this light that comes up at you and
+- [00:14:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=882s) fills you with a feeling of peace
+- [00:14:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=885s) i was told that i was going to go back
+- [00:14:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=887s) and teach
+- [00:14:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=888s) and i argued with god because you know i
+- [00:14:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=891s) wanted to make money and growing up poor
+- [00:14:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=893s) i was like
+- [00:14:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=894s) no way and when i said that god kind of
+- [00:14:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=898s) hurled me
+- [00:14:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=899s) back into my body and it was like this
+- [00:15:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=901s) darkness took over
+- [00:15:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=903s) and the first thing i remember is you
+- [00:15:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=905s) know when you're outside of surgery
+- [00:15:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=907s) they ask you your name and my throat
+- [00:15:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=910s) felt dry but
+- [00:15:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=912s) i had read about near-death experiences
+- [00:15:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=914s) so i knew
+- [00:15:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=915s) what happened to me and i also knew that
+- [00:15:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=918s) i wasn't
+- [00:15:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=918s) just in my body like this massive
+- [00:15:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=921s) experience had just happened
+- [00:15:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=922s) and i was having trouble feeling like
+- [00:15:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=926s) all of me was in my body my energy was
+- [00:15:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=928s) expanded and so
+- [00:15:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=930s) i thought of myself in third person they
+- [00:15:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=933s) asked me
+- [00:15:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=933s) several times what's your name and i
+- [00:15:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=935s) said her name is trisha i guess i have
+- [00:15:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=938s) to come back and be her
+- [00:15:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=939s) you know but in my mind i was like i'm
+- [00:15:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=941s) so much more you know like i'm not
+- [00:15:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=943s) just this physical body i'm a
+- [00:15:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=946s) consciousness
+- [00:15:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=947s) that touched something so much more than
+- [00:15:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=951s) this particular body and i was kind of
+- [00:15:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=953s) sad to be in this broken body
+- [00:15:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=955s) to know that all those emotional wounds
+- [00:15:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=957s) were healed in the presence of god but
+- [00:16:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=960s) now i still have to get along with these
+- [00:16:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=962s) family members and i still have to
+- [00:16:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=964s) process what happened in my life and i
+- [00:16:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=966s) remember
+- [00:16:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=967s) some sadness about having to come back
+- [00:16:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=969s) to
+- [00:16:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=970s) being me because it was a lot more fun
+- [00:16:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=972s) to be
+- [00:16:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=973s) connected to god and connected to
+- [00:16:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=976s) everyone
+- [00:16:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=977s) so they put me in the icu for three days
+- [00:16:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=981s) and they were checking on the internal
+- [00:16:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=984s) injuries
+- [00:16:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=984s) and my back and i was pretty badly
+- [00:16:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=987s) broken
+- [00:16:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=989s) then i just kind of rested and i i knew
+- [00:16:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=992s) i was different as family members and
+- [00:16:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=994s) friends came in to visit me i had a
+- [00:16:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=996s) different way
+- [00:16:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=997s) of being i had a different way of
+- [00:16:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1000s) perceiving
+- [00:16:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1000s) energy i could tell when people were
+- [00:16:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1003s) worried
+- [00:16:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1004s) and so much of my life had been so
+- [00:16:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1007s) self-focused before that that i wasn't
+- [00:16:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1010s) intuitive but i knew that
+- [00:16:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1012s) now i felt connected to other people
+- [00:16:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1015s) and i came back with no fear of death
+- [00:16:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1019s) i stayed in the hospital for nine days
+- [00:17:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1021s) and by the end of that time they'd put
+- [00:17:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1023s) me in a body cast
+- [00:17:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1025s) from my neck down to my hip
+- [00:17:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1028s) and i knew that i'd be in this cast for
+- [00:17:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1031s) four to five months and i would have to
+- [00:17:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1033s) have a lot of rehab to learn to walk
+- [00:17:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1035s) again
+- [00:17:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1036s) it was going to be a long road to
+- [00:17:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1038s) healing but i also
+- [00:17:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1039s) felt as if i might be assisted by those
+- [00:17:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1042s) angels who had helped in surgery
+- [00:17:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1045s) i knew that the angels were sending me
+- [00:17:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1047s) messages
+- [00:17:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1048s) that might take a while to evolve within
+- [00:17:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1051s) me so
+- [00:17:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1052s) and i think perhaps these messages
+- [00:17:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1054s) stayed inside of me until i started
+- [00:17:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1056s) talking publicly in 2008 and then
+- [00:17:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1059s) in 2016 a whole lot more
+- [00:17:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1062s) and i know this to be real because i
+- [00:17:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1065s) still
+- [00:17:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1065s) communicate with them you know after
+- [00:17:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1067s) this accident a lot of near-death
+- [00:17:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1069s) experiencers have these after effects
+- [00:17:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1071s) where
+- [00:17:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1072s) they see the dead or they become mediums
+- [00:17:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1074s) or
+- [00:17:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1075s) they just understand that there's
+- [00:17:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1077s) another reality that they can perceive
+- [00:17:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1079s) so that's what i felt like happened
+- [00:18:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1081s) we've spent all this time thinking about
+- [00:18:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1083s) how smart we are
+- [00:18:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1085s) when we don't even realize there is a
+- [00:18:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1087s) consciousness
+- [00:18:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1088s) that can work beyond the intelligence
+- [00:18:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1091s) that most of us use
+- [00:18:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1092s) there's intuition and it's real so
+- [00:18:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1096s) immediately i just felt like the brain
+- [00:18:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1098s) was a limiter
+- [00:18:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1099s) of experience and that outside of body i
+- [00:18:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1102s) was just picking up on
+- [00:18:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1103s) what it's like to live in a realm
+- [00:18:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1106s) without time
+- [00:18:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1107s) what it's like to travel at the speed of
+- [00:18:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1110s) light what it's like
+- [00:18:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1111s) to experience some of the mysteries
+- [00:18:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1115s) beyond this life like this life felt
+- [00:18:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1117s) limited
+- [00:18:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1118s) my body felt limited and that experience
+- [00:18:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1121s) felt expansive
+- [00:18:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1124s) so i went back to college and i
+- [00:18:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1128s) finished up the courses i needed for an
+- [00:18:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1130s) english degree to get my teaching
+- [00:18:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1132s) certification and then i went right into
+- [00:18:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1134s) a classroom
+- [00:18:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1135s) that first classroom that i was in was
+- [00:18:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1137s) magical
+- [00:18:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1138s) and i just told them the story of my
+- [00:19:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1140s) near-death experience i said
+- [00:19:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1141s) i didn't want to be here but i'm going
+- [00:19:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1143s) to tell you about how i died
+- [00:19:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1145s) and my mission and then we're going to
+- [00:19:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1147s) talk about how this relates to
+- [00:19:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1149s) literature and we're gonna do
+- [00:19:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1151s) all kind of exercises to help you get
+- [00:19:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1154s) clear about what you're doing with your
+- [00:19:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1155s) future and these kids were
+- [00:19:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1157s) you know in shock you know they're
+- [00:19:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1159s) they're in 11th grade and they're like
+- [00:19:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1161s) okay this is unusual but
+- [00:19:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1164s) it was a ton of fun and they opened up
+- [00:19:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1167s) to me and
+- [00:19:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1168s) from the beginning teaching was magical
+- [00:19:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1177s) so after the near-death experience i
+- [00:19:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1180s) immediately
+- [00:19:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1181s) learned how to lucid dream and so i
+- [00:19:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1184s) would leave my body
+- [00:19:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1185s) at night and i would still fly around
+- [00:19:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1187s) the stars and
+- [00:19:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1188s) then i would come back to this badly
+- [00:19:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1190s) broken body and i would
+- [00:19:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1192s) feel the angels participating and i
+- [00:19:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1194s) would ask them to help me
+- [00:19:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1197s) but i was also getting psychic flashes
+- [00:19:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1199s) that were
+- [00:20:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1200s) fun at times but they were also a little
+- [00:20:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1203s) unusual
+- [00:20:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1204s) i didn't know how to hone them or use
+- [00:20:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1206s) them
+- [00:20:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1207s) for any true ability like
+- [00:20:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1210s) that for instance i would know when a
+- [00:20:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1212s) song was on the radio
+- [00:20:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1214s) and i would walk across the room and i
+- [00:20:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1216s) would start singing the song and by the
+- [00:20:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1218s) time i turned the radio on it would be
+- [00:20:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1220s) at that exact spot
+- [00:20:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1222s) on the radio and i thought okay but this
+- [00:20:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1224s) doesn't
+- [00:20:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1225s) win me the lottery so you know i mean
+- [00:20:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1226s) what good is this
+- [00:20:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1228s) and and i was like uh what's the use of
+- [00:20:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1230s) it it's a little disorienting
+- [00:20:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1232s) and i thought maybe i'm outside of time
+- [00:20:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1235s) since i had touched eternity
+- [00:20:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1237s) maybe there's some part of me that's a
+- [00:20:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1238s) little bit ahead of time
+- [00:20:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1241s) so i asked that it be taken away and
+- [00:20:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1243s) only given to me in dreams because it
+- [00:20:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1245s) was disorienting
+- [00:20:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1247s) sometimes i would know what was going to
+- [00:20:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1248s) happen 10 minutes from
+- [00:20:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1250s) when it happened a lot of times if
+- [00:20:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1253s) there's
+- [00:20:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1254s) emotional upheaval or even societal
+- [00:20:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1256s) upheaval
+- [00:20:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1257s) i'll get a sense of it before it happens
+- [00:21:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1261s) i think a lot of people do get these
+- [00:21:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1263s) dreams there's there's been
+- [00:21:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1264s) several examples of people who dreamed
+- [00:21:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1267s) of say their brother dying before their
+- [00:21:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1269s) brother died
+- [00:21:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1270s) so that their souls are prepared ahead
+- [00:21:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1272s) of time
+- [00:21:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1274s) and it was many years after the
+- [00:21:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1276s) near-death experience when my own father
+- [00:21:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1278s) died
+- [00:21:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1279s) that i opened up this ability to talk to
+- [00:21:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1281s) him
+- [00:21:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1282s) in the afterlife and i thought well if i
+- [00:21:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1284s) can do this with him
+- [00:21:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1286s) can i do this with other people's loved
+- [00:21:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1288s) ones and
+- [00:21:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1289s) can i hear from others so i just tried
+- [00:21:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1292s) with people who had lost children people
+- [00:21:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1295s) who
+- [00:21:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1295s) really wanted that connection and i
+- [00:21:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1299s) realized that i could
+- [00:21:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1300s) that you know there's a part of me that
+- [00:21:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1302s) can simply
+- [00:21:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1303s) be open to what is in that other realm
+- [00:21:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1307s) and see images get impressions and then
+- [00:21:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1310s) communicate these
+- [00:21:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1311s) feelings to other people and that it was
+- [00:21:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1314s) very healing for them and
+- [00:21:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1315s) now i do some readings it's not what i
+- [00:21:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1317s) do full time i still teach
+- [00:21:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1319s) but i think that there is a healing
+- [00:22:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1322s) aspect to giving medium readings
+- [00:22:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1325s) especially when someone's in deep grief
+- [00:22:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1328s) in 2008 my father was diagnosed
+- [00:22:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1332s) with brain cancer he called me from
+- [00:22:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1335s) the er and he said hey i think i have
+- [00:22:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1337s) food poisoning
+- [00:22:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1338s) and it was so unusual for him to be in
+- [00:22:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1340s) the er and
+- [00:22:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1341s) i lived two hours away i just got in my
+- [00:22:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1343s) car and i started driving there
+- [00:22:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1345s) and i asked for a sign i said and the
+- [00:22:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1348s) minute i asked i asked my angels i said
+- [00:22:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1350s) is this food poisoning or is this
+- [00:22:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1352s) something more and i looked and i saw a
+- [00:22:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1354s) sign for funeral services
+- [00:22:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1356s) and i just felt this intense weight that
+- [00:22:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1360s) he was going to die
+- [00:22:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1361s) and when i got to the er they had
+- [00:22:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1364s) already done a cat scan
+- [00:22:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1366s) and then they pulled me aside and told
+- [00:22:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1367s) me about the brain tumor
+- [00:22:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1370s) and he died within a month so he was 64
+- [00:22:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1374s) i believe and he was running the week
+- [00:22:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1376s) before and then he simply
+- [00:22:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1379s) just died within a month i spent as much
+- [00:23:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1381s) time as i could with them but i was
+- [00:23:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1382s) teaching nine classes at a community
+- [00:23:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1385s) college so that's a
+- [00:23:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1386s) busy schedule and i'd been there
+- [00:23:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1389s) for 24 hours the day before but i missed
+- [00:23:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1392s) it when he died and i felt
+- [00:23:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1393s) my grandparents come to me in a dream
+- [00:23:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1396s) and they were
+- [00:23:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1396s) hovering there above the bed and they
+- [00:23:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1398s) said it's okay
+- [00:23:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1399s) he's with us now don't worry we have him
+- [00:23:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1403s) he's he's wrapped in our love
+- [00:23:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1406s) and i thought oh they came for him and
+- [00:23:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1408s) my grandfather had come for me
+- [00:23:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1411s) when i had died so i knew that my dad
+- [00:23:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1413s) was fine
+- [00:23:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1414s) and he was with them and then a few
+- [00:23:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1416s) nights later my father came to me in a
+- [00:23:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1418s) dream and he said
+- [00:23:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1420s) don't worry that you were busy i saved
+- [00:23:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1422s) up all my energy
+- [00:23:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1423s) just to be with you those evenings and
+- [00:23:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1425s) to talk with you and i slept most of the
+- [00:23:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1427s) day
+- [00:23:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1428s) in the hospital uh when we weren't
+- [00:23:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1430s) together so i don't want you to feel
+- [00:23:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1431s) guilt i knew he was just trying to
+- [00:23:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1433s) relieve my guilt but it still
+- [00:23:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1435s) felt good to connect with him but then i
+- [00:23:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1437s) started to follow his journey in the
+- [00:23:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1439s) afterlife i thought
+- [00:24:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1440s) how is the death experience different
+- [00:24:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1443s) from a near-death experience
+- [00:24:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1445s) what i saw was it was a little more
+- [00:24:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1448s) extended
+- [00:24:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1449s) so as i had done this quick life review
+- [00:24:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1451s) and my near-death experience
+- [00:24:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1453s) he did this really long life review and
+- [00:24:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1456s) it almost looked like purgatory or
+- [00:24:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1458s) something and i thought
+- [00:24:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1459s) dad this isn't cool you know he's oh no
+- [00:24:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1462s) no it's fine
+- [00:24:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1463s) i'm still encased in love i'm still held
+- [00:24:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1466s) in love
+- [00:24:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1467s) but i'm just reviewing what would have
+- [00:24:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1468s) happened if i would have made this
+- [00:24:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1470s) choice or this choice
+- [00:24:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1473s) then i kept following his soul and
+- [00:24:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1475s) eventually he transitioned and felt this
+- [00:24:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1477s) incredible freedom
+- [00:24:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1479s) this incredible flying around in the
+- [00:24:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1481s) stars and he wanted to understand
+- [00:24:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1484s) everything from the inception of time
+- [00:24:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1486s) until now
+- [00:24:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1487s) but his soul wanted to reincarnate
+- [00:24:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1490s) i remember thinking no stay up there
+- [00:24:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1492s) you've got to help me you know for all
+- [00:24:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1494s) these years
+- [00:24:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1495s) and so he's stayed with me and i've
+- [00:24:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1497s) communicated with him
+- [00:24:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1498s) but he tells me that he will reincarnate
+- [00:25:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1502s) and it's not a big deal that i don't
+- [00:25:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1504s) have to worry about that but his
+- [00:25:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1506s) particular soul wants another life here
+- [00:25:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1509s) and
+- [00:25:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1509s) wants to do it again
+- [00:25:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1518s) it's usually a loving message that comes
+- [00:25:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1521s) from the other side
+- [00:25:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1522s) something that elevates you so if you
+- [00:25:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1525s) hear
+- [00:25:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1526s) this person does this and we should all
+- [00:25:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1529s) ostracize this person
+- [00:25:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1531s) you know that may not be a message from
+- [00:25:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1533s) your guide your guide would probably say
+- [00:25:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1535s) take care of yourself
+- [00:25:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1536s) protect yourself send love to others
+- [00:25:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1539s) there might be a different message than
+- [00:25:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1542s) gossip you know or
+- [00:25:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1543s) or something a little random from from a
+- [00:25:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1546s) guide so i think
+- [00:25:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1548s) guidance usually elevates your life in
+- [00:25:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1550s) some way it connects you to
+- [00:25:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1552s) a higher purpose so i tell
+- [00:25:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1556s) people to not fear to know that they're
+- [00:25:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1559s) always in the light
+- [00:26:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1560s) and so you can always ask for the
+- [00:26:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1562s) protection of angels say
+- [00:26:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1563s) just protect me that anything that is
+- [00:26:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1566s) not of the light
+- [00:26:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1567s) don't let that become a part of me
+- [00:26:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1571s) and there's so many moments of healing
+- [00:26:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1574s) energy that can come from our loved ones
+- [00:26:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1576s) there's so many near-death experiencers
+- [00:26:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1578s) even with abusive parents who have
+- [00:26:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1580s) talked about how when they
+- [00:26:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1582s) have transitioned to the other side they
+- [00:26:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1585s) finally understand each other and
+- [00:26:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1586s) there's great forgiveness and deep love
+- [00:26:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1589s) and deep understanding but
+- [00:26:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1592s) if anyone ever feels that they have
+- [00:26:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1595s) encountered something negative
+- [00:26:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1596s) you can always ask for it to be taken
+- [00:26:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1598s) away to be sent to the light
+- [00:26:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1602s) and if you stay focused on the light of
+- [00:26:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1605s) god and you stay
+- [00:26:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1606s) focused on goodness then you're not
+- [00:26:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1609s) doing something just for your own
+- [00:26:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1611s) benefit but you're helping the world in
+- [00:26:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1614s) some way and so
+- [00:26:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1615s) there's a lot of confusion about well
+- [00:26:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1617s) what is
+- [00:26:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1618s) narcissism this is a big topic in
+- [00:27:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1620s) society today
+- [00:27:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1621s) well there's healthy narcissism where
+- [00:27:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1624s) you love yourself take care of yourself
+- [00:27:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1625s) have a 401k
+- [00:27:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1627s) a roof over your head you know dress
+- [00:27:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1628s) well you know there's there's that basic
+- [00:27:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1631s) taking care of yourself but then there's
+- [00:27:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1634s) unhealthy narcissism which is harming
+- [00:27:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1637s) others
+- [00:27:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1638s) manipulating others uh because of a
+- [00:27:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1640s) wound inside of yourself and something
+- [00:27:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1642s) that you don't feel like you have enough
+- [00:27:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1644s) of
+- [00:27:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1645s) one of the things i saw that you can
+- [00:27:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1647s) always do is just
+- [00:27:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1648s) ask for healing from god from
+- [00:27:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1652s) your angels from your ancestors that
+- [00:27:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1655s) healing is available to all of us you
+- [00:27:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1657s) don't have to
+- [00:27:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1658s) manipulate people to get what you want
+- [00:27:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1660s) you can simply
+- [00:27:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1661s) ask that wounds inside of you be healed
+- [00:27:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1664s) so that you lead
+- [00:27:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1665s) a better life
+- [00:27:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1673s) so do all souls have a mission do all
+- [00:27:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1676s) souls
+- [00:27:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1676s) have a purpose before they come in i
+- [00:27:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1679s) think
+- [00:28:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1680s) that there's a basic purpose that
+- [00:28:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1682s) perhaps we all have
+- [00:28:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1684s) and this basic purpose is to remember
+- [00:28:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1686s) that we're more than this physical form
+- [00:28:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1688s) and to remember that there's
+- [00:28:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1690s) inspiration from that other realm and to
+- [00:28:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1692s) remember
+- [00:28:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1693s) that this life is very short and that
+- [00:28:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1696s) love is all that matters if we do
+- [00:28:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1697s) something with love not are we loved
+- [00:28:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1701s) but do we add love to this world do we
+- [00:28:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1704s) make someone's life better
+- [00:28:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1706s) by doing something kind by smiling at
+- [00:28:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1708s) them
+- [00:28:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1709s) by helping them in some way by being a
+- [00:28:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1711s) support in their life
+- [00:28:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1713s) by helping others feel like they're
+- [00:28:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1716s) part of a community that they matter
+- [00:28:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1719s) that
+- [00:28:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1719s) they have inspiration to move their own
+- [00:28:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1722s) lives forward if we can
+- [00:28:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1724s) inspire people in some way to do that
+- [00:28:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1726s) then we're helping
+- [00:28:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1728s) but what is our purpose when you see
+- [00:28:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1731s) someone really on fire
+- [00:28:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1732s) and just like in the zone whether
+- [00:28:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1735s) they're
+- [00:28:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1736s) an athlete or whether they are creating
+- [00:28:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1739s) a new business or whether they're
+- [00:29:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1741s) excited about having a child or
+- [00:29:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1743s) whether they whatever it is that this
+- [00:29:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1746s) person
+- [00:29:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1746s) is really on fire about then their soul
+- [00:29:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1749s) must want that on some level there's
+- [00:29:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1751s) something that's
+- [00:29:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1752s) pushing them forward so
+- [00:29:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1755s) don't overthink it people go to a
+- [00:29:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1758s) psychic or they go
+- [00:29:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1759s) to someone and they say what's my sole
+- [00:29:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1761s) purpose it's like well it's going to
+- [00:29:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1763s) unfold for you
+- [00:29:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1765s) and you can find this more through
+- [00:29:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1767s) meditation so i believe
+- [00:29:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1769s) that our higher self can look back and
+- [00:29:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1772s) give us a little bit of a hint of what
+- [00:29:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1774s) to do
+- [00:29:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1776s) and many times it's just to express the
+- [00:29:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1778s) best version of yourself
+- [00:29:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1780s) maybe to transcend your own wounds or
+- [00:29:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1783s) your ego
+- [00:29:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1783s) at times to go you know what i'm going
+- [00:29:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1786s) to be calm
+- [00:29:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1787s) in this situation i'm going to be aware
+- [00:29:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1789s) i'm not going to react in a way that's
+- [00:29:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1792s) going to cause pain to anyone
+- [00:29:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1794s) i'm going to remind them of their
+- [00:29:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1796s) connection to something beyond
+- [00:29:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1798s) themselves and my connection to
+- [00:29:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1799s) something
+- [00:30:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1800s) beyond myself and we're going to be
+- [00:30:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1803s) our highest and best selves in this
+- [00:30:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1805s) moment and
+- [00:30:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1806s) when you're able to do that in times of
+- [00:30:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1808s) difficulty
+- [00:30:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1810s) then you feel like oh i've touched my
+- [00:30:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1813s) purpose
+- [00:30:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1814s) you know i'm learning i'm growing so
+- [00:30:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1816s) perhaps
+- [00:30:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1817s) our souls are really on a mission here
+- [00:30:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1819s) to remember
+- [00:30:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1820s) who we are to remember that we're light
+- [00:30:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1823s) to remember that we're love
+- [00:30:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1825s) to shine the light of who you are
+- [00:30:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1829s) and sometimes that light it doesn't even
+- [00:30:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1830s) have to be religious it can just be a
+- [00:30:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1832s) passion
+- [00:30:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1833s) for music or for art or for film or
+- [00:30:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1836s) for running or anything you know that if
+- [00:30:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1838s) you have passion
+- [00:30:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1840s) for life then somehow you're connected
+- [00:30:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1842s) to
+- [00:30:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1843s) a light that's greater than yourself and
+- [00:30:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1846s) one of the things i do to stay motivated
+- [00:30:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1849s) in my
+- [00:30:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1850s) own life is i think about the end of my
+- [00:30:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1852s) life
+- [00:30:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1853s) that future life review and i think what
+- [00:30:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1856s) do i want to accomplish
+- [00:30:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1857s) and am i working towards that and
+- [00:31:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1860s) am i going to be excited about what i've
+- [00:31:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1863s) done right now
+- [00:31:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1864s) when i'm at the end of my life and
+- [00:31:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1866s) anytime i'm doing something to help
+- [00:31:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1868s) others
+- [00:31:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1869s) because i know it's not about me it's
+- [00:31:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1872s) about the person watching this who is in
+- [00:31:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1874s) hospice or just lost a kid
+- [00:31:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1876s) or who is dying or is hurting and if
+- [00:31:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1880s) my message helps someone feel more at
+- [00:31:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1883s) peace or feel more connected to nature
+- [00:31:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1886s) or more connected to this idea that we
+- [00:31:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1888s) go on
+- [00:31:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1889s) and there's so much more magic out there
+- [00:31:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1891s) than
+- [00:31:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1892s) there you could ever dream of then i've
+- [00:31:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1895s) helped people
+- [00:31:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1895s) live a better life so one of the things
+- [00:31:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1899s) all people can do is think this life
+- [00:31:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1901s) goes by so quickly
+- [00:31:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1903s) what is it i'm doing right now in the
+- [00:31:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1905s) middle of my life that's going to make
+- [00:31:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1906s) me happy
+- [00:31:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1907s) when i look back
+- [00:31:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1914s) this is the toughest question of the
+- [00:31:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1916s) interview so one of the things i saw in
+- [00:31:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1918s) my near-death experience
+- [00:32:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1920s) was to remind people to turn on their
+- [00:32:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1922s) lights and what that means to me
+- [00:32:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1924s) is that when everyone is in the flow of
+- [00:32:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1927s) goodness then they're going to create a
+- [00:32:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1929s) better world so it doesn't matter what
+- [00:32:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1931s) time period you live in or what country
+- [00:32:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1933s) you live in
+- [00:32:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1934s) if you are working from inspiration if
+- [00:32:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1936s) you're working from
+- [00:32:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1938s) this place where you connect with a
+- [00:32:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1940s) peace
+- [00:32:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1941s) and a desire for humanity to
+- [00:32:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1944s) be more connected to do better to feel
+- [00:32:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1947s) better then i think you're working in
+- [00:32:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1949s) the right direction
+- [00:32:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1951s) and i love programs that teach
+- [00:32:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1954s) meditation to kids teach
+- [00:32:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1956s) meditation to people in prisons that
+- [00:32:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1959s) this type of work helping traumatize
+- [00:32:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1962s) people
+- [00:32:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1963s) find balance in their life helps all of
+- [00:32:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1965s) society
+- [00:32:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1967s) love is all that matters and all that we
+- [00:32:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1968s) take with us so
+- [00:32:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1970s) are you helping someone live a better
+- [00:32:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1972s) life look at the needs of this world and
+- [00:32:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1975s) try to creatively fulfill these needs
+- [00:32:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1979s) one thing that i would like to add to
+- [00:33:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1981s) that is i hope
+- [00:33:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1983s) that people take from near-death
+- [00:33:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1985s) experiences
+- [00:33:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1987s) less fear about dying and i hope that we
+- [00:33:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1989s) make death a more sacred
+- [00:33:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1992s) process that there's a movement of death
+- [00:33:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1995s) doulas
+- [00:33:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1996s) in many parts of the world and i think
+- [00:33:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1998s) that's wonderful any anything that you
+- [00:33:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2000s) can do
+- [00:33:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2001s) to create ease around dying to create
+- [00:33:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2005s) a peace around that transition is
+- [00:33:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2007s) important
+- [00:33:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2008s) and for people just to remember that
+- [00:33:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2010s) life is short and to
+- [00:33:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2012s) embrace your passions and to do as much
+- [00:33:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2015s) good as you can in this world i think
+- [00:33:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2018s) that was one of the things that hit me
+- [00:33:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2020s) after the near-death experience is that
+- [00:33:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2022s) this is all very short this time period
+- [00:33:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2025s) it really goes by a lot quicker than you
+- [00:33:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2028s) realize
+- [00:33:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2029s) so go in the direction of your joy and
+- [00:33:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2031s) bliss if you don't
+- [00:33:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2032s) like something move in the direction of
+- [00:33:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2035s) something that gives you joy and
+- [00:33:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2036s) happiness
+- [00:33:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2038s) tell someone that you appreciate them
+- [00:34:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2040s) that gratitude
+- [00:34:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2041s) amplifies your life and anger and hatred
+- [00:34:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2045s) dampens your own light so part of my
+- [00:34:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2048s) message is reminding people to turn on
+- [00:34:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2050s) their lights so
+- [00:34:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2051s) if you're listening to this turn on your
+- [00:34:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2053s) own light
+- [00:34:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2054s) and find something in this world that
+- [00:34:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2056s) gives you excitement and happiness and
+- [00:34:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2059s) go in that direction
+- [00:34:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2093s) you

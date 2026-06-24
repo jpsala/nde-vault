@@ -1,0 +1,194 @@
+{
+  "source_type": "youtube",
+  "video_id": "vmuOXgr5UZw",
+  "url": "https://www.youtube.com/watch?v=vmuOXgr5UZw",
+  "original_url": "https://www.youtube.com/watch?v=vmuOXgr5UZw&pp=ygUOYW5pdGEgbW9vcmphbmk%3D",
+  "title": "152. Anita Moorjani - Buddha at the Gas Pump",
+  "channel": "Buddha at the Gas Pump",
+  "interview_number": 152,
+  "experiencer": "Anita Moorjani",
+  "language": "en",
+  "recorded_date": "2012-12-08",
+  "published_date": "2013-01-01",
+  "duration_seconds_estimated": 4600,
+  "ingested_at": "2026-06-23",
+  "status": "transcrito-desde-batgap",
+  "transcript_source": "BATGAP public transcript page (YouTube transcript unavailable locally)",
+  "source_pages": {
+    "batgap_interview": "https://batgap.com/anita-moorjani/",
+    "batgap_transcript": "https://batgap.com/anita-moorjani-interview-transcript/"
+  },
+  "chapters": [
+    {
+      "time": "00:00:00",
+      "seconds": 0,
+      "title": "Welcome to Buddha’s Gas Station"
+    },
+    {
+      "time": "00:02:58",
+      "seconds": 178,
+      "title": "Completely degenerated, can’t even walk"
+    },
+    {
+      "time": "00:06:01",
+      "seconds": 361,
+      "title": "The expansion of consciousness and the infinity of existence"
+    },
+    {
+      "time": "00:08:22",
+      "seconds": 502,
+      "title": "Unconditional love and understanding"
+    },
+    {
+      "time": "00:10:46",
+      "seconds": 646,
+      "title": "Realizing the meaning of life"
+    },
+    {
+      "time": "00:13:27",
+      "seconds": 807,
+      "title": "Case reports and memories"
+    },
+    {
+      "time": "00:15:39",
+      "seconds": 939,
+      "title": "Recalling what happened"
+    },
+    {
+      "time": "00:18:13",
+      "seconds": 1093,
+      "title": "Never forget"
+    },
+    {
+      "time": "00:20:32",
+      "seconds": 1232,
+      "title": "A glimpse into the reality of the world"
+    },
+    {
+      "time": "00:23:10",
+      "seconds": 1390,
+      "title": "Cancer Fear and Heredity"
+    },
+    {
+      "time": "00:25:42",
+      "seconds": 1542,
+      "title": "Mental and emotional effects on cancer"
+    },
+    {
+      "time": "00:28:17",
+      "seconds": 1697,
+      "title": "The impact of cancer and emotions"
+    },
+    {
+      "time": "00:30:48",
+      "seconds": 1848,
+      "title": "The fate of cancer"
+    },
+    {
+      "time": "00:33:21",
+      "seconds": 2001,
+      "title": "The experience of contact with death"
+    },
+    {
+      "time": "00:35:47",
+      "seconds": 2147,
+      "title": "The importance of being grounded and not competing"
+    },
+    {
+      "time": "00:38:40",
+      "seconds": 2320,
+      "title": "How to advise young people on career choices"
+    },
+    {
+      "time": "00:41:07",
+      "seconds": 2467,
+      "title": "A sense of division and unity"
+    },
+    {
+      "time": "00:43:31",
+      "seconds": 2611,
+      "title": "We are all part of the same entity"
+    },
+    {
+      "time": "00:46:13",
+      "seconds": 2773,
+      "title": "Observations about time and space"
+    },
+    {
+      "time": "00:48:54",
+      "seconds": 2934,
+      "title": "You can see everything in this state"
+    },
+    {
+      "time": "00:51:12",
+      "seconds": 3072,
+      "title": "Living in fear"
+    },
+    {
+      "time": "00:53:46",
+      "seconds": 3226,
+      "title": "The fear of leaving your true nature"
+    },
+    {
+      "time": "00:56:46",
+      "seconds": 3406,
+      "title": "The importance of control and certainty"
+    },
+    {
+      "time": "00:59:29",
+      "seconds": 3569,
+      "title": "The importance of embracing universal energy"
+    },
+    {
+      "time": "01:02:13",
+      "seconds": 3733,
+      "title": "Part of duality"
+    },
+    {
+      "time": "01:05:01",
+      "seconds": 3901,
+      "title": "Reach out to people and don’t be afraid of the afterlife"
+    },
+    {
+      "time": "01:07:38",
+      "seconds": 4058,
+      "title": "God and diversity"
+    },
+    {
+      "time": "01:10:03",
+      "seconds": 4203,
+      "title": "Her own strength and the respect of her family"
+    },
+    {
+      "time": "01:12:25",
+      "seconds": 4345,
+      "title": "Connecting with cosmic energy"
+    },
+    {
+      "time": "01:15:04",
+      "seconds": 4504,
+      "title": "Gain insight into your own heart"
+    }
+  ],
+  "notes": [
+    "yt-dlp is unavailable/broken in this environment, so the preserved raw layer is the public BATGAP transcript rather than YouTube auto-captions.",
+    "Chapter timestamps come from the BATGAP interview page and link back to the YouTube video."
+  ],
+  "video_thumbnail": {
+    "url": "https://i.ytimg.com/vi/vmuOXgr5UZw/hqdefault.jpg",
+    "local": "media/video-thumbnail.jpg"
+  },
+  "channel_info": {
+    "name": "Buddha at the Gas Pump®",
+    "url": "https://www.youtube.com/channel/UCnlVpm_PkNiFlTWFb0sEUDg",
+    "avatar_local": "media/channel-avatar.jpg",
+    "note": "Canal/autor del video; no confundir con la persona que da testimonio."
+  },
+  "experiencer_profile": {
+    "name": "Anita Moorjani",
+    "url": "https://www.anitamoorjani.com/",
+    "photo_url": "https://batgap.com/wp-content/uploads/2021/05/Anita-Moorjani.jpg",
+    "photo_local": "media/experiencer-photo.jpg",
+    "photo_source": "BATGAP interview profile photo"
+  }
+}

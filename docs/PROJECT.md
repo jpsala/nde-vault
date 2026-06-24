@@ -1,16 +1,18 @@
-# Proyecto NDE/ECM Vault
+# Proyecto — Paradigma de confianza y creatividad
 
 ## Propósito
 
-Crear un sistema de investigación, navegación y conversación sobre experiencias cercanas a la muerte, construido desde testimonios acumulados y trazables.
+Crear un sistema de investigación, navegación y conversación para ayudar a pasar del paradigma de miedo/desconfianza/soledad hacia un paradigma de creatividad, confianza, paz, cuidado y universo/Dios confiable.
 
-El sistema debe ayudar a explorar un nuevo paradigma sobre conciencia, muerte, existencia, realidad material, identidad, amor, propósito y transformación.
+Las experiencias cercanas a la muerte (NDEs/ECM) son una fuente privilegiada porque muchas personas relatan haber recordado el “hogar” o una realidad más amplia, pero el corpus también puede incluir fuentes no-ECM —videos, documentos, entrevistas, libros, charlas— si aportan evidencia trazable al norte vivencial.
+
+El sistema debe ayudar a explorar un nuevo paradigma sobre manifestación, creencias, confianza, miedo, salud, creación, cuidado, conciencia, muerte, realidad material, identidad, amor, propósito y transformación.
 
 ## Producto actual
 
 - Vault Markdown compatible con Obsidian como fuente canónica.
-- Procesamiento manual/asistido por chat de URLs y transcripciones.
-- Casos, conceptos, patrones, preguntas y fuentes organizadas en `vault/`.
+- Procesamiento manual/asistido por chat de URLs, documentos, transcripciones y notas de fuente.
+- Fuentes ECM y no-ECM, casos, conceptos, patrones, preguntas y rutas organizadas en `vault/`.
 - Documentación operativa en `docs/`.
 
 ## Principio de calidad

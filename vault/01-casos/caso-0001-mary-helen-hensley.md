@@ -4,11 +4,19 @@ id: caso-0001
 titulo: "The near death experience of Dr. Mary Helen Hensley"
 experienciador: "Dr. Mary Helen Hensley"
 fuente: youtube
+tipo_fuente: youtube
+es_ecm: true
+relacion_norte:
+  - confianza
+  - miedo
+  - creacion
+  - estamos-siendo-cuidados
+  - creencias
 url: "https://www.youtube.com/watch?v=6GsWknK5r-8"
 video_id: "6GsWknK5r-8"
 canal: "Anthony Chene production"
 idioma: en
-estado: "analizado-pendiente-aprobacion-conceptos"
+estado: "analizado-conceptos-iniciales-aprobados"
 fecha_ingreso: 2026-06-22
 transcripcion_youtube_raw: "vault/06-fuentes/youtube/6GsWknK5r-8/transcript_youtube_raw.md"
 transcripcion_youtube_indexed: "vault/06-fuentes/youtube/6GsWknK5r-8/transcript_youtube_indexed.md"
@@ -18,26 +26,29 @@ conceptos_aprobados:
   - identidad-mas-alla-del-cuerpo
   - muerte-como-transicion
   - percepcion-extracorporal-de-la-realidad-fisica
-conceptos_propuestos:
-  - tiempo-no-lineal
+  - revision-de-vida
+  - ausencia-de-juicio-externo
   - revision-de-vida-sin-juicio-externo
-  - guias-espirituales
-  - tierra-como-escuela
-  - unidad-e-interconexion
-  - realidad-como-juego-o-constructo-experiencial
-  - comunicacion-telepatica-o-conocimiento-directo
-  - sonido-luz-y-frecuencia
+  - unidad-e-interconexion-de-los-seres
+  - tiempo-y-temporalidad
+  - tiempo-no-lineal
+  - acompanamiento-no-fisico
+  - encarnacion-como-experiencia-de-aprendizaje
+  - realidad-material-como-constructo-experiencial
+  - conocimiento-directo-no-verbal
+  - ausencia-de-condena-final
   - continuidad-de-vinculos-con-fallecidos
-  - todos-son-bienvenidos
+conceptos_en_observacion:
+  - sonido-luz-y-frecuencia
 ---
 
 # Caso 0001 — The near death experience of Dr. Mary Helen Hensley
 
 ## Estado editorial
 
-Este caso está procesado como primer flujo experimental.  
-**Conceptos aprobados:** `identidad-mas-alla-del-cuerpo`, `muerte-como-transicion`, `percepcion-extracorporal-de-la-realidad-fisica`.  
-El resto de conceptos listados son propuestas. No se deben crear notas definitivas en `vault/02-conceptos/` hasta que el usuario apruebe cuáles forman parte del vocabulario inicial del paradigma.
+Este caso está procesado como primer flujo experimental y la ronda conceptual principal queda cerrada por ahora.  
+**Conceptos aprobados:** `identidad-mas-alla-del-cuerpo`, `muerte-como-transicion`, `percepcion-extracorporal-de-la-realidad-fisica`, `revision-de-vida`, `ausencia-de-juicio-externo`, `revision-de-vida-sin-juicio-externo`, `unidad-e-interconexion-de-los-seres`, `tiempo-y-temporalidad`, `tiempo-no-lineal`, `acompanamiento-no-fisico`, `encarnacion-como-experiencia-de-aprendizaje`, `realidad-material-como-constructo-experiencial`, `conocimiento-directo-no-verbal`, `ausencia-de-condena-final` y `continuidad-de-vinculos-con-fallecidos`.
+`sonido-luz-y-frecuencia` queda en observación/salteado por ahora a pedido del usuario; no crear nota definitiva hasta retomarlo explícitamente.
 
 ## Fuente
 
@@ -52,7 +63,7 @@ El resto de conceptos listados son propuestas. No se deben crear notas definitiv
 
 ## Resumen del caso
 
-Mary Helen Hensley relata una infancia marcada por experiencias de contacto con su abuelo fallecido, percepciones de personas fallecidas y experiencias fuera del cuerpo. La NDE central ocurre a los 21 años, durante un accidente automovilístico. Describe cómo el tiempo se ralentiza, decide salir del cuerpo antes del impacto, observa el accidente desde una perspectiva elevada y luego entra en un espacio no físico de luz, sonido y conocimiento.
+Mary Helen Hensley relata una infancia marcada por experiencias de continuidad vincular con su abuelo fallecido, percepciones de personas fallecidas y experiencias fuera del cuerpo. La NDE central ocurre a los 21 años, durante un accidente automovilístico. Describe cómo el tiempo se ralentiza, decide salir del cuerpo antes del impacto, observa el accidente desde una perspectiva elevada y luego entra en un espacio no físico de luz, sonido y conocimiento.
 
 En ese espacio experimenta continuidad de identidad, ausencia de miedo, encuentro con guías, revisión de vida no lineal, comunicación sin palabras y comprensión de que la vida terrestre funciona como una experiencia inmersiva de aprendizaje. Al regresar, afirma haber podido describir detalles verificables de la escena del accidente que no podría haber visto desde su cuerpo. Más adelante integra la experiencia en una visión donde el cuerpo, la enfermedad, el miedo, la muerte, los vínculos y el tiempo se reinterpretan desde una perspectiva de alma/conciencia.
 
@@ -65,8 +76,12 @@ El testimonio aporta material fuerte para varios ejes del paradigma:
 - la conciencia puede observar y conocer fuera del cuerpo;
 - el tiempo lineal se presenta como construcción funcional del plano físico;
 - la revisión de vida ocurre desde amor y autoevaluación, no juicio externo;
+- la condena/exclusión final se cuestiona en favor de una acogida disponible para todos;
 - la Tierra aparece como escuela/experiencia inmersiva;
+- la realidad material aparece como constructo, escenario o juego experiencial;
+- los vínculos con fallecidos pueden aparecer como continuados más allá de la muerte;
 - hay guías o presencias que acompañan;
+- la comunicación puede aparecer como conocimiento directo sin palabras;
 - la separación entre individuos se matiza por una unidad más profunda.
 
 ## Fragmentos relevantes
@@ -142,7 +157,7 @@ Importancia: la luz no solo rodea; parece ser medio interno/externo de experienc
 
 ---
 
-### Propuesta: [[Guías espirituales]] / [[Nunca estamos solos]]
+### Concepto aprobado: [[../02-conceptos/acompanamiento-no-fisico|Acompañamiento no físico]]
 
 > "these are my guides and everybody has guides they're with you from the dawn of your existence"
 
@@ -156,7 +171,7 @@ Importancia: núcleo conceptual de acompañamiento permanente.
 
 ---
 
-### Propuesta: [[Tierra como escuela]] / [[Experiencia inmersiva]]
+### Concepto aprobado: [[../02-conceptos/encarnacion-como-experiencia-de-aprendizaje|Encarnación como experiencia de aprendizaje]]
 
 > "Earth is this dichotomy of Darkness and Light this is a space unlike any other"
 
@@ -175,7 +190,7 @@ Importancia: define la encarnación como experiencia inmersiva buscada por el al
 
 ---
 
-### Propuesta: [[Tiempo no lineal]]
+### Conceptos aprobados: [[../02-conceptos/tiempo-y-temporalidad|Tiempo y temporalidad]] y [[../02-conceptos/tiempo-no-lineal|Tiempo no lineal]]
 
 > "this isn't happening in linear time"
 
@@ -190,30 +205,30 @@ Importancia: conceptualiza el tiempo como constructo funcional.
 > "people have multiple timeline experiences happening simultaneously"
 
 Fuente: [00:25:12](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1512)  
-Importancia: expande la idea hacia simultaneidad de líneas temporales.
+Importancia: `multiples-lineas-temporales` queda como subconcepto/observación emergente bajo el paraguas `tiempo-y-temporalidad`, no como nota independiente todavía.
 
 ---
 
-### Propuesta: [[Revisión de vida sin juicio externo]]
+### Conceptos aprobados: [[../02-conceptos/revision-de-vida|Revisión de vida]], [[../02-conceptos/ausencia-de-juicio-externo|Ausencia de juicio externo]] y [[../02-conceptos/revision-de-vida-sin-juicio-externo|Revisión de vida sin juicio externo]]
 
 > "I am watching my life unfold and this is that proverbial Life review"
 
 Fuente: [00:17:53](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1072)  
-Importancia: identifica la revisión de vida.
+Importancia: identifica la revisión de vida como fenómeno base.
 
 > "nobody was judging me but me I was critiquing my performance"
 
 Fuente: [00:21:27](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1287)  
-Importancia: contrasta con juicio religioso externo; aparece una autoevaluación amorosa.
+Importancia: contrasta con juicio religioso externo; sostiene `ausencia-de-juicio-externo`.
 
 > "I was watching and critiquing my own performance but with such love"
 
 Fuente: [00:21:51](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1310)  
-Importancia: introduce amor/no condena como tono de la revisión.
+Importancia: introduce `autoevaluacion-amorosa` como matiz del compuesto `revision-de-vida-sin-juicio-externo`.
 
 ---
 
-### Propuesta: [[Comunicación telepática o conocimiento directo]]
+### Concepto aprobado: [[../02-conceptos/conocimiento-directo-no-verbal|Conocimiento directo no verbal]]
 
 > "nobody's mouth is moving... we are just knowing each other"
 
@@ -223,25 +238,25 @@ Importancia: describe comunicación no verbal como conocimiento compartido.
 > "if you want to call it telepathic whatever but there was just a knowing"
 
 Fuente: [00:20:42](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1241)  
-Importancia: categoriza la experiencia como telepatía/conocimiento directo.
+Importancia: categoriza la experiencia como telepatía/conocimiento directo; `telepatia` queda como alias del concepto fenomenológico `conocimiento-directo-no-verbal`.
 
 ---
 
-### Propuesta: [[Unidad e interconexión]] / [[Fractales del mismo todo]]
+### Concepto aprobado: [[../02-conceptos/unidad-e-interconexion-de-los-seres|Unidad e interconexión de los seres]]
 
 > "those 8 billion other versions of you that are walking around on this planet you're just dissing yourself"
 
 Fuente: [00:26:19](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1579)  
-Importancia: propone una identidad compartida detrás de individuos separados.
+Importancia: propone una identidad compartida detrás de individuos separados; formulación `los-otros-como-otras-versiones-de-uno`.
 
 > "how is God in all places at once because we're fractals of the same whole"
 
 Fuente: [00:26:38](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1598)  
-Importancia: formula unidad/fractalidad como explicación de omnipresencia.
+Importancia: `fractales-del-mismo-todo` queda como alias/frase testigo dentro de `unidad-e-interconexion-de-los-seres`.
 
 ---
 
-### Propuesta: [[Continuidad de vínculos con fallecidos]]
+### Concepto aprobado: [[../02-conceptos/continuidad-de-vinculos-con-fallecidos|Continuidad de vínculos con fallecidos]]
 
 > "my very best friend when I was a child... was my grandfather... the only interesting catch was that judge died when I was one"
 
@@ -251,16 +266,16 @@ Importancia: presenta relación continuada con abuelo fallecido desde la infanci
 > "there were things that as a four-year-old I was telling my parents that there's no way I could have known unless judge had actually told me himself"
 
 Fuente: [00:01:06](https://www.youtube.com/watch?v=6GsWknK5r-8&t=65)  
-Importancia: sugiere información anómala atribuida al fallecido.
+Importancia: sugiere información anómala atribuida al fallecido; el nombre del concepto queda provisional y ajustable con nuevos casos.
 
 ---
 
-### Propuesta: [[Todos son bienvenidos]] / [[No condena final]]
+### Concepto aprobado: [[../02-conceptos/ausencia-de-condena-final|Ausencia de condena final]]
 
 > "everybody's welcome here you can't mess this thing up"
 
 Fuente: [00:35:20](https://www.youtube.com/watch?v=6GsWknK5r-8&t=2120)  
-Importancia: contrasta con separación cielo/infierno y condena final.
+Importancia: contrasta con separación cielo/infierno y condena final; `todos-son-bienvenidos` queda como alias/formulación del concepto.
 
 > "the illusion of the separation created by a heaven and a hell"
 
@@ -269,7 +284,17 @@ Importancia: explicita crítica a la separación moral/religiosa absoluta.
 
 ---
 
-### Propuesta: [[Realidad como juego o constructo experiencial]]
+### Concepto aprobado: [[../02-conceptos/realidad-material-como-constructo-experiencial|Realidad material como constructo experiencial]]
+
+> "my complete and utter definition of what time and space and reality are... are literally imploding"
+
+Fuente: [00:18:44](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1123)  
+Importancia: marca una ruptura de la realidad ordinaria como marco último.
+
+> "that's not even real. It's a man-made construct to give us some kind of template"
+
+Fuente: [00:20:23](https://www.youtube.com/watch?v=6GsWknK5r-8&t=1223)  
+Importancia: presenta el tiempo como constructo/plantilla del plano físico.
 
 > "why would you pull out the Monopoly board... because it's fun and it's immersive"
 
@@ -278,7 +303,7 @@ Importancia: analogía de la vida como juego/experiencia inmersiva, no como real
 
 > "you are in a playground a schoolhouse of immense opportunity"
 
-Fuente: [00:46:43](https://www.youtube.com/watch?v=6GsWknK5r-8&t=2803)  
+Fuente: [00:47:43](https://www.youtube.com/watch?v=6GsWknK5r-8&t=2862)  
 Importancia: integra juego y escuela como metáforas de la realidad terrestre.
 
 ## Conceptos
@@ -289,25 +314,31 @@ Ver también:
   - [[../02-conceptos/identidad-mas-alla-del-cuerpo|Identidad más allá del cuerpo]]
   - [[../02-conceptos/muerte-como-transicion|Muerte como transición]]
   - [[../02-conceptos/percepcion-extracorporal-de-la-realidad-fisica|Percepción extracorporal de la realidad física]]
-- Track conceptual activo: [Conceptos — Caso 0001 — Mary Helen Hensley](../../docs/tracks/conceptos-caso-0001-mary-helen-hensley.md)
+  - [[../02-conceptos/revision-de-vida|Revisión de vida]]
+  - [[../02-conceptos/ausencia-de-juicio-externo|Ausencia de juicio externo]]
+  - [[../02-conceptos/revision-de-vida-sin-juicio-externo|Revisión de vida sin juicio externo]]
+  - [[../02-conceptos/unidad-e-interconexion-de-los-seres|Unidad e interconexión de los seres]]
+  - [[../02-conceptos/tiempo-y-temporalidad|Tiempo y temporalidad]]
+  - [[../02-conceptos/tiempo-no-lineal|Tiempo no lineal]]
+  - [[../02-conceptos/acompanamiento-no-fisico|Acompañamiento no físico]]
+  - [[../02-conceptos/encarnacion-como-experiencia-de-aprendizaje|Encarnación como experiencia de aprendizaje]]
+  - [[../02-conceptos/realidad-material-como-constructo-experiencial|Realidad material como constructo experiencial]]
+  - [[../02-conceptos/conocimiento-directo-no-verbal|Conocimiento directo no verbal]]
+  - [[../02-conceptos/ausencia-de-condena-final|Ausencia de condena final]]
+  - [[../02-conceptos/continuidad-de-vinculos-con-fallecidos|Continuidad de vínculos con fallecidos]]
+- Track conceptual cerrado por ahora: [Conceptos — Caso 0001 — Mary Helen Hensley](../../docs/tracks/conceptos-caso-0001-mary-helen-hensley.md)
 
-### Propuestos para aprobación
+### En observación / salteado por ahora
 
-1. `tiempo-no-lineal`
-2. `revision-de-vida-sin-juicio-externo`
-3. `guias-espirituales`
-4. `tierra-como-escuela`
-5. `unidad-e-interconexion`
-6. `realidad-como-juego-o-constructo-experiencial`
-7. `comunicacion-telepatica-o-conocimiento-directo`
-8. `sonido-luz-y-frecuencia`
-9. `continuidad-de-vinculos-con-fallecidos`
-10. `todos-son-bienvenidos`
+1. `sonido-luz-y-frecuencia` — no procesar como concepto definitivo hasta retomarlo explícitamente.
 
 ## Preguntas editoriales abiertas
 
 - ¿Cuándo conviene separar `cuerpo-como-vehiculo` de `identidad-mas-alla-del-cuerpo` como concepto propio?
-- ¿`realidad-como-juego-o-constructo-experiencial` debe ser un subconcepto de un concepto más amplio como `realidad-material-como-constructo`?
-- ¿`todos-son-bienvenidos` debe formularse en lenguaje neutral como `no-condena-final`?
-- ¿Cómo marcar conceptos más especulativos como frecuencias específicas, enfermedad como señal, múltiples timelines?
+- ¿Cuándo conviene separar subtipos de `realidad-material-como-constructo-experiencial`, como `realidad-como-juego`, `realidad-como-sueno` o `plano-fisico-como-escenario`?
+- ¿Cuándo conviene separar `acogida-universal` como concepto propio frente a mantenerlo como alias de `ausencia-de-condena-final`?
+- ¿Conviene renombrar `continuidad-de-vinculos-con-fallecidos` cuando haya más casos, por ejemplo a `vinculos-mas-alla-de-la-muerte` o `relacion-continuada-con-fallecidos`?
+- ¿Cuándo conviene separar `multiples-lineas-temporales` como concepto propio dentro de `tiempo-y-temporalidad`?
+- ¿Cómo observar `cuerpo-como-senal-de-desalineacion` sin convertirlo en afirmación médica ni culpabilizante?
+- ¿Cómo marcar conceptos más especulativos como frecuencias específicas?
 - ¿Conviene crear más adelante una categoría metodológica separada para grados de fuerza evidencial, incluyendo “verificable según el relato” vs. corroboración externa independiente?

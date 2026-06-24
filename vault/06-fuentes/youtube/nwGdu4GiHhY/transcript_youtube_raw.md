@@ -1,0 +1,741 @@
+# Transcripción YouTube raw — I Died of a Heart Attack For 20 Minutes & What I Heard Changed EVERYTHING!
+
+Fuente: https://www.youtube.com/watch?v=nwGdu4GiHhY
+Video ID: `nwGdu4GiHhY`
+Origen: subtítulos automáticos de YouTube (`en-orig.json3`) preservados sin corrección editorial.
+
+- [00:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=0) and I pulled up to uh the intersection
+- [00:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=3) two cars in and I put my foot on the
+- [00:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=5) brake and I died in my car. It was like
+- [00:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=10) an IMAX theater and it's 3D and it's
+- [00:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=14) perfect color and no sound but it's
+- [00:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=16) perfect color and it's it's really
+- [00:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=19) really crystal clear. And I said, I'm
+- [00:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=21) looking to the south. I'm on this pole
+- [00:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=23) and I'm looking straight down and I see
+- [00:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=25) a pile of blue people that are on a man
+- [00:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=28) and I realize that it's me. Wow. I
+- [00:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=31) cannot imagine. It's so hard to describe
+- [00:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=33) what it felt like because it was just so
+- [00:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=36) crystal clear. I'm literally above
+- [00:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=38) looking at this whole thing happening.
+- [00:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=41) It was a huge
+- [00:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=43) super tall endless wall of this most
+- [00:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=47) indescribable light. It's completely
+- [00:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=50) quiet and it's completely peaceful and
+- [00:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=54) it is um it's a kind of quiet that I've
+- [00:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=57) never experienced before, but it's it's
+- [00:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=59) so peaceful. And inside of that
+- [01:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=62) residence, I have no [music] sense of
+- [01:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=63) time in this. I don't know how long it
+- [01:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=65) was. I so I can't measure it. There was
+- [01:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=67) no time.
+- [01:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=75) Well, the start of my experiences uh was
+- [01:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=79) on Valentine's Day of 2022.
+- [01:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=83) I uh had started the day at noon playing
+- [01:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=86) ice hockey. I've been playing hockey my
+- [01:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=89) whole life. And uh so I was playing
+- [01:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=92) about at a rink about 2 miles from the
+- [01:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=94) house. Started at noon and I was playing
+- [01:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=96) for about an hour and 10 minutes. And I
+- [01:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=99) play with a bunch of 24 to 25 year old
+- [01:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=103) guys. I'm I'm 64 now. And um so I was
+- [01:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=109) playing doing pretty good. They call me
+- [01:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=111) Moses
+- [01:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=113) because of my age. And after about two
+- [01:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=117) and a half periods of playing hockey, I
+- [02:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=120) just felt terrible. I didn't know what
+- [02:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=122) was going on. I I all of a sudden out of
+- [02:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=124) nowhere, I just was I was lethargic and
+- [02:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=127) I could hardly skate anymore. And I
+- [02:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=130) thought I didn't know what it was. So, I
+- [02:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=132) begged myself off the ice and thought I
+- [02:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=134) should just go home and call it a day.
+- [02:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=136) So, I was in the locker room begging my
+- [02:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=138) skates off of my feet and I was starting
+- [02:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=141) to feel pretty bad. And wasn't real sure
+- [02:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=144) what was going on. I'm a real healthy
+- [02:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=145) man. I don't drink. I don't smoke. Been
+- [02:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=147) playing hockey all my life. I'm real
+- [02:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=149) active and uh overall I have no health
+- [02:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=152) issues. I haven't seen a doctor in
+- [02:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=154) years. So, I was struggling and I only
+- [02:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=158) lived a couple miles from the home. So,
+- [02:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=160) I got it all my stuff in my car and I
+- [02:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=165) was heading east on the final leg of my
+- [02:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=168) little short journey home and I pulled
+- [02:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=170) up to uh the intersection two cars in
+- [02:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=174) behind an old pickup truck at a yellow
+- [02:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=176) light and I put my foot on the brake and
+- [02:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=179) I died in my car.
+- [03:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=182) Yeah. I had a Widowmaker heart attack
+- [03:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=184) right there in my car. Widowmaker
+- [03:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=186) basically is as it's named um my heart
+- [03:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=189) stopped beating and u with my foot on
+- [03:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=192) the brake and my heart had stopped uh I
+- [03:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=196) slumped in my car kind of below the
+- [03:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=199) wheel a little bit and uh draped myself
+- [03:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=203) across the console and put myself into
+- [03:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=205) park. And so I was in park it two cars
+- [03:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=210) away from the intersection in my car and
+- [03:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=212) I was dead. my heart had stopped
+- [03:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=214) beating. Um, at this point in time, my
+- [03:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=217) heartbeat was what's called VIB, which
+- [03:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=220) meant it was uh jiggling but not
+- [03:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=223) beating. So, technically, um, if I'm not
+- [03:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=226) going to get help, I will be a deceased
+- [03:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=228) person fairly shortly. So,
+- [03:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=232) getting to the near-death experience,
+- [03:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=235) um, I was discovered by a gal behind me.
+- [03:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=239) Her name was Angel, believe it or not.
+- [04:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=241) And uh she had been behind me watching a
+- [04:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=245) video on her phone somebody had sent to
+- [04:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=248) her and um all people started honking at
+- [04:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=251) her. She didn't realize that everybody
+- [04:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=254) had left and it had now been a full
+- [04:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=256) video and I talked with her later and
+- [04:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=259) she said it was probably about a 3 to 4
+- [04:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=260) minute video. So, at that point, we know
+- [04:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=263) I was in my car uh for about three to
+- [04:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=265) four minutes or about what looks like
+- [04:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=268) four traffic lights. And uh then she
+- [04:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=272) really felt like somebody had tapped her
+- [04:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=274) on the shoulder and she saw my seat belt
+- [04:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=276) in the car, but nobody in it. And so,
+- [04:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=278) she got out of her car and walked up and
+- [04:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=281) opened my door up and there I was. I had
+- [04:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=283) been in there now for that period of
+- [04:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=285) time. And uh I was obviously gone. I did
+- [04:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=289) not have a heartbeat. I was not
+- [04:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=290) breathing and I was purple.
+- [04:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=294) All the descriptions of a person that's
+- [04:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=295) had a cardiac arrest. And so she I was
+- [04:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=299) too big for her to pull out. So she had
+- [05:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=301) uh waved down a fellow to help get me
+- [05:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=304) out and they put me into the street and
+- [05:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=306) they started doing CPR on me. Uh she did
+- [05:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=310) 200 compressions. A police officer came
+- [05:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=312) and did 400. And then another police
+- [05:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=314) officer came and did 650 compressions on
+- [05:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=317) me. All in all, I was about 1,300
+- [05:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=319) compressions in the street, and the fire
+- [05:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=321) department still hadn't shown up after
+- [05:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=323) 10 minutes. So, uh, this is what
+- [05:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=327) connects the near-death experience to
+- [05:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=330) the veritical side is that, uh, when the
+- [05:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=333) fire department did show up, I was, uh,
+- [05:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=336) pretty much gone and my heart was still
+- [05:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=339) in this VIB rhythm, but they could not
+- [05:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=341) recall me. So, they put me in the
+- [05:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=342) ambulance and uh put a machine on me
+- [05:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=345) that kept compressions and hustled me
+- [05:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=347) off to the nearby uh hospital, went to a
+- [05:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=351) cath lab where they pushed out um a
+- [05:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=353) blood clot in my LED artery that had
+- [05:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=355) stopped my heart. So, let's just fast
+- [05:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=358) forward uh a week. I walked out of the
+- [06:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=361) ICU uh on Saturday. This was Monday, and
+- [06:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=364) I walked out of there on Saturday, and I
+- [06:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=368) was pretty beat up. Uh rather fragile in
+- [06:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=370) the brain. I they were pretty at the
+- [06:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=372) time they were very serious I was going
+- [06:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=374) to have a serious enoxic brain injury of
+- [06:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=377) which I did not and so they released me
+- [06:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=379) on Saturday walked out of there and on
+- [06:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=381) the Monday a week later I had my first
+- [06:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=384) appointment with a cardiologist and he
+- [06:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=386) gave me all the details of what had just
+- [06:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=387) happened to me the cardiac arrest and
+- [06:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=389) how much damage I had and and all that
+- [06:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=391) medical information. So Connie and I, my
+- [06:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=395) wife and I, we were driving home. She
+- [06:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=397) was driving and heading east on the same
+- [06:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=401) road. We pulled up to the exact same
+- [06:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=403) spot
+- [06:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=404) >> uh that I had been a week before.
+- [06:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=407) Although I didn't remember that I was I
+- [06:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=409) was sitting she was driving and we were
+- [06:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=412) in that position in the traffic and it
+- [06:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=415) struck me but I didn't quite have a a
+- [06:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=418) concept that that's where I was. I I was
+- [07:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=420) still fuzzy. And I looked through her
+- [07:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=423) pass or excuse me, her driver window and
+- [07:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=426) there was a light pole in the boulevard
+- [07:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=428) right there. And the moment I saw that
+- [07:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=430) light pole, something it was like an
+- [07:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=433) electric shock and I was wearing a vest
+- [07:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=435) at the time that would shock me if my
+- [07:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=437) heart stopped beating again. So at first
+- [07:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=439) I thought it was that cuz it literally
+- [07:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=441) felt like an electric shock. It was this
+- [07:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=443) jolt and but it wasn't the best and I it
+- [07:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=447) but it was something and I just it hit
+- [07:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=450) me. So it was rather mysterious to me
+- [07:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=452) and I had spent a better part of 18
+- [07:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=455) years uh training law enforcement and
+- [07:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=457) people like that. So I didn't know who
+- [07:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=460) my responders were. I didn't know who
+- [07:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=462) rescued me. I didn't know how long I was
+- [07:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=464) down. I had no idea about compressions.
+- [07:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=466) I really didn't know much about anything
+- [07:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=468) other than I had a heart um a widowmaker
+- [07:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=470) heart attack. So, I'm still in the dark
+- [07:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=474) and in and what had happened to me, but
+- [07:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=476) there I look across the street and
+- [07:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=477) there's a fire department about 1500
+- [07:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=479) yards away. And I'm assuming I'm like,
+- [08:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=482) "It has to be them. I'm alive. Somebody
+- [08:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=485) had to have come quickly because it had
+- [08:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=487) been them." So, I said to my wife,
+- [08:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=489) "Let's go thank them." So, we pulled
+- [08:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=491) into the fire station and I knocked on
+- [08:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=493) the door and the paramedic that was
+- [08:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=497) there, uh, he looked out the window and
+- [08:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=500) he looked at me and he was, his eyes
+- [08:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=502) were
+- [08:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=504) big and he comes out and he goes, "You
+- [08:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=507) like that." And I just pointed at the
+- [08:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=510) intersection. He goes, "You were dead."
+- [08:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=513) Just like loud and as excited as he
+- [08:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=515) could get. And I go, "Not hardly." He
+- [08:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=517) goes, "No, you were a corpse. Come on
+- [08:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=520) in." So, he was pretty darn excited to
+- [08:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=524) see me, and I don't I don't think too
+- [08:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=525) many people come back and thank him. So,
+- [08:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=528) he he invited my wife and I just in
+- [08:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=530) around the corner to the kitchen. And
+- [08:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=532) there's where all the other firemen of
+- [08:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=533) the station were at, bunch of young
+- [08:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=534) guys. And an assistant chief was there
+- [08:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=538) who was my age. And he had since
+- [08:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=539) retired, but he'd been in fire business,
+- [09:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=541) the fire department business for 45
+- [09:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=543) years. And they're all with their eyes
+- [09:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=545) just looking at me. And I could hear him
+- [09:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=547) whispering amongst themselves like,
+- [09:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=548) "That's that Widowmaker guy. That's that
+- [09:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=550) Widowmaker dude." You know, and so we
+- [09:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=554) were sitting there and the assistant
+- [09:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=556) chief had started asking me questions,
+- [09:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=557) "Do you realize how long you were down?"
+- [09:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=559) And I said, "I have no idea about
+- [09:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=561) anything. I'm pretty fuzzy." He said,
+- [09:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=563) "You were down a minimum of 20 minutes."
+- [09:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=566) And um and I was like, "20 minutes?" He
+- [09:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=569) goes, "You were gone." And they they
+- [09:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=571) called me at the scene. They said there
+- [09:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=573) was nothing more they could do. say they
+- [09:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=575) buttoned me up and sent me off to the
+- [09:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=576) hospital. And uh I went whoa. And they
+- [09:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=580) said when they arrived to me, it was um
+- [09:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=583) kind of a mixup because the 911 call had
+- [09:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=587) initially been a motorist in distress
+- [09:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=589) instead of a code. And so it took him
+- [09:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=592) over 10 minutes to get to me. And that's
+- [09:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=594) why the the CPR happened for so long
+- [09:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=596) because it took the fire department
+- [09:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=598) forever. And that day that fire
+- [10:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=600) department was on like a training day.
+- [10:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=603) So they weren't answering calls anyway
+- [10:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=605) unless it was a serious one. So when
+- [10:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=607) they hear the motors in distress, they
+- [10:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=609) they just ignored the call until they
+- [10:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=611) got the tone that said there was a code
+- [10:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=613) which was after about 10 or 12 minutes.
+- [10:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=615) I'm starting to figure it out that I'm
+- [10:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=617) like, "Wow, that's a long time, 20
+- [10:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=619) minutes." And he says to me, "What was
+- [10:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=621) it like?"
+- [10:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=623) And I hadn't really had any profound
+- [10:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=627) thought or experience about it. Like I
+- [10:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=629) say, I was in the ICU. I woke up kind of
+- [10:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=631) in a dreamy state. Real confused as to
+- [10:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=633) why I was there. But here I am and I
+- [10:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=636) shut my eyes. And the only thing I can
+- [10:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=638) say is that it had to do with that
+- [10:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=641) electric feeling that I got in the car
+- [10:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=643) when I was in the same exact location as
+- [10:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=647) the week prior. But when I shut my eyes,
+- [10:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=650) it was like an IMAX theater. It was like
+- [10:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=655) an IMAX movie going on in my head. And
+- [10:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=658) it's still in my head now. It never
+- [10:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=659) slept.
+- [11:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=661) And it's 3D and it's perfect color and
+- [11:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=664) no sound, but it's perfect color and
+- [11:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=665) it's it's really really crystal clear.
+- [11:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=669) And so I start to describe this to them
+- [11:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=671) with my eyes shut. I said, 'Well, I'm
+- [11:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=675) looking down and I'm I'm somehow or
+- [11:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=677) another I'm on a pole, this light pole
+- [11:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=680) that I had seen through my wife's
+- [11:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=682) window, and I'm on this pole and I'm
+- [11:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=685) looking down and I'm facing towards the
+- [11:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=688) south. I recognize that a mountain in
+- [11:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=690) the south called Santan Mountain. And I
+- [11:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=692) said, I'm looking to the south. I'm on
+- [11:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=694) this pole and I'm looking straight down
+- [11:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=696) and I see a pile of blue people that are
+- [11:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=699) on a man and I see
+- [11:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=703) feet moving back and forth like that and
+- [11:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=706) I realize that it's me because I see my
+- [11:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=708) feet and next to I'm next to my car and
+- [11:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=713) these blue pe the blue people are on me.
+- [11:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=715) There's a police car on the other side
+- [11:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=717) of my vehicle and another one in not
+- [12:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=720) quite in front but in the intersection.
+- [12:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=722) They're sort of blocking traffic and
+- [12:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=724) there's a fire engine in front of my
+- [12:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=726) vehicle with the letters E and then
+- [12:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=729) numbers 256 on it. I said and I told him
+- [12:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=733) that. And then I said there's an
+- [12:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=734) ambulance with M252
+- [12:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=738) on it. And I'm just describing this. I'm
+- [12:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=741) describing where the cars are parked,
+- [12:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=743) where the firetruck is parked, where the
+- [12:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=745) the ambulance is parked. And I said,
+- [12:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=748) "Across the street there's people on the
+- [12:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=750) sidewalk that are kind of standing there
+- [12:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=753) clustered watching what's going on." And
+- [12:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=756) then I open my eyes and I look up and I
+- [12:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=759) said, "And I see a white envelope." And
+- [12:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=761) I held my fingers up like that. I just
+- [12:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=764) see a white envelope. It's next to all
+- [12:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=765) the blue people, but it's sort of like
+- [12:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=767) trash. It's like a piece of just a
+- [12:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=769) piece. It's sort of kind of in the wind,
+- [12:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=771) you know? It's sort of going like that.
+- [12:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=773) It's like somebody had thrown a wrapper
+- [12:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=775) away. And that's when they all went,
+- [12:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=778) "What?"
+- [12:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=779) And the man who had met me at the door,
+- [13:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=781) who was the paramedic, he said, "Come
+- [13:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=783) with us." And we walked around into the
+- [13:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=785) garage and there was a fire truck that
+- [13:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=788) said E256 on it. And I went, "Whoa." And
+- [13:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=792) my wife said, "Did you say E256?" I
+- [13:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=795) went, "Yeah." And I look and it's in
+- [13:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=796) there. It's still in my head today. And
+- [13:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=798) I'm literally looking at this firet
+- [13:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=800) truck with this E256 on it. And there's
+- [13:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=803) an ambulance there, but it said M256 on
+- [13:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=806) it. And I said, "No, the ambulance said
+- [13:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=808) 252. I'm sure of it." Because I'm
+- [13:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=810) looking at it. And they're looking at me
+- [13:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=813) like, "Are you kidding me?" And that's
+- [13:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=816) when they explained the mistake in the
+- [13:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=819) call that happened that initially it was
+- [13:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=822) a distress call, so they were training.
+- [13:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=825) So they didn't roll their engine, but a
+- [13:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=828) engine and an ambulance from a far
+- [13:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=831) northern part of the town was called and
+- [13:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=834) so they were on their way. And that's
+- [13:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=836) why it was um they were on their way.
+- [14:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=840) But after the period of time that the
+- [14:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=843) police officers were doing all those
+- [14:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=844) compressions, they they pushed what's
+- [14:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=845) called a code tone on their microphone
+- [14:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=849) and everybody listens now. And so that's
+- [14:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=852) when that station that I was standing
+- [14:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=853) in, they said we heard the tone of a
+- [14:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=856) code and they said, "Hey, we're right
+- [14:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=858) here." And so that's why they rolled
+- [14:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=861) across the street immediately after
+- [14:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=863) about 10 or 12 minutes with their
+- [14:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=865) engine, but the ambulance from the other
+- [14:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=868) department was on its way. So that's why
+- [14:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=871) when I said M252,
+- [14:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=874) I had described the other station's
+- [14:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=876) ambulance
+- [14:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=878) and then I had described the station
+- [14:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=881) number six's engine. And I would have
+- [14:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=883) known that because I had no idea how
+- [14:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=885) these numbers work anyway. But the fact
+- [14:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=887) that I described the other engine and
+- [14:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=889) the other the two separate locations uh
+- [14:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=893) trucks, they were looking at me like
+- [14:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=896) there's no way you could do that. But I
+- [14:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=898) had described them. Then the paramedic
+- [15:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=901) asked me, he said, "How's your
+- [15:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=902) shoulder?" And I I went, "Well, this
+- [15:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=905) one's artificial." He goes, "No, the
+- [15:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=907) other one." And I I felt it. And I'm
+- [15:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=910) like, "Ow, it hurts." And he says, "It
+- [15:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=913) ought to." He pulled out of his engine,
+- [15:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=915) the engine with E256 on it, a
+- [15:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=918) paramedic's bag, and he opened it up and
+- [15:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=920) he pulls a little tiny green Makita
+- [15:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=922) drill out. He says, "I drilled you with
+- [15:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=925) this whizz." And I I went, "What?" He
+- [15:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=929) goes, "Dude, your bounce house was flat.
+- [15:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=932) You were a corpse. I got nothing. I got
+- [15:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=934) to get an IV in you." And so they drill
+- [15:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=937) into the bone marrow into your shoulder.
+- [15:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=940) And also, I found out later they'll also
+- [15:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=941) do one in your ankle. But this, they
+- [15:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=943) drill right into my bone, the humorous
+- [15:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=945) bone into the bone marrow, and that's
+- [15:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=947) where they insert a needle to get to a
+- [15:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=950) blood source for the IV.
+- [15:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=952) Right? I didn't know anything about
+- [15:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=954) this. And so he throws me a paper
+- [15:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=959) that I had just described and I catch it
+- [16:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=962) and I go, "What's this?" He goes, "Turn
+- [16:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=964) it over." And I turned it over and it
+- [16:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=966) was the needle set and the tube that was
+- [16:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=969) coiled and the nozzle that goes into the
+- [16:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=972) IV. And it's called an IO. I wish I
+- [16:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=975) can't say the long name, but it's a long
+- [16:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=976) name, but it's called IO. And that was
+- [16:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=979) the tube that connects the bone to the
+- [16:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=981) IV. And I'm like, "What'd you do with
+- [16:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=984) the paper?" And he said, "Dude," he
+- [16:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=986) goes, "you are a corpse. I got no time
+- [16:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=988) for litter laws." That's what he said.
+- [16:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=990) And he said, "I just threw it." And I
+- [16:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=992) said, "What I know about this." And I
+- [16:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=995) had my eyes open. I'm describing this
+- [16:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=997) thing. I said, "What I know about this."
+- [16:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=998) And they said, "There's no way, Kevin,
+- [16:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1000) you were gone. You were gone." They had
+- [16:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1003) shocked me several times. Five or six
+- [16:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1005) times. I've got the the tape of it where
+- [16:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1007) you can just see my heart's in this VIB
+- [16:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1009) rhythm the whole time. Here's a shock.
+- [16:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1011) Then here's VIB the whole time. Then
+- [16:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1013) here's a shock and then another VIB.
+- [16:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1015) It's called ventricular fibrillation.
+- [16:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1017) But that VIB is a heart rate. It just
+- [16:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1019) it's not beating. So my heart's not
+- [17:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1020) beating. And um and I'm like, how would
+- [17:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1024) I know? And they just there's no way.
+- [17:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1028) And they describe that I had described
+- [17:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1031) the other ambulance with compared to the
+- [17:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1034) engine that the station I was standing
+- [17:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1036) in. And it's there's just no way you
+- [17:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1038) would know that. I was getting emotional
+- [17:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1041) at this point and everybody was
+- [17:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1042) emotional. My wife was already crying
+- [17:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1045) and I I shut my eyes again and boom,
+- [17:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1048) there it is. And I'm describing it
+- [17:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1050) again. I go, "Yeah, there you are." And
+- [17:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1052) I said, "And there's a tall man with a
+- [17:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1053) blue shirt and a collar and three
+- [17:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1056) buttons and a logo on him." And I later
+- [17:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1058) found out about eight months later that
+- [17:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1060) was the man that pulled me out of my
+- [17:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1062) car.
+- [17:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1063) That was his work shirt. He worked for a
+- [17:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1065) construction company and that was his
+- [17:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1067) work. He was like a supervisor and that
+- [17:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1069) was his work shirt. And I had described
+- [17:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1072) all these things perfectly. And so I
+- [17:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1076) shut my eyes again. I was actually now I
+- [17:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1078) like morbidly curious. I'm digging for
+- [18:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1080) more, right? I'm like I just shut my
+- [18:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1082) eyes. I'm just exploring this video in
+- [18:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1084) my brain and
+- [18:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1087) I it's there. It is. And it's it's like
+- [18:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1090) wow. I cannot imagine. It's hard to
+- [18:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1093) describe what it felt like because it
+- [18:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1095) was just so crystal clear. I'm literally
+- [18:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1098) above looking at this whole thing
+- [18:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1100) happening. Then I'm describing it again
+- [18:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1104) and I said, I'm still there and I see
+- [18:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1106) these people and I look to the south and
+- [18:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1109) I said in south in town you can see this
+- [18:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1112) mountain. It's called Santan Mountain
+- [18:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1114) and we have these dust storms in Arizona
+- [18:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1116) where I live. They're huge, huge dust
+- [18:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1119) storms that come, walls of dirt that are
+- [18:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1122) several thousand feet high and it's just
+- [18:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1124) a wall of dirt that comes across the
+- [18:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1126) town and you look at your watch and he's
+- [18:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1128) like, I got five minutes to go home and
+- [18:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1129) put my umbrellas up. That's what it felt
+- [18:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1132) like. But it wasn't dirt. It was a huge,
+- [18:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1137) super tall, endless wall of this most
+- [19:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1140) indescribable light.
+- [19:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1143) I still can't describe it, but it was
+- [19:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1145) just this light that was like a wall
+- [19:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1149) almost like a dust storm, but it was
+- [19:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1151) coming at me just like a dust storm
+- [19:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1153) would come at me, but it was light. It
+- [19:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1155) was this huge indescribable wall of
+- [19:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1158) light. And as I'm I'm in my mind's eye
+- [19:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1161) describing this now, I and I said, I'm
+- [19:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1163) in it now. I'm engulfed in this what
+- [19:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1167) would be like I would be engulfed in a
+- [19:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1168) dust storm, but it would be it's this
+- [19:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1170) light now. I'm engulfed in it.
+- [19:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1172) completely engulfed. There's nothing
+- [19:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1174) else. The whole scene went away. There's
+- [19:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1176) no more trucks. There's no more
+- [19:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1177) ambulance. There's no more people. It's
+- [19:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1180) completely quiet and it's completely
+- [19:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1183) peaceful. And it is um it's a kind of
+- [19:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1186) quiet
+- [19:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1188) that I've never experienced before that
+- [19:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1190) it's it's so peaceful and so quiet. And
+- [19:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1194) I'm lucid. I'm looking at my hands and
+- [19:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1196) they're kind of vi they're vibrant at
+- [19:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1199) this light. It's sort of like the light
+- [20:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1200) is on my hands, too. But there's nobody
+- [20:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1202) in it with me. It's not like I'm seeing
+- [20:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1204) my life past before me like other people
+- [20:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1206) I know have. I don't have anybody um
+- [20:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1210) that's, you know, I see. It's not like
+- [20:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1212) my dog is there, any of that. But I'm in
+- [20:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1213) this light. It's just a I'm in engulfed
+- [20:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1216) in it. And it's quiet and it in it
+- [20:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1221) there's no sound but there's a a type of
+- [20:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1224) a frequency kind of a like if you hit a
+- [20:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1227) low pitchfork
+- [20:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1229) you know a really low low one it's that
+- [20:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1231) kind of a resonance that's what it felt
+- [20:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1234) like and inside of that resonance and I
+- [20:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1237) have no sense of time in this I don't
+- [20:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1239) know how long it was I so I can't
+- [20:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1241) measure it there was no time and there
+- [20:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1243) was no emotions I've been interviewed by
+- [20:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1246) several hospitals that were doing
+- [20:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1248) research on this kind of experience and
+- [20:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1250) they asked me that if there was any time
+- [20:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1252) I go no time no emotions I wasn't afraid
+- [20:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1255) I was just peaceful
+- [20:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1257) and during this period of time where I
+- [21:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1260) was in this light in this resonance like
+- [21:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1262) I say it was like a big huge pitchfork
+- [21:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1264) that just kind of vibrated
+- [21:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1268) it was my mother
+- [21:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1270) my mother it wasn't her standing there
+- [21:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1274) or anything I didn't see her it wasn't
+- [21:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1277) like English that I would recognize in
+- [21:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1279) my mother's pitch, but it was inside of
+- [21:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1282) me. And she communicated to me two words
+- [21:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1286) or two two sets of words. Not yet. Not
+- [21:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1290) yet. Two times. And then on the second
+- [21:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1294) not yet, it was boom, pitch black and it
+- [21:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1299) was terror. I felt like I had just come
+- [21:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1302) off the bottom of the lake and I had
+- [21:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1306) grabbed my air and I gasped for air like
+- [21:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1309) I had been, you know, I had just gasped
+- [21:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1311) like I just come off the bottom of a
+- [21:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1312) lake, you know, and you run out of air
+- [21:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1313) and you finally get to the surface, you
+- [21:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1316) you suck in air. That's what I felt
+- [21:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1318) like. But I'm in this pitch dark and no
+- [22:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1320) hearing, but it's it's terrifying to me.
+- [22:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1324) I feel like I'm in a closet of this
+- [22:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1326) total dark. And I started to scream
+- [22:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1330) three times my wife's name, Connie. Like
+- [22:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1332) in a loud crazy warrior scream. Just
+- [22:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1336) screaming my wife's name. Connie.
+- [22:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1338) Connie. Connie. Like, find me. Come find
+- [22:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1341) me. You know that kind of a thing. On
+- [22:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1343) the third on the third scream of my
+- [22:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1345) wife's name. Nothing.
+- [22:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1348) Nothing at all. I open my eyes. I'm
+- [22:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1351) crying. I described this to the firemen.
+- [22:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1353) They're all crying and and they cannot
+- [22:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1355) they cannot believe what I had just
+- [22:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1357) described because it was exactly what
+- [22:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1360) the scene was. It was the down to the
+- [22:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1363) detail of the fire trucks and the
+- [22:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1364) ambulance where the police cars were
+- [22:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1367) faced and um the blue people and the
+- [22:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1370) white paper the whole thing um I had
+- [22:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1373) described exactly. So I was worried at
+- [22:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1377) the time that I had lost my mind that I
+- [23:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1380) was I but it didn't explain the detail,
+- [23:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1385) right? So it left me feeling really
+- [23:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1387) really kind of worried and perplexed and
+- [23:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1390) and
+- [23:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1392) um it's kind of hard to describe the
+- [23:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1393) emotion of it, but I was absolutely
+- [23:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1395) perplexed as to what I had just seen and
+- [23:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1398) described to these five men and their
+- [23:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1400) and their boss and my wife. I had
+- [23:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1403) described this entire scene and so I was
+- [23:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1406) worried that I had likely experienced an
+- [23:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1410) injury of some sort and I but I couldn't
+- [23:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1412) rectify.
+- [23:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1413) It wasn't like I could make it up
+- [23:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1415) because it was accurate what I had what
+- [23:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1417) I had described. So it was really a a
+- [23:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1420) perplexing thing for me and I held on to
+- [23:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1423) that for about three weeks and it scared
+- [23:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1426) me to death. I didn't know what I had
+- [23:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1427) experienced. I didn't know what had
+- [23:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1429) happened to me, why I was able to to and
+- [23:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1431) it's and what even bothered me more is
+- [23:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1433) that it never went away
+- [23:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1436) that that it's like a video that's
+- [23:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1438) constantly looping in my brain now all
+- [24:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1440) the way to the light in the night yet.
+- [24:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1442) It's never gone away ever. And so in the
+- [24:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1445) initial stages just going to sleep at
+- [24:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1447) night, it would be there. If I'd shut my
+- [24:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1449) eyes to go to sleep, boom, there it is.
+- [24:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1451) And it was sort of nightmarish to me
+- [24:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1454) because I was reliving this whole
+- [24:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1457) experience. Then I'd wake up in the
+- [24:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1459) morning and it would still it was like
+- [24:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1461) it was a constant loop in my mind all
+- [24:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1463) night and I'd wake up with it in the
+- [24:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1465) morning and if I shut my eyes there it
+- [24:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1467) is again. So I was becoming a little bit
+- [24:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1470) um not to say distracted, it' be light
+- [24:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1473) word but it was bothering me. So, I had
+- [24:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1476) gone back to the cardiologist about
+- [24:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1478) three weeks later. Had to do a checkup
+- [24:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1480) and a follow-up. And I I'm definitely a
+- [24:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1482) cardiac patient now. And you know, this
+- [24:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1486) is bothering me. I didn't even talk to
+- [24:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1487) my wife about how it was bothering me
+- [24:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1489) that I had this this loop in my head has
+- [24:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1492) not gone away. It's it's stuck in there.
+- [24:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1496) And I thought I was having a mind issue.
+- [24:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1498) And so I said to my doctor, I I said, "I
+- [25:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1501) have to say something." And I I said, "I
+- [25:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1503) don't want you to think I'm crazy, but I
+- [25:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1504) think I am." And he said, "What?" And I
+- [25:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1507) explained to him the details that I just
+- [25:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1509) explained to you and your audience how I
+- [25:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1512) had seen this whole thing and I've
+- [25:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1514) described it to these firemen and how
+- [25:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1517) they were like, "Yeah, that's exactly
+- [25:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1519) what it was." And they described to me
+- [25:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1521) the the differences of the different
+- [25:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1524) truck and the different ambulance and
+- [25:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1526) how there's no way I would have known
+- [25:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1528) about that mixup because I was gone. And
+- [25:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1530) he says, "Kevin, you were definitely
+- [25:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1532) down." When when I was brought to him,
+- [25:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1534) it was in a what's called a kath lab. So
+- [25:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1537) when I left the scene, they had done all
+- [25:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1540) they could for me. And when I arrived at
+- [25:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1543) the hospital, I went straight into this
+- [25:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1545) kath lab where they went into my arm and
+- [25:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1548) he found this blood clot and he pushed
+- [25:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1550) out a three-inch blood clot out of my
+- [25:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1551) heart. And then he put stances in and
+- [25:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1554) and at that moment he I had an IV still
+- [25:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1557) in me and he shocked me and um
+- [26:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1562) when he he said when he shocked me it
+- [26:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1565) took a couple but when I came too I had
+- [26:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1568) grabbed a nurse. I don't know if you can
+- [26:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1571) imagine this, but I met the nurse a year
+- [26:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1572) later and she said I scared the be Jesus
+- [26:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1575) out of her, but here's this guy that's
+- [26:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1576) all purple, hadn't breathed in 20ome
+- [26:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1578) minutes, and all a sudden, blah, here I
+- [26:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1582) am screaming my wife's name, Connie, and
+- [26:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1584) I got a hold of her apparently. And my
+- [26:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1587) son worked in the ER, but he wasn't
+- [26:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1589) there the day I was there. But he said
+- [26:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1590) all of his friends said they could hear
+- [26:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1592) me down the hallway screaming my wife's
+- [26:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1595) name and just crazy because they they
+- [26:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1598) when they when I came in there they had
+- [26:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1600) a code blue. They assumed I would not
+- [26:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1602) make it. I was I was a guy that they
+- [26:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1605) were not planning on [laughter]
+- [26:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1608) hearing from. Let's put it that way. But
+- [26:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1610) when they brought me back and he opened
+- [26:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1612) up my artery and hit me again, um I was
+- [26:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1615) screaming and I had a hold of this nurse
+- [26:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1617) and I was screaming my wife's name
+- [26:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1619) Connie and then they innovated me and
+- [27:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1620) they put me under put a tracheal thing
+- [27:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1622) in me and they put me into a light coma
+- [27:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1625) because they were certain I would have a
+- [27:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1626) brain injury. So he told me, Kevin, you
+- [27:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1628) were very much alive when that happened.
+- [27:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1630) Um that darkness that I experienced, he
+- [27:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1633) said that's that's natural because I had
+- [27:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1635) not been with circulation. My heart had
+- [27:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1638) stopped beating. So my kidneys had
+- [27:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1641) failed. My most of my organs had already
+- [27:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1643) started to shut down. My lungs had
+- [27:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1645) collapsed. And all the blood in my
+- [27:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1647) retina had left. And in my hearing, all
+- [27:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1650) the blood that's in your your eardrums
+- [27:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1652) had also left. So I that's why I was not
+- [27:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1655) able to see or hear. And I was
+- [27:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1656) effectively blind and deaf at the
+- [27:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1658) moment. And so that darkness in that
+- [27:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1661) quiet in the dark black that I was
+- [27:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1664) experiencing, I was very much alive. but
+- [27:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1667) my body's systems hadn't caught up with
+- [27:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1670) it yet. And that's when then they put me
+- [27:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1673) under into this ly coma and and that's
+- [27:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1675) how I made it through. So that's the
+- [27:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1677) that's the experience of I that I still
+- [27:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1679) carry around with me. As I've said, I'
+- [28:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1682) I've shared my story now with a little
+- [28:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1684) over a couple hundred thousand people
+- [28:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1685) and um on different podcasts and and
+- [28:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1688) personally I welcome anybody who would
+- [28:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1692) like to share with me what their
+- [28:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1694) experience is. I've had it's countless
+- [28:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1697) people reach out to me and just share me
+- [28:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1699) share with me with their story and um
+- [28:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1703) it's it's been part of my purpose I
+- [28:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1706) think as the what I've gone through
+- [28:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1708) after this whole thing you know a
+- [28:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1710) cardiac experience that I went through
+- [28:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1711) it ruined my life it uh we lost
+- [28:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1714) everything um I couldn't work for a
+- [28:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1717) month I'm sorry I couldn't work for a
+- [28:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1719) year and I've since had more cardiac
+- [28:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1722) issues a lot of things that have come to
+- [28:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1725) But through it all, um what I've shared
+- [28:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1729) with people is a message of hope and
+- [28:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1733) that's my my purpose in sharing my
+- [28:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1735) experience. Uh there's no other really
+- [28:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1737) purpose that I have that when I share it
+- [29:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1741) so many people um are searching, you
+- [29:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1744) know, for uh what happens and what maybe
+- [29:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1749) has happened to a loved one or maybe
+- [29:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1751) they're afraid themselves. And all I can
+- [29:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1753) say is that what I experienced was just
+- [29:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1755) what I just explained. You know, it's
+- [29:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1757) nothing else other than my experience.
+- [29:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1759) And if it helps somebody, they're
+- [29:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1760) welcome to reach out to me. I've written
+- [29:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1762) a book. Um the book is called Not Yet,
+- [29:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1765) Not Yet Tomorrow has just begun and it's
+- [29:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1769) been wellreceived. It's actually going
+- [29:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1770) to launch on March 30th. So, if they
+- [29:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1773) would like on March 30th, you're more
+- [29:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1776) than I'd be happy to to have you read my
+- [29:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1780) book or listen to or the ebook. Um,
+- [29:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1782) it'll be on Amazon.com on the 30th. Not
+- [29:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1785) yet. Not yet. Tomorrow has just begun.
+- [29:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1788) Or they can email me if they want. Um,
+- [29:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1791) and you can email me at kevin moat.
+- [29:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1794) That's ke v i n m o h ttauorgmail.com.
+- [30:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1801) And I I always respond to everybody that
+- [30:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1803) emails me and um you know it's been
+- [30:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1807) nothing but uh joyful and I rejoice in
+- [30:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1810) everything that's happened to me. We've
+- [30:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1812) lost everything and in that uh we've
+- [30:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1816) learned and I have learned that that's
+- [30:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1818) what pain is about. Suffering is all
+- [30:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1820) about what you learn from it, you know,
+- [30:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1822) and the the common human condition that
+- [30:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1825) can happen to anybody that's anybody
+- [30:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1828) instantly. I I here I was a healthy guy.
+- [30:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1830) Next thing I know, I'm dead in my car.
+- [30:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1832) It can happen to anybody. And what we do
+- [30:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1835) with that is really what my book is
+- [30:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1837) about. That's one of the things I I just
+- [30:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1839) wrote the book because I just wanted to
+- [30:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1840) share my story. And it is it is a story
+- [30:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1843) of there's a lot of pain in that story
+- [30:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1845) and there's also an awful lot of glory
+- [30:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1847) in it. So anyway, I'd be honored if
+- [30:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1849) somebody if you feel like emailing me,
+- [30:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1851) feel like you can. If not, pick up my
+- [30:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1854) book. Maybe you'll like that. If not, I
+- [30:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1856) I wish you the

@@ -11,6 +11,7 @@ triggers:
   - revision humana
 primary_refs:
   - docs/concept-lifecycle.md
+  - docs/topics/concept-priorities.md
   - docs/workflow-url-a-caso.md
   - vault/05-preguntas/
   - vault/02-conceptos/
@@ -60,9 +61,25 @@ vault/02-conceptos/
 
 > Ningún concepto nuevo entra al paradigma definitivo sin revisión humana.
 
-## Conocimiento experto del usuario
+## Conocimiento experto y prioridades del usuario
 
-El conocimiento acumulado del usuario sobre muchas NDEs/ECMs puede guiar nombres, jerarquías y expectativas de patrones. No debe registrarse como evidencia dentro de una nota conceptual salvo que esté respaldado por casos concretos del vault con citas y timestamps.
+El conocimiento acumulado del usuario sobre muchas NDEs/ECMs puede guiar nombres, jerarquías, expectativas de patrones y prioridades de atención. No debe registrarse como evidencia dentro de una nota conceptual salvo que esté respaldado por casos concretos del vault con citas y timestamps.
+
+Las prioridades actuales del usuario están en `docs/topics/concept-priorities.md`. Cada nota conceptual debe tener `importancia_usuario` y `temas_prioritarios_usuario` en YAML. Los conceptos relacionados con los temas prioritarios del usuario se marcan con `importancia_usuario: 10`.
+
+## Criterio de confianza testimonial
+
+El proyecto trabaja con testimonios seleccionados por el usuario porque le generan confianza en la buena fe del experienciador. Por defecto, no se evalúan como si la persona estuviera mintiendo.
+
+Esto no implica asumir que toda percepción sea literalmente objetiva o idéntica para todos los experienciadores: puede haber visiones, símbolos o contenidos dependientes de la persona. La tarea del vault es separar:
+
+- relato de buena fe;
+- percepción/experiencia subjetiva;
+- elemento físico potencialmente verificable;
+- patrón acumulado entre casos;
+- interpretación paradigmática.
+
+Cuando una nota diga “sin corroboración externa independiente registrada”, debe entenderse como un matiz de trazabilidad documental dentro del vault, no como sospecha sobre la honestidad del testimonio.
 
 ## Tipos de documentos
 
@@ -79,7 +96,7 @@ Contiene estado resumido y retomable, no transcript:
 - decisiones conversacionales;
 - próximos pasos.
 
-El usuario no revisa un formulario: conversa con el agente, y el agente actualiza el track cuando aparece valor durable.
+El usuario no revisa un formulario: conversa con el agente, y el agente actualiza el track cuando aparece valor durable. Para aprobación conceptual, evitar formularios/modales tipo `ask_user`: cada concepto debe discutirse conversacionalmente hasta que el usuario lo apruebe explícitamente.
 
 ### Nota de concepto
 
@@ -87,6 +104,7 @@ Una por concepto aprobado.
 
 Contiene:
 
+- metadata YAML, incluyendo `importancia_usuario` y `temas_prioritarios_usuario`;
 - definición provisional;
 - lectura desde el paradigma NDE/ECM;
 - contraste con paradigma clásico;

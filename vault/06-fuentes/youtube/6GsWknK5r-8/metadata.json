@@ -8,5 +8,22 @@
   "webpage_url": "https://www.youtube.com/watch?v=6GsWknK5r-8",
   "language": "en",
   "description": "Dr. Mary Helen Hensley explains how her near-death experience happened, and how it has changed her vision of life and death. \nhttps://anthonychene.com/#about\nhttps://www.instagram.com/anthonychene\nhttps://www.tiktok.com/@anthonychene\n\nDr. Mary Helen Hensley's website: https://www.maryhelenhensley.com\n\nWith many thanks to Jan-Willem van Aalst for the Dutch subtitles\n\nSupport me for my next videos and get them in advance:\nhttp://www.anthonychene.com/donate",
-  "ingested_at": "2026-06-22"
+  "ingested_at": "2026-06-22",
+  "video_thumbnail": {
+    "url": "https://i.ytimg.com/vi/6GsWknK5r-8/hqdefault.jpg",
+    "local": "media/video-thumbnail.jpg"
+  },
+  "channel_info": {
+    "name": "Anthony Chene production",
+    "url": "https://www.youtube.com/c/AnthonyCheneproduction",
+    "avatar_local": "media/channel-avatar.jpg",
+    "note": "Canal/autor del video; no confundir con la persona que da testimonio."
+  },
+  "experiencer_profile": {
+    "name": "Dr. Mary Helen Hensley",
+    "url": "https://www.maryhelenhensley.com/",
+    "photo_url": "https://maryhelenhensleyauthor.wordpress.com/wp-content/uploads/2012/11/mhhh.jpg",
+    "photo_local": "media/experiencer-photo.jpg",
+    "photo_source": "Mary Helen Hensley author/about page"
+  }
 }

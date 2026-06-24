@@ -1,10 +1,10 @@
-# Project OS — NDE/ECM Vault
+# Project OS — Paradigma de confianza y creatividad
 
 ## Propósito
 
-Crear un sistema de investigación, navegación y conversación sobre experiencias cercanas a la muerte, construido desde testimonios acumulados y trazables.
+Crear un sistema de investigación, navegación y conversación construido desde fuentes acumuladas y trazables para ayudar a vivir más en creatividad, confianza, paz y cuidado.
 
-El sistema debe ayudar a explorar un nuevo paradigma sobre conciencia, muerte, existencia, realidad material, identidad, amor, propósito y transformación.
+Las NDEs/ECM siguen siendo fuente privilegiada, pero el sistema no se limita a ellas. Puede incorporar fuentes no-ECM si ayudan a explorar el paso desde miedo/desconfianza/soledad hacia confianza en universo/Dios, manifestación consciente, creencias transformadas, salud, creación, identidad, amor, propósito y transformación.
 
 ## Decisiones tomadas
 
@@ -25,9 +25,9 @@ Obsidian se usará para:
 - usar mapas de contenido;
 - eventualmente usar Dataview/Bases para vistas dinámicas.
 
-### 3. Casos derivados de videos
+### 3. Fuentes/casos derivados de videos o documentos
 
-Cada URL de YouTube procesada debe generar un caso con:
+Cada URL o documento procesado debe generar una fuente trazable y, cuando corresponda, un caso/unidad de análisis con:
 
 - metadata;
 - transcripción original preservada;
@@ -35,8 +35,9 @@ Cada URL de YouTube procesada debe generar un caso con:
 - transcripción visible/canónica mejorada para lectura y análisis;
 - resumen;
 - conceptos detectados;
-- citas con timestamps;
-- vínculos a notas de conceptos.
+- citas con timestamps o referencias de ubicación;
+- vínculos a notas de conceptos;
+- `tipo_fuente` y `relacion_norte` cuando no sea una NDE/ECM.
 
 Ver `docs/transcription-policy.md` y `docs/canonical-transcript-design.md`.
 
@@ -124,15 +125,13 @@ No debe aparecer en archivos versionables.
 ## Arquitectura conceptual
 
 ```txt
-YouTube URLs
+Fuentes trazables (NDE/ECM y no-ECM)
   ↓
-Transcripción con Groq/Whisper
+Metadata + original preservado + transcripción/notas cuando corresponda
   ↓
-Transcripción original preservada
+Caso/unidad de análisis Markdown
   ↓
-Caso Markdown
-  ↓
-Extracción de citas/conceptos
+Extracción de citas/conceptos con relación al norte vivencial
   ↓
 Notas de conceptos actualizadas
   ↓

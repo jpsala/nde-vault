@@ -1,0 +1,740 @@
+# Transcripción YouTube indexada — I Died of a Heart Attack For 20 Minutes & What I Heard Changed EVERYTHING!
+
+Fuente: https://www.youtube.com/watch?v=nwGdu4GiHhY
+Derivada de `transcript_youtube_raw.md`; texto sin corrección editorial, con block refs para Obsidian.
+
+- [00:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=0) and I pulled up to uh the intersection ^yt-0001
+- [00:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=3) two cars in and I put my foot on the ^yt-0002
+- [00:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=5) brake and I died in my car. It was like ^yt-0003
+- [00:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=10) an IMAX theater and it's 3D and it's ^yt-0004
+- [00:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=14) perfect color and no sound but it's ^yt-0005
+- [00:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=16) perfect color and it's it's really ^yt-0006
+- [00:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=19) really crystal clear. And I said, I'm ^yt-0007
+- [00:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=21) looking to the south. I'm on this pole ^yt-0008
+- [00:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=23) and I'm looking straight down and I see ^yt-0009
+- [00:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=25) a pile of blue people that are on a man ^yt-0010
+- [00:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=28) and I realize that it's me. Wow. I ^yt-0011
+- [00:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=31) cannot imagine. It's so hard to describe ^yt-0012
+- [00:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=33) what it felt like because it was just so ^yt-0013
+- [00:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=36) crystal clear. I'm literally above ^yt-0014
+- [00:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=38) looking at this whole thing happening. ^yt-0015
+- [00:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=41) It was a huge ^yt-0016
+- [00:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=43) super tall endless wall of this most ^yt-0017
+- [00:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=47) indescribable light. It's completely ^yt-0018
+- [00:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=50) quiet and it's completely peaceful and ^yt-0019
+- [00:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=54) it is um it's a kind of quiet that I've ^yt-0020
+- [00:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=57) never experienced before, but it's it's ^yt-0021
+- [00:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=59) so peaceful. And inside of that ^yt-0022
+- [01:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=62) residence, I have no [music] sense of ^yt-0023
+- [01:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=63) time in this. I don't know how long it ^yt-0024
+- [01:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=65) was. I so I can't measure it. There was ^yt-0025
+- [01:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=67) no time. ^yt-0026
+- [01:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=75) Well, the start of my experiences uh was ^yt-0027
+- [01:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=79) on Valentine's Day of 2022. ^yt-0028
+- [01:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=83) I uh had started the day at noon playing ^yt-0029
+- [01:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=86) ice hockey. I've been playing hockey my ^yt-0030
+- [01:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=89) whole life. And uh so I was playing ^yt-0031
+- [01:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=92) about at a rink about 2 miles from the ^yt-0032
+- [01:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=94) house. Started at noon and I was playing ^yt-0033
+- [01:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=96) for about an hour and 10 minutes. And I ^yt-0034
+- [01:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=99) play with a bunch of 24 to 25 year old ^yt-0035
+- [01:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=103) guys. I'm I'm 64 now. And um so I was ^yt-0036
+- [01:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=109) playing doing pretty good. They call me ^yt-0037
+- [01:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=111) Moses ^yt-0038
+- [01:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=113) because of my age. And after about two ^yt-0039
+- [01:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=117) and a half periods of playing hockey, I ^yt-0040
+- [02:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=120) just felt terrible. I didn't know what ^yt-0041
+- [02:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=122) was going on. I I all of a sudden out of ^yt-0042
+- [02:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=124) nowhere, I just was I was lethargic and ^yt-0043
+- [02:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=127) I could hardly skate anymore. And I ^yt-0044
+- [02:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=130) thought I didn't know what it was. So, I ^yt-0045
+- [02:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=132) begged myself off the ice and thought I ^yt-0046
+- [02:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=134) should just go home and call it a day. ^yt-0047
+- [02:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=136) So, I was in the locker room begging my ^yt-0048
+- [02:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=138) skates off of my feet and I was starting ^yt-0049
+- [02:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=141) to feel pretty bad. And wasn't real sure ^yt-0050
+- [02:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=144) what was going on. I'm a real healthy ^yt-0051
+- [02:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=145) man. I don't drink. I don't smoke. Been ^yt-0052
+- [02:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=147) playing hockey all my life. I'm real ^yt-0053
+- [02:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=149) active and uh overall I have no health ^yt-0054
+- [02:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=152) issues. I haven't seen a doctor in ^yt-0055
+- [02:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=154) years. So, I was struggling and I only ^yt-0056
+- [02:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=158) lived a couple miles from the home. So, ^yt-0057
+- [02:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=160) I got it all my stuff in my car and I ^yt-0058
+- [02:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=165) was heading east on the final leg of my ^yt-0059
+- [02:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=168) little short journey home and I pulled ^yt-0060
+- [02:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=170) up to uh the intersection two cars in ^yt-0061
+- [02:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=174) behind an old pickup truck at a yellow ^yt-0062
+- [02:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=176) light and I put my foot on the brake and ^yt-0063
+- [02:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=179) I died in my car. ^yt-0064
+- [03:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=182) Yeah. I had a Widowmaker heart attack ^yt-0065
+- [03:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=184) right there in my car. Widowmaker ^yt-0066
+- [03:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=186) basically is as it's named um my heart ^yt-0067
+- [03:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=189) stopped beating and u with my foot on ^yt-0068
+- [03:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=192) the brake and my heart had stopped uh I ^yt-0069
+- [03:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=196) slumped in my car kind of below the ^yt-0070
+- [03:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=199) wheel a little bit and uh draped myself ^yt-0071
+- [03:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=203) across the console and put myself into ^yt-0072
+- [03:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=205) park. And so I was in park it two cars ^yt-0073
+- [03:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=210) away from the intersection in my car and ^yt-0074
+- [03:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=212) I was dead. my heart had stopped ^yt-0075
+- [03:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=214) beating. Um, at this point in time, my ^yt-0076
+- [03:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=217) heartbeat was what's called VIB, which ^yt-0077
+- [03:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=220) meant it was uh jiggling but not ^yt-0078
+- [03:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=223) beating. So, technically, um, if I'm not ^yt-0079
+- [03:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=226) going to get help, I will be a deceased ^yt-0080
+- [03:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=228) person fairly shortly. So, ^yt-0081
+- [03:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=232) getting to the near-death experience, ^yt-0082
+- [03:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=235) um, I was discovered by a gal behind me. ^yt-0083
+- [03:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=239) Her name was Angel, believe it or not. ^yt-0084
+- [04:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=241) And uh she had been behind me watching a ^yt-0085
+- [04:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=245) video on her phone somebody had sent to ^yt-0086
+- [04:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=248) her and um all people started honking at ^yt-0087
+- [04:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=251) her. She didn't realize that everybody ^yt-0088
+- [04:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=254) had left and it had now been a full ^yt-0089
+- [04:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=256) video and I talked with her later and ^yt-0090
+- [04:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=259) she said it was probably about a 3 to 4 ^yt-0091
+- [04:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=260) minute video. So, at that point, we know ^yt-0092
+- [04:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=263) I was in my car uh for about three to ^yt-0093
+- [04:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=265) four minutes or about what looks like ^yt-0094
+- [04:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=268) four traffic lights. And uh then she ^yt-0095
+- [04:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=272) really felt like somebody had tapped her ^yt-0096
+- [04:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=274) on the shoulder and she saw my seat belt ^yt-0097
+- [04:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=276) in the car, but nobody in it. And so, ^yt-0098
+- [04:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=278) she got out of her car and walked up and ^yt-0099
+- [04:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=281) opened my door up and there I was. I had ^yt-0100
+- [04:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=283) been in there now for that period of ^yt-0101
+- [04:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=285) time. And uh I was obviously gone. I did ^yt-0102
+- [04:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=289) not have a heartbeat. I was not ^yt-0103
+- [04:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=290) breathing and I was purple. ^yt-0104
+- [04:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=294) All the descriptions of a person that's ^yt-0105
+- [04:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=295) had a cardiac arrest. And so she I was ^yt-0106
+- [04:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=299) too big for her to pull out. So she had ^yt-0107
+- [05:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=301) uh waved down a fellow to help get me ^yt-0108
+- [05:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=304) out and they put me into the street and ^yt-0109
+- [05:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=306) they started doing CPR on me. Uh she did ^yt-0110
+- [05:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=310) 200 compressions. A police officer came ^yt-0111
+- [05:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=312) and did 400. And then another police ^yt-0112
+- [05:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=314) officer came and did 650 compressions on ^yt-0113
+- [05:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=317) me. All in all, I was about 1,300 ^yt-0114
+- [05:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=319) compressions in the street, and the fire ^yt-0115
+- [05:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=321) department still hadn't shown up after ^yt-0116
+- [05:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=323) 10 minutes. So, uh, this is what ^yt-0117
+- [05:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=327) connects the near-death experience to ^yt-0118
+- [05:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=330) the veritical side is that, uh, when the ^yt-0119
+- [05:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=333) fire department did show up, I was, uh, ^yt-0120
+- [05:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=336) pretty much gone and my heart was still ^yt-0121
+- [05:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=339) in this VIB rhythm, but they could not ^yt-0122
+- [05:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=341) recall me. So, they put me in the ^yt-0123
+- [05:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=342) ambulance and uh put a machine on me ^yt-0124
+- [05:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=345) that kept compressions and hustled me ^yt-0125
+- [05:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=347) off to the nearby uh hospital, went to a ^yt-0126
+- [05:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=351) cath lab where they pushed out um a ^yt-0127
+- [05:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=353) blood clot in my LED artery that had ^yt-0128
+- [05:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=355) stopped my heart. So, let's just fast ^yt-0129
+- [05:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=358) forward uh a week. I walked out of the ^yt-0130
+- [06:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=361) ICU uh on Saturday. This was Monday, and ^yt-0131
+- [06:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=364) I walked out of there on Saturday, and I ^yt-0132
+- [06:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=368) was pretty beat up. Uh rather fragile in ^yt-0133
+- [06:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=370) the brain. I they were pretty at the ^yt-0134
+- [06:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=372) time they were very serious I was going ^yt-0135
+- [06:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=374) to have a serious enoxic brain injury of ^yt-0136
+- [06:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=377) which I did not and so they released me ^yt-0137
+- [06:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=379) on Saturday walked out of there and on ^yt-0138
+- [06:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=381) the Monday a week later I had my first ^yt-0139
+- [06:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=384) appointment with a cardiologist and he ^yt-0140
+- [06:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=386) gave me all the details of what had just ^yt-0141
+- [06:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=387) happened to me the cardiac arrest and ^yt-0142
+- [06:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=389) how much damage I had and and all that ^yt-0143
+- [06:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=391) medical information. So Connie and I, my ^yt-0144
+- [06:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=395) wife and I, we were driving home. She ^yt-0145
+- [06:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=397) was driving and heading east on the same ^yt-0146
+- [06:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=401) road. We pulled up to the exact same ^yt-0147
+- [06:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=403) spot ^yt-0148
+- [06:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=404) >> uh that I had been a week before. ^yt-0149
+- [06:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=407) Although I didn't remember that I was I ^yt-0150
+- [06:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=409) was sitting she was driving and we were ^yt-0151
+- [06:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=412) in that position in the traffic and it ^yt-0152
+- [06:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=415) struck me but I didn't quite have a a ^yt-0153
+- [06:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=418) concept that that's where I was. I I was ^yt-0154
+- [07:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=420) still fuzzy. And I looked through her ^yt-0155
+- [07:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=423) pass or excuse me, her driver window and ^yt-0156
+- [07:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=426) there was a light pole in the boulevard ^yt-0157
+- [07:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=428) right there. And the moment I saw that ^yt-0158
+- [07:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=430) light pole, something it was like an ^yt-0159
+- [07:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=433) electric shock and I was wearing a vest ^yt-0160
+- [07:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=435) at the time that would shock me if my ^yt-0161
+- [07:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=437) heart stopped beating again. So at first ^yt-0162
+- [07:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=439) I thought it was that cuz it literally ^yt-0163
+- [07:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=441) felt like an electric shock. It was this ^yt-0164
+- [07:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=443) jolt and but it wasn't the best and I it ^yt-0165
+- [07:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=447) but it was something and I just it hit ^yt-0166
+- [07:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=450) me. So it was rather mysterious to me ^yt-0167
+- [07:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=452) and I had spent a better part of 18 ^yt-0168
+- [07:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=455) years uh training law enforcement and ^yt-0169
+- [07:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=457) people like that. So I didn't know who ^yt-0170
+- [07:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=460) my responders were. I didn't know who ^yt-0171
+- [07:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=462) rescued me. I didn't know how long I was ^yt-0172
+- [07:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=464) down. I had no idea about compressions. ^yt-0173
+- [07:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=466) I really didn't know much about anything ^yt-0174
+- [07:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=468) other than I had a heart um a widowmaker ^yt-0175
+- [07:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=470) heart attack. So, I'm still in the dark ^yt-0176
+- [07:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=474) and in and what had happened to me, but ^yt-0177
+- [07:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=476) there I look across the street and ^yt-0178
+- [07:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=477) there's a fire department about 1500 ^yt-0179
+- [07:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=479) yards away. And I'm assuming I'm like, ^yt-0180
+- [08:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=482) "It has to be them. I'm alive. Somebody ^yt-0181
+- [08:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=485) had to have come quickly because it had ^yt-0182
+- [08:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=487) been them." So, I said to my wife, ^yt-0183
+- [08:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=489) "Let's go thank them." So, we pulled ^yt-0184
+- [08:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=491) into the fire station and I knocked on ^yt-0185
+- [08:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=493) the door and the paramedic that was ^yt-0186
+- [08:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=497) there, uh, he looked out the window and ^yt-0187
+- [08:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=500) he looked at me and he was, his eyes ^yt-0188
+- [08:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=502) were ^yt-0189
+- [08:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=504) big and he comes out and he goes, "You ^yt-0190
+- [08:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=507) like that." And I just pointed at the ^yt-0191
+- [08:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=510) intersection. He goes, "You were dead." ^yt-0192
+- [08:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=513) Just like loud and as excited as he ^yt-0193
+- [08:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=515) could get. And I go, "Not hardly." He ^yt-0194
+- [08:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=517) goes, "No, you were a corpse. Come on ^yt-0195
+- [08:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=520) in." So, he was pretty darn excited to ^yt-0196
+- [08:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=524) see me, and I don't I don't think too ^yt-0197
+- [08:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=525) many people come back and thank him. So, ^yt-0198
+- [08:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=528) he he invited my wife and I just in ^yt-0199
+- [08:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=530) around the corner to the kitchen. And ^yt-0200
+- [08:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=532) there's where all the other firemen of ^yt-0201
+- [08:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=533) the station were at, bunch of young ^yt-0202
+- [08:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=534) guys. And an assistant chief was there ^yt-0203
+- [08:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=538) who was my age. And he had since ^yt-0204
+- [08:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=539) retired, but he'd been in fire business, ^yt-0205
+- [09:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=541) the fire department business for 45 ^yt-0206
+- [09:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=543) years. And they're all with their eyes ^yt-0207
+- [09:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=545) just looking at me. And I could hear him ^yt-0208
+- [09:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=547) whispering amongst themselves like, ^yt-0209
+- [09:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=548) "That's that Widowmaker guy. That's that ^yt-0210
+- [09:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=550) Widowmaker dude." You know, and so we ^yt-0211
+- [09:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=554) were sitting there and the assistant ^yt-0212
+- [09:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=556) chief had started asking me questions, ^yt-0213
+- [09:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=557) "Do you realize how long you were down?" ^yt-0214
+- [09:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=559) And I said, "I have no idea about ^yt-0215
+- [09:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=561) anything. I'm pretty fuzzy." He said, ^yt-0216
+- [09:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=563) "You were down a minimum of 20 minutes." ^yt-0217
+- [09:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=566) And um and I was like, "20 minutes?" He ^yt-0218
+- [09:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=569) goes, "You were gone." And they they ^yt-0219
+- [09:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=571) called me at the scene. They said there ^yt-0220
+- [09:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=573) was nothing more they could do. say they ^yt-0221
+- [09:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=575) buttoned me up and sent me off to the ^yt-0222
+- [09:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=576) hospital. And uh I went whoa. And they ^yt-0223
+- [09:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=580) said when they arrived to me, it was um ^yt-0224
+- [09:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=583) kind of a mixup because the 911 call had ^yt-0225
+- [09:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=587) initially been a motorist in distress ^yt-0226
+- [09:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=589) instead of a code. And so it took him ^yt-0227
+- [09:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=592) over 10 minutes to get to me. And that's ^yt-0228
+- [09:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=594) why the the CPR happened for so long ^yt-0229
+- [09:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=596) because it took the fire department ^yt-0230
+- [09:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=598) forever. And that day that fire ^yt-0231
+- [10:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=600) department was on like a training day. ^yt-0232
+- [10:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=603) So they weren't answering calls anyway ^yt-0233
+- [10:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=605) unless it was a serious one. So when ^yt-0234
+- [10:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=607) they hear the motors in distress, they ^yt-0235
+- [10:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=609) they just ignored the call until they ^yt-0236
+- [10:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=611) got the tone that said there was a code ^yt-0237
+- [10:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=613) which was after about 10 or 12 minutes. ^yt-0238
+- [10:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=615) I'm starting to figure it out that I'm ^yt-0239
+- [10:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=617) like, "Wow, that's a long time, 20 ^yt-0240
+- [10:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=619) minutes." And he says to me, "What was ^yt-0241
+- [10:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=621) it like?" ^yt-0242
+- [10:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=623) And I hadn't really had any profound ^yt-0243
+- [10:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=627) thought or experience about it. Like I ^yt-0244
+- [10:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=629) say, I was in the ICU. I woke up kind of ^yt-0245
+- [10:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=631) in a dreamy state. Real confused as to ^yt-0246
+- [10:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=633) why I was there. But here I am and I ^yt-0247
+- [10:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=636) shut my eyes. And the only thing I can ^yt-0248
+- [10:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=638) say is that it had to do with that ^yt-0249
+- [10:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=641) electric feeling that I got in the car ^yt-0250
+- [10:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=643) when I was in the same exact location as ^yt-0251
+- [10:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=647) the week prior. But when I shut my eyes, ^yt-0252
+- [10:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=650) it was like an IMAX theater. It was like ^yt-0253
+- [10:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=655) an IMAX movie going on in my head. And ^yt-0254
+- [10:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=658) it's still in my head now. It never ^yt-0255
+- [10:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=659) slept. ^yt-0256
+- [11:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=661) And it's 3D and it's perfect color and ^yt-0257
+- [11:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=664) no sound, but it's perfect color and ^yt-0258
+- [11:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=665) it's it's really really crystal clear. ^yt-0259
+- [11:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=669) And so I start to describe this to them ^yt-0260
+- [11:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=671) with my eyes shut. I said, 'Well, I'm ^yt-0261
+- [11:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=675) looking down and I'm I'm somehow or ^yt-0262
+- [11:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=677) another I'm on a pole, this light pole ^yt-0263
+- [11:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=680) that I had seen through my wife's ^yt-0264
+- [11:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=682) window, and I'm on this pole and I'm ^yt-0265
+- [11:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=685) looking down and I'm facing towards the ^yt-0266
+- [11:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=688) south. I recognize that a mountain in ^yt-0267
+- [11:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=690) the south called Santan Mountain. And I ^yt-0268
+- [11:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=692) said, I'm looking to the south. I'm on ^yt-0269
+- [11:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=694) this pole and I'm looking straight down ^yt-0270
+- [11:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=696) and I see a pile of blue people that are ^yt-0271
+- [11:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=699) on a man and I see ^yt-0272
+- [11:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=703) feet moving back and forth like that and ^yt-0273
+- [11:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=706) I realize that it's me because I see my ^yt-0274
+- [11:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=708) feet and next to I'm next to my car and ^yt-0275
+- [11:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=713) these blue pe the blue people are on me. ^yt-0276
+- [11:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=715) There's a police car on the other side ^yt-0277
+- [11:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=717) of my vehicle and another one in not ^yt-0278
+- [12:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=720) quite in front but in the intersection. ^yt-0279
+- [12:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=722) They're sort of blocking traffic and ^yt-0280
+- [12:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=724) there's a fire engine in front of my ^yt-0281
+- [12:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=726) vehicle with the letters E and then ^yt-0282
+- [12:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=729) numbers 256 on it. I said and I told him ^yt-0283
+- [12:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=733) that. And then I said there's an ^yt-0284
+- [12:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=734) ambulance with M252 ^yt-0285
+- [12:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=738) on it. And I'm just describing this. I'm ^yt-0286
+- [12:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=741) describing where the cars are parked, ^yt-0287
+- [12:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=743) where the firetruck is parked, where the ^yt-0288
+- [12:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=745) the ambulance is parked. And I said, ^yt-0289
+- [12:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=748) "Across the street there's people on the ^yt-0290
+- [12:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=750) sidewalk that are kind of standing there ^yt-0291
+- [12:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=753) clustered watching what's going on." And ^yt-0292
+- [12:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=756) then I open my eyes and I look up and I ^yt-0293
+- [12:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=759) said, "And I see a white envelope." And ^yt-0294
+- [12:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=761) I held my fingers up like that. I just ^yt-0295
+- [12:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=764) see a white envelope. It's next to all ^yt-0296
+- [12:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=765) the blue people, but it's sort of like ^yt-0297
+- [12:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=767) trash. It's like a piece of just a ^yt-0298
+- [12:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=769) piece. It's sort of kind of in the wind, ^yt-0299
+- [12:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=771) you know? It's sort of going like that. ^yt-0300
+- [12:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=773) It's like somebody had thrown a wrapper ^yt-0301
+- [12:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=775) away. And that's when they all went, ^yt-0302
+- [12:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=778) "What?" ^yt-0303
+- [12:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=779) And the man who had met me at the door, ^yt-0304
+- [13:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=781) who was the paramedic, he said, "Come ^yt-0305
+- [13:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=783) with us." And we walked around into the ^yt-0306
+- [13:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=785) garage and there was a fire truck that ^yt-0307
+- [13:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=788) said E256 on it. And I went, "Whoa." And ^yt-0308
+- [13:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=792) my wife said, "Did you say E256?" I ^yt-0309
+- [13:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=795) went, "Yeah." And I look and it's in ^yt-0310
+- [13:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=796) there. It's still in my head today. And ^yt-0311
+- [13:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=798) I'm literally looking at this firet ^yt-0312
+- [13:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=800) truck with this E256 on it. And there's ^yt-0313
+- [13:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=803) an ambulance there, but it said M256 on ^yt-0314
+- [13:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=806) it. And I said, "No, the ambulance said ^yt-0315
+- [13:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=808) 252. I'm sure of it." Because I'm ^yt-0316
+- [13:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=810) looking at it. And they're looking at me ^yt-0317
+- [13:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=813) like, "Are you kidding me?" And that's ^yt-0318
+- [13:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=816) when they explained the mistake in the ^yt-0319
+- [13:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=819) call that happened that initially it was ^yt-0320
+- [13:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=822) a distress call, so they were training. ^yt-0321
+- [13:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=825) So they didn't roll their engine, but a ^yt-0322
+- [13:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=828) engine and an ambulance from a far ^yt-0323
+- [13:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=831) northern part of the town was called and ^yt-0324
+- [13:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=834) so they were on their way. And that's ^yt-0325
+- [13:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=836) why it was um they were on their way. ^yt-0326
+- [14:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=840) But after the period of time that the ^yt-0327
+- [14:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=843) police officers were doing all those ^yt-0328
+- [14:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=844) compressions, they they pushed what's ^yt-0329
+- [14:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=845) called a code tone on their microphone ^yt-0330
+- [14:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=849) and everybody listens now. And so that's ^yt-0331
+- [14:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=852) when that station that I was standing ^yt-0332
+- [14:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=853) in, they said we heard the tone of a ^yt-0333
+- [14:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=856) code and they said, "Hey, we're right ^yt-0334
+- [14:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=858) here." And so that's why they rolled ^yt-0335
+- [14:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=861) across the street immediately after ^yt-0336
+- [14:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=863) about 10 or 12 minutes with their ^yt-0337
+- [14:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=865) engine, but the ambulance from the other ^yt-0338
+- [14:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=868) department was on its way. So that's why ^yt-0339
+- [14:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=871) when I said M252, ^yt-0340
+- [14:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=874) I had described the other station's ^yt-0341
+- [14:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=876) ambulance ^yt-0342
+- [14:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=878) and then I had described the station ^yt-0343
+- [14:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=881) number six's engine. And I would have ^yt-0344
+- [14:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=883) known that because I had no idea how ^yt-0345
+- [14:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=885) these numbers work anyway. But the fact ^yt-0346
+- [14:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=887) that I described the other engine and ^yt-0347
+- [14:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=889) the other the two separate locations uh ^yt-0348
+- [14:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=893) trucks, they were looking at me like ^yt-0349
+- [14:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=896) there's no way you could do that. But I ^yt-0350
+- [14:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=898) had described them. Then the paramedic ^yt-0351
+- [15:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=901) asked me, he said, "How's your ^yt-0352
+- [15:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=902) shoulder?" And I I went, "Well, this ^yt-0353
+- [15:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=905) one's artificial." He goes, "No, the ^yt-0354
+- [15:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=907) other one." And I I felt it. And I'm ^yt-0355
+- [15:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=910) like, "Ow, it hurts." And he says, "It ^yt-0356
+- [15:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=913) ought to." He pulled out of his engine, ^yt-0357
+- [15:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=915) the engine with E256 on it, a ^yt-0358
+- [15:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=918) paramedic's bag, and he opened it up and ^yt-0359
+- [15:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=920) he pulls a little tiny green Makita ^yt-0360
+- [15:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=922) drill out. He says, "I drilled you with ^yt-0361
+- [15:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=925) this whizz." And I I went, "What?" He ^yt-0362
+- [15:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=929) goes, "Dude, your bounce house was flat. ^yt-0363
+- [15:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=932) You were a corpse. I got nothing. I got ^yt-0364
+- [15:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=934) to get an IV in you." And so they drill ^yt-0365
+- [15:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=937) into the bone marrow into your shoulder. ^yt-0366
+- [15:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=940) And also, I found out later they'll also ^yt-0367
+- [15:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=941) do one in your ankle. But this, they ^yt-0368
+- [15:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=943) drill right into my bone, the humorous ^yt-0369
+- [15:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=945) bone into the bone marrow, and that's ^yt-0370
+- [15:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=947) where they insert a needle to get to a ^yt-0371
+- [15:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=950) blood source for the IV. ^yt-0372
+- [15:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=952) Right? I didn't know anything about ^yt-0373
+- [15:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=954) this. And so he throws me a paper ^yt-0374
+- [15:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=959) that I had just described and I catch it ^yt-0375
+- [16:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=962) and I go, "What's this?" He goes, "Turn ^yt-0376
+- [16:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=964) it over." And I turned it over and it ^yt-0377
+- [16:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=966) was the needle set and the tube that was ^yt-0378
+- [16:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=969) coiled and the nozzle that goes into the ^yt-0379
+- [16:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=972) IV. And it's called an IO. I wish I ^yt-0380
+- [16:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=975) can't say the long name, but it's a long ^yt-0381
+- [16:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=976) name, but it's called IO. And that was ^yt-0382
+- [16:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=979) the tube that connects the bone to the ^yt-0383
+- [16:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=981) IV. And I'm like, "What'd you do with ^yt-0384
+- [16:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=984) the paper?" And he said, "Dude," he ^yt-0385
+- [16:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=986) goes, "you are a corpse. I got no time ^yt-0386
+- [16:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=988) for litter laws." That's what he said. ^yt-0387
+- [16:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=990) And he said, "I just threw it." And I ^yt-0388
+- [16:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=992) said, "What I know about this." And I ^yt-0389
+- [16:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=995) had my eyes open. I'm describing this ^yt-0390
+- [16:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=997) thing. I said, "What I know about this." ^yt-0391
+- [16:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=998) And they said, "There's no way, Kevin, ^yt-0392
+- [16:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1000) you were gone. You were gone." They had ^yt-0393
+- [16:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1003) shocked me several times. Five or six ^yt-0394
+- [16:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1005) times. I've got the the tape of it where ^yt-0395
+- [16:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1007) you can just see my heart's in this VIB ^yt-0396
+- [16:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1009) rhythm the whole time. Here's a shock. ^yt-0397
+- [16:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1011) Then here's VIB the whole time. Then ^yt-0398
+- [16:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1013) here's a shock and then another VIB. ^yt-0399
+- [16:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1015) It's called ventricular fibrillation. ^yt-0400
+- [16:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1017) But that VIB is a heart rate. It just ^yt-0401
+- [16:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1019) it's not beating. So my heart's not ^yt-0402
+- [17:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1020) beating. And um and I'm like, how would ^yt-0403
+- [17:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1024) I know? And they just there's no way. ^yt-0404
+- [17:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1028) And they describe that I had described ^yt-0405
+- [17:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1031) the other ambulance with compared to the ^yt-0406
+- [17:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1034) engine that the station I was standing ^yt-0407
+- [17:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1036) in. And it's there's just no way you ^yt-0408
+- [17:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1038) would know that. I was getting emotional ^yt-0409
+- [17:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1041) at this point and everybody was ^yt-0410
+- [17:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1042) emotional. My wife was already crying ^yt-0411
+- [17:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1045) and I I shut my eyes again and boom, ^yt-0412
+- [17:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1048) there it is. And I'm describing it ^yt-0413
+- [17:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1050) again. I go, "Yeah, there you are." And ^yt-0414
+- [17:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1052) I said, "And there's a tall man with a ^yt-0415
+- [17:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1053) blue shirt and a collar and three ^yt-0416
+- [17:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1056) buttons and a logo on him." And I later ^yt-0417
+- [17:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1058) found out about eight months later that ^yt-0418
+- [17:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1060) was the man that pulled me out of my ^yt-0419
+- [17:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1062) car. ^yt-0420
+- [17:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1063) That was his work shirt. He worked for a ^yt-0421
+- [17:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1065) construction company and that was his ^yt-0422
+- [17:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1067) work. He was like a supervisor and that ^yt-0423
+- [17:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1069) was his work shirt. And I had described ^yt-0424
+- [17:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1072) all these things perfectly. And so I ^yt-0425
+- [17:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1076) shut my eyes again. I was actually now I ^yt-0426
+- [17:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1078) like morbidly curious. I'm digging for ^yt-0427
+- [18:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1080) more, right? I'm like I just shut my ^yt-0428
+- [18:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1082) eyes. I'm just exploring this video in ^yt-0429
+- [18:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1084) my brain and ^yt-0430
+- [18:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1087) I it's there. It is. And it's it's like ^yt-0431
+- [18:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1090) wow. I cannot imagine. It's hard to ^yt-0432
+- [18:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1093) describe what it felt like because it ^yt-0433
+- [18:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1095) was just so crystal clear. I'm literally ^yt-0434
+- [18:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1098) above looking at this whole thing ^yt-0435
+- [18:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1100) happening. Then I'm describing it again ^yt-0436
+- [18:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1104) and I said, I'm still there and I see ^yt-0437
+- [18:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1106) these people and I look to the south and ^yt-0438
+- [18:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1109) I said in south in town you can see this ^yt-0439
+- [18:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1112) mountain. It's called Santan Mountain ^yt-0440
+- [18:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1114) and we have these dust storms in Arizona ^yt-0441
+- [18:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1116) where I live. They're huge, huge dust ^yt-0442
+- [18:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1119) storms that come, walls of dirt that are ^yt-0443
+- [18:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1122) several thousand feet high and it's just ^yt-0444
+- [18:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1124) a wall of dirt that comes across the ^yt-0445
+- [18:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1126) town and you look at your watch and he's ^yt-0446
+- [18:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1128) like, I got five minutes to go home and ^yt-0447
+- [18:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1129) put my umbrellas up. That's what it felt ^yt-0448
+- [18:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1132) like. But it wasn't dirt. It was a huge, ^yt-0449
+- [18:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1137) super tall, endless wall of this most ^yt-0450
+- [19:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1140) indescribable light. ^yt-0451
+- [19:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1143) I still can't describe it, but it was ^yt-0452
+- [19:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1145) just this light that was like a wall ^yt-0453
+- [19:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1149) almost like a dust storm, but it was ^yt-0454
+- [19:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1151) coming at me just like a dust storm ^yt-0455
+- [19:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1153) would come at me, but it was light. It ^yt-0456
+- [19:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1155) was this huge indescribable wall of ^yt-0457
+- [19:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1158) light. And as I'm I'm in my mind's eye ^yt-0458
+- [19:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1161) describing this now, I and I said, I'm ^yt-0459
+- [19:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1163) in it now. I'm engulfed in this what ^yt-0460
+- [19:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1167) would be like I would be engulfed in a ^yt-0461
+- [19:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1168) dust storm, but it would be it's this ^yt-0462
+- [19:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1170) light now. I'm engulfed in it. ^yt-0463
+- [19:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1172) completely engulfed. There's nothing ^yt-0464
+- [19:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1174) else. The whole scene went away. There's ^yt-0465
+- [19:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1176) no more trucks. There's no more ^yt-0466
+- [19:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1177) ambulance. There's no more people. It's ^yt-0467
+- [19:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1180) completely quiet and it's completely ^yt-0468
+- [19:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1183) peaceful. And it is um it's a kind of ^yt-0469
+- [19:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1186) quiet ^yt-0470
+- [19:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1188) that I've never experienced before that ^yt-0471
+- [19:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1190) it's it's so peaceful and so quiet. And ^yt-0472
+- [19:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1194) I'm lucid. I'm looking at my hands and ^yt-0473
+- [19:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1196) they're kind of vi they're vibrant at ^yt-0474
+- [19:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1199) this light. It's sort of like the light ^yt-0475
+- [20:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1200) is on my hands, too. But there's nobody ^yt-0476
+- [20:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1202) in it with me. It's not like I'm seeing ^yt-0477
+- [20:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1204) my life past before me like other people ^yt-0478
+- [20:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1206) I know have. I don't have anybody um ^yt-0479
+- [20:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1210) that's, you know, I see. It's not like ^yt-0480
+- [20:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1212) my dog is there, any of that. But I'm in ^yt-0481
+- [20:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1213) this light. It's just a I'm in engulfed ^yt-0482
+- [20:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1216) in it. And it's quiet and it in it ^yt-0483
+- [20:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1221) there's no sound but there's a a type of ^yt-0484
+- [20:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1224) a frequency kind of a like if you hit a ^yt-0485
+- [20:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1227) low pitchfork ^yt-0486
+- [20:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1229) you know a really low low one it's that ^yt-0487
+- [20:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1231) kind of a resonance that's what it felt ^yt-0488
+- [20:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1234) like and inside of that resonance and I ^yt-0489
+- [20:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1237) have no sense of time in this I don't ^yt-0490
+- [20:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1239) know how long it was I so I can't ^yt-0491
+- [20:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1241) measure it there was no time and there ^yt-0492
+- [20:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1243) was no emotions I've been interviewed by ^yt-0493
+- [20:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1246) several hospitals that were doing ^yt-0494
+- [20:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1248) research on this kind of experience and ^yt-0495
+- [20:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1250) they asked me that if there was any time ^yt-0496
+- [20:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1252) I go no time no emotions I wasn't afraid ^yt-0497
+- [20:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1255) I was just peaceful ^yt-0498
+- [20:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1257) and during this period of time where I ^yt-0499
+- [21:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1260) was in this light in this resonance like ^yt-0500
+- [21:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1262) I say it was like a big huge pitchfork ^yt-0501
+- [21:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1264) that just kind of vibrated ^yt-0502
+- [21:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1268) it was my mother ^yt-0503
+- [21:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1270) my mother it wasn't her standing there ^yt-0504
+- [21:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1274) or anything I didn't see her it wasn't ^yt-0505
+- [21:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1277) like English that I would recognize in ^yt-0506
+- [21:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1279) my mother's pitch, but it was inside of ^yt-0507
+- [21:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1282) me. And she communicated to me two words ^yt-0508
+- [21:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1286) or two two sets of words. Not yet. Not ^yt-0509
+- [21:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1290) yet. Two times. And then on the second ^yt-0510
+- [21:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1294) not yet, it was boom, pitch black and it ^yt-0511
+- [21:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1299) was terror. I felt like I had just come ^yt-0512
+- [21:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1302) off the bottom of the lake and I had ^yt-0513
+- [21:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1306) grabbed my air and I gasped for air like ^yt-0514
+- [21:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1309) I had been, you know, I had just gasped ^yt-0515
+- [21:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1311) like I just come off the bottom of a ^yt-0516
+- [21:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1312) lake, you know, and you run out of air ^yt-0517
+- [21:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1313) and you finally get to the surface, you ^yt-0518
+- [21:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1316) you suck in air. That's what I felt ^yt-0519
+- [21:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1318) like. But I'm in this pitch dark and no ^yt-0520
+- [22:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1320) hearing, but it's it's terrifying to me. ^yt-0521
+- [22:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1324) I feel like I'm in a closet of this ^yt-0522
+- [22:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1326) total dark. And I started to scream ^yt-0523
+- [22:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1330) three times my wife's name, Connie. Like ^yt-0524
+- [22:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1332) in a loud crazy warrior scream. Just ^yt-0525
+- [22:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1336) screaming my wife's name. Connie. ^yt-0526
+- [22:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1338) Connie. Connie. Like, find me. Come find ^yt-0527
+- [22:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1341) me. You know that kind of a thing. On ^yt-0528
+- [22:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1343) the third on the third scream of my ^yt-0529
+- [22:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1345) wife's name. Nothing. ^yt-0530
+- [22:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1348) Nothing at all. I open my eyes. I'm ^yt-0531
+- [22:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1351) crying. I described this to the firemen. ^yt-0532
+- [22:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1353) They're all crying and and they cannot ^yt-0533
+- [22:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1355) they cannot believe what I had just ^yt-0534
+- [22:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1357) described because it was exactly what ^yt-0535
+- [22:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1360) the scene was. It was the down to the ^yt-0536
+- [22:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1363) detail of the fire trucks and the ^yt-0537
+- [22:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1364) ambulance where the police cars were ^yt-0538
+- [22:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1367) faced and um the blue people and the ^yt-0539
+- [22:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1370) white paper the whole thing um I had ^yt-0540
+- [22:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1373) described exactly. So I was worried at ^yt-0541
+- [22:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1377) the time that I had lost my mind that I ^yt-0542
+- [23:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1380) was I but it didn't explain the detail, ^yt-0543
+- [23:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1385) right? So it left me feeling really ^yt-0544
+- [23:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1387) really kind of worried and perplexed and ^yt-0545
+- [23:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1390) and ^yt-0546
+- [23:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1392) um it's kind of hard to describe the ^yt-0547
+- [23:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1393) emotion of it, but I was absolutely ^yt-0548
+- [23:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1395) perplexed as to what I had just seen and ^yt-0549
+- [23:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1398) described to these five men and their ^yt-0550
+- [23:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1400) and their boss and my wife. I had ^yt-0551
+- [23:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1403) described this entire scene and so I was ^yt-0552
+- [23:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1406) worried that I had likely experienced an ^yt-0553
+- [23:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1410) injury of some sort and I but I couldn't ^yt-0554
+- [23:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1412) rectify. ^yt-0555
+- [23:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1413) It wasn't like I could make it up ^yt-0556
+- [23:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1415) because it was accurate what I had what ^yt-0557
+- [23:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1417) I had described. So it was really a a ^yt-0558
+- [23:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1420) perplexing thing for me and I held on to ^yt-0559
+- [23:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1423) that for about three weeks and it scared ^yt-0560
+- [23:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1426) me to death. I didn't know what I had ^yt-0561
+- [23:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1427) experienced. I didn't know what had ^yt-0562
+- [23:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1429) happened to me, why I was able to to and ^yt-0563
+- [23:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1431) it's and what even bothered me more is ^yt-0564
+- [23:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1433) that it never went away ^yt-0565
+- [23:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1436) that that it's like a video that's ^yt-0566
+- [23:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1438) constantly looping in my brain now all ^yt-0567
+- [24:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1440) the way to the light in the night yet. ^yt-0568
+- [24:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1442) It's never gone away ever. And so in the ^yt-0569
+- [24:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1445) initial stages just going to sleep at ^yt-0570
+- [24:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1447) night, it would be there. If I'd shut my ^yt-0571
+- [24:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1449) eyes to go to sleep, boom, there it is. ^yt-0572
+- [24:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1451) And it was sort of nightmarish to me ^yt-0573
+- [24:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1454) because I was reliving this whole ^yt-0574
+- [24:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1457) experience. Then I'd wake up in the ^yt-0575
+- [24:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1459) morning and it would still it was like ^yt-0576
+- [24:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1461) it was a constant loop in my mind all ^yt-0577
+- [24:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1463) night and I'd wake up with it in the ^yt-0578
+- [24:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1465) morning and if I shut my eyes there it ^yt-0579
+- [24:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1467) is again. So I was becoming a little bit ^yt-0580
+- [24:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1470) um not to say distracted, it' be light ^yt-0581
+- [24:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1473) word but it was bothering me. So, I had ^yt-0582
+- [24:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1476) gone back to the cardiologist about ^yt-0583
+- [24:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1478) three weeks later. Had to do a checkup ^yt-0584
+- [24:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1480) and a follow-up. And I I'm definitely a ^yt-0585
+- [24:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1482) cardiac patient now. And you know, this ^yt-0586
+- [24:46](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1486) is bothering me. I didn't even talk to ^yt-0587
+- [24:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1487) my wife about how it was bothering me ^yt-0588
+- [24:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1489) that I had this this loop in my head has ^yt-0589
+- [24:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1492) not gone away. It's it's stuck in there. ^yt-0590
+- [24:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1496) And I thought I was having a mind issue. ^yt-0591
+- [24:58](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1498) And so I said to my doctor, I I said, "I ^yt-0592
+- [25:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1501) have to say something." And I I said, "I ^yt-0593
+- [25:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1503) don't want you to think I'm crazy, but I ^yt-0594
+- [25:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1504) think I am." And he said, "What?" And I ^yt-0595
+- [25:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1507) explained to him the details that I just ^yt-0596
+- [25:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1509) explained to you and your audience how I ^yt-0597
+- [25:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1512) had seen this whole thing and I've ^yt-0598
+- [25:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1514) described it to these firemen and how ^yt-0599
+- [25:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1517) they were like, "Yeah, that's exactly ^yt-0600
+- [25:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1519) what it was." And they described to me ^yt-0601
+- [25:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1521) the the differences of the different ^yt-0602
+- [25:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1524) truck and the different ambulance and ^yt-0603
+- [25:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1526) how there's no way I would have known ^yt-0604
+- [25:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1528) about that mixup because I was gone. And ^yt-0605
+- [25:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1530) he says, "Kevin, you were definitely ^yt-0606
+- [25:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1532) down." When when I was brought to him, ^yt-0607
+- [25:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1534) it was in a what's called a kath lab. So ^yt-0608
+- [25:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1537) when I left the scene, they had done all ^yt-0609
+- [25:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1540) they could for me. And when I arrived at ^yt-0610
+- [25:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1543) the hospital, I went straight into this ^yt-0611
+- [25:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1545) kath lab where they went into my arm and ^yt-0612
+- [25:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1548) he found this blood clot and he pushed ^yt-0613
+- [25:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1550) out a three-inch blood clot out of my ^yt-0614
+- [25:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1551) heart. And then he put stances in and ^yt-0615
+- [25:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1554) and at that moment he I had an IV still ^yt-0616
+- [25:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1557) in me and he shocked me and um ^yt-0617
+- [26:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1562) when he he said when he shocked me it ^yt-0618
+- [26:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1565) took a couple but when I came too I had ^yt-0619
+- [26:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1568) grabbed a nurse. I don't know if you can ^yt-0620
+- [26:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1571) imagine this, but I met the nurse a year ^yt-0621
+- [26:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1572) later and she said I scared the be Jesus ^yt-0622
+- [26:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1575) out of her, but here's this guy that's ^yt-0623
+- [26:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1576) all purple, hadn't breathed in 20ome ^yt-0624
+- [26:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1578) minutes, and all a sudden, blah, here I ^yt-0625
+- [26:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1582) am screaming my wife's name, Connie, and ^yt-0626
+- [26:24](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1584) I got a hold of her apparently. And my ^yt-0627
+- [26:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1587) son worked in the ER, but he wasn't ^yt-0628
+- [26:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1589) there the day I was there. But he said ^yt-0629
+- [26:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1590) all of his friends said they could hear ^yt-0630
+- [26:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1592) me down the hallway screaming my wife's ^yt-0631
+- [26:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1595) name and just crazy because they they ^yt-0632
+- [26:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1598) when they when I came in there they had ^yt-0633
+- [26:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1600) a code blue. They assumed I would not ^yt-0634
+- [26:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1602) make it. I was I was a guy that they ^yt-0635
+- [26:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1605) were not planning on [laughter] ^yt-0636
+- [26:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1608) hearing from. Let's put it that way. But ^yt-0637
+- [26:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1610) when they brought me back and he opened ^yt-0638
+- [26:52](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1612) up my artery and hit me again, um I was ^yt-0639
+- [26:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1615) screaming and I had a hold of this nurse ^yt-0640
+- [26:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1617) and I was screaming my wife's name ^yt-0641
+- [26:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1619) Connie and then they innovated me and ^yt-0642
+- [27:00](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1620) they put me under put a tracheal thing ^yt-0643
+- [27:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1622) in me and they put me into a light coma ^yt-0644
+- [27:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1625) because they were certain I would have a ^yt-0645
+- [27:06](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1626) brain injury. So he told me, Kevin, you ^yt-0646
+- [27:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1628) were very much alive when that happened. ^yt-0647
+- [27:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1630) Um that darkness that I experienced, he ^yt-0648
+- [27:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1633) said that's that's natural because I had ^yt-0649
+- [27:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1635) not been with circulation. My heart had ^yt-0650
+- [27:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1638) stopped beating. So my kidneys had ^yt-0651
+- [27:21](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1641) failed. My most of my organs had already ^yt-0652
+- [27:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1643) started to shut down. My lungs had ^yt-0653
+- [27:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1645) collapsed. And all the blood in my ^yt-0654
+- [27:27](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1647) retina had left. And in my hearing, all ^yt-0655
+- [27:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1650) the blood that's in your your eardrums ^yt-0656
+- [27:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1652) had also left. So I that's why I was not ^yt-0657
+- [27:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1655) able to see or hear. And I was ^yt-0658
+- [27:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1656) effectively blind and deaf at the ^yt-0659
+- [27:38](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1658) moment. And so that darkness in that ^yt-0660
+- [27:41](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1661) quiet in the dark black that I was ^yt-0661
+- [27:44](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1664) experiencing, I was very much alive. but ^yt-0662
+- [27:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1667) my body's systems hadn't caught up with ^yt-0663
+- [27:50](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1670) it yet. And that's when then they put me ^yt-0664
+- [27:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1673) under into this ly coma and and that's ^yt-0665
+- [27:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1675) how I made it through. So that's the ^yt-0666
+- [27:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1677) that's the experience of I that I still ^yt-0667
+- [27:59](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1679) carry around with me. As I've said, I' ^yt-0668
+- [28:02](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1682) I've shared my story now with a little ^yt-0669
+- [28:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1684) over a couple hundred thousand people ^yt-0670
+- [28:05](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1685) and um on different podcasts and and ^yt-0671
+- [28:08](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1688) personally I welcome anybody who would ^yt-0672
+- [28:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1692) like to share with me what their ^yt-0673
+- [28:14](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1694) experience is. I've had it's countless ^yt-0674
+- [28:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1697) people reach out to me and just share me ^yt-0675
+- [28:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1699) share with me with their story and um ^yt-0676
+- [28:23](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1703) it's it's been part of my purpose I ^yt-0677
+- [28:26](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1706) think as the what I've gone through ^yt-0678
+- [28:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1708) after this whole thing you know a ^yt-0679
+- [28:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1710) cardiac experience that I went through ^yt-0680
+- [28:31](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1711) it ruined my life it uh we lost ^yt-0681
+- [28:34](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1714) everything um I couldn't work for a ^yt-0682
+- [28:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1717) month I'm sorry I couldn't work for a ^yt-0683
+- [28:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1719) year and I've since had more cardiac ^yt-0684
+- [28:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1722) issues a lot of things that have come to ^yt-0685
+- [28:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1725) But through it all, um what I've shared ^yt-0686
+- [28:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1729) with people is a message of hope and ^yt-0687
+- [28:53](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1733) that's my my purpose in sharing my ^yt-0688
+- [28:55](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1735) experience. Uh there's no other really ^yt-0689
+- [28:57](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1737) purpose that I have that when I share it ^yt-0690
+- [29:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1741) so many people um are searching, you ^yt-0691
+- [29:04](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1744) know, for uh what happens and what maybe ^yt-0692
+- [29:09](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1749) has happened to a loved one or maybe ^yt-0693
+- [29:11](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1751) they're afraid themselves. And all I can ^yt-0694
+- [29:13](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1753) say is that what I experienced was just ^yt-0695
+- [29:15](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1755) what I just explained. You know, it's ^yt-0696
+- [29:17](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1757) nothing else other than my experience. ^yt-0697
+- [29:19](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1759) And if it helps somebody, they're ^yt-0698
+- [29:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1760) welcome to reach out to me. I've written ^yt-0699
+- [29:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1762) a book. Um the book is called Not Yet, ^yt-0700
+- [29:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1765) Not Yet Tomorrow has just begun and it's ^yt-0701
+- [29:29](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1769) been wellreceived. It's actually going ^yt-0702
+- [29:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1770) to launch on March 30th. So, if they ^yt-0703
+- [29:33](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1773) would like on March 30th, you're more ^yt-0704
+- [29:36](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1776) than I'd be happy to to have you read my ^yt-0705
+- [29:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1780) book or listen to or the ebook. Um, ^yt-0706
+- [29:42](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1782) it'll be on Amazon.com on the 30th. Not ^yt-0707
+- [29:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1785) yet. Not yet. Tomorrow has just begun. ^yt-0708
+- [29:48](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1788) Or they can email me if they want. Um, ^yt-0709
+- [29:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1791) and you can email me at kevin moat. ^yt-0710
+- [29:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1794) That's ke v i n m o h ttauorgmail.com. ^yt-0711
+- [30:01](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1801) And I I always respond to everybody that ^yt-0712
+- [30:03](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1803) emails me and um you know it's been ^yt-0713
+- [30:07](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1807) nothing but uh joyful and I rejoice in ^yt-0714
+- [30:10](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1810) everything that's happened to me. We've ^yt-0715
+- [30:12](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1812) lost everything and in that uh we've ^yt-0716
+- [30:16](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1816) learned and I have learned that that's ^yt-0717
+- [30:18](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1818) what pain is about. Suffering is all ^yt-0718
+- [30:20](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1820) about what you learn from it, you know, ^yt-0719
+- [30:22](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1822) and the the common human condition that ^yt-0720
+- [30:25](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1825) can happen to anybody that's anybody ^yt-0721
+- [30:28](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1828) instantly. I I here I was a healthy guy. ^yt-0722
+- [30:30](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1830) Next thing I know, I'm dead in my car. ^yt-0723
+- [30:32](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1832) It can happen to anybody. And what we do ^yt-0724
+- [30:35](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1835) with that is really what my book is ^yt-0725
+- [30:37](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1837) about. That's one of the things I I just ^yt-0726
+- [30:39](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1839) wrote the book because I just wanted to ^yt-0727
+- [30:40](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1840) share my story. And it is it is a story ^yt-0728
+- [30:43](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1843) of there's a lot of pain in that story ^yt-0729
+- [30:45](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1845) and there's also an awful lot of glory ^yt-0730
+- [30:47](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1847) in it. So anyway, I'd be honored if ^yt-0731
+- [30:49](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1849) somebody if you feel like emailing me, ^yt-0732
+- [30:51](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1851) feel like you can. If not, pick up my ^yt-0733
+- [30:54](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1854) book. Maybe you'll like that. If not, I ^yt-0734
+- [30:56](https://www.youtube.com/watch?v=nwGdu4GiHhY&t=1856) I wish you the ^yt-0735

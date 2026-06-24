@@ -17,6 +17,7 @@ primary_refs:
   - docs/WORKING_MEMORY.md
   - docs/TOPICS.md
   - docs/.generated/context-index.md
+  - docs/topics/docs-knowledge-system.md
   - scripts/context-index.ts
   - scripts/agent-context-audit.ts
 ---
@@ -32,6 +33,7 @@ Mantener una capa agentica mínima y local para este proyecto sin convertirlo en
 - Preservar reglas y memoria local del proyecto NDE/ECM.
 - No copiar registry global, decisiones históricas del kit AOS ni tracks manager-only.
 - Mantener ruta caliente liviana: `AGENTS.md`, `docs/.generated/context-index.md`, `docs/WORKING_MEMORY.md`, `docs/TOPICS.md`.
+- Usar `docs/topics/docs-knowledge-system.md` como fuente canónica para ruteo documental y guardado de sesión.
 - Promover decisiones durables a `docs/DECISIONS.md` y estado vivo a `docs/WORKING_MEMORY.md`.
 - No dejar archivos de contexto sueltos: integrar, indexar, archivar o preguntar antes de borrar.
 - Crear backups antes de reemplazar archivos existentes.

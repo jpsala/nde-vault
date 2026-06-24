@@ -1,0 +1,985 @@
+# YouTube indexed transcript — The near-death experience of Tricia Barker
+
+> Copia indexada del raw para referencias Obsidian; no reemplaza al raw.
+
+- [00:00:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=11s) [Music] ^seg-0001
+- [00:00:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=20s) when i grew up in ^seg-0002
+- [00:00:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=22s) east texas i was an only child in the ^seg-0003
+- [00:00:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=24s) country and i grew up extremely poor ^seg-0004
+- [00:00:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=27s) we had a house that the roof leaked and ^seg-0005
+- [00:00:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=30s) there was black mold on the floor ^seg-0006
+- [00:00:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=32s) and i didn't have too many friends over ^seg-0007
+- [00:00:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=34s) so there was a certain amount of ^seg-0008
+- [00:00:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=36s) embarrassment about growing up in ^seg-0009
+- [00:00:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=37s) poverty ^seg-0010
+- [00:00:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=39s) so a lot of my drive and ambition ^seg-0011
+- [00:00:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=42s) as a young person was to do well in ^seg-0012
+- [00:00:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=44s) school get to a good college ^seg-0013
+- [00:00:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=47s) and eventually become a lawyer i wanted ^seg-0014
+- [00:00:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=49s) to make money and most of my ^seg-0015
+- [00:00:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=51s) drive was focused on ambition ^seg-0016
+- [00:00:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=55s) so i got into a great university got a ^seg-0017
+- [00:00:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=58s) lot of ^seg-0018
+- [00:00:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=58s) scholarships but i fell apart ^seg-0019
+- [00:01:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=61s) when i was at college there was this ^seg-0020
+- [00:01:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=64s) sense of i finally got there ^seg-0021
+- [00:01:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=66s) now i'm an adult and yet there was ^seg-0022
+- [00:01:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=69s) something ^seg-0023
+- [00:01:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=70s) at my core that was missing i was ^seg-0024
+- [00:01:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=72s) agnostic ^seg-0025
+- [00:01:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=73s) my romantic relationships were not ^seg-0026
+- [00:01:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=76s) successful ^seg-0027
+- [00:01:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=77s) and there was this moment in college ^seg-0028
+- [00:01:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=79s) where ^seg-0029
+- [00:01:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=80s) i really just thought this is hopeless ^seg-0030
+- [00:01:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=82s) you know my life ^seg-0031
+- [00:01:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=83s) is maybe i'm not going to be able to be ^seg-0032
+- [00:01:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=86s) as successful as i wanted to be maybe ^seg-0033
+- [00:01:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=89s) i'm not going to ^seg-0034
+- [00:01:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=90s) make it and maybe i'm just a deeply ^seg-0035
+- [00:01:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=92s) damaged person and that was a thought ^seg-0036
+- [00:01:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=94s) that i had ^seg-0037
+- [00:01:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=96s) so i attempted suicide i took a bunch of ^seg-0038
+- [00:01:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=99s) pills ^seg-0039
+- [00:01:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=99s) i fell face forward into my mattress and ^seg-0040
+- [00:01:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=102s) i ended up vomiting ^seg-0041
+- [00:01:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=104s) and waking up 36 hours later and ^seg-0042
+- [00:01:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=107s) that was a wake-up call this was a ^seg-0043
+- [00:01:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=109s) moment in my life where i thought you ^seg-0044
+- [00:01:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=111s) know what ^seg-0045
+- [00:01:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=112s) i have to change and so i started ^seg-0046
+- [00:01:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=114s) running i went to see a counselor i did ^seg-0047
+- [00:01:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=116s) yoga and i ^seg-0048
+- [00:01:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=117s) i was kind of on a better track i was ^seg-0049
+- [00:02:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=121s) 22 years old and this was leading up to ^seg-0050
+- [00:02:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=123s) this big race in austin ^seg-0051
+- [00:02:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=126s) but the night before the race i had ^seg-0052
+- [00:02:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=129s) all these dreams and in one dream i ^seg-0053
+- [00:02:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=132s) heard my ^seg-0054
+- [00:02:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=133s) dad screaming watch out trisha and then ^seg-0055
+- [00:02:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=136s) i heard ^seg-0056
+- [00:02:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=137s) my mother saying oh no i can't believe ^seg-0057
+- [00:02:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=139s) this happened and ^seg-0058
+- [00:02:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=140s) they seemed like dreams that were ^seg-0059
+- [00:02:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=142s) somehow outside of time ^seg-0060
+- [00:02:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=143s) and it seemed very strange and i thought ^seg-0061
+- [00:02:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=146s) i didn't get good sleep i was really ^seg-0062
+- [00:02:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=148s) kind of out of ^seg-0063
+- [00:02:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=149s) it and i got in my car to run this race ^seg-0064
+- [00:02:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=152s) and ^seg-0065
+- [00:02:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=153s) this is where i had the accident and ^seg-0066
+- [00:02:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=155s) this is where the story begins ^seg-0067
+- [00:02:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=158s) i'll never forget that i passed this ^seg-0068
+- [00:02:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=159s) 7-11 ^seg-0069
+- [00:02:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=161s) and as soon as i went through the first ^seg-0070
+- [00:02:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=162s) yellow light i gunned it ^seg-0071
+- [00:02:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=165s) and at that moment the next light was ^seg-0072
+- [00:02:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=167s) red ^seg-0073
+- [00:02:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=168s) i was already in the intersection i ^seg-0074
+- [00:02:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=170s) don't understand how the other car was ^seg-0075
+- [00:02:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=172s) going as fast as ^seg-0076
+- [00:02:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=173s) he was going but he was in a very big ^seg-0077
+- [00:02:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=175s) vehicle and we collided almost at a ^seg-0078
+- [00:02:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=178s) head-on collision it was a curved ^seg-0079
+- [00:02:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=179s) intersection ^seg-0080
+- [00:03:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=180s) so we hit one another both going 65 ^seg-0081
+- [00:03:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=183s) miles an hour i didn't ^seg-0082
+- [00:03:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=184s) even have time to put on my break and ^seg-0083
+- [00:03:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=188s) wrecks at that speed they said immediate ^seg-0084
+- [00:03:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=190s) death there were no airbags there was ^seg-0085
+- [00:03:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=192s) nothing ^seg-0086
+- [00:03:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=193s) i remember the car just crunching up ^seg-0087
+- [00:03:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=196s) around me ^seg-0088
+- [00:03:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=197s) and i fell over to one side ^seg-0089
+- [00:03:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=200s) when the police finally showed up i ^seg-0090
+- [00:03:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=202s) couldn't ^seg-0091
+- [00:03:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=203s) move and there was a nurse who finally ^seg-0092
+- [00:03:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=205s) came along three cars passed us by and ^seg-0093
+- [00:03:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=208s) this nurse stopped and she was holding ^seg-0094
+- [00:03:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=210s) my hand ^seg-0095
+- [00:03:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=211s) and the man i was in the accident with ^seg-0096
+- [00:03:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=213s) he was holding his daughter ^seg-0097
+- [00:03:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=215s) and they were bleeding but she kept ^seg-0098
+- [00:03:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=218s) telling me that i was ^seg-0099
+- [00:03:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=219s) far worse and that my injuries were ^seg-0100
+- [00:03:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=222s) pretty bad she didn't know if they were ^seg-0101
+- [00:03:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=224s) neck or back but i was gonna be put on a ^seg-0102
+- [00:03:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=226s) board and i needed to ^seg-0103
+- [00:03:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=228s) stay very still but i didn't have health ^seg-0104
+- [00:03:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=231s) insurance ^seg-0105
+- [00:03:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=232s) so i overheard once i got to the er ^seg-0106
+- [00:03:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=236s) the nurses talking and one surgeon let ^seg-0107
+- [00:03:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=239s) my case ^seg-0108
+- [00:04:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=240s) go and the nurses were talking about ^seg-0109
+- [00:04:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=242s) this that he wasn't gonna come in ^seg-0110
+- [00:04:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=244s) because he may not get paid ^seg-0111
+- [00:04:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=245s) so i really started to freak out the ^seg-0112
+- [00:04:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=248s) nurses kept coming by ^seg-0113
+- [00:04:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=249s) and squeezing my foot and i just didn't ^seg-0114
+- [00:04:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=251s) feel anything ^seg-0115
+- [00:04:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=253s) and so 17 hours with no painkiller ^seg-0116
+- [00:04:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=256s) nothing to numb the pain because i had ^seg-0117
+- [00:04:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=258s) internal injuries ^seg-0118
+- [00:04:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=259s) and the woman who ended up operating on ^seg-0119
+- [00:04:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=262s) me had been on duty for 40 hours and so ^seg-0120
+- [00:04:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=265s) when she ^seg-0121
+- [00:04:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=266s) took my case she was very tired herself ^seg-0122
+- [00:04:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=268s) but she decided to ^seg-0123
+- [00:04:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=270s) operate anyway and it was going to be a ^seg-0124
+- [00:04:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=272s) long surgery they were going to have to ^seg-0125
+- [00:04:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=273s) pick a lot of ^seg-0126
+- [00:04:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=274s) bone fragments from my spine so i was ^seg-0127
+- [00:04:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=277s) wheeled in for surgery ^seg-0128
+- [00:04:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=279s) and then i don't know how long into the ^seg-0129
+- [00:04:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=281s) surgery but ^seg-0130
+- [00:04:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=282s) probably long enough for them to open up ^seg-0131
+- [00:04:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=285s) my back ^seg-0132
+- [00:04:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=286s) and my hip my spirit form ^seg-0133
+- [00:04:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=289s) left my body and i remember getting just ^seg-0134
+- [00:04:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=292s) so excited i saw the body on the ^seg-0135
+- [00:04:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=296s) operating table i thought ^seg-0136
+- [00:04:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=298s) we go on like this spirit form this ^seg-0137
+- [00:05:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=301s) part of me continues on after death and ^seg-0138
+- [00:05:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=304s) i ^seg-0139
+- [00:05:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=304s) knew this immediately it was almost like ^seg-0140
+- [00:05:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=307s) i was up in the corner of the room and i ^seg-0141
+- [00:05:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=310s) had this ^seg-0142
+- [00:05:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=311s) knowing of my spirit form as this mirror ^seg-0143
+- [00:05:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=314s) image of my body but it was light it was ^seg-0144
+- [00:05:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=316s) composed of light ^seg-0145
+- [00:05:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=318s) and i was looking down at the surgeons ^seg-0146
+- [00:05:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=320s) working and i remember thinking there's ^seg-0147
+- [00:05:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=322s) so much blood why is there so much blood ^seg-0148
+- [00:05:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=325s) and the blood seemed to be spilling onto ^seg-0149
+- [00:05:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=327s) the sheet and it looked really gruesome ^seg-0150
+- [00:05:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=330s) i later found out that the cause of ^seg-0151
+- [00:05:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=333s) death was uh ^seg-0152
+- [00:05:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=334s) i bled to death and that was basically ^seg-0153
+- [00:05:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=336s) you know there were internal injuries ^seg-0154
+- [00:05:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=337s) that were spilling over ^seg-0155
+- [00:05:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=339s) and so i looked at that but then i ^seg-0156
+- [00:05:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=341s) looked up and there were these ^seg-0157
+- [00:05:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=343s) light beings now i call them angels ^seg-0158
+- [00:05:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=346s) they were just these intelligent beings ^seg-0159
+- [00:05:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=349s) and they were unlike anything i'd ever ^seg-0160
+- [00:05:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=351s) imagined or thought ^seg-0161
+- [00:05:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=353s) i didn't think of angels like this ^seg-0162
+- [00:05:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=354s) normally we think of angels with wings ^seg-0163
+- [00:05:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=357s) but these were just ^seg-0164
+- [00:05:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=358s) they looked like they had shimmery robes ^seg-0165
+- [00:06:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=360s) and they weren't male or female ^seg-0166
+- [00:06:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=362s) they sent telepathic messages to me they ^seg-0167
+- [00:06:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=365s) said you'll be fine ^seg-0168
+- [00:06:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=367s) you'll walk you'll run don't worry about ^seg-0169
+- [00:06:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=369s) this ^seg-0170
+- [00:06:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=370s) we've got this and then they almost ^seg-0171
+- [00:06:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=372s) playfully said ^seg-0172
+- [00:06:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=374s) watch this and they sent this blast of ^seg-0173
+- [00:06:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=376s) energy ^seg-0174
+- [00:06:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=377s) through the back of the surgeons into ^seg-0175
+- [00:06:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=379s) their hands and it lit up my whole body ^seg-0176
+- [00:06:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=381s) so i knew that they were participating ^seg-0177
+- [00:06:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=385s) in this healing the neurosurgeons were ^seg-0178
+- [00:06:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=388s) great ^seg-0179
+- [00:06:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=388s) and talented but i remember thinking ^seg-0180
+- [00:06:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=390s) they're so smart and i bet they have no ^seg-0181
+- [00:06:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=393s) idea that light beings are working ^seg-0182
+- [00:06:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=394s) through them ^seg-0183
+- [00:06:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=396s) the experience felt real it didn't feel ^seg-0184
+- [00:06:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=399s) like a dream ^seg-0185
+- [00:06:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=400s) this felt like an added reality to this ^seg-0186
+- [00:06:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=404s) reality so ^seg-0187
+- [00:06:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=405s) the way we're looking at everything and ^seg-0188
+- [00:06:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=407s) it looks 3d ^seg-0189
+- [00:06:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=408s) it felt like i'd opened up 45d 60 you ^seg-0190
+- [00:06:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=411s) know whatever ^seg-0191
+- [00:06:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=411s) it just felt as if i'd opened to see ^seg-0192
+- [00:06:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=415s) what happens beyond the veil these ^seg-0193
+- [00:06:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=417s) angels were participating with my ^seg-0194
+- [00:06:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=419s) surgeons ^seg-0195
+- [00:07:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=421s) but they were just there in another ^seg-0196
+- [00:07:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=423s) realm that the human eye can't pick up ^seg-0197
+- [00:07:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=425s) on but the spirit can ^seg-0198
+- [00:07:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=428s) and then the monitor flatlined and i ^seg-0199
+- [00:07:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=431s) remember thinking ^seg-0200
+- [00:07:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=432s) i'm really dead now so i don't want to ^seg-0201
+- [00:07:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=434s) see this how are they going to revive me ^seg-0202
+- [00:07:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=437s) so i left that room and the spirit form ^seg-0203
+- [00:07:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=440s) can simply ^seg-0204
+- [00:07:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=440s) go through a wall so it's like your ^seg-0205
+- [00:07:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=442s) consciousness decides what you want to ^seg-0206
+- [00:07:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=444s) do ^seg-0207
+- [00:07:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=445s) and i was like i will leave this room ^seg-0208
+- [00:07:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=447s) now as they revived me and i saw ^seg-0209
+- [00:07:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=450s) my stepdad getting a candy bar out of a ^seg-0210
+- [00:07:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=452s) vending machine ^seg-0211
+- [00:07:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=454s) and i thought that's funny that he eats ^seg-0212
+- [00:07:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=455s) candy bars because he's always bragging ^seg-0213
+- [00:07:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=457s) about what a vegan he is in a health nut ^seg-0214
+- [00:07:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=459s) and you know all these things and later ^seg-0215
+- [00:07:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=462s) i asked my mom if ^seg-0216
+- [00:07:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=464s) she saw him get a candy bar and she said ^seg-0217
+- [00:07:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=466s) that at that moment her and my dad were ^seg-0218
+- [00:07:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=469s) on their knees ^seg-0219
+- [00:07:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=469s) praying and they were certain that i ^seg-0220
+- [00:07:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=471s) died in surgery and then he came back in ^seg-0221
+- [00:07:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=473s) with this candy bar ^seg-0222
+- [00:07:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=475s) offered them some of the candy and made ^seg-0223
+- [00:07:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=477s) a joke ^seg-0224
+- [00:07:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=478s) and i was like well i was dead at that ^seg-0225
+- [00:08:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=480s) moment mom ^seg-0226
+- [00:08:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=481s) that's the moment that you felt i was ^seg-0227
+- [00:08:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=483s) dead and i truly was ^seg-0228
+- [00:08:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=486s) but i had no fear and then i flew into ^seg-0229
+- [00:08:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=489s) the night sky ^seg-0230
+- [00:08:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=490s) and i remember like we all want to fly ^seg-0231
+- [00:08:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=493s) if you've ever had a lucid dream ^seg-0232
+- [00:08:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=495s) you want to be a bird you want to fly ^seg-0233
+- [00:08:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=497s) above ^seg-0234
+- [00:08:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=498s) everything and you want to see the world ^seg-0235
+- [00:08:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=500s) and that's how i felt i felt as if i was ^seg-0236
+- [00:08:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=502s) just floating in this beautiful night ^seg-0237
+- [00:08:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=504s) sky ^seg-0238
+- [00:08:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=505s) and i began to feel this connection ^seg-0239
+- [00:08:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=508s) to everyone i'd ever met sometimes ^seg-0240
+- [00:08:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=511s) near-death experiences talk about a ^seg-0241
+- [00:08:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=513s) tunnel that they go down but i was in ^seg-0242
+- [00:08:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=515s) the night sky ^seg-0243
+- [00:08:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=516s) then very quickly i was just in the ^seg-0244
+- [00:08:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=518s) stars ^seg-0245
+- [00:08:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=519s) and when i was in that place i began to ^seg-0246
+- [00:08:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=522s) feel a deeper ^seg-0247
+- [00:08:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=523s) sense of peace because i felt this ^seg-0248
+- [00:08:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=526s) consciousness ^seg-0249
+- [00:08:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=527s) coming toward me that was like the light ^seg-0250
+- [00:08:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=529s) of god perhaps ^seg-0251
+- [00:08:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=531s) it was a light that was full of ^seg-0252
+- [00:08:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=534s) intelligence and peace ^seg-0253
+- [00:08:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=536s) and joy these messages started coming ^seg-0254
+- [00:08:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=539s) toward me and ^seg-0255
+- [00:09:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=540s) the messages are very simple one was ^seg-0256
+- [00:09:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=543s) love is all that matters ^seg-0257
+- [00:09:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=544s) it's all that we take with us when we go ^seg-0258
+- [00:09:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=547s) the other was remind them to go to ^seg-0259
+- [00:09:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=549s) nature ^seg-0260
+- [00:09:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=551s) and then i started to see little images ^seg-0261
+- [00:09:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=553s) of myself playing as a kid in nature ^seg-0262
+- [00:09:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=555s) and how happy i was and then i thought ^seg-0263
+- [00:09:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=558s) okay ^seg-0264
+- [00:09:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=558s) maybe adults get too serious and we need ^seg-0265
+- [00:09:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=561s) to go play ^seg-0266
+- [00:09:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=562s) in nature more often and then that light ^seg-0267
+- [00:09:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=566s) i call it the light of god showed me ^seg-0268
+- [00:09:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=568s) more of my life ^seg-0269
+- [00:09:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=570s) there were some elements that i didn't ^seg-0270
+- [00:09:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=572s) like as much ^seg-0271
+- [00:09:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=573s) they weren't the parts that most people ^seg-0272
+- [00:09:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=575s) would judge me for ^seg-0273
+- [00:09:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=577s) it wasn't the drinking or the partying ^seg-0274
+- [00:09:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=579s) it was when i judged people and when i ^seg-0275
+- [00:09:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=581s) was rude to someone ^seg-0276
+- [00:09:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=583s) that's what god showed me was not right ^seg-0277
+- [00:09:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=586s) because i wasn't looking at the heart of ^seg-0278
+- [00:09:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=588s) people i wasn't looking at who they were ^seg-0279
+- [00:09:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=590s) inside i was judging them based on where ^seg-0280
+- [00:09:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=593s) they went to college or what clothes ^seg-0281
+- [00:09:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=594s) they wore ^seg-0282
+- [00:09:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=595s) or if i deemed them cool enough to be my ^seg-0283
+- [00:09:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=598s) friends and ^seg-0284
+- [00:09:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=599s) there was this one couple i worked with ^seg-0285
+- [00:10:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=601s) who actually prayed for me ^seg-0286
+- [00:10:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=603s) they knew that i was depressed and maybe ^seg-0287
+- [00:10:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=605s) they knew even that ^seg-0288
+- [00:10:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=607s) you know there was something that they ^seg-0289
+- [00:10:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=608s) picked up on that ^seg-0290
+- [00:10:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=610s) their hearts went out to me so they kept ^seg-0291
+- [00:10:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=613s) me in ^seg-0292
+- [00:10:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=613s) their prayers maybe they were even ^seg-0293
+- [00:10:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=617s) a part of why i didn't die with that ^seg-0294
+- [00:10:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=619s) suicide attempt ^seg-0295
+- [00:10:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=621s) their love was an observant love but it ^seg-0296
+- [00:10:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=624s) was a ^seg-0297
+- [00:10:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=625s) love that participated in my life and i ^seg-0298
+- [00:10:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=627s) saw oh i missed out on some really good ^seg-0299
+- [00:10:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=629s) friendships ^seg-0300
+- [00:10:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=630s) because i was superficial and judgmental ^seg-0301
+- [00:10:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=634s) and lost in my own pain and darkness ^seg-0302
+- [00:10:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=636s) instead of looking ^seg-0303
+- [00:10:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=637s) at people around me and i was like i'll ^seg-0304
+- [00:10:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=638s) never do that again i'll always look i ^seg-0305
+- [00:10:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=640s) promise ^seg-0306
+- [00:10:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=641s) into the hearts of people and that was ^seg-0307
+- [00:10:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=643s) my big ^seg-0308
+- [00:10:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=644s) lesson in the near-death experience ^seg-0309
+- [00:10:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=648s) and then everything transitioned into ^seg-0310
+- [00:10:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=651s) this beautiful landscape ^seg-0311
+- [00:10:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=653s) where there's a quote that i love by ^seg-0312
+- [00:10:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=655s) thomas more and it said there is no pain ^seg-0313
+- [00:10:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=658s) on earth that heaven can't heal and what ^seg-0314
+- [00:11:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=660s) i felt like is everything that was dead ^seg-0315
+- [00:11:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=662s) was now alive ^seg-0316
+- [00:11:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=663s) so my grandfather showed up and he ^seg-0317
+- [00:11:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=666s) looked beautiful ^seg-0318
+- [00:11:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=667s) he had died in his 70s but in heaven he ^seg-0319
+- [00:11:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=670s) just was glowing with light ^seg-0320
+- [00:11:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=672s) and he came towards me he had this look ^seg-0321
+- [00:11:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=675s) in his eye ^seg-0322
+- [00:11:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=676s) that communicated with telepathy much ^seg-0323
+- [00:11:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=678s) like the angels and ^seg-0324
+- [00:11:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=680s) we spent some time together ^seg-0325
+- [00:11:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=683s) and i saw this light farther away that ^seg-0326
+- [00:11:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=686s) kind of looked like a sun ^seg-0327
+- [00:11:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=688s) and he very quickly said do you want to ^seg-0328
+- [00:11:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=690s) go there and i said yes ^seg-0329
+- [00:11:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=692s) and my soul just flew towards this light ^seg-0330
+- [00:11:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=696s) and as i got closer to that light ^seg-0331
+- [00:11:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=698s) everything ^seg-0332
+- [00:11:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=700s) that had been painful in my childhood ^seg-0333
+- [00:11:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=702s) the poverty ^seg-0334
+- [00:11:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=703s) the neglect the emotional abuse all of ^seg-0335
+- [00:11:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=706s) that seemed to wash away ^seg-0336
+- [00:11:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=708s) that wasn't your fault you're loved ^seg-0337
+- [00:11:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=710s) you're perfect you're fine ^seg-0338
+- [00:11:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=712s) you're a child of god you are loved ^seg-0339
+- [00:11:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=715s) completely ^seg-0340
+- [00:11:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=717s) earlier in the near death experience i ^seg-0341
+- [00:11:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=719s) had heard be like a little child ^seg-0342
+- [00:12:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=721s) and at that moment i felt like a little ^seg-0343
+- [00:12:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=723s) child i felt like ^seg-0344
+- [00:12:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=724s) i was loved deeply by god ^seg-0345
+- [00:12:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=727s) nothing could harm me i felt completely ^seg-0346
+- [00:12:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=730s) free ^seg-0347
+- [00:12:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=732s) and i didn't want to leave that realm ^seg-0348
+- [00:12:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=734s) because you can't imagine that love ^seg-0349
+- [00:12:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=736s) it's so intense and we don't feel ^seg-0350
+- [00:12:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=739s) anything like it here we feel ^seg-0351
+- [00:12:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=741s) glimpses of it here loving a child ^seg-0352
+- [00:12:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=745s) loving your parents ^seg-0353
+- [00:12:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=746s) loving you know your spouse it's all ^seg-0354
+- [00:12:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=748s) just ^seg-0355
+- [00:12:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=749s) a brie it's it's not the same this is ^seg-0356
+- [00:12:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=751s) complete ^seg-0357
+- [00:12:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=752s) and those are just pieces is the only ^seg-0358
+- [00:12:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=755s) way i can describe it ^seg-0359
+- [00:12:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=756s) and that love just boom through me i ^seg-0360
+- [00:12:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=759s) felt people's prayers trying to pull me ^seg-0361
+- [00:12:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=761s) back ^seg-0362
+- [00:12:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=762s) so people always ask what if you pray ^seg-0363
+- [00:12:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=764s) for someone and they die ^seg-0364
+- [00:12:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=765s) they still hear it it's like my soul ^seg-0365
+- [00:12:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=767s) heard that i was ^seg-0366
+- [00:12:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=769s) in surgery and they were trying to get ^seg-0367
+- [00:12:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=770s) me to stay ^seg-0368
+- [00:12:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=772s) and i remember thinking that's sweet but ^seg-0369
+- [00:12:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=774s) i'm really fine i'm ^seg-0370
+- [00:12:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=776s) safe i'm i'm taken care of and the ^seg-0371
+- [00:12:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=778s) closer i got to god ^seg-0372
+- [00:13:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=780s) the more i thought i don't want to go ^seg-0373
+- [00:13:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=782s) back this is not for me ^seg-0374
+- [00:13:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=783s) i want to stay here because i've never ^seg-0375
+- [00:13:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=785s) felt this good ^seg-0376
+- [00:13:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=786s) there is nothing to compare to this i ^seg-0377
+- [00:13:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=788s) want to get closer and closer to this ^seg-0378
+- [00:13:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=791s) all-knowing love but at some point ^seg-0379
+- [00:13:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=794s) i was stopped it was like there was a ^seg-0380
+- [00:13:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=796s) barrier and ^seg-0381
+- [00:13:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=800s) i felt this booming voice and people ^seg-0382
+- [00:13:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=802s) always say well is a voice ^seg-0383
+- [00:13:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=803s) masculine or feminine it was booming ^seg-0384
+- [00:13:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=806s) that's all i know ^seg-0385
+- [00:13:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=807s) you know it just kind of rattled inside ^seg-0386
+- [00:13:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=810s) of me as if um ^seg-0387
+- [00:13:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=811s) the voice was talking through me and the ^seg-0388
+- [00:13:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=814s) voice said ^seg-0389
+- [00:13:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=815s) look down and then suddenly i saw like a ^seg-0390
+- [00:13:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=819s) place on earth and there was this ^seg-0391
+- [00:13:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=821s) river i saw it as a metaphor this was ^seg-0392
+- [00:13:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=824s) the river of life ^seg-0393
+- [00:13:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=825s) and i was also given a message that i ^seg-0394
+- [00:13:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=827s) was gonna teach and that mission ^seg-0395
+- [00:13:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=829s) has been incredibly powerful god was ^seg-0396
+- [00:13:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=832s) right ^seg-0397
+- [00:13:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=833s) i actually teach at a college called ^seg-0398
+- [00:13:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=835s) trinity river ^seg-0399
+- [00:13:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=836s) and i out of many of the classrooms you ^seg-0400
+- [00:13:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=839s) look out the windows ^seg-0401
+- [00:14:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=840s) and there's a river i take my students ^seg-0402
+- [00:14:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=842s) to go meditate ^seg-0403
+- [00:14:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=844s) down by the river so ^seg-0404
+- [00:14:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=847s) from what i felt in my near-death ^seg-0405
+- [00:14:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=848s) experience i was given ^seg-0406
+- [00:14:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=850s) a life mission to teach and to remind ^seg-0407
+- [00:14:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=852s) students to turn on their lights ^seg-0408
+- [00:14:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=854s) when i was in that realm this seemed ^seg-0409
+- [00:14:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=857s) like a metaphor ^seg-0410
+- [00:14:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=858s) like very easy to do you just come down ^seg-0411
+- [00:14:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=861s) to ^seg-0412
+- [00:14:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=862s) earth you teach and you remind people to ^seg-0413
+- [00:14:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=864s) be their best self ^seg-0414
+- [00:14:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=866s) and to be open to light and whatever ^seg-0415
+- [00:14:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=870s) you want to describe light as since i'm ^seg-0416
+- [00:14:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=873s) an english professor i try very hard ^seg-0417
+- [00:14:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=875s) to describe what i saw with words but ^seg-0418
+- [00:14:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=878s) how can you describe ^seg-0419
+- [00:14:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=879s) this light that comes up at you and ^seg-0420
+- [00:14:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=882s) fills you with a feeling of peace ^seg-0421
+- [00:14:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=885s) i was told that i was going to go back ^seg-0422
+- [00:14:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=887s) and teach ^seg-0423
+- [00:14:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=888s) and i argued with god because you know i ^seg-0424
+- [00:14:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=891s) wanted to make money and growing up poor ^seg-0425
+- [00:14:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=893s) i was like ^seg-0426
+- [00:14:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=894s) no way and when i said that god kind of ^seg-0427
+- [00:14:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=898s) hurled me ^seg-0428
+- [00:14:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=899s) back into my body and it was like this ^seg-0429
+- [00:15:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=901s) darkness took over ^seg-0430
+- [00:15:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=903s) and the first thing i remember is you ^seg-0431
+- [00:15:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=905s) know when you're outside of surgery ^seg-0432
+- [00:15:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=907s) they ask you your name and my throat ^seg-0433
+- [00:15:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=910s) felt dry but ^seg-0434
+- [00:15:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=912s) i had read about near-death experiences ^seg-0435
+- [00:15:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=914s) so i knew ^seg-0436
+- [00:15:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=915s) what happened to me and i also knew that ^seg-0437
+- [00:15:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=918s) i wasn't ^seg-0438
+- [00:15:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=918s) just in my body like this massive ^seg-0439
+- [00:15:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=921s) experience had just happened ^seg-0440
+- [00:15:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=922s) and i was having trouble feeling like ^seg-0441
+- [00:15:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=926s) all of me was in my body my energy was ^seg-0442
+- [00:15:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=928s) expanded and so ^seg-0443
+- [00:15:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=930s) i thought of myself in third person they ^seg-0444
+- [00:15:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=933s) asked me ^seg-0445
+- [00:15:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=933s) several times what's your name and i ^seg-0446
+- [00:15:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=935s) said her name is trisha i guess i have ^seg-0447
+- [00:15:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=938s) to come back and be her ^seg-0448
+- [00:15:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=939s) you know but in my mind i was like i'm ^seg-0449
+- [00:15:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=941s) so much more you know like i'm not ^seg-0450
+- [00:15:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=943s) just this physical body i'm a ^seg-0451
+- [00:15:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=946s) consciousness ^seg-0452
+- [00:15:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=947s) that touched something so much more than ^seg-0453
+- [00:15:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=951s) this particular body and i was kind of ^seg-0454
+- [00:15:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=953s) sad to be in this broken body ^seg-0455
+- [00:15:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=955s) to know that all those emotional wounds ^seg-0456
+- [00:15:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=957s) were healed in the presence of god but ^seg-0457
+- [00:16:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=960s) now i still have to get along with these ^seg-0458
+- [00:16:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=962s) family members and i still have to ^seg-0459
+- [00:16:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=964s) process what happened in my life and i ^seg-0460
+- [00:16:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=966s) remember ^seg-0461
+- [00:16:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=967s) some sadness about having to come back ^seg-0462
+- [00:16:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=969s) to ^seg-0463
+- [00:16:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=970s) being me because it was a lot more fun ^seg-0464
+- [00:16:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=972s) to be ^seg-0465
+- [00:16:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=973s) connected to god and connected to ^seg-0466
+- [00:16:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=976s) everyone ^seg-0467
+- [00:16:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=977s) so they put me in the icu for three days ^seg-0468
+- [00:16:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=981s) and they were checking on the internal ^seg-0469
+- [00:16:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=984s) injuries ^seg-0470
+- [00:16:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=984s) and my back and i was pretty badly ^seg-0471
+- [00:16:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=987s) broken ^seg-0472
+- [00:16:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=989s) then i just kind of rested and i i knew ^seg-0473
+- [00:16:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=992s) i was different as family members and ^seg-0474
+- [00:16:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=994s) friends came in to visit me i had a ^seg-0475
+- [00:16:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=996s) different way ^seg-0476
+- [00:16:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=997s) of being i had a different way of ^seg-0477
+- [00:16:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1000s) perceiving ^seg-0478
+- [00:16:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1000s) energy i could tell when people were ^seg-0479
+- [00:16:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1003s) worried ^seg-0480
+- [00:16:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1004s) and so much of my life had been so ^seg-0481
+- [00:16:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1007s) self-focused before that that i wasn't ^seg-0482
+- [00:16:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1010s) intuitive but i knew that ^seg-0483
+- [00:16:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1012s) now i felt connected to other people ^seg-0484
+- [00:16:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1015s) and i came back with no fear of death ^seg-0485
+- [00:16:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1019s) i stayed in the hospital for nine days ^seg-0486
+- [00:17:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1021s) and by the end of that time they'd put ^seg-0487
+- [00:17:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1023s) me in a body cast ^seg-0488
+- [00:17:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1025s) from my neck down to my hip ^seg-0489
+- [00:17:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1028s) and i knew that i'd be in this cast for ^seg-0490
+- [00:17:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1031s) four to five months and i would have to ^seg-0491
+- [00:17:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1033s) have a lot of rehab to learn to walk ^seg-0492
+- [00:17:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1035s) again ^seg-0493
+- [00:17:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1036s) it was going to be a long road to ^seg-0494
+- [00:17:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1038s) healing but i also ^seg-0495
+- [00:17:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1039s) felt as if i might be assisted by those ^seg-0496
+- [00:17:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1042s) angels who had helped in surgery ^seg-0497
+- [00:17:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1045s) i knew that the angels were sending me ^seg-0498
+- [00:17:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1047s) messages ^seg-0499
+- [00:17:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1048s) that might take a while to evolve within ^seg-0500
+- [00:17:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1051s) me so ^seg-0501
+- [00:17:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1052s) and i think perhaps these messages ^seg-0502
+- [00:17:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1054s) stayed inside of me until i started ^seg-0503
+- [00:17:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1056s) talking publicly in 2008 and then ^seg-0504
+- [00:17:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1059s) in 2016 a whole lot more ^seg-0505
+- [00:17:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1062s) and i know this to be real because i ^seg-0506
+- [00:17:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1065s) still ^seg-0507
+- [00:17:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1065s) communicate with them you know after ^seg-0508
+- [00:17:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1067s) this accident a lot of near-death ^seg-0509
+- [00:17:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1069s) experiencers have these after effects ^seg-0510
+- [00:17:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1071s) where ^seg-0511
+- [00:17:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1072s) they see the dead or they become mediums ^seg-0512
+- [00:17:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1074s) or ^seg-0513
+- [00:17:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1075s) they just understand that there's ^seg-0514
+- [00:17:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1077s) another reality that they can perceive ^seg-0515
+- [00:17:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1079s) so that's what i felt like happened ^seg-0516
+- [00:18:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1081s) we've spent all this time thinking about ^seg-0517
+- [00:18:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1083s) how smart we are ^seg-0518
+- [00:18:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1085s) when we don't even realize there is a ^seg-0519
+- [00:18:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1087s) consciousness ^seg-0520
+- [00:18:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1088s) that can work beyond the intelligence ^seg-0521
+- [00:18:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1091s) that most of us use ^seg-0522
+- [00:18:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1092s) there's intuition and it's real so ^seg-0523
+- [00:18:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1096s) immediately i just felt like the brain ^seg-0524
+- [00:18:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1098s) was a limiter ^seg-0525
+- [00:18:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1099s) of experience and that outside of body i ^seg-0526
+- [00:18:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1102s) was just picking up on ^seg-0527
+- [00:18:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1103s) what it's like to live in a realm ^seg-0528
+- [00:18:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1106s) without time ^seg-0529
+- [00:18:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1107s) what it's like to travel at the speed of ^seg-0530
+- [00:18:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1110s) light what it's like ^seg-0531
+- [00:18:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1111s) to experience some of the mysteries ^seg-0532
+- [00:18:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1115s) beyond this life like this life felt ^seg-0533
+- [00:18:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1117s) limited ^seg-0534
+- [00:18:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1118s) my body felt limited and that experience ^seg-0535
+- [00:18:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1121s) felt expansive ^seg-0536
+- [00:18:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1124s) so i went back to college and i ^seg-0537
+- [00:18:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1128s) finished up the courses i needed for an ^seg-0538
+- [00:18:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1130s) english degree to get my teaching ^seg-0539
+- [00:18:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1132s) certification and then i went right into ^seg-0540
+- [00:18:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1134s) a classroom ^seg-0541
+- [00:18:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1135s) that first classroom that i was in was ^seg-0542
+- [00:18:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1137s) magical ^seg-0543
+- [00:18:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1138s) and i just told them the story of my ^seg-0544
+- [00:19:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1140s) near-death experience i said ^seg-0545
+- [00:19:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1141s) i didn't want to be here but i'm going ^seg-0546
+- [00:19:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1143s) to tell you about how i died ^seg-0547
+- [00:19:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1145s) and my mission and then we're going to ^seg-0548
+- [00:19:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1147s) talk about how this relates to ^seg-0549
+- [00:19:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1149s) literature and we're gonna do ^seg-0550
+- [00:19:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1151s) all kind of exercises to help you get ^seg-0551
+- [00:19:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1154s) clear about what you're doing with your ^seg-0552
+- [00:19:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1155s) future and these kids were ^seg-0553
+- [00:19:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1157s) you know in shock you know they're ^seg-0554
+- [00:19:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1159s) they're in 11th grade and they're like ^seg-0555
+- [00:19:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1161s) okay this is unusual but ^seg-0556
+- [00:19:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1164s) it was a ton of fun and they opened up ^seg-0557
+- [00:19:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1167s) to me and ^seg-0558
+- [00:19:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1168s) from the beginning teaching was magical ^seg-0559
+- [00:19:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1177s) so after the near-death experience i ^seg-0560
+- [00:19:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1180s) immediately ^seg-0561
+- [00:19:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1181s) learned how to lucid dream and so i ^seg-0562
+- [00:19:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1184s) would leave my body ^seg-0563
+- [00:19:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1185s) at night and i would still fly around ^seg-0564
+- [00:19:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1187s) the stars and ^seg-0565
+- [00:19:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1188s) then i would come back to this badly ^seg-0566
+- [00:19:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1190s) broken body and i would ^seg-0567
+- [00:19:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1192s) feel the angels participating and i ^seg-0568
+- [00:19:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1194s) would ask them to help me ^seg-0569
+- [00:19:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1197s) but i was also getting psychic flashes ^seg-0570
+- [00:19:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1199s) that were ^seg-0571
+- [00:20:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1200s) fun at times but they were also a little ^seg-0572
+- [00:20:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1203s) unusual ^seg-0573
+- [00:20:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1204s) i didn't know how to hone them or use ^seg-0574
+- [00:20:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1206s) them ^seg-0575
+- [00:20:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1207s) for any true ability like ^seg-0576
+- [00:20:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1210s) that for instance i would know when a ^seg-0577
+- [00:20:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1212s) song was on the radio ^seg-0578
+- [00:20:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1214s) and i would walk across the room and i ^seg-0579
+- [00:20:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1216s) would start singing the song and by the ^seg-0580
+- [00:20:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1218s) time i turned the radio on it would be ^seg-0581
+- [00:20:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1220s) at that exact spot ^seg-0582
+- [00:20:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1222s) on the radio and i thought okay but this ^seg-0583
+- [00:20:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1224s) doesn't ^seg-0584
+- [00:20:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1225s) win me the lottery so you know i mean ^seg-0585
+- [00:20:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1226s) what good is this ^seg-0586
+- [00:20:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1228s) and and i was like uh what's the use of ^seg-0587
+- [00:20:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1230s) it it's a little disorienting ^seg-0588
+- [00:20:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1232s) and i thought maybe i'm outside of time ^seg-0589
+- [00:20:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1235s) since i had touched eternity ^seg-0590
+- [00:20:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1237s) maybe there's some part of me that's a ^seg-0591
+- [00:20:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1238s) little bit ahead of time ^seg-0592
+- [00:20:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1241s) so i asked that it be taken away and ^seg-0593
+- [00:20:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1243s) only given to me in dreams because it ^seg-0594
+- [00:20:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1245s) was disorienting ^seg-0595
+- [00:20:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1247s) sometimes i would know what was going to ^seg-0596
+- [00:20:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1248s) happen 10 minutes from ^seg-0597
+- [00:20:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1250s) when it happened a lot of times if ^seg-0598
+- [00:20:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1253s) there's ^seg-0599
+- [00:20:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1254s) emotional upheaval or even societal ^seg-0600
+- [00:20:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1256s) upheaval ^seg-0601
+- [00:20:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1257s) i'll get a sense of it before it happens ^seg-0602
+- [00:21:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1261s) i think a lot of people do get these ^seg-0603
+- [00:21:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1263s) dreams there's there's been ^seg-0604
+- [00:21:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1264s) several examples of people who dreamed ^seg-0605
+- [00:21:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1267s) of say their brother dying before their ^seg-0606
+- [00:21:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1269s) brother died ^seg-0607
+- [00:21:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1270s) so that their souls are prepared ahead ^seg-0608
+- [00:21:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1272s) of time ^seg-0609
+- [00:21:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1274s) and it was many years after the ^seg-0610
+- [00:21:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1276s) near-death experience when my own father ^seg-0611
+- [00:21:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1278s) died ^seg-0612
+- [00:21:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1279s) that i opened up this ability to talk to ^seg-0613
+- [00:21:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1281s) him ^seg-0614
+- [00:21:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1282s) in the afterlife and i thought well if i ^seg-0615
+- [00:21:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1284s) can do this with him ^seg-0616
+- [00:21:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1286s) can i do this with other people's loved ^seg-0617
+- [00:21:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1288s) ones and ^seg-0618
+- [00:21:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1289s) can i hear from others so i just tried ^seg-0619
+- [00:21:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1292s) with people who had lost children people ^seg-0620
+- [00:21:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1295s) who ^seg-0621
+- [00:21:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1295s) really wanted that connection and i ^seg-0622
+- [00:21:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1299s) realized that i could ^seg-0623
+- [00:21:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1300s) that you know there's a part of me that ^seg-0624
+- [00:21:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1302s) can simply ^seg-0625
+- [00:21:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1303s) be open to what is in that other realm ^seg-0626
+- [00:21:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1307s) and see images get impressions and then ^seg-0627
+- [00:21:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1310s) communicate these ^seg-0628
+- [00:21:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1311s) feelings to other people and that it was ^seg-0629
+- [00:21:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1314s) very healing for them and ^seg-0630
+- [00:21:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1315s) now i do some readings it's not what i ^seg-0631
+- [00:21:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1317s) do full time i still teach ^seg-0632
+- [00:21:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1319s) but i think that there is a healing ^seg-0633
+- [00:22:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1322s) aspect to giving medium readings ^seg-0634
+- [00:22:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1325s) especially when someone's in deep grief ^seg-0635
+- [00:22:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1328s) in 2008 my father was diagnosed ^seg-0636
+- [00:22:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1332s) with brain cancer he called me from ^seg-0637
+- [00:22:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1335s) the er and he said hey i think i have ^seg-0638
+- [00:22:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1337s) food poisoning ^seg-0639
+- [00:22:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1338s) and it was so unusual for him to be in ^seg-0640
+- [00:22:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1340s) the er and ^seg-0641
+- [00:22:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1341s) i lived two hours away i just got in my ^seg-0642
+- [00:22:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1343s) car and i started driving there ^seg-0643
+- [00:22:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1345s) and i asked for a sign i said and the ^seg-0644
+- [00:22:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1348s) minute i asked i asked my angels i said ^seg-0645
+- [00:22:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1350s) is this food poisoning or is this ^seg-0646
+- [00:22:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1352s) something more and i looked and i saw a ^seg-0647
+- [00:22:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1354s) sign for funeral services ^seg-0648
+- [00:22:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1356s) and i just felt this intense weight that ^seg-0649
+- [00:22:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1360s) he was going to die ^seg-0650
+- [00:22:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1361s) and when i got to the er they had ^seg-0651
+- [00:22:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1364s) already done a cat scan ^seg-0652
+- [00:22:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1366s) and then they pulled me aside and told ^seg-0653
+- [00:22:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1367s) me about the brain tumor ^seg-0654
+- [00:22:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1370s) and he died within a month so he was 64 ^seg-0655
+- [00:22:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1374s) i believe and he was running the week ^seg-0656
+- [00:22:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1376s) before and then he simply ^seg-0657
+- [00:22:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1379s) just died within a month i spent as much ^seg-0658
+- [00:23:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1381s) time as i could with them but i was ^seg-0659
+- [00:23:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1382s) teaching nine classes at a community ^seg-0660
+- [00:23:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1385s) college so that's a ^seg-0661
+- [00:23:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1386s) busy schedule and i'd been there ^seg-0662
+- [00:23:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1389s) for 24 hours the day before but i missed ^seg-0663
+- [00:23:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1392s) it when he died and i felt ^seg-0664
+- [00:23:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1393s) my grandparents come to me in a dream ^seg-0665
+- [00:23:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1396s) and they were ^seg-0666
+- [00:23:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1396s) hovering there above the bed and they ^seg-0667
+- [00:23:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1398s) said it's okay ^seg-0668
+- [00:23:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1399s) he's with us now don't worry we have him ^seg-0669
+- [00:23:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1403s) he's he's wrapped in our love ^seg-0670
+- [00:23:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1406s) and i thought oh they came for him and ^seg-0671
+- [00:23:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1408s) my grandfather had come for me ^seg-0672
+- [00:23:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1411s) when i had died so i knew that my dad ^seg-0673
+- [00:23:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1413s) was fine ^seg-0674
+- [00:23:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1414s) and he was with them and then a few ^seg-0675
+- [00:23:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1416s) nights later my father came to me in a ^seg-0676
+- [00:23:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1418s) dream and he said ^seg-0677
+- [00:23:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1420s) don't worry that you were busy i saved ^seg-0678
+- [00:23:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1422s) up all my energy ^seg-0679
+- [00:23:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1423s) just to be with you those evenings and ^seg-0680
+- [00:23:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1425s) to talk with you and i slept most of the ^seg-0681
+- [00:23:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1427s) day ^seg-0682
+- [00:23:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1428s) in the hospital uh when we weren't ^seg-0683
+- [00:23:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1430s) together so i don't want you to feel ^seg-0684
+- [00:23:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1431s) guilt i knew he was just trying to ^seg-0685
+- [00:23:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1433s) relieve my guilt but it still ^seg-0686
+- [00:23:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1435s) felt good to connect with him but then i ^seg-0687
+- [00:23:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1437s) started to follow his journey in the ^seg-0688
+- [00:23:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1439s) afterlife i thought ^seg-0689
+- [00:24:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1440s) how is the death experience different ^seg-0690
+- [00:24:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1443s) from a near-death experience ^seg-0691
+- [00:24:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1445s) what i saw was it was a little more ^seg-0692
+- [00:24:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1448s) extended ^seg-0693
+- [00:24:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1449s) so as i had done this quick life review ^seg-0694
+- [00:24:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1451s) and my near-death experience ^seg-0695
+- [00:24:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1453s) he did this really long life review and ^seg-0696
+- [00:24:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1456s) it almost looked like purgatory or ^seg-0697
+- [00:24:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1458s) something and i thought ^seg-0698
+- [00:24:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1459s) dad this isn't cool you know he's oh no ^seg-0699
+- [00:24:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1462s) no it's fine ^seg-0700
+- [00:24:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1463s) i'm still encased in love i'm still held ^seg-0701
+- [00:24:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1466s) in love ^seg-0702
+- [00:24:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1467s) but i'm just reviewing what would have ^seg-0703
+- [00:24:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1468s) happened if i would have made this ^seg-0704
+- [00:24:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1470s) choice or this choice ^seg-0705
+- [00:24:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1473s) then i kept following his soul and ^seg-0706
+- [00:24:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1475s) eventually he transitioned and felt this ^seg-0707
+- [00:24:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1477s) incredible freedom ^seg-0708
+- [00:24:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1479s) this incredible flying around in the ^seg-0709
+- [00:24:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1481s) stars and he wanted to understand ^seg-0710
+- [00:24:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1484s) everything from the inception of time ^seg-0711
+- [00:24:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1486s) until now ^seg-0712
+- [00:24:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1487s) but his soul wanted to reincarnate ^seg-0713
+- [00:24:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1490s) i remember thinking no stay up there ^seg-0714
+- [00:24:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1492s) you've got to help me you know for all ^seg-0715
+- [00:24:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1494s) these years ^seg-0716
+- [00:24:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1495s) and so he's stayed with me and i've ^seg-0717
+- [00:24:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1497s) communicated with him ^seg-0718
+- [00:24:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1498s) but he tells me that he will reincarnate ^seg-0719
+- [00:25:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1502s) and it's not a big deal that i don't ^seg-0720
+- [00:25:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1504s) have to worry about that but his ^seg-0721
+- [00:25:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1506s) particular soul wants another life here ^seg-0722
+- [00:25:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1509s) and ^seg-0723
+- [00:25:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1509s) wants to do it again ^seg-0724
+- [00:25:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1518s) it's usually a loving message that comes ^seg-0725
+- [00:25:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1521s) from the other side ^seg-0726
+- [00:25:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1522s) something that elevates you so if you ^seg-0727
+- [00:25:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1525s) hear ^seg-0728
+- [00:25:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1526s) this person does this and we should all ^seg-0729
+- [00:25:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1529s) ostracize this person ^seg-0730
+- [00:25:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1531s) you know that may not be a message from ^seg-0731
+- [00:25:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1533s) your guide your guide would probably say ^seg-0732
+- [00:25:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1535s) take care of yourself ^seg-0733
+- [00:25:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1536s) protect yourself send love to others ^seg-0734
+- [00:25:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1539s) there might be a different message than ^seg-0735
+- [00:25:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1542s) gossip you know or ^seg-0736
+- [00:25:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1543s) or something a little random from from a ^seg-0737
+- [00:25:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1546s) guide so i think ^seg-0738
+- [00:25:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1548s) guidance usually elevates your life in ^seg-0739
+- [00:25:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1550s) some way it connects you to ^seg-0740
+- [00:25:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1552s) a higher purpose so i tell ^seg-0741
+- [00:25:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1556s) people to not fear to know that they're ^seg-0742
+- [00:25:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1559s) always in the light ^seg-0743
+- [00:26:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1560s) and so you can always ask for the ^seg-0744
+- [00:26:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1562s) protection of angels say ^seg-0745
+- [00:26:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1563s) just protect me that anything that is ^seg-0746
+- [00:26:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1566s) not of the light ^seg-0747
+- [00:26:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1567s) don't let that become a part of me ^seg-0748
+- [00:26:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1571s) and there's so many moments of healing ^seg-0749
+- [00:26:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1574s) energy that can come from our loved ones ^seg-0750
+- [00:26:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1576s) there's so many near-death experiencers ^seg-0751
+- [00:26:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1578s) even with abusive parents who have ^seg-0752
+- [00:26:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1580s) talked about how when they ^seg-0753
+- [00:26:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1582s) have transitioned to the other side they ^seg-0754
+- [00:26:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1585s) finally understand each other and ^seg-0755
+- [00:26:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1586s) there's great forgiveness and deep love ^seg-0756
+- [00:26:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1589s) and deep understanding but ^seg-0757
+- [00:26:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1592s) if anyone ever feels that they have ^seg-0758
+- [00:26:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1595s) encountered something negative ^seg-0759
+- [00:26:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1596s) you can always ask for it to be taken ^seg-0760
+- [00:26:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1598s) away to be sent to the light ^seg-0761
+- [00:26:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1602s) and if you stay focused on the light of ^seg-0762
+- [00:26:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1605s) god and you stay ^seg-0763
+- [00:26:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1606s) focused on goodness then you're not ^seg-0764
+- [00:26:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1609s) doing something just for your own ^seg-0765
+- [00:26:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1611s) benefit but you're helping the world in ^seg-0766
+- [00:26:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1614s) some way and so ^seg-0767
+- [00:26:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1615s) there's a lot of confusion about well ^seg-0768
+- [00:26:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1617s) what is ^seg-0769
+- [00:26:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1618s) narcissism this is a big topic in ^seg-0770
+- [00:27:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1620s) society today ^seg-0771
+- [00:27:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1621s) well there's healthy narcissism where ^seg-0772
+- [00:27:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1624s) you love yourself take care of yourself ^seg-0773
+- [00:27:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1625s) have a 401k ^seg-0774
+- [00:27:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1627s) a roof over your head you know dress ^seg-0775
+- [00:27:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1628s) well you know there's there's that basic ^seg-0776
+- [00:27:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1631s) taking care of yourself but then there's ^seg-0777
+- [00:27:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1634s) unhealthy narcissism which is harming ^seg-0778
+- [00:27:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1637s) others ^seg-0779
+- [00:27:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1638s) manipulating others uh because of a ^seg-0780
+- [00:27:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1640s) wound inside of yourself and something ^seg-0781
+- [00:27:22](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1642s) that you don't feel like you have enough ^seg-0782
+- [00:27:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1644s) of ^seg-0783
+- [00:27:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1645s) one of the things i saw that you can ^seg-0784
+- [00:27:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1647s) always do is just ^seg-0785
+- [00:27:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1648s) ask for healing from god from ^seg-0786
+- [00:27:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1652s) your angels from your ancestors that ^seg-0787
+- [00:27:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1655s) healing is available to all of us you ^seg-0788
+- [00:27:37](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1657s) don't have to ^seg-0789
+- [00:27:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1658s) manipulate people to get what you want ^seg-0790
+- [00:27:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1660s) you can simply ^seg-0791
+- [00:27:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1661s) ask that wounds inside of you be healed ^seg-0792
+- [00:27:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1664s) so that you lead ^seg-0793
+- [00:27:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1665s) a better life ^seg-0794
+- [00:27:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1673s) so do all souls have a mission do all ^seg-0795
+- [00:27:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1676s) souls ^seg-0796
+- [00:27:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1676s) have a purpose before they come in i ^seg-0797
+- [00:27:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1679s) think ^seg-0798
+- [00:28:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1680s) that there's a basic purpose that ^seg-0799
+- [00:28:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1682s) perhaps we all have ^seg-0800
+- [00:28:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1684s) and this basic purpose is to remember ^seg-0801
+- [00:28:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1686s) that we're more than this physical form ^seg-0802
+- [00:28:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1688s) and to remember that there's ^seg-0803
+- [00:28:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1690s) inspiration from that other realm and to ^seg-0804
+- [00:28:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1692s) remember ^seg-0805
+- [00:28:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1693s) that this life is very short and that ^seg-0806
+- [00:28:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1696s) love is all that matters if we do ^seg-0807
+- [00:28:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1697s) something with love not are we loved ^seg-0808
+- [00:28:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1701s) but do we add love to this world do we ^seg-0809
+- [00:28:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1704s) make someone's life better ^seg-0810
+- [00:28:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1706s) by doing something kind by smiling at ^seg-0811
+- [00:28:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1708s) them ^seg-0812
+- [00:28:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1709s) by helping them in some way by being a ^seg-0813
+- [00:28:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1711s) support in their life ^seg-0814
+- [00:28:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1713s) by helping others feel like they're ^seg-0815
+- [00:28:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1716s) part of a community that they matter ^seg-0816
+- [00:28:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1719s) that ^seg-0817
+- [00:28:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1719s) they have inspiration to move their own ^seg-0818
+- [00:28:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1722s) lives forward if we can ^seg-0819
+- [00:28:44](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1724s) inspire people in some way to do that ^seg-0820
+- [00:28:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1726s) then we're helping ^seg-0821
+- [00:28:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1728s) but what is our purpose when you see ^seg-0822
+- [00:28:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1731s) someone really on fire ^seg-0823
+- [00:28:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1732s) and just like in the zone whether ^seg-0824
+- [00:28:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1735s) they're ^seg-0825
+- [00:28:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1736s) an athlete or whether they are creating ^seg-0826
+- [00:28:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1739s) a new business or whether they're ^seg-0827
+- [00:29:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1741s) excited about having a child or ^seg-0828
+- [00:29:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1743s) whether they whatever it is that this ^seg-0829
+- [00:29:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1746s) person ^seg-0830
+- [00:29:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1746s) is really on fire about then their soul ^seg-0831
+- [00:29:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1749s) must want that on some level there's ^seg-0832
+- [00:29:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1751s) something that's ^seg-0833
+- [00:29:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1752s) pushing them forward so ^seg-0834
+- [00:29:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1755s) don't overthink it people go to a ^seg-0835
+- [00:29:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1758s) psychic or they go ^seg-0836
+- [00:29:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1759s) to someone and they say what's my sole ^seg-0837
+- [00:29:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1761s) purpose it's like well it's going to ^seg-0838
+- [00:29:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1763s) unfold for you ^seg-0839
+- [00:29:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1765s) and you can find this more through ^seg-0840
+- [00:29:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1767s) meditation so i believe ^seg-0841
+- [00:29:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1769s) that our higher self can look back and ^seg-0842
+- [00:29:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1772s) give us a little bit of a hint of what ^seg-0843
+- [00:29:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1774s) to do ^seg-0844
+- [00:29:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1776s) and many times it's just to express the ^seg-0845
+- [00:29:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1778s) best version of yourself ^seg-0846
+- [00:29:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1780s) maybe to transcend your own wounds or ^seg-0847
+- [00:29:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1783s) your ego ^seg-0848
+- [00:29:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1783s) at times to go you know what i'm going ^seg-0849
+- [00:29:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1786s) to be calm ^seg-0850
+- [00:29:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1787s) in this situation i'm going to be aware ^seg-0851
+- [00:29:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1789s) i'm not going to react in a way that's ^seg-0852
+- [00:29:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1792s) going to cause pain to anyone ^seg-0853
+- [00:29:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1794s) i'm going to remind them of their ^seg-0854
+- [00:29:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1796s) connection to something beyond ^seg-0855
+- [00:29:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1798s) themselves and my connection to ^seg-0856
+- [00:29:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1799s) something ^seg-0857
+- [00:30:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1800s) beyond myself and we're going to be ^seg-0858
+- [00:30:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1803s) our highest and best selves in this ^seg-0859
+- [00:30:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1805s) moment and ^seg-0860
+- [00:30:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1806s) when you're able to do that in times of ^seg-0861
+- [00:30:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1808s) difficulty ^seg-0862
+- [00:30:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1810s) then you feel like oh i've touched my ^seg-0863
+- [00:30:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1813s) purpose ^seg-0864
+- [00:30:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1814s) you know i'm learning i'm growing so ^seg-0865
+- [00:30:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1816s) perhaps ^seg-0866
+- [00:30:17](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1817s) our souls are really on a mission here ^seg-0867
+- [00:30:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1819s) to remember ^seg-0868
+- [00:30:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1820s) who we are to remember that we're light ^seg-0869
+- [00:30:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1823s) to remember that we're love ^seg-0870
+- [00:30:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1825s) to shine the light of who you are ^seg-0871
+- [00:30:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1829s) and sometimes that light it doesn't even ^seg-0872
+- [00:30:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1830s) have to be religious it can just be a ^seg-0873
+- [00:30:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1832s) passion ^seg-0874
+- [00:30:33](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1833s) for music or for art or for film or ^seg-0875
+- [00:30:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1836s) for running or anything you know that if ^seg-0876
+- [00:30:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1838s) you have passion ^seg-0877
+- [00:30:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1840s) for life then somehow you're connected ^seg-0878
+- [00:30:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1842s) to ^seg-0879
+- [00:30:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1843s) a light that's greater than yourself and ^seg-0880
+- [00:30:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1846s) one of the things i do to stay motivated ^seg-0881
+- [00:30:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1849s) in my ^seg-0882
+- [00:30:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1850s) own life is i think about the end of my ^seg-0883
+- [00:30:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1852s) life ^seg-0884
+- [00:30:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1853s) that future life review and i think what ^seg-0885
+- [00:30:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1856s) do i want to accomplish ^seg-0886
+- [00:30:57](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1857s) and am i working towards that and ^seg-0887
+- [00:31:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1860s) am i going to be excited about what i've ^seg-0888
+- [00:31:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1863s) done right now ^seg-0889
+- [00:31:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1864s) when i'm at the end of my life and ^seg-0890
+- [00:31:06](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1866s) anytime i'm doing something to help ^seg-0891
+- [00:31:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1868s) others ^seg-0892
+- [00:31:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1869s) because i know it's not about me it's ^seg-0893
+- [00:31:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1872s) about the person watching this who is in ^seg-0894
+- [00:31:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1874s) hospice or just lost a kid ^seg-0895
+- [00:31:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1876s) or who is dying or is hurting and if ^seg-0896
+- [00:31:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1880s) my message helps someone feel more at ^seg-0897
+- [00:31:23](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1883s) peace or feel more connected to nature ^seg-0898
+- [00:31:26](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1886s) or more connected to this idea that we ^seg-0899
+- [00:31:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1888s) go on ^seg-0900
+- [00:31:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1889s) and there's so much more magic out there ^seg-0901
+- [00:31:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1891s) than ^seg-0902
+- [00:31:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1892s) there you could ever dream of then i've ^seg-0903
+- [00:31:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1895s) helped people ^seg-0904
+- [00:31:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1895s) live a better life so one of the things ^seg-0905
+- [00:31:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1899s) all people can do is think this life ^seg-0906
+- [00:31:41](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1901s) goes by so quickly ^seg-0907
+- [00:31:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1903s) what is it i'm doing right now in the ^seg-0908
+- [00:31:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1905s) middle of my life that's going to make ^seg-0909
+- [00:31:46](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1906s) me happy ^seg-0910
+- [00:31:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1907s) when i look back ^seg-0911
+- [00:31:54](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1914s) this is the toughest question of the ^seg-0912
+- [00:31:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1916s) interview so one of the things i saw in ^seg-0913
+- [00:31:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1918s) my near-death experience ^seg-0914
+- [00:32:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1920s) was to remind people to turn on their ^seg-0915
+- [00:32:02](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1922s) lights and what that means to me ^seg-0916
+- [00:32:04](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1924s) is that when everyone is in the flow of ^seg-0917
+- [00:32:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1927s) goodness then they're going to create a ^seg-0918
+- [00:32:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1929s) better world so it doesn't matter what ^seg-0919
+- [00:32:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1931s) time period you live in or what country ^seg-0920
+- [00:32:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1933s) you live in ^seg-0921
+- [00:32:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1934s) if you are working from inspiration if ^seg-0922
+- [00:32:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1936s) you're working from ^seg-0923
+- [00:32:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1938s) this place where you connect with a ^seg-0924
+- [00:32:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1940s) peace ^seg-0925
+- [00:32:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1941s) and a desire for humanity to ^seg-0926
+- [00:32:24](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1944s) be more connected to do better to feel ^seg-0927
+- [00:32:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1947s) better then i think you're working in ^seg-0928
+- [00:32:29](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1949s) the right direction ^seg-0929
+- [00:32:31](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1951s) and i love programs that teach ^seg-0930
+- [00:32:34](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1954s) meditation to kids teach ^seg-0931
+- [00:32:36](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1956s) meditation to people in prisons that ^seg-0932
+- [00:32:39](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1959s) this type of work helping traumatize ^seg-0933
+- [00:32:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1962s) people ^seg-0934
+- [00:32:43](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1963s) find balance in their life helps all of ^seg-0935
+- [00:32:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1965s) society ^seg-0936
+- [00:32:47](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1967s) love is all that matters and all that we ^seg-0937
+- [00:32:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1968s) take with us so ^seg-0938
+- [00:32:50](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1970s) are you helping someone live a better ^seg-0939
+- [00:32:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1972s) life look at the needs of this world and ^seg-0940
+- [00:32:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1975s) try to creatively fulfill these needs ^seg-0941
+- [00:32:59](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1979s) one thing that i would like to add to ^seg-0942
+- [00:33:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1981s) that is i hope ^seg-0943
+- [00:33:03](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1983s) that people take from near-death ^seg-0944
+- [00:33:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1985s) experiences ^seg-0945
+- [00:33:07](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1987s) less fear about dying and i hope that we ^seg-0946
+- [00:33:09](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1989s) make death a more sacred ^seg-0947
+- [00:33:12](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1992s) process that there's a movement of death ^seg-0948
+- [00:33:15](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1995s) doulas ^seg-0949
+- [00:33:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1996s) in many parts of the world and i think ^seg-0950
+- [00:33:18](https://www.youtube.com/watch?v=2GFT_89YMWE&t=1998s) that's wonderful any anything that you ^seg-0951
+- [00:33:20](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2000s) can do ^seg-0952
+- [00:33:21](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2001s) to create ease around dying to create ^seg-0953
+- [00:33:25](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2005s) a peace around that transition is ^seg-0954
+- [00:33:27](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2007s) important ^seg-0955
+- [00:33:28](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2008s) and for people just to remember that ^seg-0956
+- [00:33:30](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2010s) life is short and to ^seg-0957
+- [00:33:32](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2012s) embrace your passions and to do as much ^seg-0958
+- [00:33:35](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2015s) good as you can in this world i think ^seg-0959
+- [00:33:38](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2018s) that was one of the things that hit me ^seg-0960
+- [00:33:40](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2020s) after the near-death experience is that ^seg-0961
+- [00:33:42](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2022s) this is all very short this time period ^seg-0962
+- [00:33:45](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2025s) it really goes by a lot quicker than you ^seg-0963
+- [00:33:48](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2028s) realize ^seg-0964
+- [00:33:49](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2029s) so go in the direction of your joy and ^seg-0965
+- [00:33:51](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2031s) bliss if you don't ^seg-0966
+- [00:33:52](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2032s) like something move in the direction of ^seg-0967
+- [00:33:55](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2035s) something that gives you joy and ^seg-0968
+- [00:33:56](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2036s) happiness ^seg-0969
+- [00:33:58](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2038s) tell someone that you appreciate them ^seg-0970
+- [00:34:00](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2040s) that gratitude ^seg-0971
+- [00:34:01](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2041s) amplifies your life and anger and hatred ^seg-0972
+- [00:34:05](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2045s) dampens your own light so part of my ^seg-0973
+- [00:34:08](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2048s) message is reminding people to turn on ^seg-0974
+- [00:34:10](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2050s) their lights so ^seg-0975
+- [00:34:11](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2051s) if you're listening to this turn on your ^seg-0976
+- [00:34:13](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2053s) own light ^seg-0977
+- [00:34:14](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2054s) and find something in this world that ^seg-0978
+- [00:34:16](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2056s) gives you excitement and happiness and ^seg-0979
+- [00:34:19](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2059s) go in that direction ^seg-0980
+- [00:34:53](https://www.youtube.com/watch?v=2GFT_89YMWE&t=2093s) you ^seg-0981

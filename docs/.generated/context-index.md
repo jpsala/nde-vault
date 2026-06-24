@@ -2,20 +2,32 @@
 
 Generated cache. Do not edit by hand.
 
-Generated: 2026-06-22T19:04:13.023Z
+Generated: 2026-06-24T22:34:49.251Z
 
 ## Topics
 
 - active: [agentic-os-local](../topics/agentic-os-local.md) - aos, agentic os, memoria, working memory, topics, audit, context index, guardar sesion
 - active: [agentic-os-operations](../topics/agentic-os-operations.md) - aos, adopt os, update os, realinear os, auditar sistema agentico, reparar contexto
 - active: [concept-governance](../topics/concept-governance.md) - gobernanza de conceptos, concepto nuevo, conceptos aprobados, fusionar conceptos, dividir conceptos, revision humana
+- active: [concept-priorities](../topics/concept-priorities.md) - manifestacion, confianza, salud, miedo, creacion, creencias, dios como padre, dios presencia cercana
+- active: [docs-knowledge-system](../topics/docs-knowledge-system.md) - docs knowledge system, guardar sesion, documentar sesion, working memory, decisions, tracks, context index
 - active: [nde-vault](../topics/nde-vault.md) - nde, ecm, vault, caso, casos, conceptos, paradigma, obsidian
+- active: [paradigma-confianza-creatividad](../topics/paradigma-confianza-creatividad.md) - vivir en confianza, vivir en creatividad, paradigma del miedo, paradigma de confianza, no estamos solos, hogar, manifestacion, creencias
 - active: [pi-agentic-os](../topics/pi-agentic-os.md) - pi, pi os, slash commands, /aos-sync, /aos-guardar-sesion, /aos-nueva-sesion, /aos-gol, /aos-orquestar
 
 ## Tracks
 
-- active: [Conceptos — Caso 0001 — Mary Helen Hensley](../tracks/conceptos-caso-0001-mary-helen-hensley.md)
-- active: [NDE Vault Context](../tracks/nde-vault-context.md)
+- active: [Auditoría — Transcripciones procesadas desde el norte confianza/creatividad](../tracks/auditoria-norte-transcripciones-2026-06-24.md)
+- closed: [Conceptos — Caso 0001 — Mary Helen Hensley](../tracks/conceptos-caso-0001-mary-helen-hensley.md)
+- active: [Conceptos — Caso 0002 — Kevin Mohatt](../tracks/conceptos-caso-0002-kevin-mohatt.md)
+- active: [Conceptos — Caso 0003 — Anita Moorjani](../tracks/conceptos-caso-0003-anita-moorjani.md)
+- active: [Conceptos — Caso 0004 — James E](../tracks/conceptos-caso-0004-james-e.md)
+- active: [Conceptos — Caso 0005 — Peter Anthony](../tracks/conceptos-caso-0005-peter-anthony.md)
+- active: [Conceptos — Caso 0006 — Jane Thompson](../tracks/conceptos-caso-0006-jane-thompson.md)
+- active: [Conceptos — Caso 0007 — Tricia Barker](../tracks/conceptos-caso-0007-tricia-barker.md)
+- active: [Conceptos — Caso 0008 — Landon Dennis](../tracks/conceptos-caso-0008-landon-dennis.md)
+- active: [Proyecto confianza/creatividad — Contexto retomable](../tracks/nde-vault-context.md)
+- active: [Reevaluación conceptual desde transcripciones — 2026-06-24](../tracks/reevaluacion-conceptos-transcripciones-2026-06-24.md)
 
 ## Specs
 

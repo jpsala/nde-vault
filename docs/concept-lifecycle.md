@@ -101,11 +101,21 @@ conceptos_relacionados: []
 contrasta_con: []
 evidencia_casos: 0
 nivel_confianza: bajo | medio | alto | pendiente
+importancia_usuario: 0-10
+temas_prioritarios_usuario: []
 ultima_revision: YYYY-MM-DD
 creado_desde: caso-XXXX
 supersede_a: []
 supersedido_por: 
 ```
+
+## Prioridad del usuario
+
+`importancia_usuario` no mide verdad ni madurez; mide cuánto quiere el usuario que prestemos atención a ese concepto. Los conceptos relacionados con los temas prioritarios documentados en `docs/topics/concept-priorities.md` deben marcarse como `10`.
+
+`temas_prioritarios_usuario` registra qué tema(s) explican el puntaje: `manifestacion`, `confianza`, `salud`, `miedo`, `creacion`, `creencias`, `dios-como-padre-cercano`, `jesus-como-hermano`, `estamos-siendo-cuidados`.
+
+La prioridad central del usuario es vivir más en creatividad/confianza y menos en miedo/desconfianza; cuanto más relacionado esté un concepto con ese cambio de paradigma, más alto debe ser `importancia_usuario`.
 
 ## Tipos de relación evidencia ↔ concepto
 

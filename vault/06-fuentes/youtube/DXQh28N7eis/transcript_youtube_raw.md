@@ -1,0 +1,1016 @@
+# YouTube raw transcript — The near death experience of Landon Dennis
+
+- Video: https://www.youtube.com/watch?v=DXQh28N7eis
+- Fuente: subtítulos automáticos de YouTube en inglés (`json3`)
+- Nota: preservado como capa raw; no editar manualmente.
+
+- [00:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=21s) My name is Landon Dennis. I'm 36 years
+- [00:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=24s) old and I'm from St. George, Utah. I
+- [00:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=28s) grew up in the most amazing, wonderful,
+- [00:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=31s) loving home with wonderful parents, but
+- [00:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=34s) we lived in this house. It had ghosts
+- [00:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=37s) and dark entities that would mess with
+- [00:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=40s) me. I remember the first time it
+- [00:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=43s) happened. I I would go to bed at night
+- [00:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=45s) and all a sudden I felt this just
+- [00:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=48s) horrible like gives you goosebumps, hair
+- [00:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=51s) on your neck, stand up feeling.
+- [00:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=54s) And I went to go move this one night and
+- [00:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=57s) I could not move. I was paralyzed and it
+- [00:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=59s) terrified me. And I looked towards the
+- [01:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=62s) corner of the room cuz I could feel some
+- [01:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=65s) type of energy coming from there. And
+- [01:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=67s) when I looked towards the corner of that
+- [01:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=69s) room, I saw this
+- [01:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=71s) tall dark figure and it it looked as if
+- [01:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=75s) you were to put a cloak on somebody. And
+- [01:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=78s) this thing would mess with me all the
+- [01:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=80s) time. It was terrifying. I call him
+- [01:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=83s) shadow people because he wasn't the only
+- [01:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=86s) one. He was just the scariest one for
+- [01:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=89s) me. And so those type of things growing
+- [01:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=91s) up in this house and those were the bad
+- [01:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=94s) things. But I also have really really
+- [01:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=96s) cool things that have happened to me.
+- [01:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=99s) The night that my my niece passed away
+- [01:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=102s) in a car accident when when she was
+- [01:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=104s) young, I think about 16, she came to me
+- [01:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=108s) in a dream right before my dad got the
+- [01:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=111s) phone call from my sister that she
+- [01:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=113s) passed away. She she came to me in that
+- [01:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=115s) dream and and talked with me and
+- [01:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=118s) comforted me. I've also had experiences
+- [02:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=120s) with my grandpa who passed away who's
+- [02:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=124s) come to me in dreams. So yeah, I grew up
+- [02:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=127s) having paranormal experiences. my whole
+- [02:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=129s) life, good and bad. And later in my
+- [02:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=132s) life, I got into some accidents. I'm
+- [02:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=135s) very
+- [02:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=136s) accidentrone. I drove off a sand dune
+- [02:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=140s) cliff on a four-wheeler, almost died,
+- [02:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=142s) broke bones, and that introduced me to
+- [02:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=146s) pain pills and drugs. And so from that
+- [02:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=150s) time on, I had a really bad addiction.
+- [02:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=153s) First to pain pills and then it turned
+- [02:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=155s) to heroin. And I ruined a lot of things
+- [02:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=158s) in my life through addiction because I
+- [02:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=162s) let so many dark forces take a hold of
+- [02:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=164s) me that addiction was all and others can
+- [02:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=167s) understand. It takes over your life. And
+- [02:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=169s) so I was just a drug addict. I I lost a
+- [02:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=172s) home, lost my fiance, lost my first
+- [02:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=175s) daughter that I'm still trying to
+- [02:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=177s) hopefully finally get in touch with
+- [02:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=178s) someday. But then I went to I mean if I
+- [03:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=182s) if I wasn't in jail for drug use then I
+- [03:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=186s) was living on the streets
+- [03:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=188s) homeless. But I don't mean to make
+- [03:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=190s) people think that I was this really bad
+- [03:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=193s) person. I wasn't. I was such a loving
+- [03:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=195s) kind person like my parents raised me to
+- [03:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=197s) be. But but I would do things in order
+- [03:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=201s) to get drugs that I would normally never
+- [03:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=203s) do like lie, steal, steal, cheat, those
+- [03:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=206s) type of things. especially from my loved
+- [03:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=209s) ones. That that was the worst. It would
+- [03:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=211s) wouldn't even be other people. I'd be
+- [03:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=213s) stealing from my loved ones. And so,
+- [03:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=216s) right before my NDE, I was living
+- [03:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=219s) homeless behind this church on gravel. I
+- [03:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=222s) remember I would have a sleeping bag. I
+- [03:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=225s) was miserable. But I also came to the
+- [03:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=227s) conclusion at that time that I am
+- [03:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=229s) worthless. If if this is what my life is
+- [03:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=233s) going to contain, that I can't keep
+- [03:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=236s) anything good and I'll push everything
+- [03:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=238s) away, my life is is worthless. And I got
+- [04:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=242s) remarried after this. And so this this
+- [04:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=245s) one day I was at my parents house and
+- [04:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=248s) they were away in St. George and me and
+- [04:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=251s) my wife were there and again deep into
+- [04:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=254s) addiction. I just went straight to the
+- [04:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=258s) bathroom. And I know how I did my drugs.
+- [04:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=261s) And I would sit up on a counter, a high
+- [04:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=264s) counter, and and look into it and do it.
+- [04:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=267s) And I guess I overdosed and had some
+- [04:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=271s) type of seizure, and I fell backwards
+- [04:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=274s) off that high
+- [04:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=276s) counter straight to my head on the tile
+- [04:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=280s) and just cracked it. And my wife came to
+- [04:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=284s) check on me and she just saw me laying
+- [04:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=287s) on the ground with a puddle of blood
+- [04:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=289s) under my head, my head swelling up just
+- [04:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=292s) like a balloon. And so she called the
+- [04:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=295s) paramedics. They threw me in the
+- [04:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=297s) ambulance and rush into the hospital.
+- [04:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=299s) And this is where I come back to my NDE.
+- [05:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=303s) All of a sudden, I was above this
+- [05:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=305s) ambulance. And I would say I was about I
+- [05:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=308s) don't know 4T. It's hard to explain.
+- [05:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=311s) four feet above the ambulance, but I
+- [05:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=313s) could see through the ambulance as if
+- [05:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=318s) imagine an ambulance being made out of
+- [05:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=320s) saran wrap, but still a saran wrap
+- [05:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=324s) ambulance that you could see through
+- [05:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=326s) type thing. It was almost like that. And
+- [05:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=328s) and I saw this group of men just working
+- [05:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=332s) on me. And I felt so much depression, so
+- [05:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=338s) much anxiety, so much grief, so much
+- [05:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=340s) loss. It's
+- [05:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=342s) just anything that you can think of that
+- [05:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=346s) can make you feel really bad is what I
+- [05:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=349s) was feeling above that. But all at once,
+- [05:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=352s) and I was so confused, I didn't
+- [05:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=356s) understand what was happening that I was
+- [05:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=358s) looking at myself with these people
+- [06:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=361s) working on me. And I, this is another
+- [06:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=364s) thing. I remember I could tell the
+- [06:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=366s) ambulance was just driving down the
+- [06:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=368s) street fast, but me above it, I didn't
+- [06:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=371s) feel like I was moving at all, but I was
+- [06:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=373s) still going right with it. And I
+- [06:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=375s) remember one thought in my head is, wow,
+- [06:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=378s) is this it? Am I like a ghost stuck
+- [06:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=382s) above my body for the rest of my life?
+- [06:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=385s) And it was terrifying, horrible. That
+- [06:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=387s) that happened years ago. And I still
+- [06:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=390s) when I think about those feelings, it
+- [06:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=392s) gives
+- [06:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=393s) me such bad anxiety and stuff because it
+- [06:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=397s) was very very real. And so I remember
+- [06:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=401s) where it almost got to the point where I
+- [06:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=404s) couldn't handle it anymore. And and not
+- [06:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=408s) even the things that I was seeing cuz it
+- [06:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=410s) I wasn't even necessarily focused on the
+- [06:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=413s) things I was seeing. I I could see me
+- [06:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=415s) through the ambulance and them working
+- [06:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=417s) on me, putting this drill needle thing
+- [07:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=420s) in my knee. I didn't feel physical pain.
+- [07:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=423s) I was just feeling all the emotional and
+- [07:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=427s) spiritual pain at that time when I was
+- [07:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=429s) watching this. And honestly, I would
+- [07:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=432s) have rather felt that physical pain in
+- [07:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=434s) my knee. People say it's one of the
+- [07:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=436s) worst things that they can do to you to
+- [07:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=438s) get an IV in you,
+- [07:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=440s) but that emotional and spiritual pain
+- [07:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=442s) above that ambulance was
+- [07:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=446s) indescribable. And when it got to a
+- [07:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=448s) point that it was almost too much, just
+- [07:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=452s) boom. There was no white tunnel. There
+- [07:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=455s) was nothing like that. I was just all of
+- [07:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=458s) a sudden standing in this huge,
+- [07:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=461s) beautiful grass field. a beautiful
+- [07:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=466s) green. And at first it was just me
+- [07:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=469s) standing there, but what was crazy is
+- [07:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=472s) when I looked down at the
+- [07:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=474s) grass, it I wish I could describe the
+- [07:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=477s) color and and the feelings I got just
+- [08:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=481s) from this grass with with words. But
+- [08:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=483s) words are so inadequate.
+- [08:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=487s) The way I've come to think of it is like
+- [08:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=489s) spiritual experiences are almost
+- [08:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=493s) indescribable in human words, but I do
+- [08:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=496s) the best I can. And that grass loved me.
+- [08:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=500s) It was amazing
+- [08:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=502s) sensation. And as I'm looking down, I
+- [08:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=504s) could see every blade of grass. And I I
+- [08:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=508s) looked up farther and I would say about
+- [08:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=510s) a/4 mile away was just this this hill.
+- [08:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=514s) Kind of just rainbowshaped hill.
+- [08:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=517s) But I could still see every blade of
+- [08:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=520s) grass in front of me, even if I was
+- [08:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=522s) focusing on the distance. Like if if you
+- [08:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=525s) were to try to stand in a football field
+- [08:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=527s) and you know, you can look down and
+- [08:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=530s) start seeing each blade when you focus.
+- [08:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=532s) But if you look down at the other end
+- [08:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=534s) zone, you're you're not going to see
+- [08:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=536s) each blade. You're just going to see a
+- [08:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=537s) kind of a field of grass meshed. But
+- [09:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=540s) when I looked up towards that hill, I
+- [09:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=542s) could still see each blade of grass
+- [09:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=546s) perfectly. And I don't have good
+- [09:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=547s) eyesight. Like I I wear glasses. I don't
+- [09:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=551s) have good eyesight. And it it's hard to
+- [09:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=553s) describe that when you can see this
+- [09:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=556s) thing that on earth is just grass to
+- [09:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=558s) you. But there it was something that was
+- [09:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=561s) loving me and and comforting me. Cuz it
+- [09:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=564s) was kind of shocking to be there at
+- [09:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=566s) first. I was I was a little overwhelmed.
+- [09:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=568s) Like I just some can imagine, you know,
+- [09:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=570s) going from where I was to this and I saw
+- [09:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=573s) that
+- [09:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=574s) hill and I saw these beautiful lights
+- [09:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=577s) behind that hill. And the way I'll
+- [09:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=580s) describe it is if you were to take a big
+- [09:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=583s) spotlight and just shine it up from
+- [09:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=586s) behind a hill, people would see that
+- [09:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=588s) single spotlight. But if you were to put
+- [09:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=591s) like a diamond or something on top of
+- [09:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=594s) that spotlight, it was almost like that.
+- [09:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=597s) Like these colors were
+- [09:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=599s) indescribable. And when I saw that I I
+- [10:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=603s) felt my grandpa who passed away years
+- [10:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=607s) before and there was many many lights
+- [10:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=609s) behind this hill. But that my grandpa
+- [10:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=611s) was this reddish is the best word I have
+- [10:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=615s) for it. Light. And he was he was sending
+- [10:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=619s) me love. And again, it's the words can't
+- [10:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=623s) describe what I felt, but I knew it was
+- [10:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=626s) him. And and it was almost like he just
+- [10:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=629s) was hugging me and saying, "I love you."
+- [10:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=633s) And then I noticed this beautiful
+- [10:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=636s) purplish violet type
+- [10:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=638s) light and I knew it was my
+- [10:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=641s) niece and she did the same thing to me.
+- [10:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=644s) And what was cool about it is when they
+- [10:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=646s) were they were doing this to me, it was
+- [10:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=648s) like they were confirming to me that
+- [10:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=652s) yes, we are still here. We are still
+- [10:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=654s) your family and we still love you and we
+- [10:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=658s) will see you
+- [11:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=660s) again. But for some reason, wherever I
+- [11:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=663s) was in that field, I could only see them
+- [11:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=666s) as lights behind this hill. And I to
+- [11:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=668s) this day, I wonder what what is the
+- [11:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=672s) meaning of that? right behind that hill.
+- [11:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=675s) And when I start when I wanted to go
+- [11:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=677s) back there after feeling this, I felt
+- [11:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=680s) this wonderful presence kind of behind
+- [11:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=684s) me to my right. So I I turned a little
+- [11:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=686s) bit and there is this beautiful young
+- [11:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=690s) lady standing there and and I would say
+- [11:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=693s) about 30 and she just kind of had her
+- [11:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=696s) head tilted a little bit and just
+- [11:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=698s) smiling at me and it was so comforting.
+- [11:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=702s) She was looking at me
+- [11:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=705s) like she knew what I was experiencing.
+- [11:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=709s) She was like, "How cool is this for him
+- [11:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=712s) to see this again?" And I say again
+- [11:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=714s) because I I feel like I knew that place
+- [11:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=719s) somehow. And that's when she started not
+- [12:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=723s) speaking with me. I use the word
+- [12:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=726s) communicate because her lips did not
+- [12:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=729s) move. and she started talking with me
+- [12:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=732s) because I wanted to go back behind that
+- [12:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=734s) hill because the love I felt from my
+- [12:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=737s) family members. It was so amazing.
+- [12:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=741s) And she started speaking with me tell
+- [12:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=744s) it's telepathically her words mouth
+- [12:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=747s) wasn't moving but it was through
+- [12:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=750s) emotions and and like almost experiences
+- [12:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=754s) like if if she would have had an
+- [12:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=756s) experience in life about a certain word
+- [12:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=759s) I felt that experience too and it
+- [12:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=761s) brought that experience out in me. So we
+- [12:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=765s) almost connected on experiences and this
+- [12:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=768s) is the best way I can describe it. If
+- [12:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=770s) she said the word fire to me, I could
+- [12:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=773s) see the glow of the fire. I could feel
+- [12:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=776s) the warmth of that fire. I could hear
+- [12:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=779s) the crackling of the wood. I could smell
+- [13:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=782s) the burning of the wood. and she just
+- [13:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=785s) started communicating so many just
+- [13:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=788s) amazing things with me
+- [13:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=791s) and was telling me a little bit about
+- [13:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=794s) why I couldn't go back behind that hill.
+- [13:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=797s) But the gratitude that I felt that I
+- [13:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=800s) even got to experience my grandma or my
+- [13:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=804s) grandpa and niece was it made it okay
+- [13:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=807s) that I couldn't go back behind that hill
+- [13:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=809s) because I still got to experience
+- [13:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=813s) that. And while she's comforting me and
+- [13:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=816s) speaking with me, I I feel this other
+- [13:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=819s) presence come again. Didn't see him
+- [13:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=822s) first and
+- [13:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=823s) uh it was a man. And so I I turned a
+- [13:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=827s) little bit more and just a handsome
+- [13:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=829s) handsome young man. I wish I was as
+- [13:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=831s) handsome as he
+- [13:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=833s) was. And they're sharing with me very
+- [13:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=837s) personal things that no one could have
+- [14:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=840s) ever known that I've never told anybody.
+- [14:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=844s) And they started talking about the power
+- [14:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=846s) of prayer and trying to explain to me
+- [14:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=851s) how these situations that I've gotten
+- [14:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=853s) myself into that that are self-inflicted
+- [14:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=856s) that I've done, how the power of prayer
+- [14:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=860s) is so
+- [14:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=861s) powerful and how any human being on this
+- [14:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=866s) earth, if you are a human on this earth,
+- [14:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=867s) you are a child of God. You're a child
+- [14:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=870s) of our creator and our our God doesn't
+- [14:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=873s) care what you call him. He just cares
+- [14:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=876s) for you to call upon him for
+- [14:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=880s) help. And so what they explained to me
+- [14:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=883s) about the power of prayer is for every
+- [14:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=885s) human on this earth to be able to have
+- [14:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=888s) that gift. And they explained a little
+- [14:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=891s) bit more about keeping my heart and my
+- [14:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=894s) mind open to these prayers that I say
+- [14:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=898s) because there was a lot of times that I
+- [15:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=900s) kind of gave a halfway prayer or people
+- [15:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=904s) call it a a foxhole prayer when you're
+- [15:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=906s) when you're thinking you're about to die
+- [15:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=908s) then you finally pray or you get in a
+- [15:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=910s) bad situation then you finally pray. And
+- [15:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=913s) they were speaking with me about how
+- [15:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=915s) that direct line of prayer is always
+- [15:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=918s) open in good times and in bad. And that
+- [15:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=922s) we needed to keep that relationship of
+- [15:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=924s) prayer to our heavenly creator open just
+- [15:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=928s) like we would a relationship here on
+- [15:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=931s) earth. If if you're going to be if
+- [15:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=932s) you're going to try to get a girlfriend
+- [15:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=934s) or boyfriend or husband or wife, you
+- [15:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=936s) think you guys are going to have a a
+- [15:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=938s) good connection if you only text them
+- [15:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=941s) once a month, maybe once a week, you
+- [15:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=943s) think you'll get married from that, you
+- [15:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=945s) know, or call them that little bit of
+- [15:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=948s) communication. And so they were telling
+- [15:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=950s) me about how powerful it is and how we
+- [15:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=954s) need to ask.
+- [15:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=957s) We are always surrounded by loved ones,
+- [16:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=960s) by angels, but we have our agency on
+- [16:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=964s) this
+- [16:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=965s) earth. And that's a beautiful thing that
+- [16:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=968s) we are given free will on this earth.
+- [16:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=971s) And it sucks that some people choose to
+- [16:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=973s) do bad things with it, but it's
+- [16:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=976s) beautiful. And they they told me we have
+- [16:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=978s) our agency on this earth. And when we're
+- [16:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=981s) having hard times, if it's our choice to
+- [16:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=985s) choose to reach out to that connection
+- [16:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=988s) of prayer, then God can grant loved
+- [16:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=992s) ones, angels, whatever you want to call
+- [16:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=994s) them, spirit guides, people have many
+- [16:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=996s) different
+- [16:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=997s) names. But if you open that line of
+- [16:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1000s) communication with a sincere heart and a
+- [16:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1003s) open mind, you will receive answers to
+- [16:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=1008s) prayers.
+- [16:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1010s) But most times not in the way that
+- [16:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=1012s) you're thinking because I promise you
+- [16:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1014s) our creator has a much better path for
+- [16:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=1017s) you than than your mind can think. I
+- [17:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=1020s) want this or I need this. And you know,
+- [17:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1022s) you pray you pray for help and then you
+- [17:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=1025s) might ask for something specific. And
+- [17:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=1027s) you might not get that specific thing.
+- [17:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1030s) But I'll tell you what, if you prayed
+- [17:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=1031s) with an open heart in mind, you're going
+- [17:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=1034s) to get something that was way better
+- [17:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=1036s) than what you thought. And it might come
+- [17:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=1038s) in a way that you don't like, but it
+- [17:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1041s) turn like the times that I went to jail
+- [17:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=1044s) that saved my life. I'll tell you what,
+- [17:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1046s) my family's prayers, my loved ones
+- [17:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=1049s) prayers, both on the other side where I
+- [17:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=1051s) was and here saved my life. And many
+- [17:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1055s) times that was in the form of me going
+- [17:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1058s) to jail. And that's when I tell people
+- [17:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=1061s) don't think about this religiously. I I
+- [17:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=1064s) am LDS and religious, but they were
+- [17:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1066s) speaking with me about how everybody is
+- [17:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1070s) a child of our creator and this is a
+- [17:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=1072s) gift for
+- [17:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1074s) everybody. But when they're speaking
+- [17:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1076s) with me about this prayer, I kind of
+- [17:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=1078s) question them in a way because I've been
+- [18:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1081s) in some hard places in life. Like I
+- [18:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=1083s) said, I I was homeless. I lost
+- [18:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1086s) everything. I was a drug addict. I
+- [18:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=1088s) thought I was worthless in this world. I
+- [18:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1090s) thought no creator could love something
+- [18:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=1093s) like me that was such a mess and just
+- [18:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1097s) lie, stole, and cheat. How how could
+- [18:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1101s) anybody love love love me, you know,
+- [18:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=1104s) type
+- [18:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1105s) thing? And so I I kind of questioned
+- [18:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1108s) that because I did say foxhole prayers
+- [18:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=1111s) in my homelessness and my addiction and
+- [18:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=1114s) stuff and I didn't feel necessarily like
+- [18:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1118s) anything ever worked. Why? How could it
+- [18:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1120s) work? I was still homeless. I was still
+- [18:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1123s) miserable. And they they showed me these
+- [18:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1126s) moments from my past. And one of the
+- [18:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=1129s) biggest ones for me was I was homeless
+- [18:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=1132s) in late in Utah by a Walmart out there.
+- [18:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=1135s) And I would I would hold the sign up
+- [18:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=1137s) begging for money just and
+- [19:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1141s) that that is a that is a horrible thing
+- [19:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1144s) too to be so low in your life that
+- [19:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=1147s) you're willing to feel humiliated and
+- [19:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1150s) ashamed to hold a sign begging for
+- [19:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1152s) money. I mean, I I was stripped of
+- [19:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=1156s) everything and and they showed me this
+- [19:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=1159s) night that I I went to this Little
+- [19:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=1162s) Caesars pizza because in the dumpsters
+- [19:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1165s) and back sometimes it used to be this
+- [19:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=1167s) Kmart there and the Little Caesars would
+- [19:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=1170s) throw throw certain items out of Kmart
+- [19:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=1172s) and Little Caesars would throw certain
+- [19:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=1174s) food away. And if I was able to be the
+- [19:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1178s) first person there, that's how I ate.
+- [19:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=1181s) And I remember thinking to myself,
+- [19:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1183s) Landon, this is your last night on
+- [19:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1186s) earth. You no longer have a purpose in
+- [19:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=1189s) this life if you're going to be holding
+- [19:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=1191s) a sign begging for money and going
+- [19:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=1195s) behind a dumpster to look for
+- [19:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=1198s) food while you have a loving family out
+- [20:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1202s) there. You have a daughter that's with
+- [20:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1204s) your ex fiance out there. That it was
+- [20:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=1207s) one of the worst nights of my life. And
+- [20:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=1209s) as I'm doing that, I just remember all
+- [20:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1212s) of the sudden this this feeling of
+- [20:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=1214s) someone coming behind and holding me
+- [20:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1217s) again and then wrapping their legs
+- [20:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1220s) around me. And I I felt that physically
+- [20:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=1224s) like I when it happened I I kind of
+- [20:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=1227s) turned like who the heck is grabbing me?
+- [20:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=1229s) And no one was there. And the peace that
+- [20:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=1233s) I felt from that moment kept me from
+- [20:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=1236s) committing suicide. It was
+- [20:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=1239s) indescribable. And they showed me this
+- [20:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=1241s) moment as if it was a vision, not not
+- [20:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=1244s) like TV, but as if it was something I
+- [20:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=1248s) could step into and feel those feelings
+- [20:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=1251s) I felt again for a moment. And I I saw
+- [20:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=1255s) these lights just like the lights that
+- [20:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=1258s) were coming up from behind that hill. I
+- [21:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1261s) saw these lights come down like a beam
+- [21:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=1265s) to me and hit me. And I just saw these
+- [21:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1270s) dark wispy is how I describe it. They
+- [21:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=1273s) they didn't have a form, but many many
+- [21:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=1276s) dark things just boom
+- [21:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=1279s) fled. And I saw that and I know those
+- [21:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=1283s) were
+- [21:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=1283s) prayers. But the people who took time to
+- [21:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=1287s) pray for me during those times, they
+- [21:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=1290s) didn't know that their prayers were
+- [21:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=1291s) working. They didn't know I was behind a
+- [21:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=1294s) dumpster about to commit suicide. They
+- [21:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1298s) just they prayed for me, my family and
+- [21:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1300s) loved ones and friends, cuz they didn't
+- [21:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=1302s) know where I was. And I they were
+- [21:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1306s) terrified. And so they prayed. And I
+- [21:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=1308s) guarantee you some of them through those
+- [21:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1310s) prayers, through those months and
+- [21:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=1313s) years, I was still doing the same thing.
+- [21:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1316s) So in their mind, it's like, well, I
+- [21:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=1318s) didn't see it. My prayer didn't work.
+- [22:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1321s) But thank goodness they didn't give up
+- [22:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1324s) on me and stop praying because they
+- [22:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1326s) those two people showed me this moment
+- [22:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=1329s) in my past where those prayers came and
+- [22:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1332s) saved my life and the people who prayed
+- [22:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=1336s) for me didn't know that that happened
+- [22:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1340s) but their prayers
+- [22:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=1342s) worked and I saw that it shut me up
+- [22:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1345s) quick. the little bit of questioning,
+- [22:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1348s) the little bit of not having faith in
+- [22:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=1350s) prayers that I had because of my
+- [22:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=1352s) experiences and then they showed me that
+- [22:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1355s) I will never in my life deny prayer
+- [22:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1358s) again. Not only because I to this day I
+- [22:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=1362s) now am a little more in tune to feel
+- [22:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=1365s) spiritual things both good and bad. I
+- [22:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=1368s) will never deny the prayers because I
+- [22:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=1371s) feel them more powerful today and I I
+- [22:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=1373s) physically saw it and I'm I'm grateful
+- [22:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1376s) for that because I know a lot of people
+- [22:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=1378s) are like man I I want to see that prayer
+- [23:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1382s) is real. I want the
+- [23:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1384s) proof and if it's any consolation I'm
+- [23:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=1387s) telling you my story that I physically
+- [23:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1390s) saw those prayers. So, if you have loved
+- [23:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1392s) ones out there that are struggling from
+- [23:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=1395s) addiction like I did from from
+- [23:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=1398s) anything, don't ever stop praying. Don't
+- [23:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1401s) ever think that your good intentions and
+- [23:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1406s) love towards another person. When you
+- [23:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1408s) ask our creator, our heavenly father to
+- [23:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=1412s) help them with true intent from your
+- [23:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1415s) heart, I promise you there will be
+- [23:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=1417s) answers to it. And some you might see
+- [23:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1420s) those answers. Others you have no idea
+- [23:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=1424s) how it's answered, but it's being
+- [23:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1426s) answered. And I saw that. And so prayer
+- [23:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=1429s) for me will for the rest of my life be
+- [23:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=1432s) one of the main foundations of how I
+- [23:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=1435s) make it through this world and how I can
+- [23:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=1438s) help others make it through this world
+- [24:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1441s) because there's so much darkness. But
+- [24:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1444s) never forget there is so much light too.
+- [24:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=1448s) And there was a few other things that
+- [24:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1450s) they communicated with me that could be
+- [24:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=1454s) future events, but they weren't telling
+- [24:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1457s) me like this would happen. It was like
+- [24:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1461s) this could happen and it's a fork in the
+- [24:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1465s) road, be wary type thing. They were
+- [24:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1468s) showing me this this could happen. And
+- [24:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=1470s) they didn't they didn't necessarily give
+- [24:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=1472s) me the answer on how to handle it
+- [24:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=1474s) because again, I have my free agency on
+- [24:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=1477s) it.
+- [24:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1478s) And the other thing is how they
+- [24:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1480s) communicated to me is that families can
+- [24:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1483s) be together
+- [24:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=1485s) forever. And I know that because I felt
+- [24:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=1489s) my grandfather and my niece on the other
+- [24:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=1491s) side of that hill. I didn't see them,
+- [24:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=1493s) but I I saw the lights. And honestly,
+- [24:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=1495s) feeling them the way I did is so much
+- [24:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=1497s) better than seeing them. And so for
+- [25:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1501s) people who have lost loved ones, you
+- [25:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=1505s) will see them again.
+- [25:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=1507s) I get a heavy weight in my heart when I
+- [25:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1510s) hear someone say I don't believe in life
+- [25:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1512s) after death or atheists when they say
+- [25:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=1515s) that. I don't judge them, but it hurts
+- [25:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=1518s) me knowing that they're going through
+- [25:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1520s) life not having some type of comfort.
+- [25:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1525s) That's a very dreary and sad thing to
+- [25:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=1529s) think about going through this life that
+- [25:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=1532s) your children, your family members, all
+- [25:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1535s) the love that you have for them, every
+- [25:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=1537s) every experience you've had with them,
+- [25:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1540s) for atheists, if you think that when you
+- [25:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1543s) die, all that love you had for your
+- [25:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1546s) child, if you don't have a child, all
+- [25:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=1547s) that love you had for whoever in this
+- [25:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1550s) world, do do you want to continue life
+- [25:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1554s) thinking that that that will just go
+- [25:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1556s) away and mean nothing after this life
+- [26:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=1560s) that I couldn't I couldn't live this
+- [26:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1562s) life thinking that I know that what we
+- [26:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1566s) do in this life matters and so this
+- [26:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=1569s) experience that I've had is still so
+- [26:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1572s) vivid in my
+- [26:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1580s) mind it was not a dream I've had every
+- [26:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=1583s) type of dream. You can have good dreams,
+- [26:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1586s) nightmares. I mean, I've had the
+- [26:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=1589s) experience of category of dreams. This
+- [26:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=1591s) was not a dream. This
+- [26:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=1594s) was one
+- [26:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=1596s) million% a spiritual experience is the
+- [26:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1600s) only way I can describe it. And I I I
+- [26:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1603s) felt all the senses where I was. It
+- [26:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=1605s) wasn't a hallucination. I was there. I
+- [26:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=1608s) felt those senses.
+- [26:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=1611s) I saw my grandpa and my my niece as
+- [26:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1614s) lights behind that hill. Beautiful
+- [26:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1616s) lights. And these the two people that
+- [27:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=1620s) were here, I actually saw them and they
+- [27:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=1623s) were in white like gowns and they were
+- [27:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1626s) very real. And so I can tell you it was
+- [27:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1630s) no hallucination. It was no dream. It
+- [27:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=1634s) was 100% real.
+- [27:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1637s) And as I'm talking up there with them,
+- [27:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1640s) they're communicating with me all these
+- [27:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=1642s) amazing things that comfort me here on
+- [27:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1645s) Earth that I don't know how I could get
+- [27:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=1647s) by without
+- [27:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1648s) them. I get this rush. Imagine a tidal
+- [27:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=1653s) wave coming over me of just I love you.
+- [27:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=1657s) And it wasn't just my grandpa and niece
+- [27:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=1659s) this time. It was all those colors
+- [27:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=1662s) behind that hill. It hit me again like
+- [27:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1666s) the hug and there wasn't any goodbyes.
+- [27:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1670s) It was just I love you. I'll see you
+- [27:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1674s) again. And boom, I'm back above my body.
+- [27:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=1679s) I'm in this operating room with lights.
+- [28:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=1683s) I'm on table and it's like they had it
+- [28:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=1685s) sectioned off like part of my head. It
+- [28:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=1688s) was like sectioned off by something and
+- [28:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1690s) and they were doing brain surgery. It
+- [28:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=1693s) lasted over like four hours and they
+- [28:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=1695s) kept telling my family, you know, we're
+- [28:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1697s) just trying to get them past these first
+- [28:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=1699s) 24 hours. If this surgery doesn't work,
+- [28:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1701s) we have to do another. But when I came
+- [28:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=1704s) back above my body, all those good
+- [28:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1706s) feelings I felt up there were absolutely
+- [28:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1708s) gone. I was almost focused on how
+- [28:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=1711s) terrible I felt again with the anxiety,
+- [28:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1715s) anguish, all that. It was just the most
+- [28:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1718s) terrible feeling I I can describe. And
+- [28:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=1721s) it's it's gotten a little easier for me
+- [28:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=1723s) emotionally now that I've been speaking
+- [28:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1726s) about it a little bit more. But I just
+- [28:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1730s) remember hearing this voice as I thought
+- [28:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=1733s) I I didn't think I could handle it
+- [28:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1734s) anymore. All those feelings and
+- [28:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1736s) everything and and seeing me on a
+- [28:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=1739s) surgery table for a minute and I thought
+- [29:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1742s) I was going to explode. And I heard that
+- [29:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=1745s) woman's voice that was up there with me
+- [29:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=1748s) and she just said, "Landon, it's time."
+- [29:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=1751s) And I remember kind of being confused
+- [29:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=1753s) for a second and she said it a second
+- [29:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=1756s) time, "Landon, it's
+- [29:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=1758s) time." And all a sudden, I just opened
+- [29:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1761s) my eyes and I saw these dark wispy
+- [29:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=1765s) things fly out of the room just like
+- [29:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1768s) behind that
+- [29:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=1770s) dumpster just take off. And I what I've
+- [29:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=1773s) come to think over the because it's been
+- [29:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=1776s) about two years ago this happened. What
+- [29:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1778s) I what I've come to think personally is
+- [29:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=1781s) I don't know what those dark entities
+- [29:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=1784s) were exactly, but I believe they were
+- [29:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=1787s) holding me in that state of just
+- [29:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1790s) confusion and being terrified and
+- [29:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=1793s) sadness. It's like they were able to be
+- [29:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=1796s) able to hold me there. But I I when I
+- [30:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=1800s) woke up, I saw those those things flee.
+- [30:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=1803s) And later on, I told my mom about it
+- [30:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1806s) while still in the hospital in the Nero
+- [30:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=1809s) ICU. And she said, "Your your dad, your
+- [30:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1812s) father came and gave you a priesthood
+- [30:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=1814s) blessing with another man. I bless this
+- [30:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1817s) room that nothing will be in here to
+- [30:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1820s) hinder my son's recovery and to hurt him
+- [30:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=1824s) spiritually or physically."
+- [30:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1826s) But when she told me that, I didn't know
+- [30:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=1829s) that right after my surgery, like when I
+- [30:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=1832s) kind of came out of I call it a mini
+- [30:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1835s) coma, obviously after brain surgery, I I
+- [30:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1838s) don't remember, but the first thing I
+- [30:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1840s) said to my wife was, "Get my dad. I need
+- [30:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=1844s) a priesthood blessing." And I don't
+- [30:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=1847s) remember this, but I believe that
+- [30:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=1850s) blessing is what stopped those things
+- [30:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=1853s) from keeping me above my body in in that
+- [30:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=1857s) horrible state. And finally, weeks
+- [31:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=1861s) later, as I'm kind of getting more of my
+- [31:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1864s) senses back, cuz I had to learn to walk
+- [31:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1866s) again. I had to learn to talk again. I
+- [31:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=1868s) speech therapy, you know, walking
+- [31:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1870s) therapy. I got messed up. But I I
+- [31:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=1873s) remember asking one of the nurses. I had
+- [31:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=1877s) this big band-aid strap thing on my knee
+- [31:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=1881s) still. I'm asking her. I'm like, "Why
+- [31:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=1883s) did they drill into my knee? Why were
+- [31:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1886s) they doing that if I have a head
+- [31:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=1888s) injury?" And she was like, "Well, they
+- [31:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=1890s) did that on your way here, but you you
+- [31:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=1893s) were flatlined. like I was flatlined
+- [31:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1895s) many times probably before the ambulance
+- [31:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=1898s) got to me the paramedics and during
+- [31:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=1900s) those rides and during my surgeries. So
+- [31:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=1904s) she was kind of confused cuz I I told
+- [31:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=1906s) her I I saw him doing it. She was like
+- [31:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=1909s) whoa like how how did that happen? And
+- [31:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=1911s) another cool thing is one of the one of
+- [31:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1914s) the paramedic guys in the doctor, I
+- [31:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=1917s) don't know what he was, but he he had a
+- [31:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=1919s) he had a red pin in his shirt. And when
+- [32:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1922s) I was above the ambulance, I that's one
+- [32:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1924s) thing I do remember cuz I it was so much
+- [32:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=1927s) chaos and confusion for me above the
+- [32:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1930s) ambulance wondering what's happening to
+- [32:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1932s) me, where am I? But I do remember that
+- [32:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=1934s) red pin from the uh Oriental Asian guy
+- [32:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=1938s) and I asked someone about that in the
+- [32:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=1940s) hospital and I just kind of described
+- [32:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=1943s) him and they told me who he
+- [32:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=1946s) was. And that's just another thing that
+- [32:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=1949s) can verify that I wasn't just getting a
+- [32:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=1951s) release of DMT and all that. Like people
+- [32:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=1955s) say, "No, it was just a brain injury,
+- [32:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=1957s) head trauma." Uh, no. I if if you want
+- [32:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=1959s) to say that, how could I see these
+- [32:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=1961s) things and say these things to people
+- [32:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=1965s) and have it verified? It couldn't have
+- [32:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=1974s) been. The doctors, they were telling my
+- [32:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=1977s) poor wife, they didn't know if I would
+- [32:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=1979s) make it past 24 hours. And they just
+- [33:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=1982s) told her, "We're doing this emergency
+- [33:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=1984s) brain." I don't know all the words for
+- [33:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=1986s) cranial plasty type thing on me and if
+- [33:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=1990s) it didn't work they were going to try
+- [33:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=1992s) one more but they would have to fly me
+- [33:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=1996s) north to Salt Lake City which is a I
+- [33:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2000s) mean it's a 5-hour drive so I don't know
+- [33:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=2001s) how long of a flight it would be but but
+- [33:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=2004s) basically the the doctor later told me
+- [33:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=2007s) that if if they would have had to have
+- [33:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2009s) done that I would have died like they
+- [33:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=2012s) couldn't have done it and luckily
+- [33:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=2015s) in St. George at that time was one of
+- [33:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=2017s) the top
+- [33:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=2019s) neurosurgeons and he was doing a
+- [33:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=2021s) training down here in St. George when
+- [33:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2024s) that happened and he's the one that
+- [33:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=2026s) worked on me. People call coincidences.
+- [33:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=2029s) Yeah, they're coincidences. But when I
+- [33:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=2031s) pray every day, I see the miracles in
+- [33:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=2035s) this life. I don't see just the
+- [33:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=2037s) coincidences. As long as I pray and have
+- [34:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2040s) a open heart and mind, I see miracles,
+- [34:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=2043s) not
+- [34:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=2044s) coincidences. And yes, I recovered
+- [34:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=2048s) miraculously fast. I was able to start
+- [34:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=2051s) walking well again so quick. They they
+- [34:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=2054s) would put this thing on me and make me
+- [34:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=2057s) carry a weight behind me while I while I
+- [34:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=2059s) walked and that sucked. And I had I had
+- [34:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=2061s) to do speech therapy again. But I was
+- [34:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=2064s) out of that neuro.
+- [34:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=2066s) They couldn't believe it how fast and
+- [34:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2069s) how miraculous it was that I was healing
+- [34:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2071s) because there was other people in there
+- [34:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2074s) with me with the same type of injuries
+- [34:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=2076s) that became brain dead. One guy died.
+- [34:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=2079s) They couldn't save him. And they were
+- [34:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2082s) the same type of injuries and and people
+- [34:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2084s) with strokes and stuff that I was in
+- [34:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=2085s) there with that it it messed them up for
+- [34:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=2088s) the rest of their lives if they happen
+- [34:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=2090s) to live. But somehow I'm here and I'm
+- [34:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=2095s) not gonna waste this
+- [34:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=2098s) life. That's why I'm doing these
+- [35:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2100s) podcasts. I'm not going to waste this
+- [35:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=2103s) message and this miracle that I was
+- [35:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=2107s) given and not at least share it with
+- [35:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=2110s) others to give hope. How how greedy of
+- [35:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=2113s) me would that be to keep this message to
+- [35:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=2116s) myself if I was able to come back to
+- [35:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2118s) this earth and still talk and walk and
+- [35:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2122s) help others? I'm not going to waste the
+- [35:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2125s) miracle that I
+- [35:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2128s) got. I have been down in the dumps. I
+- [35:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=2130s) have been a liar, a thief, a robber, you
+- [35:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2134s) know, a a heroin addict, a homeless.
+- [35:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=2137s) I've been through it all. And now I am
+- [35:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2142s) so grateful for each of those
+- [35:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=2146s) experiences because we came to this
+- [35:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=2148s) earth to learn. And I'll tell you what,
+- [35:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=2151s) I I must have taken the I I went to a
+- [35:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=2155s) bad college or something the way I'm the
+- [35:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=2158s) way I'm learning it. But I'm so grateful
+- [36:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=2161s) for it because if I didn't have those
+- [36:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=2163s) hardships, which I saw prayer help me
+- [36:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=2166s) through them, then I I couldn't be
+- [36:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=2169s) speaking to you right now and and trying
+- [36:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=2172s) to give this message of hope to others.
+- [36:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=2174s) And being a drug addict, I go to AA
+- [36:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=2177s) meetings. I I I speak with other drug
+- [36:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2180s) addicts and I love it because how could
+- [36:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2182s) I connect with them if I wasn't a drug
+- [36:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=2186s) addict? And when I was up there and they
+- [36:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2189s) were talking about prayer with me, they
+- [36:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2191s) were telling me that you can
+- [36:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2194s) specifically pray to our heavenly father
+- [36:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=2197s) to have certain family members help you
+- [36:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=2200s) if they've passed on because there is
+- [36:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2202s) life after this life. And he will allow
+- [36:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=2206s) certain angels, spirit, spirit guides,
+- [36:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=2209s) whatever you want to call them, but in
+- [36:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=2210s) in my experience that he will he will
+- [36:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=2213s) even allow certain loved ones to help
+- [36:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=2215s) you through
+- [36:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=2217s) experiences. Because how can you help
+- [37:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2220s) somebody like thoroughly and truly
+- [37:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=2223s) understand and help somebody in a
+- [37:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=2225s) situation unless you've been through it,
+- [37:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=2228s) too? It's kind of like a teacher. How
+- [37:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=2230s) can you be a teacher if you didn't learn
+- [37:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=2232s) first? And so I thought that was
+- [37:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=2234s) incredible. But one thing I don't want
+- [37:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=2236s) people to get mixed up is you don't pray
+- [37:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=2239s) to that person, but you pray to our
+- [37:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2242s) heavenly father for that person to help
+- [37:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=2244s) you. And and you can get that help and
+- [37:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=2247s) you can get that
+- [37:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2248s) comfort. But they cannot always be there
+- [37:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2251s) to help you if you don't
+- [37:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2254s) ask. And if you ask, ask with an open
+- [37:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=2258s) heart and mind and don't have certain
+- [37:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2262s) expectations of what you
+- [37:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2264s) think you need and God needs to do it
+- [37:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2267s) for you because our creator has such
+- [37:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=2270s) better plans for us in in ways that we
+- [37:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=2274s) couldn't comprehend and that we might
+- [37:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=2276s) not like sometimes.
+- [38:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=2284s) So after my NDE, something has changed
+- [38:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=2289s) within me. It's hard to explain. I don't
+- [38:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=2292s) tell a lot of people, but I I see auras
+- [38:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=2296s) around certain people. Some days I'll
+- [38:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2298s) see a couple. Other days or weeks I
+- [38:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=2301s) won't see any. And they're hard to
+- [38:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=2304s) describe colors, but they're different
+- [38:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=2306s) on certain people. And I don't know what
+- [38:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2308s) that means. I have no idea, but it it
+- [38:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2311s) happens. Like I I'll tell you last night
+- [38:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=2313s) or it happened. I was at a AA meeting
+- [38:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=2316s) and this girl started talking about how
+- [38:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=2318s) her father just wrote her and said his
+- [38:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=2321s) brain aneurysms could burst any time and
+- [38:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2324s) how to appreciate the life we have on
+- [38:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2327s) this earth cuz it can end any time. And
+- [38:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=2329s) as she's talking about that, I just see
+- [38:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=2331s) this aura coming around her. This like
+- [38:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=2336s) yellowish pinkish. I can't I can't even
+- [38:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=2338s) describe the color, but I I started
+- [39:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2340s) seeing this aura come around her and it
+- [39:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=2342s) almost made me kind of sit back in my
+- [39:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=2344s) seat. I was like, "Oh, whoa." Cuz it's
+- [39:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=2346s) such a cool experience when I see those
+- [39:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=2348s) things, but they don't happen often. And
+- [39:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=2351s) the other thing is that I have foresight
+- [39:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=2355s) about certain things that will happen
+- [39:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2358s) soon
+- [39:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=2359s) after. And at first, I tried telling
+- [39:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=2363s) myself, "No, that's a coincidence. No,
+- [39:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2365s) that it's, you know, I I kept telling
+- [39:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2368s) myself that there there's no way type
+- [39:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2371s) thing, but it's come to the point where
+- [39:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2374s) it's happened so much that I can't deny
+- [39:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=2378s) it. And as long as I'm living right,
+- [39:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2382s) trying to be a good person, and I keep
+- [39:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2384s) an open heart and mind, I have the gift
+- [39:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2387s) of a still small voice that helps guide
+- [39:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=2390s) me in this world. as long as I'm trying
+- [39:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=2394s) my best to do good and it guides me.
+- [39:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=2397s) It's it's guided me many times that
+- [40:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2400s) Landon you need to talk to this person
+- [40:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=2402s) or Landon you need to go here like it's
+- [40:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=2405s) and when I do those things and I listen
+- [40:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=2407s) to it like let's say it says you need to
+- [40:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=2409s) talk to this person that that I won't
+- [40:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=2412s) name names but that person was like dude
+- [40:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=2414s) I haven't talked to you in like over a
+- [40:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=2416s) year why' you call me right now almost
+- [40:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2418s) in an offended way at first and I was
+- [40:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2420s) like buddy I was just calling I felt
+- [40:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2422s) like I need to see how you were doing
+- [40:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=2423s) bro and he he was telling me he was just
+- [40:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=2426s) about to commit suic suicide, man. And
+- [40:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2429s) so I can't I can't deny that. That's
+- [40:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=2433s) what I mean. At first I was trying to
+- [40:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=2435s) say it's just coincidence or I you know
+- [40:38](https://www.youtube.com/watch?v=DXQh28N7eis&t=2438s) it can't be real, but I there's been and
+- [40:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=2440s) there's been other
+- [40:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=2441s) occasions like that with people and
+- [40:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2444s) situations that if I'm doing the right
+- [40:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2447s) thing in my life, it it's there. And and
+- [40:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=2451s) I'll tell you what, everybody can have
+- [40:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=2453s) the gift of discernment. There's been a
+- [40:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=2456s) lot of a lot of times where I've where
+- [40:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=2459s) something's happened that I knew it was
+- [41:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=2461s) going to happen right before or I've
+- [41:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=2464s) listened to that still small voice where
+- [41:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=2466s) I've helped someone in that moment just
+- [41:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=2469s) like when I saw me get saved by those
+- [41:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=2472s) prayers that nobody else even knew they
+- [41:15](https://www.youtube.com/watch?v=DXQh28N7eis&t=2475s) were working but they did. And so I try
+- [41:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2478s) very hard to keep that line of
+- [41:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2480s) communication open with whatever you
+- [41:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=2483s) want to call it. I call it the still
+- [41:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=2484s) small
+- [41:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2485s) voice. Those instances have increased a
+- [41:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2489s) millionfold since my incident and I
+- [41:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=2492s) don't share a lot of them with people
+- [41:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2494s) cuz it it happens even throughout the
+- [41:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=2497s) day quite a bit. And I just I don't
+- [41:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=2499s) share it. I just have come to terms that
+- [41:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2502s) it's no more longer coincidence and if I
+- [41:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=2506s) feel truly inspired that I need to do or
+- [41:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=2508s) say something then I do it.
+- [41:58](https://www.youtube.com/watch?v=DXQh28N7eis&t=2518s) One of the biggest reasons that I want
+- [42:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2520s) to start doing these podcast to help
+- [42:03](https://www.youtube.com/watch?v=DXQh28N7eis&t=2523s) people because I have no fear of
+- [42:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=2527s) death. I've died. It
+- [42:09](https://www.youtube.com/watch?v=DXQh28N7eis&t=2529s) hurt it. You know, it hurt. I came back.
+- [42:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=2533s) But when I passed away where I
+- [42:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=2537s) was, it's indescribable.
+- [42:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2540s) There was no judgment. There was no
+- [42:23](https://www.youtube.com/watch?v=DXQh28N7eis&t=2543s) pain. There was no fear. Like I said,
+- [42:26](https://www.youtube.com/watch?v=DXQh28N7eis&t=2546s) when we communicated, it was almost like
+- [42:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2548s) we both were heartto-heart sharing an
+- [42:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2551s) experience totally truthfully with not
+- [42:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2554s) judging each other type thing. It was
+- [42:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=2556s) beautiful. But I know I don't have fear
+- [42:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=2560s) of death. I guess maybe sometimes I have
+- [42:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2562s) fear of how I'll die again cuz the first
+- [42:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=2565s) one wasn't very fun. But the ultimate
+- [42:48](https://www.youtube.com/watch?v=DXQh28N7eis&t=2568s) end of fear of death. No, I know there's
+- [42:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=2571s) life after this life. I know that our
+- [42:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=2574s) loved ones are watching over us. And if
+- [42:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=2576s) we pray to our creator for help that
+- [42:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=2579s) they can do it. They can help us. And I
+- [43:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=2582s) know that you'll see your loved ones
+- [43:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=2585s) again. And I know that what you do in
+- [43:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=2588s) this life matters. Don't think that you
+- [43:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=2591s) can just do whatever you want in this
+- [43:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=2594s) life with no
+- [43:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=2596s) consequences. Because the way I like to
+- [43:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2598s) look at it is I can do everything I can
+- [43:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=2601s) in this life for the benefits of the
+- [43:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2605s) afterlife or the life after this life
+- [43:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2609s) and I will see my loved ones again. I
+- [43:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2611s) already have. So I'm I'm telling you
+- [43:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=2613s) from a firsterson thing, I've seen them.
+- [43:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=2616s) I saw them again. I felt them. anybody
+- [43:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=2619s) out there missing someone, you will see
+- [43:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2622s) them again. And I don't fear death, but
+- [43:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=2625s) I I do
+- [43:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2627s) fear whatever that in between was that I
+- [43:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=2632s) felt above the
+- [43:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=2634s) ambulance, whatever that middle area
+- [43:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=2636s) was. I I do fear that immensely. It
+- [44:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2640s) really did give me PTSD. It was when I
+- [44:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=2644s) when I think Yeah. I don't I don't I
+- [44:06](https://www.youtube.com/watch?v=DXQh28N7eis&t=2646s) just don't like to think about it, but
+- [44:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=2648s) no, I don't I don't fear death. And I
+- [44:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=2650s) know we'll see our loved ones again. And
+- [44:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=2653s) that's such a comforting thing to me.
+- [44:16](https://www.youtube.com/watch?v=DXQh28N7eis&t=2656s) And that's what I want to share with
+- [44:18](https://www.youtube.com/watch?v=DXQh28N7eis&t=2658s) others. I want to be able to help
+- [44:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2660s) comfort others in this
+- [44:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2662s) world because there is a lot of
+- [44:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2665s) depressed people, people missing loved
+- [44:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2669s) ones. There's a lot of evil. There's a
+- [44:31](https://www.youtube.com/watch?v=DXQh28N7eis&t=2671s) lot of a lot of anxiety and and being
+- [44:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2674s) scared. And if you don't have some type
+- [44:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=2677s) of anchor, like for me, my anchor is
+- [44:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2682s) Jesus Christ. He's my anchor.
+- [44:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=2686s) But if you don't have some type of
+- [44:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2687s) anchor, even even hope that maybe you'll
+- [44:51](https://www.youtube.com/watch?v=DXQh28N7eis&t=2691s) see loved ones after this life, even
+- [44:53](https://www.youtube.com/watch?v=DXQh28N7eis&t=2693s) even just hoping and have a little bit
+- [44:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=2697s) of faith can clear out so much
+- [45:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2700s) depression and
+- [45:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=2702s) anxiety. Look at how much beauty and
+- [45:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=2705s) happiness and good is also going on. So
+- [45:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=2710s) don't focus on the bad. be aware of it,
+- [45:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=2713s) but don't focus on it. And sometimes
+- [45:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=2717s) this world gets to me so much that I
+- [45:20](https://www.youtube.com/watch?v=DXQh28N7eis&t=2720s) have to get down on my knees and pray
+- [45:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2722s) because it's just the weight of all the
+- [45:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2725s) heaviness and depression. And and since
+- [45:27](https://www.youtube.com/watch?v=DXQh28N7eis&t=2727s) my accident too, I become much more like
+- [45:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=2730s) I have a lot more empathy for people.
+- [45:33](https://www.youtube.com/watch?v=DXQh28N7eis&t=2733s) And it it can be it can be rough for me
+- [45:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=2736s) sometimes cuz I feel emotions a lot more
+- [45:41](https://www.youtube.com/watch?v=DXQh28N7eis&t=2741s) than I did
+- [45:42](https://www.youtube.com/watch?v=DXQh28N7eis&t=2742s) before. And when I see our world right
+- [45:45](https://www.youtube.com/watch?v=DXQh28N7eis&t=2745s) now, I see the chaos and the evil and
+- [45:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=2749s) the sadness. Yeah, there's a lot of bad
+- [45:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=2752s) stuff going on. And if you keep looking
+- [45:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=2755s) for that bad stuff, you're going to find
+- [45:57](https://www.youtube.com/watch?v=DXQh28N7eis&t=2757s) it. But there's also so much good stuff
+- [46:00](https://www.youtube.com/watch?v=DXQh28N7eis&t=2760s) going on. And I would recommend you to
+- [46:04](https://www.youtube.com/watch?v=DXQh28N7eis&t=2764s) take a few moments out of out of each
+- [46:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=2767s) day, just a moment even to sit there and
+- [46:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=2770s) be like, how grateful am I
+- [46:13](https://www.youtube.com/watch?v=DXQh28N7eis&t=2773s) for my child, my husband, this family
+- [46:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=2777s) member? How grateful am I that I have a
+- [46:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=2779s) a car that runs? You know what I mean?
+- [46:22](https://www.youtube.com/watch?v=DXQh28N7eis&t=2782s) just little things that you you just go
+- [46:25](https://www.youtube.com/watch?v=DXQh28N7eis&t=2785s) by you every day and instead of being
+- [46:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2788s) grateful for them, you're passing them
+- [46:29](https://www.youtube.com/watch?v=DXQh28N7eis&t=2789s) by and going and looking at all the evil
+- [46:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=2792s) going on in the world. That's hard.
+- [46:35](https://www.youtube.com/watch?v=DXQh28N7eis&t=2795s) That's very hard. That's very
+- [46:37](https://www.youtube.com/watch?v=DXQh28N7eis&t=2797s) depressing. And so I I I would encourage
+- [46:40](https://www.youtube.com/watch?v=DXQh28N7eis&t=2800s) people to find that anchor in their life
+- [46:44](https://www.youtube.com/watch?v=DXQh28N7eis&t=2804s) that they can look to when they're feel
+- [46:47](https://www.youtube.com/watch?v=DXQh28N7eis&t=2807s) like they're feeling too much, suicidal
+- [46:50](https://www.youtube.com/watch?v=DXQh28N7eis&t=2810s) or depressed. I've been there. I
+- [46:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=2812s) know. I would encourage you to find an
+- [46:55](https://www.youtube.com/watch?v=DXQh28N7eis&t=2815s) anchor and just try it out. My anchor
+- [46:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=2819s) started with
+- [47:01](https://www.youtube.com/watch?v=DXQh28N7eis&t=2821s) prayer. And I it it didn't make sense to
+- [47:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=2825s) me at first. It was hard. It felt
+- [47:07](https://www.youtube.com/watch?v=DXQh28N7eis&t=2827s) weird. But just try it out. And there's
+- [47:10](https://www.youtube.com/watch?v=DXQh28N7eis&t=2830s) no wrong way to pray. I pray like I'm
+- [47:12](https://www.youtube.com/watch?v=DXQh28N7eis&t=2832s) talking to my best
+- [47:14](https://www.youtube.com/watch?v=DXQh28N7eis&t=2834s) friend. Sometimes I pray on my knees.
+- [47:17](https://www.youtube.com/watch?v=DXQh28N7eis&t=2837s) Sometimes I'm walking through a crowd or
+- [47:19](https://www.youtube.com/watch?v=DXQh28N7eis&t=2839s) I just wake up and I pray. Our our like
+- [47:21](https://www.youtube.com/watch?v=DXQh28N7eis&t=2841s) I said, our our creator just wants that
+- [47:24](https://www.youtube.com/watch?v=DXQh28N7eis&t=2844s) connection with us and take a moment out
+- [47:28](https://www.youtube.com/watch?v=DXQh28N7eis&t=2848s) of each day to even think of one thing
+- [47:30](https://www.youtube.com/watch?v=DXQh28N7eis&t=2850s) you're grateful for. I mean, I'm sure
+- [47:32](https://www.youtube.com/watch?v=DXQh28N7eis&t=2852s) you can come up with a list of a million
+- [47:34](https://www.youtube.com/watch?v=DXQh28N7eis&t=2854s) things if that's what you're focused on
+- [47:36](https://www.youtube.com/watch?v=DXQh28N7eis&t=2856s) and that'll make you happier. So try to
+- [47:39](https://www.youtube.com/watch?v=DXQh28N7eis&t=2859s) find your anchor and try to focus on how
+- [47:43](https://www.youtube.com/watch?v=DXQh28N7eis&t=2863s) you can help others because that's how
+- [47:46](https://www.youtube.com/watch?v=DXQh28N7eis&t=2866s) I'm staying out of my drug addiction is
+- [47:49](https://www.youtube.com/watch?v=DXQh28N7eis&t=2869s) by getting out of myself and trying to
+- [47:52](https://www.youtube.com/watch?v=DXQh28N7eis&t=2872s) speak and help others because it makes
+- [47:54](https://www.youtube.com/watch?v=DXQh28N7eis&t=2874s) me feel so much better doing
+- [47:56](https://www.youtube.com/watch?v=DXQh28N7eis&t=2876s) it. And so in the world today, I would
+- [47:59](https://www.youtube.com/watch?v=DXQh28N7eis&t=2879s) encourage people to do those things. And
+- [48:02](https://www.youtube.com/watch?v=DXQh28N7eis&t=2882s) they're they're such small acts in a
+- [48:05](https://www.youtube.com/watch?v=DXQh28N7eis&t=2885s) 24-hour day. Those small acts could take
+- [48:08](https://www.youtube.com/watch?v=DXQh28N7eis&t=2888s) minutes, but if they could change your
+- [48:11](https://www.youtube.com/watch?v=DXQh28N7eis&t=2891s) life, isn't it worth it?

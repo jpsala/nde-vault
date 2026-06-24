@@ -1,6 +1,8 @@
 # AGENTS.md
 
-Este repo es el proyecto NDE/ECM Vault: un vault Markdown/Obsidian vivo para investigar Near Death Experiences (NDEs/ECM) y construir conocimiento trazable sobre conciencia, muerte, realidad e identidad.
+Este repo es un vault Markdown/Obsidian vivo para construir conocimiento trazable sobre el paso del paradigma de miedo/desconfianza/soledad hacia un paradigma de creatividad, confianza, paz, cuidado y universo/Dios confiable.
+
+Las Near Death Experiences (NDEs/ECM) siguen siendo una fuente privilegiada porque muchas personas relatan haber recordado el “hogar” o una realidad más amplia, pero **ya no son el límite del corpus**. También pueden incorporarse videos, documentos, entrevistas, libros, charlas o fuentes no-ECM si aportan evidencia útil al norte vivencial del proyecto.
 
 ## Lectura Inicial
 
@@ -16,15 +18,15 @@ No abrir transcripciones largas, vault completo, `.env`, `.tmp`, `.obsidian/plug
 
 ## Norte del proyecto
 
-Construir un vault Markdown/Obsidian vivo para investigar Near Death Experiences (NDEs/ECM) y ayudar a formular, explorar y conversar desde un paradigma alternativo sobre conciencia, muerte, realidad e identidad.
+Construir un vault Markdown/Obsidian vivo para ayudar a **vivir más en creatividad y confianza**, integrando evidencia trazable sobre manifestación, creencias, miedo, salud, creación, cuidado, Dios/Universo confiable y no-soledad.
 
-El objetivo no es acumular videos: es transformar testimonios trazables en conceptos, patrones y mapas navegables del nuevo paradigma.
+El objetivo no es acumular videos ni limitarse a NDEs: es transformar fuentes trazables —ECM/NDE y no-ECM— en conceptos, patrones, rutas y mapas navegables del nuevo paradigma.
 
 ## Principios
 
 1. **Markdown como fuente canónica**: el vault Markdown es la base primaria del conocimiento. Obsidian, sitio web, buscador y chat deben derivar de esa misma fuente.
 2. **Trazabilidad obligatoria**: toda idea/concepto/síntesis debe poder volver a casos concretos, citas y timestamps del video original.
-3. **Separar testimonio de interpretación**: distinguir siempre entre lo que el experienciador dijo, la clasificación fenomenológica, el patrón acumulado y la lectura paradigmática.
+3. **Separar fuente de interpretación**: distinguir siempre entre lo que la fuente/persona dijo, el tipo de fuente, el fenómeno o enseñanza reportada, el patrón acumulado y la lectura paradigmática.
 4. **IA propone, humano valida**: las secciones automáticas pueden actualizar evidencia y síntesis, pero los conceptos nuevos requieren aprobación explícita del usuario antes de crear una nota conceptual definitiva.
 5. **No dogmatismo**: formular conclusiones como patrones emergentes desde el corpus, no como afirmaciones absolutas.
 6. **Preservar originales**: transcripciones originales, metadata y fuentes no deben sobrescribirse. Mantener separadas la transcripción raw de YouTube, la raw de Groq y la versión visible/canónica mejorada.
@@ -57,6 +59,7 @@ Usar frontmatter YAML en notas estructuradas. Preferir slugs estables en minúsc
 - No sobrescribir transcripciones originales ni metadata fuente; crear nuevas capas derivadas cuando haga falta.
 - No modificar fuera de bloques `AUTO` salvo que la tarea lo requiera explícitamente.
 - Si se necesita cambiar una sección manual o crear un concepto definitivo, pedir aprobación si la decisión conceptual es fuerte.
+- Para nuevas fuentes no-ECM, registrar explícitamente `tipo_fuente`, `relacion_norte` y si es testimonio, enseñanza, entrevista, documento o síntesis; no forzarla como “experiencia cercana a la muerte”.
 - Mantener docs livianos: decisiones durables van en `docs/DECISIONS.md`, estado vivo en `docs/WORKING_MEMORY.md`, temas recuperables en `docs/topics/`.
 - Para `aos-realinear-os` o auditoría/reparación de contexto, usar `docs/topics/agentic-os-operations.md` y limitarse a la capa agentica salvo confirmación.
 - En Pi, usar los slash locales `/aos-*` para continuidad, sync, status, guardado de sesión, nueva sesión, gol y orquestación; si no aparecen, ejecutar `/reload` y luego `/aos-sync`.

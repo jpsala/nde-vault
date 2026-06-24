@@ -1,26 +1,28 @@
-# Workflow inicial — de URL de YouTube a caso del vault
+# Workflow inicial — de URL/fuente a caso o unidad del vault
 
 Este es el flujo manual/asistido inicial. Antes de crear una interfaz, vamos a procesar URLs por conversación para descubrir el mejor modelo de datos, los prompts, las categorías y las decisiones editoriales.
 
 ## Principio
 
-El usuario puede pasar una URL de YouTube en el chat y pedir que sea procesada.
+El usuario puede pasar una URL de YouTube, documento, entrevista, artículo, libro o fuente textual en el chat y pedir que sea procesada.
 
-El agente debe convertir esa URL en conocimiento trazable dentro del vault:
+El agente debe convertir esa fuente en conocimiento trazable dentro del vault:
 
 ```txt
-URL de YouTube
+URL / documento / fuente
   ↓
-metadata + transcripción original
+metadata + original/transcripción/notas preservadas
   ↓
-ficha de caso
+ficha de caso o unidad de análisis
   ↓
-fragmentos relevantes con timestamps
+fragmentos relevantes con timestamps o ubicaciones
   ↓
-conceptos detectados
+conceptos detectados, especialmente los ligados al norte vivencial
   ↓
 actualización/propuesta de notas de concepto
 ```
+
+NDE/ECM sigue siendo una fuente privilegiada, pero ya no es requisito. Para fuentes no-ECM, registrar explícitamente que `es_ecm: false` y explicar `relacion_norte`.
 
 ## Modo de trabajo actual
 
@@ -41,9 +43,17 @@ Usaremos:
 Crear o actualizar un registro de fuente/caso con:
 
 - URL;
-- video id;
+- tipo de fuente (`youtube`, `web`, `pdf`, `libro`, `entrevista`, etc.);
+- si es ECM/NDE (`es_ecm: true/false`);
+- relación con el norte vivencial (`relacion_norte`: manifestación, creencias, confianza, miedo, salud, cuidado, etc.);
+- video id si aplica;
 - título si está disponible;
-- canal si está disponible;
+- canal/autor del video si está disponible;
+- link al canal/autor del video;
+- nombre y link de la persona que da el testimonio / experienciador(a) / autor(a) / docente / entrevistado(a), si está disponible;
+- foto del experienciador(a), idealmente preservada localmente;
+- avatar del canal solo como dato secundario, nunca como foto del experienciador;
+- thumbnail del video, idealmente preservado localmente;
 - idioma estimado;
 - fecha de ingreso;
 - estado inicial.
@@ -60,6 +70,10 @@ Archivos sugeridos:
 
 ```txt
 vault/06-fuentes/youtube/<video_id>/metadata.json
+vault/06-fuentes/youtube/<video_id>/source-card.md
+vault/06-fuentes/youtube/<video_id>/media/video-thumbnail.jpg
+vault/06-fuentes/youtube/<video_id>/media/experiencer-photo.jpg
+vault/06-fuentes/youtube/<video_id>/media/channel-avatar.jpg   # opcional/secundario
 vault/06-fuentes/youtube/<video_id>/transcript_youtube_raw.json
 vault/06-fuentes/youtube/<video_id>/transcript_youtube_raw.md
 vault/06-fuentes/youtube/<video_id>/transcript_groq_raw.json
@@ -69,23 +83,25 @@ vault/06-fuentes/youtube/<video_id>/transcript_readable.md
 
 Ver `docs/transcription-policy.md`.
 
-### 3. Crear caso Markdown
+### 3. Crear caso Markdown o unidad de análisis
 
-Crear:
+Crear, cuando corresponda:
 
 ```txt
 vault/01-casos/<case_id>-<slug>.md
 ```
 
-Debe contener:
+Para una fuente no testimonial o no-ECM, también se puede usar el mismo formato como “unidad de análisis” si aporta evidencia conceptual. Debe contener:
 
 - metadata;
+- link a la fuente de video y a la tarjeta visual de fuente (`source-card.md`) cuando exista;
 - resumen;
 - conceptos detectados;
 - fragmentos relevantes;
 - links a timestamps;
 - link a transcripción/fuente original;
-- estado de revisión.
+- estado de revisión;
+- `tipo_fuente`, `es_ecm` y `relacion_norte` en frontmatter cuando aplique.
 
 ### 4. Extraer fragmentos relevantes
 
@@ -115,7 +131,8 @@ El agente debe revisar `vault/02-conceptos/` y decidir si cada fragmento:
 - apoya un concepto existente;
 - matiza un concepto existente;
 - contradice o tensiona un concepto existente;
-- sugiere crear un concepto nuevo.
+- sugiere crear un concepto nuevo;
+- aporta al norte vivencial del proyecto: manifestación, creencias, confianza, creatividad, miedo, salud, cuidado, Dios/Universo confiable, no-soledad.
 
 Si aparece un concepto nuevo importante, **no crear la nota conceptual definitiva sin aprobación explícita del usuario**. En su lugar, registrar una propuesta en el caso y/o en `vault/05-preguntas/` con evidencia y motivo.
 

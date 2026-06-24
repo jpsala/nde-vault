@@ -1,0 +1,942 @@
+# Transcripción YouTube raw — 5XrA79_T_R0
+
+
+Fuente: https://www.youtube.com/watch?v=5XrA79_T_R0
+Tipo: subtítulos automáticos de YouTube preservados sin corrección editorial.
+
+- [00:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=3s) [Music]
+- [00:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=20s) I had a near-death experience in 1987
+- [00:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=23s) and it changed my life completely I was
+- [00:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=26s) the height of my career as a freelance
+- [00:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=29s) image consultant with CBS News and the
+- [00:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=31s) news division we were wrapping up on a
+- [00:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=33s) party a television series party on
+- [00:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=36s) November the 11th 1987 I was a guest of
+- [00:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=38s) a female celebrity and we were
+- [00:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=40s) celebrating my birthday as well as a
+- [00:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=41s) wrap party and that night I became very
+- [00:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=44s) ill I began to have stomach cramps and I
+- [00:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=47s) began to bleed I had been diagnosed with
+- [00:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=51s) what they thought was a stomach ulcer
+- [00:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=52s) several months ahead of time and I let
+- [00:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=54s) something very simple go by refusing to
+- [00:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=57s) take the medications and consequently I
+- [00:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=58s) began to lose weight I had lesions on my
+- [01:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=61s) face on my on my throat in my neck and
+- [01:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=64s) my torso and while I was in the restroom
+- [01:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=67s) I kind of doubled over in pain and hit
+- [01:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=69s) the sink
+- [01:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=69s) I excused myself drove myself home and
+- [01:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=72s) when I got to my front door I collapsed
+- [01:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=75s) and I was bleeding on my carpet on my
+- [01:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=77s) suit apparently I didn't know at the
+- [01:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=79s) time that my intestinal tract had burst
+- [01:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=82s) inside and they had diagnosed me as
+- [01:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=85s) ulcerative colitis am I called a friend
+- [01:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=87s) once I got up and they rushed me to the
+- [01:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=90s) emergency room and they refused to check
+- [01:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=92s) me in because they thought I had AIDS
+- [01:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=94s) and back in the middle of the 80s or the
+- [01:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=95s) latter for the 80s there was so much
+- [01:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=98s) negative media hype on the AIDS epidemic
+- [01:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=100s) that many people who were dying of AIDS
+- [01:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=103s) or coming into the hospitals were turned
+- [01:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=104s) away myself included I was pushed in a
+- [01:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=107s) corner left to die I didn't catch any
+- [01:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=109s) how long I was there maybe an hour
+- [01:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=111s) before someone discovered me a wonderful
+- [01:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=114s) nurse who became my Savior that night
+- [01:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=115s) and it was she who rushed me to the ER
+- [01:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=118s) she made sure that the doctors took care
+- [02:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=120s) of me of course by the time I got a dor
+- [02:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=123s) I had lost too much blood for the last
+- [02:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=125s) six months that they couldn't keep the
+- [02:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=127s) RV's in me my veins kept bursting and as
+- [02:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=131s) I began to to fade in and out of
+- [02:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=133s) consciousness I began to see the first
+- [02:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=136s) tunnel while I was on the operating
+- [02:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=139s) table and I could see this tunnel
+- [02:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=141s) spinning rotating I call it the bullseye
+- [02:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=143s) I didn't know what was happening I
+- [02:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=145s) didn't know why I was seeing this and it
+- [02:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=148s) seems so real
+- [02:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=149s) I watched the doctors in slow motion go
+- [02:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=153s) to medical protocol
+- [02:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=154s) they turn me over on my side and tried
+- [02:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=156s) to hook the IV up into part of my lower
+- [02:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=159s) part of my back and that's when I went
+- [02:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=161s) out I remember as I was fading into I
+- [02:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=164s) guess a black tunnel it was though I was
+- [02:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=167s) in a room full of light in color and all
+- [02:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=170s) of a sudden there was a snap and it was
+- [02:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=172s) just this black line and then I looked
+- [02:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=174s) around the room and me in spirit form if
+- [02:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=178s) you will was looking down at Peter
+- [03:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=180s) Anthony me looking at me but from above
+- [03:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=184s) and I could see the doctors and the
+- [03:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=186s) nurses and the anesthesiologist go into
+- [03:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=188s) medical protocol and I remember looking
+- [03:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=191s) at that and feeling what is going on but
+- [03:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=194s) at the same time not questioning
+- [03:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=197s) anything because everything was so
+- [03:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=199s) surreal and I also felt as though
+- [03:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=202s) something was attached to my solar
+- [03:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=203s) plexus and as though I was being
+- [03:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=205s) vacuumed into this tunnel I could see
+- [03:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=208s) people that I recognized relatives and
+- [03:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=212s) friends and family that had were
+- [03:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=215s) greeting me at this tunnel and I
+- [03:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=216s) remember seeing my third grade teacher
+- [03:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=219s) mrs. Bellamy but not the mrs. Bellamy
+- [03:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=222s) that I knew in school but a younger
+- [03:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=224s) version of mrs. Bellamy someone very
+- [03:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=225s) happy and someone trimmed someone pretty
+- [03:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=229s) as opposed to this woman that I remember
+- [03:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=232s) in school is being frumpy probably it
+- [03:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=234s) seemed like something happened in her
+- [03:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=236s) life that she just lost that zest for
+- [03:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=239s) life as though she was just on a pause
+- [04:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=242s) moment going through life and that's
+- [04:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=244s) what I remember seeing her but here was
+- [04:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=246s) this young woman full of life and energy
+- [04:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=249s) and she greeted me and then I remember I
+- [04:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=252s) was spinning in this rotating tunnel I
+- [04:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=255s) began to see mathematical equations 2 2
+- [04:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=258s) 2 3 3 3 4 4 4 11 11 I began to see all
+- [04:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=263s) these quantum physics code geometry you
+- [04:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=266s) know physics and at that moment as I am
+- [04:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=268s) spinning as a spirit into this tunnel
+- [04:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=270s) I'm digesting every mathematical code I
+- [04:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=274s) knew exactly what it meant and me being
+- [04:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=279s) an artist very right brain was operating
+- [04:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=282s) on a left brain consciousness digesting
+- [04:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=285s) and absorbing and knowing all these
+- [04:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=287s) mathematical
+- [04:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=287s) equations and what they meant once I got
+- [04:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=291s) through the tunnel I ended up end this
+- [04:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=293s) tree I don't even know where to begin to
+- [04:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=295s) describe this tree but I was sitting in
+- [04:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=297s) this tree and I was greeted by I call it
+- [04:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=299s) an ascended master or an angel if you
+- [05:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=301s) will or an entity or a being that was
+- [05:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=304s) advanced you know being agnostic at the
+- [05:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=306s) time I didn't believe that there were
+- [05:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=309s) angels I didn't believe in God I didn't
+- [05:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=311s) believe in Jesus you live you die you
+- [05:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=315s) work you get a family you buy a home and
+- [05:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=317s) that's it
+- [05:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=318s) there was no interpretation there was no
+- [05:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=320s) alertness to religion I just denied it
+- [05:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=323s) if you will but I just didn't believe in
+- [05:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=325s) the God that I had been taught so there
+- [05:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=330s) I'm sitting on this tree in a
+- [05:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=332s) stratosphere before me with my life
+- [05:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=334s) review it began from the time I was born
+- [05:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=338s) in a hospital until the time I died and
+- [05:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=341s) I watched everything in my life moments
+- [05:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=344s) that you forget about moments that you
+- [05:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=346s) driving around and and you acknowledge
+- [05:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=349s) someone across in the street or you see
+- [05:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=351s) a child at a park and every moment of my
+- [05:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=354s) life had been recorded like a matrix it
+- [05:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=357s) was like everything was showing
+- [05:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=358s) simultaneously of everything every
+- [06:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=360s) conversation every person every
+- [06:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=362s) situation every encounter every moment
+- [06:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=366s) that no one thought you know or when we
+- [06:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=368s) go back to those moments we we think no
+- [06:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=371s) one's watching
+- [06:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=372s) everything recorded and I remember in
+- [06:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=376s) high school my sister was sharing a
+- [06:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=379s) locker next to me and it was my birthday
+- [06:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=381s) and my sister and I were very close and
+- [06:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=383s) all my football buddies were around me
+- [06:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=386s) and she was saying aren't you gonna say
+- [06:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=389s) how much you love me and how much you
+- [06:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=391s) care for me I'm your best friend and I'm
+- [06:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=393s) watching this moment embarrassed because
+- [06:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=396s) she's doing all this in front of my
+- [06:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=397s) friends and I'm watching this as though
+- [06:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=400s) not in an interim perspective of
+- [06:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=402s) judgment and sadness but awareness
+- [06:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=406s) watching my sister say all these things
+- [06:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=408s) and I can hear my thoughts in my head
+- [06:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=411s) watching this moment in my life saying
+- [06:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=415s) just go away my my friends are watching
+- [06:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=417s) and I didn't say anything and I walked
+- [07:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=420s) away
+- [07:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=421s) that was the night my sister was killed
+- [07:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=423s) by a drunk driver what I learned was
+- [07:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=427s) those moments when we go through life
+- [07:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=429s) that we don't share with people how much
+- [07:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=432s) we love them how much we care for them
+- [07:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=434s) the moment for me as I looked down there
+- [07:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=436s) was no judgment just like you know this
+- [07:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=438s) angel if you will see what you did there
+- [07:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=441s) wasn't any of that what was there was in
+- [07:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=443s) my heart you could have done better
+- [07:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=446s) Peter my sister and I were left in an
+- [07:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=449s) orphanage and you know when you have a
+- [07:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=452s) bond with the only family member that
+- [07:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=454s) you remember when I lost her it was
+- [07:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=456s) tough and these moments kept occurring
+- [07:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=460s) where you would see your life that you
+- [07:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=462s) look down again no judgment but
+- [07:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=464s) observation with kindness and compassion
+- [07:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=466s) and understanding for for yourself of
+- [07:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=471s) everything that we do that we think were
+- [07:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=474s) not being watched
+- [07:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=475s) it's our life those moments that we can
+- [07:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=478s) shine as individuals every moment of our
+- [08:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=481s) life are recorded I didn't murder anyone
+- [08:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=484s) I didn't you know rob a store I wasn't
+- [08:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=487s) vilde to people but what I did see as I
+- [08:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=491s) said were these moments were I could
+- [08:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=493s) have shined where I could have helped
+- [08:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=496s) someone that needed help I remember
+- [08:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=498s) driving I was being interviewed for CBS
+- [08:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=501s) and I was this is my sixth and final
+- [08:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=503s) interview and I thought I had it in the
+- [08:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=504s) bag and you know rather cocky and I'm
+- [08:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=508s) driving across this bridge and I have my
+- [08:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=510s) windows down and music is playing loud
+- [08:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=512s) and I pull up some gum and take it off
+- [08:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=515s) the wrapper and put it in my mouth and I
+- [08:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=516s) flick the wrapper and the paper off the
+- [08:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=520s) bridge and watch this wrapper just going
+- [08:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=523s) down this river and this wrapper is met
+- [08:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=525s) by trash I'm seeing needles I'm seeing
+- [08:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=527s) cat litter I'm saying all kinds of
+- [08:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=529s) debris trash meeting trash and I watched
+- [08:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=532s) this wrapper go down this river into a
+- [08:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=535s) lake and the lake went off into another
+- [08:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=537s) river and it went down the river past
+- [09:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=541s) these oil refineries and all the toxic
+- [09:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=543s) waste that were coming out of this
+- [09:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=545s) factory this oil refinery were meeting
+- [09:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=548s) other waste and what I saw were children
+- [09:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=551s) swimming in the river in the lakes I
+- [09:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=553s) guess I was
+- [09:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=555s) forward into a moment in my life where I
+- [09:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=557s) could see these children that have died
+- [09:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=559s) due to toxic waste and the doctors
+- [09:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=562s) having no idea what happened yet the oil
+- [09:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=565s) companies and the oil refineries they
+- [09:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=566s) did I saw the pharmaceutical companies
+- [09:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=569s) turning their their faces in another
+- [09:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=571s) direction it made me realize that my one
+- [09:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=573s) rapper affects everyone and so it made
+- [09:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=577s) me when I came back more environmentally
+- [09:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=579s) aware to this day I try to do things
+- [09:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=582s) that basically are more positive to the
+- [09:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=585s) environment and again I I say this
+- [09:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=587s) because my life review was about
+- [09:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=589s) everything and nothing how each moment
+- [09:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=592s) that we live on this life is a moment of
+- [09:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=594s) value and we kind of forget that so I
+- [09:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=599s) went to this place called Bardo for
+- [10:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=601s) those who were Catholic you might know
+- [10:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=603s) the term purgatory or limbo and there
+- [10:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=606s) was a cleansing I called it the
+- [10:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=608s) cleansing station and I got a chance to
+- [10:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=610s) look around if you will a much larger
+- [10:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=613s) stratosphere I was in this galaxy
+- [10:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=614s) looking down at Mother Earth and looking
+- [10:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=617s) at the stars and other planets but it
+- [10:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=620s) was though I had a zoom lens and I could
+- [10:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=622s) zero into different parts of the world
+- [10:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=624s) and I could see the massacre in the
+- [10:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=625s) dolphin I could see governments all
+- [10:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=627s) around the world we given our power way
+- [10:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=630s) to two leaders who basically abuse that
+- [10:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=632s) power and we were so eager to give that
+- [10:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=635s) power to people who were so eager to use
+- [10:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=636s) it against us and you're watching this
+- [10:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=639s) and again no judgment you're not looking
+- [10:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=641s) down going oh what a horrible human
+- [10:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=642s) being you are what a horrible leader you
+- [10:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=644s) are but what you're seeing from your
+- [10:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=646s) perspective is wow what can I do to
+- [10:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=650s) contribute I'm having this conversation
+- [10:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=652s) with what I call God but it wasn't the
+- [10:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=657s) man and the beard and the white cloak
+- [10:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=659s) and the staff and it was an entity
+- [11:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=661s) surrounded by gold fragments of life you
+- [11:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=663s) know imagine a fire going out on the
+- [11:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=666s) Amber's the gold
+- [11:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=667s) Amber's just are floating all around you
+- [11:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=670s) but multiply that by ten times this this
+- [11:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=674s) fragment of energy was going through me
+- [11:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=676s) it came from my silver in the back and
+- [11:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=679s) went out to my solar plexus and I could
+- [11:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=680s) feel this kindness and compassion and
+- [11:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=683s) love that
+- [11:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=685s) how do you describe it I mean if you
+- [11:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=688s) have a dog you how much you love your
+- [11:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=690s) dog you have a girlfriend you know how
+- [11:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=691s) much you love your girlfriend multiply
+- [11:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=693s) that 10 times 10 times 10 it's not
+- [11:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=696s) suffice that's how much love you feel
+- [11:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=699s) for me this was a turning point in my
+- [11:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=702s) life because I realized that we as a as
+- [11:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=705s) a people we have a lot of anger I could
+- [11:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=709s) see as I said you know just the master
+- [11:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=710s) of the animal kingdom but what we did to
+- [11:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=713s) her our mother earth and and war I mean
+- [11:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=715s) I saw so much war going on we are a
+- [11:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=718s) warring planet and based on what
+- [12:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=721s) someone's ego someone's abuse of power
+- [12:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=725s) so as I looked at this planet that we
+- [12:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=728s) call earth I was given a choice to go
+- [12:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=731s) back do you want to go back the voice
+- [12:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=733s) said and I could look at all this anger
+- [12:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=736s) on our planet that the warring nations
+- [12:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=738s) but I also got a chance to see teachers
+- [12:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=742s) and firemen and policemen and neighbors
+- [12:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=746s) and strangers doing such kind deeds I
+- [12:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=749s) also got a chance to see my life ahead I
+- [12:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=753s) saw myself speaking to scores of people
+- [12:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=755s) that lectures I saw myself writing books
+- [12:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=758s) I saw myself traveling around the world
+- [12:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=760s) talking about my near-death experience I
+- [12:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=763s) also saw my two year recovery and I knew
+- [12:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=766s) the challenges ahead the psychiatrist
+- [12:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=768s) and I also saw my attempted suicide all
+- [12:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=770s) these things I saw ahead and the voice
+- [12:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=773s) do you want to go back and I said yes
+- [12:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=776s) and I remember all around me were these
+- [12:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=778s) fragments of energy and color and and I
+- [13:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=780s) remember being in this sphere of light
+- [13:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=783s) if you will going back and I remember
+- [13:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=786s) the moment I hit my physical body
+- [13:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=789s) I remember that I woke up apparently I
+- [13:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=791s) was unconscious for three and a half
+- [13:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=793s) weeks and when I woke up there were
+- [13:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=794s) Christmas decorations in the hospital
+- [13:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=796s) when I went into the hospital on
+- [13:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=798s) November the 11th there was nothing so
+- [13:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=801s) it was this kind of reality check of oh
+- [13:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=803s) my god this time had elapsed what
+- [13:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=806s) happened but something occurred on the
+- [13:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=810s) other side and so many people always say
+- [13:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=812s) oh it's just a dream or you hallucinate
+- [13:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=815s) it or so many of these things they say
+- [13:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=817s) are not real you and your
+- [13:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=819s) heart no what you saw any of a sudden
+- [13:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=820s) you know what you felt on the other side
+- [13:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=822s) and while I was going down the hall in
+- [13:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=825s) the hospital and watching people go in
+- [13:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=827s) and out of this hospital certainly on a
+- [13:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=829s) very difficult night not only for myself
+- [13:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=831s) but for other patients who were coming
+- [13:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=833s) in there was a friend of mine who showed
+- [13:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=835s) up and I remember passing her there's me
+- [13:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=838s) Peter the spirit form passing her and as
+- [14:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=842s) she as I passed her she said Peter
+- [14:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=845s) Anthony it's not your time to go and I
+- [14:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=847s) remember that moment and so when she
+- [14:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=848s) came into the room I shared that with
+- [14:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=851s) her and she looked at me as though how
+- [14:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=854s) did you know that I also came back with
+- [14:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=857s) this knowledge of my disease and that
+- [14:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=861s) the medications that they were giving me
+- [14:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=862s) were causing harmful effects to my
+- [14:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=865s) physical body so what had these
+- [14:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=867s) conversations with the doctor about the
+- [14:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=869s) antibiotics and the the quarter zones
+- [14:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=871s) and the steroids they were putting my
+- [14:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=872s) body and and they wouldn't listen to me
+- [14:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=875s) they kept feeding my body with all these
+- [14:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=877s) harsh chemicals I lost my vision I
+- [14:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=880s) couldn't walk the staph infection
+- [14:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=882s) appeared out of nowhere and stayed on my
+- [14:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=884s) face and just basically called from
+- [14:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=886s) cheek up to to ear they couldn't cure it
+- [14:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=889s) I had these adverse reactions and an
+- [14:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=891s) inexplicable reaction to all the
+- [14:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=893s) medications that were given me and the
+- [14:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=895s) doctors couldn't explain it they
+- [14:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=896s) couldn't explain why I lost my vision
+- [14:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=898s) they couldn't explain why I couldn't
+- [14:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=899s) walk I knew and so what I did I told my
+- [15:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=905s) friend the woman I that came to stay
+- [15:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=908s) with me and throughout this horrible
+- [15:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=909s) Hospital experience and I asked for
+- [15:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=912s) certain vitamins I asked for acidophilus
+- [15:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=914s) I asked for pure garlic I asked for
+- [15:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=916s) certain herbs and she we were off to the
+- [15:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=919s) vitamin stores and find these herbs and
+- [15:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=921s) vitamins and bring them back to me and
+- [15:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=922s) and I began to take these herbs because
+- [15:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=925s) I knew I had to and I began to wean
+- [15:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=928s) myself off though
+- [15:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=929s) the medication that the doctors are
+- [15:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=930s) giving me and it was that that helped
+- [15:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=933s) save my life so for me the challenges
+- [15:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=938s) medically were tough but the most
+- [15:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=940s) difficult part the people who didn't
+- [15:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=944s) listen to me who didn't believe me I
+- [15:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=945s) came back as I said you know not
+- [15:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=948s) stuttering but I came back talking about
+- [15:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=951s) what happened to me
+- [15:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=952s) to the side I just couldn't share my
+- [15:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=955s) story enough with people and they look
+- [15:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=957s) at you like you're a nutcase and you
+- [15:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=958s) know I can hear the nurses thoughts in
+- [16:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=961s) their head oh my god this guy is a whack
+- [16:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=962s) job you know and they would look at my
+- [16:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=965s) frail body and everyone had given up
+- [16:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=967s) hope on me not me I knew what I had to
+- [16:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=972s) do I knew I had to write books I knew I
+- [16:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=973s) had to travel I knew I had to to do
+- [16:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=976s) lectures and talk about my near-death
+- [16:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=977s) experience but people just didn't care I
+- [16:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=981s) remember on one day the doctor came in
+- [16:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=984s) and said to me mr. Anthony unfortunately
+- [16:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=987s) I have some bad news for you we're gonna
+- [16:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=989s) have to do another surgery I knew that
+- [16:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=991s) if I went in for another surgery that
+- [16:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=993s) was it and so I said I refuse the
+- [16:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=995s) surgery they also want to do radiation
+- [16:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=999s) treatment and if that didn't work they
+- [16:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1000s) would do chemo and I knew if I had chemo
+- [16:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1003s) or did radiation treatment I was a goner
+- [16:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1005s) so I refused and they told me that if I
+- [16:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1009s) didn't do this I had less than three
+- [16:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1010s) months to live I remember months later
+- [16:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1013s) when I was being checked out it's not
+- [16:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1016s) that I walked but friends helped me and
+- [16:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1018s) i hobbled to that elevator down the
+- [17:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1020s) hallway down to the elevator and I turn
+- [17:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1021s) around that doctor I said I'm walking
+- [17:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1023s) and that was the moment that I knew that
+- [17:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1025s) life began for me walking down that
+- [17:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1028s) Hospital corridor because I was
+- [17:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1030s) determined that no one else's opinion
+- [17:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1031s) was gonna matter more than my own and
+- [17:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1033s) went back to see that doctor and he
+- [17:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1036s) called me through his miracle patient
+- [17:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1037s) stunned by my recovery stunned by you
+- [17:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1040s) know what I was doing in terms of my own
+- [17:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1041s) recovery I guess the saddest part of
+- [17:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1043s) recovery are the people who who didn't
+- [17:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1046s) believe the friends that disappeared
+- [17:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1049s) what a little bit of family I did have
+- [17:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1051s) left still this day doesn't talk to me
+- [17:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1053s) there's a lot of suicide with near-death
+- [17:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1056s) experiencers
+- [17:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1057s) they can't deal with the information
+- [17:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1059s) that we've been given I have a dear
+- [17:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1061s) friend of mine who had a near-death
+- [17:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1063s) experience and her husband is the Deacon
+- [17:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1065s) of a Baptist Church she's talked about
+- [17:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1067s) her nearthe experience she's forbidden
+- [17:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1068s) to talk about it her husband basically
+- [17:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1071s) is not kind to her and she's brilliant
+- [17:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1074s) and she sits in this world of religion
+- [17:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1078s) if you will and they don't believe her
+- [18:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1080s) so it's tough it's tough for many of us
+- [18:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1083s) I have many people have passed in
+- [18:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1086s) back who are experience or some have a
+- [18:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1088s) really tough time dealing with we called
+- [18:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1090s) the real world because you come back
+- [18:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1092s) hypersensitive and you look at life
+- [18:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1095s) differently you know I lost my vision
+- [18:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1097s) every morning I get up I take a
+- [18:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1100s) gratitude walk and I look around all
+- [18:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1103s) this beauty and I know I've been given a
+- [18:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1106s) second chance so I don't take what I see
+- [18:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1109s) for granted add the fact that was in a
+- [18:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1111s) wheelchair for quite some time I
+- [18:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1113s) couldn't walk when I walk to this day
+- [18:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1117s) I'm grateful we take for granted that
+- [18:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1119s) we're given a day your your day kid in
+- [18:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1122s) this afternoon at two o'clock so I don't
+- [18:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1125s) take any of that for granted I live my
+- [18:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1127s) life as though today's my last day and I
+- [18:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1129s) mean that my psychic abilities begin to
+- [18:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1138s) happen while I was recovering in the
+- [19:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1140s) hospital I began to see ghosts they
+- [19:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1143s) would walk in to the rooms I would see
+- [19:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1145s) patients that had passed and I'm walking
+- [19:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1148s) down the hallway and I'd see my world
+- [19:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1150s) meaning the real world and you'd have
+- [19:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1152s) the paranormal world of doctors and
+- [19:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1154s) nurses and who had passed and patients
+- [19:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1156s) who had died and there was world was in
+- [19:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1159s) within world so I began to communicate
+- [19:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1160s) with these ghosts so for me spirits come
+- [19:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1164s) they talk to me people to understand
+- [19:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1167s) when they talk to you they talk to you
+- [19:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1169s) as though they're communicating you hear
+- [19:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1171s) the sound here I lost my sister on my
+- [19:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1174s) birthday in November the 11th in fact
+- [19:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1176s) every person I've loved I've lost on
+- [19:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1179s) November the 11th I died on November
+- [19:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1181s) 11th I lost my grandfather November the
+- [19:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1183s) 11th so when my sister comes to me she's
+- [19:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1186s) usually at the foot of the bed and she's
+- [19:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1188s) encased in blue light and very quietly
+- [19:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1191s) and very softly she speaks to me you
+- [19:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1193s) feel it here in your heart and your soul
+- [19:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1197s) in your chest you communicate on a very
+- [20:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1200s) intuitive level how do you explain that
+- [20:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1203s) you share that and people look at you as
+- [20:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1206s) though you're a nutcase but for those of
+- [20:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1208s) us who had that experience you never
+- [20:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1210s) forget it
+- [20:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1210s) it's real to you and you're wide awake
+- [20:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1213s) when it's happening
+- [20:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1215s) and so I have learned to operate within
+- [20:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1218s) both worlds and for me when I listened
+- [20:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1221s) to those spirits who come to me and they
+- [20:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1224s) come to me all the time I had won a beer
+- [20:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1226s) last night shut off the TV and wasn't
+- [20:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1229s) anywhere near the remote I have lights
+- [20:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1231s) that flicker on and off I mean I always
+- [20:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1233s) know when something shows up in my world
+- [20:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1236s) you know the room smells of you know of
+- [20:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1238s) roses or gardenias or the temperature
+- [20:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1241s) drops you just know when a spirit is is
+- [20:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1244s) approaching or or is there and you
+- [20:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1247s) learned to work with that the other
+- [20:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1249s) world the afterlife became a part of my
+- [20:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1251s) new reality and what I did I read I was
+- [20:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1255s) so enamored by numbers and what I saw on
+- [20:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1257s) the other side I had my friend Norah
+- [20:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1259s) bring me numerology books and I would
+- [21:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1261s) just read the basic numbers of 1 through
+- [21:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1264s) 9 of numerology I had to bring astrology
+- [21:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1266s) books and I began to absorb all this
+- [21:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1268s) information it made sense to me I was in
+- [21:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1270s) isolation I didn't go out I basically
+- [21:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1272s) went to work shared my story with no one
+- [21:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1275s) and read studied I saw clients on the
+- [21:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1278s) side for free trying to understand what
+- [21:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1282s) this was I was experiencing and I
+- [21:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1284s) remember of that phone call that came in
+- [21:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1285s) it was a homicide detective and said
+- [21:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1287s) mister Anthony this is homicide
+- [21:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1288s) so-and-so and detective so-and-so when
+- [21:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1292s) we're working on a case and he said it
+- [21:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1295s) revolves around special effects makeup
+- [21:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1297s) which I had been studying and also
+- [21:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1300s) numerology and it was a case they
+- [21:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1303s) couldn't solve and it was codes that
+- [21:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1305s) they found at this at this victim's home
+- [21:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1308s) I didn't know what I was doing I never
+- [21:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1311s) worked on a homicide case before but I
+- [21:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1313s) showed up and this is when the spirits
+- [21:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1316s) began to kind of appear to me what
+- [21:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1318s) turned out to be the victim in my world
+- [22:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1321s) of understanding he was actually the
+- [22:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1322s) serial killer and I was able to help
+- [22:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1325s) these detectives solve a murder case
+- [22:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1328s) that was going in the wrong direction
+- [22:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1330s) and this led me to going on a television
+- [22:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1333s) series called sightings and I became the
+- [22:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1336s) country's youngest parallel investigator
+- [22:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1338s) traveling around the United States of
+- [22:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1340s) America you're working on unsolved
+- [22:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1342s) murder cases and going to haunted caves
+- [22:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1344s) and cemeteries and houses that were
+- [22:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1347s) haunted you know Kay
+- [22:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1348s) that were haunted and I left CBS as an
+- [22:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1353s) image consultant freelance image
+- [22:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1354s) consultant and I did a pilot it aired on
+- [22:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1358s) her Friday night and one night my entire
+- [22:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1360s) life was changed going into what many
+- [22:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1364s) people say called witchy-woo
+- [22:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1366s) and here I was as a parent investigator
+- [22:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1369s) traveling around and using these gifts
+- [22:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1372s) that I had apparently brought back with
+- [22:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1374s) me from the other side I to this day I
+- [22:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1376s) don't know how I know what I know when I
+- [22:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1378s) walk into a to a crime scene I see
+- [23:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1382s) images I know when I'm working on a case
+- [23:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1384s) and that's legit if the night before the
+- [23:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1387s) ghosts show up and they usually show up
+- [23:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1389s) it's when we were three and 3:15 in the
+- [23:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1391s) morning and that's how I know I'm
+- [23:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1393s) working on an unrelated case and when I
+- [23:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1395s) show up I went to a Catholic Church
+- [23:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1396s) downtown Los Angeles had an entire
+- [23:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1399s) production crew there we were working
+- [23:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1402s) with celebrity hosts and they were in
+- [23:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1404s) this church laughing about the ghosts
+- [23:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1406s) and the murder they'd none of them
+- [23:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1407s) believed what was going on there and
+- [23:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1409s) there I am I'm seeing a nun with their
+- [23:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1411s) hands crossed over like this shaking her
+- [23:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1414s) head there was a priest there was a
+- [23:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1415s) child who had died in this particular
+- [23:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1417s) church and they're sitting here so there
+- [23:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1419s) is no respect for the other the other
+- [23:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1421s) side at times and my job as a I don't
+- [23:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1424s) want to use the word or term ghost
+- [23:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1426s) whisperer but that's pretty much what I
+- [23:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1428s) am I listen to the whispers of these
+- [23:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1431s) obvious ghosts of these entities of
+- [23:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1432s) these spirits if you will and that's how
+- [23:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1435s) they talk they whisper to us
+- [23:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1438s) [Music]
+- [24:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1442s) imagine you're filming me and all of a
+- [24:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1444s) sudden you have a ghost behind me and
+- [24:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1446s) this ghost is trying to communicate with
+- [24:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1447s) you well first of all logic says you're
+- [24:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1450s) stunned by what you're seeing and you
+- [24:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1452s) deny it
+- [24:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1453s) so right off the bat your consciousness
+- [24:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1456s) goes to the left brain and tells you
+- [24:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1458s) this is not happening
+- [24:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1459s) the right brain is telling you yes it is
+- [24:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1462s) happening you're in battle what we call
+- [24:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1463s) the tug-of-war of the left and the right
+- [24:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1465s) brain so by the time you digest the
+- [24:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1468s) information the spirit is left what I've
+- [24:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1471s) learned to do is when that moment occurs
+- [24:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1473s) I listen to the ghost I don't freak out
+- [24:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1476s) and go what are you doing here what do
+- [24:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1477s) you want to say you listen what I've
+- [24:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1480s) learned and why I teach especially those
+- [24:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1483s) who come to me but all my lectures be
+- [24:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1485s) still just quiet yourself and the
+- [24:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1489s) message will come the message always
+- [24:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1490s) comes through a song through a
+- [24:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1491s) conversation what so many of us do is we
+- [24:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1494s) deny and we can't accept that truth and
+- [24:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1498s) it's the truth I mean you know you can't
+- [25:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1502s) accept that this image that is before
+- [25:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1503s) you is an actual image so we basically
+- [25:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1506s) line deny to ourselves and so what
+- [25:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1508s) happens in our paranormal world where
+- [25:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1511s) things go bump in the night these
+- [25:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1512s) spirits are communicating with us every
+- [25:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1515s) one of us has intuitive abilities we
+- [25:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1517s) just don't use them because we goes back
+- [25:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1519s) to how we were taught we are taught
+- [25:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1521s) basically that this world that we're
+- [25:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1524s) living in now is it a real world and so
+- [25:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1528s) therefore if it's happening to us we go
+- [25:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1530s) back to our memory of that's not real
+- [25:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1533s) you know perhaps it was your father
+- [25:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1535s) perhaps it was a teacher it was a priest
+- [25:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1536s) things like they don't exist you go back
+- [25:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1539s) to that learning it just can't be real
+- [25:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1541s) and so what happens these spirits these
+- [25:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1543s) these images these unusual events that
+- [25:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1546s) take place will continue to take
+- [25:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1547s) pleasure in life until it gets your
+- [25:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1549s) attention
+- [25:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1550s) why did it happen when's it gonna happen
+- [25:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1553s) again
+- [25:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1553s) how long will it take before it happens
+- [25:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1556s) we go back to that logical way of trying
+- [25:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1559s) to put something abnormal into a normal
+- [26:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1562s) equation and so therefore it doesn't
+- [26:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1563s) make sense so we deny it
+- [26:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1564s) and move on and it happens again and it
+- [26:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1567s) keeps happening you know I can't tell
+- [26:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1569s) how many signs I'm tiny many times I've
+- [26:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1571s) seen a billboard that I'm
+- [26:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1572s) only through conflict my life an example
+- [26:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1575s) moving to Palm Springs I had a job offer
+- [26:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1577s) in Los Angeles at 2 in San Francisco a
+- [26:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1578s) job offer in Denver and I was asking
+- [26:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1582s) universe God if you will Spirit to show
+- [26:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1584s) me to give me an answer and I ran a red
+- [26:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1588s) light and almost hit a moving truck and
+- [26:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1591s) on that truck it says moved to Palm
+- [26:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1593s) Springs I moved here with no job how do
+- [26:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1596s) you explain that and I remember the
+- [26:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1598s) first day I sat down I said okay I'm
+- [26:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1599s) gonna write a book and I'm gonna talk
+- [26:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1602s) about my near-death experience and I'm
+- [26:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1603s) gonna travel and the phone wasn't
+- [26:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1605s) ringing but I knew it's supposed to
+- [26:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1607s) happen so I just had to hand it over you
+- [26:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1612s) learned to listen to the west' whisper
+- [26:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1614s) spielberg talks better all the time
+- [26:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1616s) Alfred Hitchcock spoke about it you just
+- [26:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1618s) learn to trust your intuition because
+- [27:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1621s) your intuition is never wrong I no
+- [27:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1626s) longer explained to to any of my friend
+- [27:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1628s) well back then I no longer explained to
+- [27:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1632s) people I now have friends who support me
+- [27:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1634s) and trust me and know that my intuition
+- [27:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1636s) is spot-on and so when I get a
+- [27:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1638s) premonition when I get an idea or a
+- [27:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1641s) hunch they listen to me because they've
+- [27:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1643s) seen it happen in my life too many times
+- [27:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1645s) so I've learned to operate with
+- [27:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1648s) intuition as my guiding principle and
+- [27:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1650s) for me for my world it works one of the
+- [27:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1660s) greatest lessons I learned was the law
+- [27:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1662s) of attraction thoughts do become things
+- [27:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1665s) write your thoughts down every day I
+- [27:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1668s) have a thought or manifestation near my
+- [27:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1670s) computer or on my daily calendar and I
+- [27:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1672s) write it down and every day I visualize
+- [27:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1673s) it I see that you put it into your
+- [27:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1675s) consciousness and you began just allow
+- [27:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1677s) the universe to bring the seeds to you
+- [28:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1680s) till your soil
+- [28:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1681s) do your work get on with your day
+- [28:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1683s) that'll allow the universe to bring to
+- [28:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1685s) you the gift and this is what I do
+- [28:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1687s) provide the people the place in the
+- [28:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1688s) situation's and my job is to show up in
+- [28:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1691s) faith not in fear most of us show up in
+- [28:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1693s) fear and so consequently one that when
+- [28:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1696s) that affirmation when that manifestation
+- [28:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1698s) list isn't beginning to appear something
+- [28:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1700s) happens in our life and it's like it
+- [28:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1702s) kind of just Suede's that consciousness
+- [28:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1704s) if you will or that affirmation
+- [28:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1706s) and you start back all over again what I
+- [28:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1709s) began to learn to do is attract what I
+- [28:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1712s) feel is my piece of the pie and I don't
+- [28:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1716s) listen to the naysayers you know when I
+- [28:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1719s) went on to the serious sightings my
+- [28:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1721s) agent and the producers CBS said don't
+- [28:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1723s) do that
+- [28:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1723s) friend said don't do that it was the
+- [28:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1725s) best they never happened to me when I
+- [28:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1727s) began to write this book keymaster you
+- [28:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1730s) can't write no one's gonna listen to
+- [28:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1732s) your book about your near-death
+- [28:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1733s) experience
+- [28:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1733s) I'm travelling on the world talking
+- [28:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1735s) about my near-death experience you go
+- [28:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1737s) into what you know in your heart and
+- [28:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1739s) your heart doesn't line to you your
+- [29:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1742s) hunch does not line to you what you know
+- [29:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1744s) that you're capable of doing if you have
+- [29:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1745s) a given I've been given a god-given
+- [29:07](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1747s) talent you know what your job is walk in
+- [29:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1750s) faith and not in fear and so when those
+- [29:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1752s) outside voices what I call the opinions
+- [29:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1754s) of other people step in i tune them out
+- [29:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1757s) you'll learn to operate on a much higher
+- [29:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1759s) level start with the little things
+- [29:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1761s) meaning with me I I always see my bank
+- [29:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1765s) account at a certain amount and it's
+- [29:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1768s) funny how I'm self-employed checks
+- [29:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1772s) always seem to come in the mail every
+- [29:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1774s) day you get a check i bless it when you
+- [29:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1777s) hand something over to the universe you
+- [29:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1779s) know think about it look at all the
+- [29:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1780s) planets in the Sun and the trees in
+- [29:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1781s) nature all in perfect alignment it's us
+- [29:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1784s) who are not in perfect alignment get in
+- [29:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1787s) an alignment with yourself your higher
+- [29:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1788s) self if you will that's how it works for
+- [29:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1790s) me and I trust when I put something out
+- [29:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1793s) to the universe
+- [29:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1794s) I call it my peel my purchase order to
+- [29:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1795s) universe you know if I put a certain
+- [29:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1797s) thing out to universe if I asked if I go
+- [29:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1799s) to a restaurant ask for chicken-fried
+- [30:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1801s) steak and gravy and biscuits you know
+- [30:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1803s) I'm assuming that it's gonna happen I'm
+- [30:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1806s) not gonna get meatloaf and and mashed
+- [30:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1808s) potatoes so that's how I approach life
+- [30:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1811s) I put exactly out what I want to see
+- [30:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1813s) from the universe and it just seems to
+- [30:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1815s) happen you have to believe that it's
+- [30:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1819s) going to happen you have to believe and
+- [30:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1821s) when you believe it manifests into your
+- [30:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1825s) life when you doubt it seems to come up
+- [30:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1828s) and then something gets in the way and
+- [30:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1830s) changes that that but that one core
+- [30:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1832s) ingredient I call faith is what gets me
+- [30:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1834s) going I'm here living proof I'm not
+- [30:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1837s) supposed to be here they gave me three
+- [30:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1839s) months to live I
+- [30:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1840s) would never walk again we didn't know
+- [30:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1842s) what's gonna happen to my vision here
+- [30:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1843s) I'm seeing you know what if you learn to
+- [30:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1846s) operate in gratitude and faith and
+- [30:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1849s) compassion and hand your life over to
+- [30:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1852s) the universe and just being in perfect
+- [30:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1854s) alignment and start listening to those
+- [30:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1856s) billboards or those signs of that
+- [30:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1858s) conversation or that movie that happens
+- [31:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1860s) to speak to you say there for a moment
+- [31:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1862s) and allow something to happen in your
+- [31:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1865s) life because that's where entertainers
+- [31:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1868s) if you want to say millionaires
+- [31:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1869s) celebrities certain people athletes you
+- [31:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1873s) know they believe in the power of mind
+- [31:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1876s) the mind is brilliant use it and that's
+- [31:19](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1879s) what I learn on the other side to use my
+- [31:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1881s) mind I never wrote a book before I wrote
+- [31:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1884s) my book I didn't even know how to type I
+- [31:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1886s) wrote my book on sticky notes and handed
+- [31:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1890s) all my sticky notes over to a person who
+- [31:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1891s) typed and I said I okay now I need an
+- [31:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1894s) editor so I put that out okay I need an
+- [31:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1897s) editor and I met with the woman from
+- [31:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1899s) paramount and she said this is a really
+- [31:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1902s) good great concept what you need a good
+- [31:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1903s) editor that's what I don't know what
+- [31:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1905s) editor she's well I know somebody and so
+- [31:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1907s) she made a phone call the editor turned
+- [31:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1909s) me down because that was the first time
+- [31:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1910s) writer but I handed the manuscript over
+- [31:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1912s) and it was six months before it was read
+- [31:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1916s) it was her husband who was atheist who
+- [31:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1918s) read the manuscript who said you've got
+- [32:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1920s) to help this man and at his book and
+- [32:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1922s) we've been editors since 2003 I mean
+- [32:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1926s) she's been my editor since 2003 I have
+- [32:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1929s) seen in my life things that have
+- [32:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1931s) occurred that I thought were impossible
+- [32:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1933s) that have occurred the universe's jobs
+- [32:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1936s) to provide the people the place in the
+- [32:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1938s) situation and then our jobs to trust if
+- [32:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1942s) there's one thing to do on this planet
+- [32:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1943s) what do you want to do what's the end
+- [32:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1945s) result what is in goal that's how I
+- [32:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1947s) began to see my life occur and the other
+- [32:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1949s) world that we try is well shoulda coulda
+- [32:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1952s) woulda should I do it maybe not good
+- [32:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1954s) I've done this I don't know I don't live
+- [32:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1956s) in that world of doubt anymore
+- [32:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1957s) I believe I'm here for a purpose and
+- [32:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1960s) once you believe in your purpose there's
+- [32:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1963s) nothing's gonna stop you
+- [32:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1965s) I've learned to change my vocabulary in
+- [32:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1967s) my head I can do this I used to stutter
+- [32:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1970s) when I saw myself on the other side
+- [32:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1972s) speaking to people I thought how am I
+- [32:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1974s) gonna do that I remember the first time
+- [32:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1976s) I did a television interview I was so
+- [32:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1977s) nervous I stuttered and they yanked me
+- [32:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1979s) off set I was humiliated but I said to
+- [33:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1983s) myself never again while I walk in the
+- [33:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1985s) shadow someone else is gonna make fun of
+- [33:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1986s) me I refuse to have that happen to ever
+- [33:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1989s) again it happened to me on my first
+- [33:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1991s) radio interview
+- [33:12](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1992s) I think the DJ called me up and said
+- [33:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1995s) you're horrible you need to learn how to
+- [33:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=1997s) talk that doesn't go away but I thought
+- [33:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2000s) this is the greatest lesson that ever
+- [33:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2001s) happened to because never again well
+- [33:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2003s) that happened to me again I will know my
+- [33:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2005s) subject I will know how to interview
+- [33:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2006s) I'll know how to know my bullets what I
+- [33:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2009s) want to talk about I cared too much
+- [33:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2012s) about what other people thought of me I
+- [33:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2013s) don't care anymore what matters but I
+- [33:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2015s) think thoughts become things they really
+- [33:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2018s) do but again I'm gonna say this again
+- [33:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2021s) provide the people the places of the
+- [33:43](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2023s) situation you know when you go in if you
+- [33:45](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2025s) trust God universe whatever you want to
+- [33:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2026s) call it that out of the world out there
+- [33:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2027s) provide the people the people always
+- [33:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2029s) show up the editor showed up provide the
+- [33:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2031s) places la showed up Palm Springs showed
+- [33:54](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2034s) up and the situation's I can't tell you
+- [33:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2037s) how many numerous situations have showed
+- [33:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2038s) up in my life like Here I am today a
+- [34:00](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2040s) situation presented itself believe in
+- [34:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2043s) yourself
+- [34:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2044s) we have obstacles we have challenges we
+- [34:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2046s) have all those things we have money woes
+- [34:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2048s) and issues and fears but guess what else
+- [34:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2050s) good people show up I was broke one time
+- [34:13](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2053s) I had was homeless had a bathrobe a
+- [34:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2057s) slipper and a cat in a vase and two
+- [34:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2060s) people Mario's to see who showed up in
+- [34:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2061s) my life and helped me I had a landlord
+- [34:24](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2064s) named Chuck who gave me three months
+- [34:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2065s) free of rent until I got on my feet but
+- [34:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2068s) I'll never forget that night I walked
+- [34:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2069s) away in a bathrobe a slipper a cat and a
+- [34:33](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2073s) vase with nowhere to go and no insurance
+- [34:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2076s) Ground Zero there are things that happen
+- [34:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2079s) in life they get you going you know if I
+- [34:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2082s) could survive death not once but twice
+- [34:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2086s) and Here I am I can still see I can
+- [34:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2090s) still walk if there's breath of me I'll
+- [34:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2091s) do something good
+- [34:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2096s) people ask me though this is a question
+- [34:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2099s) I get asked all the time you know are we
+- [35:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2101s) in the end days the Bible says the only
+- [35:04](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2104s) good prophecy is the one that doesn't
+- [35:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2105s) happen and I think why near-death
+- [35:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2108s) experiences are coming back many of us
+- [35:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2110s) are coming back with the same message
+- [35:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2111s) love kindness and compassion because our
+- [35:15](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2115s) society has been taken to the lowest
+- [35:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2117s) level possible and people humanity want
+- [35:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2120s) answers and if you look at our leaders
+- [35:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2123s) our politicians today you look at our
+- [35:25](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2125s) world order everything's falling apart
+- [35:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2128s) why because it needs to fall together
+- [35:29](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2129s) and so our job is it said what I'm doing
+- [35:35](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2135s) here is to share a message of truth and
+- [35:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2137s) if those days are gonna happen guess
+- [35:39](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2139s) what I'm gonna be the first person on
+- [35:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2141s) that line helping people our jobs to
+- [35:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2144s) show up and be good people what I
+- [35:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2146s) learned on the other side there is no
+- [35:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2148s) gay there is no black there is no Muslim
+- [35:50](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2150s) there is no Christian there is no
+- [35:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2152s) wealthy there is no poor there is spirit
+- [35:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2156s) all those categories that we've been
+- [35:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2159s) taught for century after century that's
+- [36:02](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2162s) not what you see on the other side what
+- [36:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2163s) you see on the other side is spirit what
+- [36:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2165s) you feel is the essence of love that's
+- [36:08](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2168s) it that's as simple as I can explain it
+- [36:10](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2170s) and what I learned when I came back with
+- [36:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2174s) those people and those leaders in those
+- [36:17](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2177s) those who abuse power are the ones who
+- [36:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2180s) divide us by putting us in these
+- [36:21](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2181s) categories and that's so far into my
+- [36:23](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2183s) consciousness to this day because again
+- [36:26](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2186s) that is not what you see on the other
+- [36:28](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2188s) side it's a very simple formula love
+- [36:31](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2191s) kindness and unity we're here to help
+- [36:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2194s) we're not here to destroy but we do it
+- [36:37](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2197s) we're not here to be angry but we're
+- [36:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2198s) always angry and we have become so
+- [36:41](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2201s) immune if you will or desensitized that
+- [36:46](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2206s) it's me myself and I world my job my
+- [36:48](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2208s) money my relationship my life my career
+- [36:51](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2211s) and we've kind of lost the togetherness
+- [36:55](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2215s) you know what if you really have to look
+- [36:57](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2217s) at it it's not the world that's screwed
+- [36:59](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2219s) up it's the leaders that are screwed up
+- [37:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2221s) basically when you what I'm travel
+- [37:03](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2223s) around the world people are really good
+- [37:05](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2225s) people
+- [37:06](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2226s) they really are it's those people in
+- [37:09](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2229s) power who screw everything up because
+- [37:11](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2231s) they get greedy and they're not really
+- [37:14](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2234s) living the values that they say they're
+- [37:16](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2236s) living they're kind of hypocritical so
+- [37:18](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2238s) we know that now and they're not gonna
+- [37:20](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2240s) help us so who's gonna help us you and I
+- [37:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2242s) and we start with self first how can I
+- [37:27](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2247s) contribute to the shift of kindness to
+- [37:30](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2250s) humanity so out there how may I be of
+- [37:32](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2252s) service every day how may I be of
+- [37:34](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2254s) service to the earth that's my mantra
+- [37:36](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2256s) that's it I don't ask for the money I
+- [37:38](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2258s) don't ask for the job I don't ask for
+- [37:40](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2260s) the you know any of that stuff I just
+- [37:42](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2262s) how may I be of service that's cosmic
+- [37:44](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2264s) maturity that's what we're looking for
+- [37:47](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2267s) and if we show up every day in faith and
+- [37:49](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2269s) we show up with the blueprint you think
+- [37:52](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2272s) about if you're building a house you
+- [37:53](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2273s) just put the windows up and then put the
+- [37:56](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2276s) chimney up put the foundation up later
+- [37:58](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2278s) there is a system that works find your
+- [38:01](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2281s) system that works for you and build it
+- [38:22](https://www.youtube.com/watch?v=5XrA79_T_R0&t=2302s) you

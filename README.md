@@ -1,6 +1,8 @@
-# NDE Vault Project
+# Paradigma de confianza y creatividad — Vault
 
-Proyecto para construir un vault Markdown/Obsidian vivo sobre experiencias cercanas a la muerte (NDEs/ECM), con transcripciones, casos, conceptos dinámicos, patrones, rutas de exploración y futuro chat con referencias al corpus.
+Proyecto para construir un vault Markdown/Obsidian vivo sobre el paso del paradigma de miedo/desconfianza/soledad hacia un paradigma de creatividad, confianza, paz, cuidado y universo/Dios confiable.
+
+Las experiencias cercanas a la muerte (NDEs/ECM) son una fuente privilegiada del corpus, pero ya no son el límite: también pueden incorporarse videos, documentos, entrevistas, libros o charlas no-ECM si aportan evidencia trazable al norte vivencial.
 
 Repositorio público: <https://github.com/jpsala/nde-vault>
 
@@ -8,8 +10,8 @@ Repositorio público: <https://github.com/jpsala/nde-vault>
 
 - El vault Markdown será la fuente canónica.
 - Obsidian será la primera interfaz de exploración y curación.
-- Cada video se convertirá en un caso trazable.
-- Cada concepto del nuevo paradigma vivirá en una nota propia.
+- Cada fuente relevante —ECM o no-ECM— se registrará de forma trazable.
+- Cada concepto del nuevo paradigma vivirá en una nota propia con prioridad según su relación con el norte vivencial.
 - Las notas de concepto acumularán evidencia de múltiples casos con citas y timestamps.
 - Las secciones generadas automáticamente estarán delimitadas con bloques `AUTO`.
 - El futuro chat deberá responder desde el corpus con referencias.
@@ -35,13 +37,13 @@ Ver `docs/project-os.md`, `docs/workflow-url-a-caso.md`, `docs/transcription-pol
 
 ## Cómo empezar ahora
 
-Por ahora trabajamos sin interfaz propia. El usuario puede pasar una URL de YouTube por chat:
+Por ahora trabajamos sin interfaz propia. El usuario puede pasar una URL o documento por chat:
 
 ```txt
-Procesá esta NDE: https://www.youtube.com/watch?v=...
+Procesá esta fuente: https://...
 ```
 
-El agente debe seguir el workflow documentado, crear/actualizar Markdown en el vault y devolver un resumen con conceptos, citas y decisiones pendientes.
+El agente debe seguir el workflow documentado, crear/actualizar Markdown en el vault y devolver un resumen con conceptos, citas y decisiones pendientes. Si la fuente no es NDE/ECM, debe marcarse explícitamente como tal y justificar su relación con creatividad/confianza/manifestación/creencias/miedo/cuidado.
 
 ## Credenciales
 

@@ -2,6 +2,20 @@
 
 Video: [The near death experience of Dr. Mary Helen Hensley](https://www.youtube.com/watch?v=6GsWknK5r-8)
 
+## Tarjeta visual
+
+[![Thumbnail del video](media/video-thumbnail.jpg)](https://www.youtube.com/watch?v=6GsWknK5r-8)
+
+- Video: [The near death experience of Dr. Mary Helen Hensley](https://www.youtube.com/watch?v=6GsWknK5r-8)
+- Canal/autor del video: [Anthony Chene production](https://www.youtube.com/c/AnthonyCheneproduction)
+
+[![Foto del experienciador/a](media/experiencer-photo.jpg)](https://www.maryhelenhensley.com/)
+
+- Experienciador/a: [Dr. Mary Helen Hensley](https://www.maryhelenhensley.com/)
+- Fuente de la imagen: Mary Helen Hensley author/about page
+- Tarjeta completa: [[source-card]]
+
+
 ## Capas de transcripción
 
 - `transcript_youtube_raw.json` / `transcript_youtube_raw.md`  
