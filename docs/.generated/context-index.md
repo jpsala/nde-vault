@@ -2,7 +2,7 @@
 
 Generated cache. Do not edit by hand.
 
-Generated: 2026-06-24T22:34:49.251Z
+Generated: 2026-07-11T03:10:05.252Z
 
 ## Topics
 
@@ -44,8 +44,7 @@ Generated: 2026-06-24T22:34:49.251Z
 
 ## Pi Resources
 
-- Prompts: aos-adopt-os, aos-align-os-project, aos-cerrar, aos-checkpoint, aos-continuar-sesion, aos-fanout, aos-gol, aos-guardar-sesion, aos-help, aos-init-os, aos-nueva-sesion-con-gol, aos-nueva-sesion, aos-orquestar, aos-perfect-os, aos-realinear, aos-sigamos, aos-siguiente, aos-update-os
-- Extensions: aos-checkpoint-nudge.ts, aos-tools.ts
+- Prompts: aos-continuar-sesion, aos-gol, aos-nueva-sesion-con-gol, aos-nueva-sesion, aos-siguiente
 - Guidance: [pi-agentic-os](../topics/pi-agentic-os.md)
 
 ## Aliases
