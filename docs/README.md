@@ -34,6 +34,6 @@ Evitar leer transcripciones largas, `.obsidian/plugins/`, `.tmp/`, secretos o va
 
 - `docs/topics/`: entradas recuperables por tema.
 - `docs/tracks/`: trabajos vivos retomables.
-- `docs/skills/`: skills locales portables, si se habilitan en un harness compatible.
+- `docs/skills/`: skill local `aos-gol-lite`; las skills AOS portables viven en `C:/dev/os/docs/skills/`.
 - `vault/`: fuente canónica de conocimiento sobre confianza/creatividad, con NDE/ECM como fuente privilegiada pero no exclusiva.
 - `scripts/`: automatizaciones locales.

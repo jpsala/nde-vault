@@ -1,18 +1,11 @@
-# Skills locales
+# Skill local
 
-Fuente local de skills portables para harnesses compatibles. El adapter `.agents` puede apuntar a esta carpeta si se habilita discovery; por defecto puede estar ausente.
+`aos-gol-lite/` es la única skill específica de este repo. El adapter `.agents/skills` se mantiene como junction estable a esta carpeta para que el harness la descubra.
 
-## Skills incluidas
+## Skills AOS portables
 
-- `aos-help/`: mostrar comandos AOS útiles.
-- `aos-guardar-sesion/`: persistir valor durable en docs.
-- `aos-sigamos/`: continuar en la sesión actual.
-- `aos-gol-lite/`: ejecutar un lote chico verificable sin `/until-done`.
-- `aos-perfect-os/`: optimizar la capa agentica local.
-- `aos-realinear-os/`: auditar/reparar drift de contexto local.
-- `aos-init-os/`, `aos-adopt-os/`, `aos-update-os/`: operaciones AOS bajo demanda.
-- `aos-orquestar/`, `aos-fanout/`: fan-out controlado cuando el harness lo soporte.
+Las skills AOS portables, incluido `aos-orquestar` con su prompt de worker y patrón de un worker por repo, viven en la fuente global AOS: C:/dev/os/docs/skills. Usar esa ruta, no una copia local.
 
 ## Regla
 
-Las instrucciones durables deben vivir en la carpeta docs; las skills son entrada operativa fina, no memoria paralela.
+Las instrucciones durables del vault viven en la documentación del repo; esta skill es una entrada operativa fina, no memoria paralela.

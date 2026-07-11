@@ -8,7 +8,6 @@ triggers:
   - slash commands
   - /aos-sync
   - /aos-guardar-sesion
-  - /aos-nueva-sesion
   - /aos-gol
   - /aos-orquestar
   - /aos-fanout
@@ -16,6 +15,10 @@ triggers:
   - computer use
   - cua-driver
   - background computer use
+  - web research
+  - internet
+  - instalar paquetes
+  - instalar cli
 primary_refs:
   - .pi/prompts/
   - .pi/extensions/aos-tools.ts
@@ -29,12 +32,21 @@ primary_refs:
 
 Este proyecto incluye el adapter Pi porque JP opera sus repos desde Pi y los comandos conversacionales/slash son parte del valor practico de AOS.
 
+## Web, Internet E Instalaciones
+
+- Usar web/internet libremente por defecto cuando conocimiento externo o cambiante evite adivinar: documentacion oficial, changelogs/releases, issues/source, metadata de paquetes, errores, APIs, ejemplos y comparativas.
+- Si evidencia online contradice el repo local, docs del proyecto o comportamiento observado, pausar y consultar a JP antes de decidir; presentar ambas evidencias con fuentes y el impacto practico.
+- No enviar secretos, `.env`, codigo privado sensible, datos personales ni credenciales a servicios externos.
+- Priorizar fuentes oficiales y citar fuentes cuando afecten decisiones tecnicas.
+- Antes de instalar dependencias, CLIs globales, paquetes de sistema, herramientas de package-manager o binarios/scripts remotos, pedir autorizacion explicita con comando exacto, alcance, motivo, riesgos, alternativa, cambios esperados y rollback.
+- Tratar `curl | sh`, binarios remotos y scripts de instalacion no auditados como alto riesgo; preferir package managers, checksums, docs oficiales o pasos inspeccionables.
+
 ## Regla local
 
 - `.pi/` viaja por defecto en repos de JP salvo razon explicita para omitirlo.
 - No contiene secretos; es un shim fino sobre docs/scripts locales.
-- `docs/skills/` no aparece como slash por si solo cuando el discovery global esta apagado; los `/aos-*` visibles vienen de `.pi/prompts/` y `.pi/extensions/`.
-- Si se agregan o cambian prompts/extensiones, correr `/reload` en Pi y luego `/aos-sync`.
+- `docs/skills/` conserva solo `aos-gol-lite`; `.agents/skills` debe mantenerse como junction estable para descubrirla. Las skills AOS portables se resuelven desde `C:/dev/os/docs/skills/`; los `/aos-*` visibles vienen de `.pi/prompts/`, `.pi/extensions/` y/o skills.
+- Si se agregan o cambian prompts/extensiones/skills, correr `/reload` en Pi y luego `/aos-sync`.
 
 ## Comandos clave
 
@@ -42,21 +54,37 @@ Este proyecto incluye el adapter Pi porque JP opera sus repos desde Pi y los com
 | --- | --- |
 | `/aos-help` | Ver comandos AOS locales. |
 | `/aos-guardar-sesion` | Persistir valor durable en docs sin transcript. |
-| `/aos-nueva-sesion` | Guardar y abrir una sesion limpia con handoff. |
-| `/aos-continuar-sesion` | Alias legado de `/aos-nueva-sesion`; tambien guarda y abre sesion. |
-| `/aos-nueva-sesion-con-gol` | Guardar, abrir sesion limpia y arrancar con lote chico. |
-| `/aos-continuar-con-gol` / `/aos-siguiente` | Aliases de `/aos-nueva-sesion-con-gol`. |
 | `/aos-sync` | Regenerar index/audit y revisar skills link. |
 | `/aos-status audit` | Ver estado operativo y audit. |
+| `/aos-continuar [objetivo]` | Abrir una sesión nueva desde docs vivos; `--preview` permite revisar antes de enviar. |
+| `/aos-plan-implementar` | Planificar/ejecutar eligiendo un solo motor principal. |
 | `/aos-gol` | Preparar un `/until-done` acotado cuando se quiera loop revisable. |
 | `/aos-orquestar` / `/aos-fanout` | Usar subagentes/threads cuando aporte valor real. |
+| `/aos-fleet-update` | Para fleet AOS, lanzarlo desde `C:/dev/os`; usa `pi_long_task`, no `dgoal`. |
 
 ## Checks
 
 ```powershell
 bun scripts/context-index.ts
 bun scripts/agent-context-audit.ts
+powershell -ExecutionPolicy Bypass -File scripts/ensure-skills-link.ps1
 ```
+
+## Routing Pi
+
+- Para trabajos medianos/grandes, elegir un motor principal con `/aos-plan-implementar` y documentar el routing si importa.
+- `advisor()` queda reservado para arquitectura/storage/prod/security, decisiones `DECISIONS.md`-worthy o loops largos; no usarlo para orientación barata, checks ni pasos chicos de un playbook decidido.
+- Para fleet updates AOS usar `pi_long_task`/`/aos-fleet-update` desde `C:/dev/os`, no `dgoal`.
+- `pi-dynamic-workflows` es solo piloto opt-in con trigger seguro; no reemplaza por defecto a `taskflow`.
+
+Routing GPT-5.6: Sol medium para Pi normal/plan compacto; Sol high para
+planificacion, arquitectura, advisor y conformidad; Luna medium para mecanica
+barata; Luna xhigh para implementacion background acotada, con retry Luna max;
+Terra high para implementacion interactiva sensible a latencia; Terra max para
+alta garantia, validado por Sol xhigh. Tests, conformidad y riesgo prevalecen
+sobre costo. Los cambios de settings requieren reload o sesion nueva cuando
+aplique.
+
 ## Computer Use Local / Background
 
 Usar computer use solo cuando APIs, tests o browser/DOM no alcancen para validar una UI real. No convertirlo en requisito duro del repo: la infraestructura global de JP vive en `C:\dev\infra`; hoy incluye Cua Driver global via Pi MCP `cua-driver` en modo `eager`/persistente (tras `/reload` o reinicio), y puede incluir browser remoto o VM segun la maquina.

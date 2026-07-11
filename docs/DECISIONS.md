@@ -2,6 +2,72 @@
 
 Registro de decisiones durables del vault NDE/ECM.
 
+## 2026-06-29 — Mantener backlog de propuestas y rechequearlo con nuevos videos
+
+Decisión: las propuestas en observación no deben forzarse a concepto nuevo de inmediato. Pueden quedar guardadas como backlog conceptual y se rechequearán al procesar nuevos videos/fuentes para decidir si se absorben en conceptos existentes, se acumula evidencia o pasan a propuesta de concepto aprobado.
+
+Motivo: el usuario prefiere conservar las sugerencias útiles y dejar que el corpus nuevo determine si merecen nota propia o integración en conceptos existentes.
+
+Afecta: `docs/tracks/rechequeo-propuestas-observacion-2026-06-29.md`, tracks conceptuales por caso, respuestas al usuario tras nuevos videos y revisión periódica de ontología.
+
+Guardrail: no crear conceptos definitivos desde el backlog sin aprobación explícita. Al presentar propuestas al usuario, mantener listas numeradas para facilitar referencia por número.
+
+## 2026-06-29 — Numerar propuestas nuevas en observación al responder
+
+Decisión: cuando el agente devuelva al usuario conceptos nuevos en observación/propuestas, debe presentarlos siempre como lista numerada estable (`1.`, `2.`, `3.`...).
+
+Motivo: el usuario quiere poder aprobar, rechazar o comentar propuestas usando solo los números.
+
+Afecta: respuestas finales tras procesar videos/fuentes, `docs/workflow-url-a-caso.md`, `docs/concept-lifecycle.md` y tracks conceptuales cuando se preparen listas conversacionales.
+
+Guardrail: conservar los mismos números mientras se siga conversando sobre esa misma lista; si se crea una lista nueva o se reagrupan propuestas, dejar claro que la numeración fue regenerada.
+
+## 2026-06-29 — Nuevos conceptos aprobados desde Caso 0011 John Paul Martinez
+
+Decisión: crear como conceptos aprobados `estado-intermedio-de-oscuridad-o-experiencia-infernal`, `perdon-como-liberacion-y-sanacion`, `llamado-como-reorientacion-de-vida` y `dios-envia-personas-y-palabras`.
+
+Motivo: tras procesar el Caso 0011, el usuario aprobó implementar las sugerencias conceptuales del agente. Estos conceptos capturan cuatro patrones importantes: oscuridad/advertencia con guardrails contra dogmatismo de miedo; perdón como sanación del corazón/mente; llamado como reorientación de vida hacia servicio; y cuidado divino/universal mediado por personas, palabras, lugares y situaciones oportunas.
+
+Afecta: `vault/02-conceptos/estado-intermedio-de-oscuridad-o-experiencia-infernal.md`, `vault/02-conceptos/perdon-como-liberacion-y-sanacion.md`, `vault/02-conceptos/llamado-como-reorientacion-de-vida.md`, `vault/02-conceptos/dios-envia-personas-y-palabras.md`, `vault/01-casos/caso-0011-john-paul-martinez.md`, `docs/tracks/conceptos-caso-0011-john-paul-martinez.md`, además de índices/rutas/prioridades.
+
+Casos/evidencia: Caso 0011 John Paul Martinez — “outer darkness” y gritos 08:43–10:02; oración/perdón/sanación 24:26–27:55; “but still I called you” 25:39; “God will send something our way” 33:27. Evidencia comparativa: Landon Dennis para estado intermedio/oraciones como luz; Tricia Barker para culpa infantil lavada por amor; Peter Anthony para universo que provee personas/lugares/situaciones; Billy Garaffa para misión y personas oportunas en emergencia.
+
+Guardrail: no dogmatizar experiencias infernales ni usar religión/oración/perdón como sustituto de ayuda médica, psicológica, comunitaria, legal o reparación. Mantener lenguaje testimonial y diferenciar fenómeno, interpretación y doctrina.
+
+## 2026-06-29 — Nuevos conceptos aprobados desde Caso 0010 Billy Garaffa
+
+Decisión: crear como conceptos aprobados `amor-como-nucleo-simple-de-la-vida`, `oracion-como-linea-de-cuidado`, `jesus-como-ancla`, `teologia-subordinada-al-amor` y `olor-sabor-y-sentidos-espirituales`.
+
+Motivo: tras procesar el Caso 0010, el usuario aprobó implementar las propuestas surgidas del análisis. Los primeros cuatro conceptos son directamente relevantes para el norte confianza/creatividad: amor como centro, oración como cuidado, Jesús cercano/ancla y creencias religiosas subordinadas al amor. `olor-sabor-y-sentidos-espirituales` se aprueba como concepto fenomenológico de soporte, con menor prioridad.
+
+Afecta: `vault/02-conceptos/amor-como-nucleo-simple-de-la-vida.md`, `vault/02-conceptos/oracion-como-linea-de-cuidado.md`, `vault/02-conceptos/jesus-como-ancla.md`, `vault/02-conceptos/teologia-subordinada-al-amor.md`, `vault/02-conceptos/olor-sabor-y-sentidos-espirituales.md`, `vault/01-casos/caso-0010-billy-garaffa.md`, `docs/tracks/conceptos-caso-0010-billy-garaffa.md`, `vault/04-paradigma/indice-del-paradigma.md`, `vault/07-rutas/vivir-en-confianza-y-creatividad.md`, `docs/topics/concept-priorities.md`.
+
+Casos/evidencia: Caso 0010 Billy Garaffa — amor a Dios/prójimo bajo el cual cae todo 06:31 y 22:32; Jesús siempre presente/guiando 14:35–15:54; oración/invocación de Jesús 13:23 y 23:54; sentidos espirituales de oler/saborear a Dios y olor de muerte 07:46 y 29:13. Caso 0008 Landon Dennis — oración como línea directa 14:54, oraciones como luz 21:01, “My anchor is Jesus Christ” 44:10, Dios no limitado al nombre usado 14:21.
+
+Guardrail: no convertir estos conceptos en dogma religioso universal ni en sustituto de acción médica/psicológica/comunitaria. Mantener lenguaje testimonial y distinguir casos cristianos de la amplitud del corpus. `jesus-como-hermano` queda como posible subtipo/renombre futuro; `olor-sabor-y-sentidos-espirituales` queda como soporte fenomenológico inicial.
+
+## 2026-06-29 — Referenciar automáticamente conceptos existentes cuando el encaje es seguro
+
+Decisión: para cada video/fuente nueva, el agente debe revisar los conceptos ya aprobados y, cuando tenga seguridad alta de que el caso/fragmento se ajusta, crear o actualizar la referencia entre el video/caso y esos conceptos sin pedir aprobación previa.
+
+Motivo: el usuario propuso un flujo más eficiente: los conceptos existentes se alimentan automáticamente con evidencia clara; la conversación humana se reserva para conceptos nuevos o conceptos donde el agente no esté seguro.
+
+Afecta: `docs/workflow-url-a-caso.md`, `docs/concept-lifecycle.md`, tracks por caso y bloques `AUTO` de `vault/02-conceptos/`.
+
+Guardrail: no crear conceptos definitivos nuevos, cambiar definiciones manuales, renombrar, fusionar o dividir conceptos sin aprobación explícita. Si el encaje es parcial, ambiguo, sensible o requiere reinterpretar el concepto, dejarlo en observación/propuesta con evidencia y preguntar por conversación.
+
+## 2026-06-26 — Aceptación como no-resistencia aprobada
+
+Decisión: crear `aceptacion-como-no-resistencia` como concepto aprobado del paradigma.
+
+Motivo: el usuario pidió trabajar este eje y aprobó convertirlo en concepto definitivo. La fuente no-ECM de Daniel Shai aporta el lenguaje más explícito —aceptación/no-lucha, “freedom within”, no escapar de la experiencia— y Jane Thompson aporta el ancla ECM más directa: “Fear is resistance and fear is glue and there is no flow there.” El concepto funciona como puente práctico entre confianza, miedo, manifestación, salud y creencias.
+
+Afecta: `vault/02-conceptos/aceptacion-como-no-resistencia.md`, `vault/05-preguntas/cambio-conceptual-20260626-aceptacion-como-no-resistencia.md`, `docs/tracks/conceptos-unidad-0009-daniel-shai-liberacion.md`, notas relacionadas de confianza, miedo, manifestación, salud y creencias.
+
+Casos/evidencia: Unidad 0009 Daniel Shai — “Acceptance makes nothing into a problem” 17:04; “freedom within” 35:46. Caso 0006 Jane Thompson — “Fear is resistance and fear is glue...” 35:38; gratitud/flujo 37:55. Caso 0003 Anita Moorjani — rendición a Fuente/Dios sin entregar poder personal 01:15:04. Caso 0005 Peter Anthony — “show up in faith not in fear” 27:42 y confiar en que el universo provee personas/lugares/situaciones 31:47.
+
+Guardrail: no confundir aceptación con resignación, pasividad, sometimiento, bypass espiritual, fatalismo ni abandono de límites, ayuda médica/psicológica o acción responsable. Separar evidencia ECM de enseñanza no-ECM.
+
 ## 2026-06-24 — Dios como presencia cercana y no punitiva aprobado
 
 Decisión: crear `dios-como-presencia-cercana-y-no-punitiva` como concepto aprobado del paradigma.
@@ -237,4 +303,24 @@ Motivo: el usuario explicitó que, a partir de ahora, ese norte es más importan
 Afecta: `AGENTS.md`, `README.md`, `docs/PROJECT.md`, `docs/project-os.md`, `docs/topics/nde-vault.md`, `docs/topics/paradigma-confianza-creatividad.md`, `docs/workflow-url-a-caso.md`, `vault/99-templates/caso.md`.
 
 Regla operativa: para fuentes no-ECM registrar `tipo_fuente`, `es_ecm: false` y `relacion_norte`; no forzarlas como testimonios NDE. Mantener trazabilidad, citas/timestamps/ubicaciones y separación entre fuente, patrón e interpretación.
+
+### 2026-07-04 - Usar internet libremente y pedir permiso antes de instalar
+
+Estado: accepted
+
+Decision: los agentes deben usar web/internet libremente por defecto cuando conocimiento externo o cambiante evite adivinar, priorizando fuentes oficiales y sin enviar secretos, `.env`, codigo privado sensible, datos personales ni credenciales. Si evidencia online contradice el repo local, docs del proyecto o comportamiento observado, deben consultar a JP antes de decidir y presentar ambas evidencias con fuentes e impacto. Para instalar dependencias, CLIs, paquetes de sistema, herramientas auxiliares o binarios/scripts remotos, deben pedir autorizacion explicita con comando exacto, alcance, motivo, riesgos, alternativas, cambios esperados y rollback.
+
+Motivo: JP quiere recuperar poder agente usando conocimiento disponible en internet en vez de inferir de memoria, pero conservar control humano sobre cambios de entorno/instalaciones y sobre conflictos entre fuentes externas y realidad local.
+
+Proximo paso: aplicar la politica desde `AGENTS.md` y `docs/topics/pi-agentic-os.md`.
+
+### 2026-07-04 - Simplificar continuidad Pi a `/aos-continuar` post-guardado
+
+Estado: accepted
+
+Decision: AOS deja un unico comando Pi para abrir una sesion/thread nuevo: `/aos-continuar [objetivo]`. JP se hace cargo de correr `/aos-guardar-sesion` primero cuando haya valor durable. `/aos-continuar` no guarda, no compacta, no ejecuta `gol` y no duplica docs: crea una sesion nueva con `ctx.newSession()` y le pasa un prompt de continuidad que referencia `docs/.generated/context-index.md`, `docs/WORKING_MEMORY.md`, `docs/TOPICS.md`, topic/track/spec puntual y estado git. `--preview` abre la sesion nueva con el prompt en el editor sin enviarlo automaticamente.
+
+Motivo: los comandos previos (`/aos-nueva-sesion`, `/aos-continuar-sesion`, `/aos-nueva-sesion-con-gol`, `/aos-continuar-con-gol`, `/aos-siguiente`) mezclaban guardado, handoff y ejecucion, generando ambiguedad. JP quiere revisar/controlar el guardado por separado y tener una continuidad confiable basada en docs vivos.
+
+Proximo paso: usar `/aos-continuar` despues de `/aos-guardar-sesion` y ejecutar `/reload` tras actualizar el adapter Pi.
 
